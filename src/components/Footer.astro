@@ -3,7 +3,12 @@ const today = new Date();
 ---
 
 <footer>
-	&copy; {today.getFullYear()} Your name here. All rights reserved.
+	<div class="info">
+		&copy; 1999 - {today.getFullYear()} INeedCoffee is a project by Michael Allen Smith. INeedCoffee.com
+		does not track users or collect any personal information. The code for this site is freely available
+		on GitHub. Use however you like.
+	</div>
+
 	<div class="social-links">
 		<a href="https://m.webtoo.ls/@astro" target="_blank">
 			<span class="sr-only">Follow Astro on Mastodon</span>
@@ -46,7 +51,14 @@ const today = new Date();
 		color: rgb(var(--gray));
 		text-align: center;
 	}
-	.social-links {
+
+	.info {
+		max-width: 700px;
+		margin: auto;
+		padding: 1em;
+		color: rgb(var(--gray-dark));
+	}
+	.social-links. {
 		display: flex;
 		justify-content: center;
 		gap: 1em;

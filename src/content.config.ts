@@ -6,13 +6,32 @@ const posts = defineCollection({
 	loader: glob({ base: "./src/content/posts", pattern: "**/*.{md,mdx}" }),
 	// Type-check frontmatter using a schema
 	schema: z.object({
+		id: z.string(),
 		title: z.string(),
-		description: z.string(),
+		author: z.string(),
+		authorSlug: z.string(),
+		category: z.string(),
+		categorySlug: z.string(),
+		description: z.string().optional(),
 		// Transform string to Date object
-		pubDate: z.coerce.date(),
+		publishedDate: z.coerce.date(),
 		updatedDate: z.coerce.date().optional(),
 		heroImage: z.string().optional(),
 	}),
 });
 
 export const collections = { posts };
+
+// id: "aeropress-coffee-maker-tutorial";
+// title: "AeroPress Coffee Maker Tutorial";
+// status: "published";
+// author: "Ryan Jacobs";
+// description: "desc";
+// authorSlug: "ryan-jacobs";
+// titleImage: "aeropress-coffee-maker-tutorial.jpg";
+// categorySlug: "brewing-coffee";
+// category: "Brewing Coffee";
+// publishedDate: "2017-07-10T07:00:00";
+// pubDate: "2017-07-10T07:00:00";
+// updatedAt: "2025-03-23T17:02:10";
+// wordpressId: 363;
