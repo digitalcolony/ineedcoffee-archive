@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Bill Giduz"
+authorSlug: "bill-giduz"
 x: ""
 facebook: ""
 instagram: ""

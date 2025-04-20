@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Damaa Bell"
+authorSlug: "damaa-bell"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Jym Annear"
+authorSlug: "jym-annear"
 x: ""
 facebook: ""
 instagram: ""

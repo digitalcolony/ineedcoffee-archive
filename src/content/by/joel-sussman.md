@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Joel Sussman"
+authorSlug: "joel-sussman"
 x: ""
 facebook: ""
 instagram: ""

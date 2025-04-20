@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Matt Evans"
+authorSlug: "matt-evans"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Sue Zeger"
+authorSlug: "sue-zeger"
 x: ""
 facebook: ""
 instagram: ""

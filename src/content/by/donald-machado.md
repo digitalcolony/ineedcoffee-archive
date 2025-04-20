@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Donald Machado"
+authorSlug: "donald-machado"
 x: ""
 facebook: ""
 instagram: ""

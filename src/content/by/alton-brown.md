@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Alton Brown"
+authorSlug: "alton-brown"
 x: ""
 facebook: ""
 instagram: ""

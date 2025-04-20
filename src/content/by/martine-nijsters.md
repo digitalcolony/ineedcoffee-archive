@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Martine Nijsters"
+authorSlug: "martine-nijsters"
 x: ""
 facebook: ""
 instagram: ""

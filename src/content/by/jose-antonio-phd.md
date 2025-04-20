@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Jose Antonio PhD"
+authorSlug: "jose-antonio-phd"
 x: ""
 facebook: ""
 instagram: ""

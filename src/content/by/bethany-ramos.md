@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Bethany Ramos"
+authorSlug: "bethany-ramos"
 x: ""
 facebook: ""
 instagram: ""

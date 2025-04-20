@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Kevin Gilhooly"
+authorSlug: "kevin-gilhooly"
 x: ""
 facebook: ""
 instagram: ""

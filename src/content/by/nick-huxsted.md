@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Nick Huxsted"
+authorSlug: "nick-huxsted"
 x: ""
 facebook: ""
 instagram: ""

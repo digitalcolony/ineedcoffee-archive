@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Ran Nir"
+authorSlug: "ran-nir"
 x: ""
 facebook: ""
 instagram: ""

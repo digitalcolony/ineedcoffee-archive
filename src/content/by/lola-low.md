@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Lola Low"
+authorSlug: "lola-low"
 x: ""
 facebook: ""
 instagram: ""

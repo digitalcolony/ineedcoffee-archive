@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "DeWitt Henderson"
+authorSlug: "dewitt-henderson"
 x: ""
 facebook: ""
 instagram: ""

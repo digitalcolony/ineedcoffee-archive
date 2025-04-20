@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Arthur Montague"
+authorSlug: "arthur-montague"
 x: ""
 facebook: ""
 instagram: ""

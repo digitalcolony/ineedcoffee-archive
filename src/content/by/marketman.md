@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Marketman"
+authorSlug: "marketman"
 x: ""
 facebook: ""
 instagram: ""

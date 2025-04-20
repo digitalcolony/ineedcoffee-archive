@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Barbara Stec"
+authorSlug: "barbara-stec"
 x: ""
 facebook: ""
 instagram: ""

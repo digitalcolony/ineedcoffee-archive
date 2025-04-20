@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Wen Zientek-Sico"
+authorSlug: "wen-zientek-sico"
 x: ""
 facebook: ""
 instagram: ""

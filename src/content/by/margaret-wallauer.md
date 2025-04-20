@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Margaret Wallauer"
+authorSlug: "margaret-wallauer"
 x: ""
 facebook: ""
 instagram: ""

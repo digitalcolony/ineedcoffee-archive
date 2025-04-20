@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Laura K Baker"
+authorSlug: "laura-k-baker"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Mark Prince"
+authorSlug: "mark-prince"
 x: ""
 facebook: ""
 instagram: ""

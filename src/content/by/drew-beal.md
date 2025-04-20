@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Drew Beal"
+authorSlug: "drew-beal"
 x: ""
 facebook: ""
 instagram: ""

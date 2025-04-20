@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Michael J Vaughn"
+authorSlug: "michael-j-vaughn"
 x: ""
 facebook: ""
 instagram: ""

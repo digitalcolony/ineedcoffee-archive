@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Robert Badgett"
+authorSlug: "robert-badgett"
 x: ""
 facebook: ""
 instagram: ""

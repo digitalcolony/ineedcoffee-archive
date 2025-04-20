@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "David Laaneorg"
+authorSlug: "david-laaneorg"
 x: ""
 facebook: ""
 instagram: ""

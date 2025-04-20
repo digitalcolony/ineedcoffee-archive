@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Cid Bus"
+authorSlug: "cid-bus"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Catfish and Aardvark"
+authorSlug: "catfish-and-aardvark"
 x: ""
 facebook: ""
 instagram: ""

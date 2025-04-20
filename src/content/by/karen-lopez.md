@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Karen Lopez"
+authorSlug: "karen-lopez"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Billy Talen"
+authorSlug: "billy-talen"
 x: ""
 facebook: ""
 instagram: ""

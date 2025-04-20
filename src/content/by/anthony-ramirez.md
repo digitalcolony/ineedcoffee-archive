@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Anthony Ramirez"
+authorSlug: "anthony-ramirez"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "David I"
+authorSlug: "david-i"
 x: ""
 facebook: ""
 instagram: ""

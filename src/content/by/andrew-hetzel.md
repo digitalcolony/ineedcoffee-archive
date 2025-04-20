@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Andrew Hetzel"
+authorSlug: "andrew-hetzel"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Java Goddess"
+authorSlug: "java-goddess"
 x: ""
 facebook: ""
 instagram: ""

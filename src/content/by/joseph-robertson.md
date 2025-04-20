@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Joseph Robertson"
+authorSlug: "joseph-robertson"
 x: ""
 facebook: ""
 instagram: ""

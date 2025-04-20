@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Paul Teverow"
+authorSlug: "paul-teverow"
 x: ""
 facebook: ""
 instagram: ""

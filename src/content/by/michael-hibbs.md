@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Michael Hibbs"
+authorSlug: "michael-hibbs"
 x: ""
 facebook: ""
 instagram: ""

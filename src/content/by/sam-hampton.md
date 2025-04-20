@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Sam Hampton"
+authorSlug: "sam-hampton"
 x: ""
 facebook: ""
 instagram: ""

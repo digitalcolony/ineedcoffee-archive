@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Karolos Tsiligirian"
+authorSlug: "karolos-tsiligirian"
 x: ""
 facebook: ""
 instagram: ""

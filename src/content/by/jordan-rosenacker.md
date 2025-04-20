@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Jordan Rosenacker"
+authorSlug: "jordan-rosenacker"
 x: ""
 facebook: ""
 instagram: ""

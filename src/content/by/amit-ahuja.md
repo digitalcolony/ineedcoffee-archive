@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Amit Ahuja"
+authorSlug: "amit-ahuja"
 x: ""
 facebook: ""
 instagram: ""

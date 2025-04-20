@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Angela Kuhns"
+authorSlug: "angela-kuhns"
 x: ""
 facebook: ""
 instagram: ""

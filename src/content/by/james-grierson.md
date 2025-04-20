@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "James Grierson"
+authorSlug: "james-grierson"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Sandi J. Holland"
+authorSlug: "sandi-j-holland"
 x: ""
 facebook: ""
 instagram: ""

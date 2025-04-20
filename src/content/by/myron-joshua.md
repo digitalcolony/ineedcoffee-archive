@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Myron Joshua"
+authorSlug: "myron-joshua"
 x: ""
 facebook: ""
 instagram: ""

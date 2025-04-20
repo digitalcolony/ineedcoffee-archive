@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Ivana Petricevic"
+authorSlug: "ivana-petricevic"
 x: ""
 facebook: ""
 instagram: ""

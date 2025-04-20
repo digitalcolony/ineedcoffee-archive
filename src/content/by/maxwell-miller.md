@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Maxwell Miller"
+authorSlug: "maxwell-miller"
 x: ""
 facebook: ""
 instagram: ""

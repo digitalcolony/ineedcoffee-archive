@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Rena Rogers"
+authorSlug: "rena-rogers"
 x: ""
 facebook: ""
 instagram: ""

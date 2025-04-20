@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Enes Edwards"
+authorSlug: "enes-edwards"
 x: ""
 facebook: ""
 instagram: ""

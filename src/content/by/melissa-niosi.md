@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Melissa Niosi"
+authorSlug: "melissa-niosi"
 x: ""
 facebook: ""
 instagram: ""

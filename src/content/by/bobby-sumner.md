@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Bobby Sumner"
+authorSlug: "bobby-sumner"
 x: ""
 facebook: ""
 instagram: ""

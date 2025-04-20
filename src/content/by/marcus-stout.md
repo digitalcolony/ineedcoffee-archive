@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Marcus Stout"
+authorSlug: "marcus-stout"
 x: ""
 facebook: ""
 instagram: ""

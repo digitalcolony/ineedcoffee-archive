@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Bad Bob"
+authorSlug: "bad-bob"
 x: ""
 facebook: ""
 instagram: ""

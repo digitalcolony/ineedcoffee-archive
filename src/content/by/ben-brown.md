@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Ben Brown"
+authorSlug: "ben-brown"
 x: ""
 facebook: ""
 instagram: ""

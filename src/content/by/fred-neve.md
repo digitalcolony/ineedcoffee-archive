@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Fred Neve"
+authorSlug: "fred-neve"
 x: ""
 facebook: ""
 instagram: ""

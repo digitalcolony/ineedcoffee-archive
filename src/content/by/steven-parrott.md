@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Steven Parrott"
+authorSlug: "steven-parrott"
 x: ""
 facebook: ""
 instagram: ""

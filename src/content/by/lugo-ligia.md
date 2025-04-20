@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Ligia Lugo"
+authorSlug: "lugo-ligia"
 x: ""
 facebook: ""
 instagram: ""

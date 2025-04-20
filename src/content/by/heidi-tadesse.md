@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Heidi Tadesse"
+authorSlug: "heidi-tadesse"
 x: ""
 facebook: ""
 instagram: ""

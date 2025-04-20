@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Kate Nickel"
+authorSlug: "kate-nickel"
 x: ""
 facebook: ""
 instagram: ""

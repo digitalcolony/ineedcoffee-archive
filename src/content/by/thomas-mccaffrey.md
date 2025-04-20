@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Thomas McCaffrey"
+authorSlug: "thomas-mccaffrey"
 x: ""
 facebook: ""
 instagram: ""

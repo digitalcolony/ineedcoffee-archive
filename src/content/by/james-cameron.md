@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "James Cameron"
+authorSlug: "james-cameron"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Alex Nathanson"
+authorSlug: "alex-nathanson"
 x: ""
 facebook: ""
 instagram: ""

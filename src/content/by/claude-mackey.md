@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Claude Mackey"
+authorSlug: "claude-mackey"
 x: ""
 facebook: ""
 instagram: ""

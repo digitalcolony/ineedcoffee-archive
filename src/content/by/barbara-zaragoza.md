@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Barbara Zaragoza"
+authorSlug: "barbara-zaragoza"
 x: ""
 facebook: ""
 instagram: ""

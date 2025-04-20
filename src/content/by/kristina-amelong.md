@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Kristina Amelong"
+authorSlug: "kristina-amelong"
 x: ""
 facebook: ""
 instagram: ""

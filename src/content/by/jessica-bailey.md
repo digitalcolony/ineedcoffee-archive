@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Jessica Bailey"
+authorSlug: "jessica-bailey"
 x: ""
 facebook: ""
 instagram: ""

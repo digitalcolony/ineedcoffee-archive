@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Alexandra Astakhov"
+authorSlug: "alexandra-astakhov"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Mike Walton"
+authorSlug: "mike-walton"
 x: ""
 facebook: ""
 instagram: ""

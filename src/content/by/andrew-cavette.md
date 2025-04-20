@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Andrew Cavette"
+authorSlug: "andrew-cavette"
 x: ""
 facebook: ""
 instagram: ""

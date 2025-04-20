@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Ken Shenkman"
+authorSlug: "ken-shenkman"
 x: ""
 facebook: ""
 instagram: ""

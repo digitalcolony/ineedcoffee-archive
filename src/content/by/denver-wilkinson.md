@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Denver Wilkinson"
+authorSlug: "denver-wilkinson"
 x: ""
 facebook: ""
 instagram: ""

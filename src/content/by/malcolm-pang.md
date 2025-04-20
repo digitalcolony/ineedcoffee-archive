@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Malcolm Pang"
+authorSlug: "malcolm-pang"
 x: ""
 facebook: ""
 instagram: ""

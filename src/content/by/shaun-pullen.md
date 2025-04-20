@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Shaun Pullen"
+authorSlug: "shaun-pullen"
 x: ""
 facebook: ""
 instagram: ""

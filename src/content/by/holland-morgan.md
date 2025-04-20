@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Holland Morgan"
+authorSlug: "holland-morgan"
 x: ""
 facebook: ""
 instagram: ""

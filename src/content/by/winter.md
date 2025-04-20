@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Winter"
+authorSlug: "winter"
 x: ""
 facebook: ""
 instagram: ""

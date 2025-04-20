@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "H Michael Denton"
+authorSlug: "h-michael-denton"
 x: ""
 facebook: ""
 instagram: ""

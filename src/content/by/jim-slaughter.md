@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Jim Slaughter"
+authorSlug: "jim-slaughter"
 x: ""
 facebook: ""
 instagram: ""

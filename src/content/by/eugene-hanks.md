@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Eugene Hanks"
+authorSlug: "eugene-hanks"
 x: ""
 facebook: ""
 instagram: ""

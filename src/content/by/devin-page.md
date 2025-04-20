@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Devin Page"
+authorSlug: "devin-page"
 x: ""
 facebook: ""
 instagram: ""

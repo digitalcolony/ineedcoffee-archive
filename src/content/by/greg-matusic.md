@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Greg Matusic"
+authorSlug: "greg-matusic"
 x: ""
 facebook: ""
 instagram: ""

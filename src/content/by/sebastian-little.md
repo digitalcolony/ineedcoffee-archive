@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Sebastian Little"
+authorSlug: "sebastian-little"
 x: ""
 facebook: ""
 instagram: ""

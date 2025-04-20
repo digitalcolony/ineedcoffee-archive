@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Raza Imam"
+authorSlug: "raza-imam"
 x: ""
 facebook: ""
 instagram: ""

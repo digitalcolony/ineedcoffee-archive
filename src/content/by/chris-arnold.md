@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Chris Arnold"
+authorSlug: "chris-arnold"
 x: ""
 facebook: ""
 instagram: ""

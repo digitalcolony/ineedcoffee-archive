@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Christopher Allen Samson"
+authorSlug: "christopher-allen-samson"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Steve Leighton"
+authorSlug: "steve-leighton"
 x: ""
 facebook: ""
 instagram: ""

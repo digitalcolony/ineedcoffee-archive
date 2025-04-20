@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Christopher Schaefer"
+authorSlug: "christopher-schaefer"
 x: ""
 facebook: ""
 instagram: ""

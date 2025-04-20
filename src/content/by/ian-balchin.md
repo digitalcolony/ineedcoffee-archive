@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Ian Balchin"
+authorSlug: "ian-balchin"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Florence Rosie Givens"
+authorSlug: "florence-rosie-givens"
 x: ""
 facebook: ""
 instagram: ""

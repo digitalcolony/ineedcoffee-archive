@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Steve Gaythorpe"
+authorSlug: "steve-gaythorpe"
 x: ""
 facebook: ""
 instagram: ""

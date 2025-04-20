@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Derek Hobbs"
+authorSlug: "derek-hobbs"
 x: ""
 facebook: ""
 instagram: ""

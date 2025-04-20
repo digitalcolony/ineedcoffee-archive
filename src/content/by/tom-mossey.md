@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Tom Mossey"
+authorSlug: "tom-mossey"
 x: ""
 facebook: ""
 instagram: ""

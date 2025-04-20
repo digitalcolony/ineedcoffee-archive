@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "CB Miller"
+authorSlug: "cb-miller"
 x: ""
 facebook: ""
 instagram: ""

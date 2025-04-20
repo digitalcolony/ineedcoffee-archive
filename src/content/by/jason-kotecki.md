@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Jason Kotecki"
+authorSlug: "jason-kotecki"
 x: ""
 facebook: ""
 instagram: ""

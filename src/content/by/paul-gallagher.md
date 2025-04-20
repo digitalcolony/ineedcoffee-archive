@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Paul Gallagher"
+authorSlug: "paul-gallagher"
 x: ""
 facebook: ""
 instagram: ""

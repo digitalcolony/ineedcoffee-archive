@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Jacquie Farr"
+authorSlug: "jacquie-farr"
 x: ""
 facebook: ""
 instagram: ""

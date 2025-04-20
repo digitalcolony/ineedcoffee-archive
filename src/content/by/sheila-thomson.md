@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Sheila Thomson"
+authorSlug: "sheila-thomson"
 x: ""
 facebook: ""
 instagram: ""

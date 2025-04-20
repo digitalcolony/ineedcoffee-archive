@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Maria Tindemans"
+authorSlug: "maria-tindemans"
 x: ""
 facebook: ""
 instagram: ""

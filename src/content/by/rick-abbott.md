@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Rick Abbott"
+authorSlug: "rick-abbott"
 x: ""
 facebook: ""
 instagram: ""

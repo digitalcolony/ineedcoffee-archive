@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "David Kilpatrick"
+authorSlug: "david-kilpatrick"
 x: ""
 facebook: ""
 instagram: ""

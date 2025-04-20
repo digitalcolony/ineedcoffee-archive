@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Andreanne Hamel"
+authorSlug: "andreanne-hamel"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "M Elias Keller"
+authorSlug: "m-elias-keller"
 x: ""
 facebook: ""
 instagram: ""

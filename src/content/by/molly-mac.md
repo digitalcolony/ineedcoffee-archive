@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Molly Mac"
+authorSlug: "molly-mac"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Tim Schenck"
+authorSlug: "tim-schenck"
 x: ""
 facebook: ""
 instagram: ""

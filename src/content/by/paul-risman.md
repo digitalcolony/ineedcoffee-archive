@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Paul Risman"
+authorSlug: "paul-risman"
 x: ""
 facebook: ""
 instagram: ""

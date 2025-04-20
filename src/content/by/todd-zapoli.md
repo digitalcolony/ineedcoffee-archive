@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Todd Zapoli"
+authorSlug: "todd-zapoli"
 x: ""
 facebook: ""
 instagram: ""

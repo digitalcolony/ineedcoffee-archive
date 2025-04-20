@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Johnny Ma"
+authorSlug: "johnny-ma"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Ellen Ulken"
+authorSlug: "ellen-ulken"
 x: ""
 facebook: ""
 instagram: ""

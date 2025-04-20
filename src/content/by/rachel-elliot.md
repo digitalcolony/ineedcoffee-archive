@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Rachel Elliot"
+authorSlug: "rachel-elliot"
 x: ""
 facebook: ""
 instagram: ""

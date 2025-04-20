@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Stefanie Spencer"
+authorSlug: "stefanie-spencer"
 x: ""
 facebook: ""
 instagram: ""

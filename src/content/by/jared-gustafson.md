@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Jared Gustafson"
+authorSlug: "jared-gustafson"
 x: ""
 facebook: ""
 instagram: ""

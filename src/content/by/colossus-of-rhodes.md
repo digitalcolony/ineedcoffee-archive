@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Colossus of Rhodes"
+authorSlug: "colossus-of-rhodes"
 x: ""
 facebook: ""
 instagram: ""

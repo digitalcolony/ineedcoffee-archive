@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Chandler Unity"
+authorSlug: "chandler-unity"
 x: ""
 facebook: ""
 instagram: ""

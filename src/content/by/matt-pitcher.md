@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Matt Pitcher"
+authorSlug: "matt-pitcher"
 x: ""
 facebook: ""
 instagram: ""

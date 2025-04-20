@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Phil Jordan"
+authorSlug: "phil-jordan"
 x: ""
 facebook: ""
 instagram: ""

@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Tom Dawkins"
+authorSlug: "tom-dawkins"
 x: ""
 facebook: ""
 instagram: ""

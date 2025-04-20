@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Bernard Schnacke"
+authorSlug: "bernard-schnacke"
 x: ""
 facebook: ""
 instagram: ""

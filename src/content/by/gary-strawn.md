@@ -1,6 +1,6 @@
 ---
-author: "Ryan Jacobs"
-authorSlug: "ryan-jacobs"
+author: "Gary Strawn"
+authorSlug: "gary-strawn"
 x: ""
 facebook: ""
 instagram: ""
