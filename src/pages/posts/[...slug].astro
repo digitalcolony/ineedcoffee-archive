@@ -1,5 +1,5 @@
 ---
-import { getCollection } from "astro:content";
+import { type CollectionEntry, getCollection } from "astro:content";
 
 export async function getStaticPaths() {
 	const posts = await getCollection("posts");
@@ -10,7 +10,7 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const newUrl = `/posts/${post.id}/`;
+const newUrl = `/${post.id}/`;
 ---
 
 <meta http-equiv="refresh" content={`0;url=${newUrl}`} />
