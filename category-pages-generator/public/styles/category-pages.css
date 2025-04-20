@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+.category-header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.category-header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+.category-post-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.post-card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding: 15px;
+    width: 300px;
+    transition: transform 0.2s;
+}
+
+.post-card:hover {
+    transform: scale(1.05);
+}
+
+.post-card h2 {
+    font-size: 1.5em;
+    margin: 0 0 10px;
+}
+
+.post-card p {
+    color: #555;
+}
+
+.post-card a {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+.post-card a:hover {
+    text-decoration: underline;
+}

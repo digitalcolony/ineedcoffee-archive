@@ -1,0 +1,140 @@
+---
+interface Props {
+	author: string;
+	authorSlug: string;
+}
+
+const { author, authorSlug } = Astro.props;
+
+// Dynamic import of the author markdown file
+let authorContent;
+let xUsername;
+
+try {
+	// Using Astro's import.meta.glob to dynamically load the markdown file
+	interface AuthorFile {
+		frontmatter: {
+			x?: string;
+		};
+		Content: any;
+	}
+
+	const authorFiles = import.meta.glob<AuthorFile>("/src/content/by/*.md", {
+		eager: true,
+	});
+	const authorFilePath = `/src/content/by/${authorSlug}.md`;
+
+	if (authorFiles[authorFilePath]) {
+		authorContent = authorFiles[authorFilePath];
+		// Extract X username from frontmatter if available
+		xUsername = authorFiles[authorFilePath].frontmatter?.x;
+	} else {
+		console.error(`Author file not found: ${authorFilePath}`);
+	}
+} catch (error) {
+	console.error(`Error loading author info for ${authorSlug}:`, error);
+}
+---
+
+<div class="author-card">
+	<div class="author-header">
+		<div class="author-title">
+			<h4 class="author-name">
+				{author}
+				{
+					xUsername && (
+						<a
+							href={`https://x.com/${xUsername}`}
+							target="_blank"
+							rel="noopener noreferrer"
+							class="x-link"
+							title={`Follow ${author} on X`}
+						>
+							<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
+								<path
+									fill="currentColor"
+									d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"
+								/>
+							</svg>
+						</a>
+					)
+				}
+			</h4>
+		</div>
+	</div>
+	<div class="author-content">
+		{
+			authorContent ? (
+				<div class="author-description">
+					<authorContent.Content />
+				</div>
+			) : (
+				<p class="author-fallback">Author information not available.</p>
+			)
+		}
+	</div>
+</div>
+
+<style>
+	.author-card {
+		width: 100%;
+		overflow: hidden;
+		margin-bottom: 1.5rem;
+	}
+
+	.author-card:hover {
+		box-shadow: var(--sl-shadow-md);
+	}
+
+	.author-header {
+		display: flex;
+		align-items: center;
+		gap: 1rem;
+	}
+
+	.author-title {
+		flex: 1;
+	}
+
+	.author-name {
+		margin: 0;
+		font-size: var(--sl-text-lg);
+		color: var(--sl-color-white);
+		font-weight: 600;
+		line-height: 1.4;
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.x-link {
+		color: var(--sl-color-text-accent);
+		transition: color 0.2s ease;
+		line-height: 1;
+	}
+
+	.x-link:hover {
+		color: var(--sl-color-text-accent);
+		opacity: 0.8;
+	}
+
+	.author-content {
+		margin-top: 0.25rem;
+		color: var(--sl-color-gray-2);
+		font-size: var(--sl-text-xs);
+	}
+
+	.author-description :global(p:last-child) {
+		margin-bottom: 0;
+	}
+
+	.author-description :global(p) {
+		font-size: var(--sl-text-xs);
+	}
+
+	.author-fallback {
+		font-style: italic;
+		color: var(--sl-color-gray-3);
+		font-size: var(--sl-text-xs);
+	}
+</style>

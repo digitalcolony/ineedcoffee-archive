@@ -1,0 +1,46 @@
+---
+// filepath: src/pages/category/[slug].astro
+import SectionLayout from "../../layouts/SectionLayout.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+	const allPosts = await getCollection("posts");
+
+	// Get unique category slugs from all posts
+	const uniqueCategories = [
+		...new Set(
+			allPosts.flatMap((post) => {
+				if (post.data.categorySlug) return [post.data.categorySlug];
+				return [];
+			})
+		),
+	];
+
+	return uniqueCategories.map((categorySlug) => {
+		// Find the display name for this category slug
+		const categoryDisplayName =
+			allPosts.find((post) => post.data.categorySlug === categorySlug)?.data.category ||
+			categorySlug;
+
+		return {
+			params: { slug: categorySlug },
+			props: {
+				categorySlug,
+				categoryDisplayName,
+			},
+		};
+	});
+}
+
+const { slug } = Astro.params;
+const { categorySlug, categoryDisplayName } = Astro.props;
+
+const allPosts = await getCollection("posts");
+---
+
+<SectionLayout
+	title={`Category: ${categoryDisplayName}`}
+	description={`All posts in the ${categoryDisplayName} category`}
+	posts={allPosts}
+	categorySlug={categorySlug}
+/>

@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from "astro:content";
+import Author from "../components/Author.astro";
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
@@ -7,7 +8,16 @@ import FormattedDate from "../components/FormattedDate.astro";
 
 type Props = CollectionEntry<"posts">["data"];
 
-const { title, description, author, publishedDate, updatedDate, heroImage } = Astro.props;
+const {
+	title,
+	description,
+	author,
+	authorSlug,
+	publishedDate,
+	updatedDate,
+	categorySlug,
+	category,
+} = Astro.props;
 ---
 
 <html lang="en">
@@ -50,6 +60,23 @@ const { title, description, author, publishedDate, updatedDate, heroImage } = As
 			}
 			.last-updated-on {
 				font-style: italic;
+				margin-bottom: 0.5em;
+			}
+			.category {
+				display: inline-block;
+				margin-bottom: 1em;
+				background-color: rgb(var(--accent-light, 225, 235, 255));
+				color: rgb(var(--accent-dark, 0, 50, 150));
+				border-radius: 4px;
+				padding: 0.3em 0.6em;
+				text-decoration: none;
+				font-size: 0.9em;
+				font-weight: 600;
+			}
+			.category:hover {
+				background-color: #00366b; /* Dark blue background */
+				color: #ffffff; /* White text */
+				text-shadow: none;
 			}
 		</style>
 	</head>
@@ -58,9 +85,6 @@ const { title, description, author, publishedDate, updatedDate, heroImage } = As
 		<Header />
 		<main>
 			<article>
-				<div class="hero-image">
-					{heroImage && <img width={1020} height={510} src={heroImage} alt="" />}
-				</div>
 				<div class="prose">
 					<div class="title">
 						<div class="date">
@@ -73,11 +97,21 @@ const { title, description, author, publishedDate, updatedDate, heroImage } = As
 								)
 							}
 						</div>
+
 						<h1>{title}</h1>
+						{
+							categorySlug && (
+								<a href={`/section/${categorySlug}/`} class="category">
+									{category}
+								</a>
+							)
+						}
 						<hr />
 					</div>
 					{author && <p>by {author}</p>}
 					<slot />
+					<hr />
+					<Author author={author} authorSlug={authorSlug} />
 				</div>
 			</article>
 		</main>
