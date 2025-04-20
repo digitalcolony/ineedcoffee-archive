@@ -1,5 +1,4 @@
 ---
-// filepath: src/pages/category/[slug].astro
 import SectionLayout from "../../layouts/SectionLayout.astro";
 import { getCollection } from "astro:content";
 
@@ -32,15 +31,14 @@ export async function getStaticPaths() {
 	});
 }
 
-const { slug } = Astro.params;
 const { categorySlug, categoryDisplayName } = Astro.props;
 
 const allPosts = await getCollection("posts");
 ---
 
 <SectionLayout
-	title={`Category: ${categoryDisplayName}`}
-	description={`All posts in the ${categoryDisplayName} category`}
+	title={categoryDisplayName}
+	description={``}
 	posts={allPosts}
 	categorySlug={categorySlug}
 />

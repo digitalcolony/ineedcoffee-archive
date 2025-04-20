@@ -55,13 +55,13 @@ const {
 				margin: 0 0 0.5em 0;
 			}
 			.date {
-				margin-bottom: 0.5em;
+				margin-bottom: 1em;
 				color: rgb(var(--gray));
 			}
-			.last-updated-on {
-				font-style: italic;
-				margin-bottom: 0.5em;
+			.author {
+				margin-top: 1em;
 			}
+
 			.category {
 				display: inline-block;
 				margin-bottom: 1em;
@@ -87,17 +87,6 @@ const {
 			<article>
 				<div class="prose">
 					<div class="title">
-						<div class="date">
-							<FormattedDate date={publishedDate} />
-							{
-								updatedDate && (
-									<div class="last-updated-on">
-										Last updated on <FormattedDate date={updatedDate} />
-									</div>
-								)
-							}
-						</div>
-
 						<h1>{title}</h1>
 						{
 							categorySlug && (
@@ -108,10 +97,16 @@ const {
 						}
 						<hr />
 					</div>
-					{author && <p>by {author}</p>}
+					by {authorSlug && <a href={`/by/${authorSlug}/`}>{author}</a>}
+
 					<slot />
+					<div class="date">
+						Published on <FormattedDate date={publishedDate} />
+					</div>
 					<hr />
-					<Author author={author} authorSlug={authorSlug} />
+					<div class="author">
+						<Author author={author} authorSlug={authorSlug} />
+					</div>
 				</div>
 			</article>
 		</main>
