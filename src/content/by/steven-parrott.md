@@ -5,6 +5,8 @@ x: ""
 facebook: ""
 instagram: ""
 linkedin: ""
-youtube: ""
+youtube: "https://www.youtube.com/channel/UCEXUtR-1kykw-4G86aUznWQ"
 url: ""
 ---
+
+Steven Parrott is the creator of Random Crockery, a cooking and cocktail channel on Youtube!

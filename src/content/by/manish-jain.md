@@ -8,3 +8,5 @@ linkedin: ""
 youtube: ""
 url: ""
 ---
+
+Live and let live.

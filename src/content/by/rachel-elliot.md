@@ -8,3 +8,5 @@ linkedin: ""
 youtube: ""
 url: ""
 ---
+
+Rachel Elliot is a coffee enthusiast currently living in Southern California.

@@ -1,10 +1,12 @@
 ---
 author: "Mark Prince"
 authorSlug: "mark-prince"
-x: ""
+x: "CoffeeGeek"
 facebook: ""
 instagram: ""
 linkedin: ""
 youtube: ""
-url: ""
+url: "https://coffeegeek.com/"
 ---
+
+Mark is the coffee guru behind coffeekid.com and CoffeeGeek.com.
