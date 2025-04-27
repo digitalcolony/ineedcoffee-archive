@@ -8,3 +8,5 @@ linkedin: ""
 youtube: ""
 url: ""
 ---
+
+Alexandra Astakhov is a now retired healthcare professional with an interest in nutrition and yoga.

@@ -8,3 +8,5 @@ linkedin: ""
 youtube: ""
 url: ""
 ---
+
+Alex is a tea and coffee enthusiast living in beautiful Seattle, Washington. He writes about the wonderful world of tea for Téfika.

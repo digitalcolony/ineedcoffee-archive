@@ -8,3 +8,5 @@ linkedin: ""
 youtube: ""
 url: ""
 ---
+
+Chris Schaefer is a product development engineer for the West Bend Company.

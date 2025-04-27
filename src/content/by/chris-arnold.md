@@ -5,6 +5,8 @@ x: ""
 facebook: ""
 instagram: ""
 linkedin: ""
-youtube: ""
+youtube: "https://www.youtube.com/TwoBitHistory"
 url: ""
 ---
+
+Chris is the creator of Two Bit History.

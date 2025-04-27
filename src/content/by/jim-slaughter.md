@@ -8,3 +8,5 @@ linkedin: ""
 youtube: ""
 url: ""
 ---
+
+Jim Slaughter is a home roaster as well as an aficionado of Irish Coffee.
