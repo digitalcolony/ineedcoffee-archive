@@ -50,6 +50,8 @@ const today = new Date();
 		background: linear-gradient(var(--gray-gradient)) no-repeat;
 		color: rgb(var(--gray));
 		text-align: center;
+		/* Distinct background from page content in light mode */
+		background-color: #f8f9fa;
 	}
 
 	.info {
@@ -58,17 +60,58 @@ const today = new Date();
 		padding: 1em;
 		color: rgb(var(--gray-dark));
 	}
-	.social-links. {
+
+	.social-links {
 		display: flex;
 		justify-content: center;
 		gap: 1em;
 		margin-top: 1em;
 	}
+
 	.social-links a {
 		text-decoration: none;
 		color: rgb(var(--gray));
 	}
+
 	.social-links a:hover {
 		color: rgb(var(--gray-dark));
+	}
+
+	/* Dark mode styles for footer */
+	:global(.dark-mode) footer {
+		background: #161c28; /* Darker than the main dark background */
+		background-image: none;
+	}
+
+	:global(.dark-mode) .info {
+		color: #ffffff; /* White text in dark mode */
+	}
+
+	:global(.dark-mode) .social-links a {
+		color: #b0b6c6; /* Light gray for icons in dark mode */
+	}
+
+	:global(.dark-mode) .social-links a:hover {
+		color: #ffffff; /* White on hover in dark mode */
+	}
+
+	/* System preference dark mode */
+	@media (prefers-color-scheme: dark) {
+		:global(:not(.light-mode):not(.dark-mode)) footer {
+			background: #161c28; /* Darker than the main dark background */
+			background-image: none;
+		}
+
+		:global(:not(.light-mode):not(.dark-mode)) .info {
+			color: #ffffff; /* White text in dark mode */
+		}
+
+		:global(:not(.light-mode):not(.dark-mode)) .social-links a {
+			color: #b0b6c6; /* Light gray for icons in dark mode */
+		}
+
+		:global(:not(.light-mode):not(.dark-mode)) .social-links a:hover {
+			color: #ffffff; /* White on hover in dark mode */
+		}
 	}
 </style>

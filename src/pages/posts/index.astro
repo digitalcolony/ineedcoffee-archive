@@ -68,6 +68,37 @@ const posts = (await getCollection("posts")).sort(
 			ul a:hover img {
 				box-shadow: var(--box-shadow);
 			}
+
+			/* Dark mode styles for post titles and dates */
+			:global(.dark-mode) .title {
+				color: #ffffff;
+			}
+
+			:global(.dark-mode) .date {
+				color: #b0b6c6;
+			}
+
+			:global(.dark-mode) ul li a:hover h4,
+			:global(.dark-mode) ul li a:hover .date {
+				color: var(--accent);
+			}
+
+			/* System preference-based dark mode */
+			@media (prefers-color-scheme: dark) {
+				:global(:not(.light-mode):not(.dark-mode)) .title {
+					color: #ffffff;
+				}
+
+				:global(:not(.light-mode):not(.dark-mode)) .date {
+					color: #b0b6c6;
+				}
+
+				:global(:not(.light-mode):not(.dark-mode)) ul li a:hover h4,
+				:global(:not(.light-mode):not(.dark-mode)) ul li a:hover .date {
+					color: var(--accent);
+				}
+			}
+
 			@media (max-width: 720px) {
 				ul {
 					gap: 0.5em;

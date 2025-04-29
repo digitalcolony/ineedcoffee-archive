@@ -73,6 +73,73 @@ const sortedPosts = categorySlug
 				margin-top: 0.5em;
 				margin-bottom: 0;
 			}
+
+			/* Dark mode styles for titles and dates */
+			:global(.dark-mode) .title {
+				color: #ffffff;
+			}
+
+			:global(.dark-mode) .date {
+				color: #b0b6c6;
+			}
+
+			:global(.dark-mode) .description {
+				color: rgba(255, 255, 255, 0.95);
+			}
+
+			:global(.dark-mode) .section-header h1 {
+				color: #ffffff;
+			}
+
+			:global(.dark-mode) .section-header p {
+				color: #b0b6c6;
+			}
+
+			:global(.dark-mode) .post-item {
+				background-color: #232a3b;
+				transition:
+					background-color 0.2s ease,
+					box-shadow 0.2s ease;
+			}
+
+			:global(.dark-mode) .post-item:hover {
+				background-color: #2a3247;
+			}
+
+			/* System preference dark mode */
+			@media (prefers-color-scheme: dark) {
+				:global(:not(.light-mode):not(.dark-mode)) .title {
+					color: #ffffff;
+				}
+
+				:global(:not(.light-mode):not(.dark-mode)) .date {
+					color: #b0b6c6;
+				}
+
+				:global(:not(.light-mode):not(.dark-mode)) .description {
+					color: rgba(255, 255, 255, 0.95);
+				}
+
+				:global(:not(.light-mode):not(.dark-mode)) .section-header h1 {
+					color: #ffffff;
+				}
+
+				:global(:not(.light-mode):not(.dark-mode)) .section-header p {
+					color: #b0b6c6;
+				}
+
+				:global(:not(.light-mode):not(.dark-mode)) .post-item {
+					background-color: #232a3b;
+					transition:
+						background-color 0.2s ease,
+						box-shadow 0.2s ease;
+				}
+
+				:global(:not(.light-mode):not(.dark-mode)) .post-item:hover {
+					background-color: #2a3247;
+				}
+			}
+
 			@media (max-width: 720px) {
 				ul {
 					gap: 0.5em;

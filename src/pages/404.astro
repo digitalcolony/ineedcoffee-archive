@@ -4,9 +4,12 @@ import PageLayout from "../layouts/PageLayout.astro";
 
 <PageLayout title="404: Page Not Found">
 	<div class="not-found-container">
+		<h1>404</h1>
 		<p>The page you're looking for doesn't exist or has been moved.</p>
 
-		<p><a href="/">Go to Homepage</a></p>
+		<div class="actions">
+			<a href="/" class="home-button">Go to Homepage</a>
+		</div>
 	</div>
 
 	<style>
@@ -16,8 +19,14 @@ import PageLayout from "../layouts/PageLayout.astro";
 			align-items: center;
 			justify-content: center;
 			text-align: center;
-			padding: 1rem 1rem;
-			min-height: 30vh;
+			padding: 2rem 1rem;
+			min-height: 50vh;
+		}
+
+		h1 {
+			font-size: 4rem;
+			margin-bottom: 1rem;
+			color: rgb(var(--black));
 		}
 
 		p {
@@ -27,7 +36,60 @@ import PageLayout from "../layouts/PageLayout.astro";
 		}
 
 		.actions {
-			margin-top: 0.5rem;
+			margin-top: 1.5rem;
+		}
+
+		.home-button {
+			display: inline-block;
+			background-color: #2337ff; /* Direct blue color for light mode */
+			color: white;
+			padding: 0.75rem 1.5rem;
+			text-decoration: none;
+			border-radius: 4px;
+			font-weight: 600;
+			transition: background-color 0.2s ease;
+		}
+
+		.home-button:hover {
+			background-color: #000d8a; /* Darker blue for hover in light mode */
+		}
+
+		/* Dark mode styles */
+		:global(.dark-mode) h1 {
+			color: #ffffff;
+		}
+
+		:global(.dark-mode) p {
+			color: rgba(255, 255, 255, 0.95);
+		}
+
+		:global(.dark-mode) .home-button {
+			background-color: #6d7bff; /* Lighter blue for dark mode */
+			color: white;
+		}
+
+		:global(.dark-mode) .home-button:hover {
+			background-color: #8c97ff; /* Even lighter blue for hover in dark mode */
+		}
+
+		/* System preference dark mode */
+		@media (prefers-color-scheme: dark) {
+			:global(:not(.light-mode):not(.dark-mode)) h1 {
+				color: #ffffff;
+			}
+
+			:global(:not(.light-mode):not(.dark-mode)) p {
+				color: rgba(255, 255, 255, 0.95);
+			}
+
+			:global(:not(.light-mode):not(.dark-mode)) .home-button {
+				background-color: #6d7bff; /* Lighter blue for dark mode */
+				color: white;
+			}
+
+			:global(:not(.light-mode):not(.dark-mode)) .home-button:hover {
+				background-color: #8c97ff; /* Even lighter blue for hover in dark mode */
+			}
 		}
 	</style>
 </PageLayout>

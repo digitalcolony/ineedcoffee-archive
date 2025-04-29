@@ -9,8 +9,8 @@ import FormattedDate from "../components/FormattedDate.astro";
 type Props = CollectionEntry<"posts">["data"];
 
 const {
-	title,
-	description,
+	title = "",
+	description = "",
 	author,
 	authorSlug,
 	publishedDate,
@@ -53,11 +53,33 @@ const {
 			}
 			.title h1 {
 				margin: 0 0 0.5em 0;
+				color: rgb(var(--black));
 			}
 			.date {
 				margin-bottom: 1em;
 				color: rgb(var(--gray));
 			}
+
+			/* Dark mode styling for post title and date */
+			:global(.dark-mode) .title h1 {
+				color: #ffffff;
+			}
+
+			:global(.dark-mode) .date {
+				color: #b0b6c6;
+			}
+
+			/* System preference dark mode */
+			@media (prefers-color-scheme: dark) {
+				:global(:not(.light-mode):not(.dark-mode)) .title h1 {
+					color: #ffffff;
+				}
+
+				:global(:not(.light-mode):not(.dark-mode)) .date {
+					color: #b0b6c6;
+				}
+			}
+
 			.author {
 				margin-top: 1em;
 			}
@@ -72,11 +94,38 @@ const {
 				text-decoration: none;
 				font-size: 0.9em;
 				font-weight: 600;
+				transition:
+					background-color 0.2s ease,
+					color 0.2s ease;
 			}
 			.category:hover {
 				background-color: #00366b; /* Dark blue background */
 				color: #ffffff; /* White text */
 				text-shadow: none;
+			}
+
+			/* Dark mode styles for category button */
+			:global(.dark-mode) .category {
+				background-color: rgba(109, 123, 255, 0.2); /* Semi-transparent accent color */
+				color: #b4bbff; /* Lighter blue text for dark mode */
+			}
+
+			:global(.dark-mode) .category:hover {
+				background-color: rgba(109, 123, 255, 0.5); /* More opaque on hover */
+				color: #ffffff; /* White text on hover */
+			}
+
+			/* Auto dark mode based on system preference */
+			@media (prefers-color-scheme: dark) {
+				:global(:not(.light-mode):not(.dark-mode)) .category {
+					background-color: rgba(109, 123, 255, 0.2); /* Semi-transparent accent color */
+					color: #b4bbff; /* Lighter blue text for dark mode */
+				}
+
+				:global(:not(.light-mode):not(.dark-mode)) .category:hover {
+					background-color: rgba(109, 123, 255, 0.5); /* More opaque on hover */
+					color: #ffffff; /* White text on hover */
+				}
 			}
 		</style>
 	</head>
@@ -97,7 +146,7 @@ const {
 						}
 						<hr />
 					</div>
-					by {authorSlug && <a href={`/by/${authorSlug}/`}>{author}</a>}
+					<p>by {authorSlug && <a href={`/by/${authorSlug}/`}>{author}</a>}</p>
 
 					<slot />
 					<div class="date">
