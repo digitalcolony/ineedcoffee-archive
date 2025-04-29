@@ -1,0 +1,33 @@
+---
+import PageLayout from "../layouts/PageLayout.astro";
+---
+
+<PageLayout title="404: Page Not Found">
+	<div class="not-found-container">
+		<p>The page you're looking for doesn't exist or has been moved.</p>
+
+		<p><a href="/">Go to Homepage</a></p>
+	</div>
+
+	<style>
+		.not-found-container {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+			text-align: center;
+			padding: 1rem 1rem;
+			min-height: 30vh;
+		}
+
+		p {
+			font-size: 1.25rem;
+			margin-bottom: 2rem;
+			color: rgb(var(--gray-dark));
+		}
+
+		.actions {
+			margin-top: 0.5rem;
+		}
+	</style>
+</PageLayout>
