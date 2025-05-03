@@ -12,3 +12,22 @@ const postsCollection = defineCollection({
 		categorySlug: z.string(), // Add this line for category support
 	}),
 });
+
+// Define the schema for authors in the "by" collection
+const byCollection = defineCollection({
+	type: "content",
+	schema: z.object({
+		name: z.string(),
+		bio: z.string().optional(),
+		website: z.string().url().optional(),
+		twitter: z.string().optional(),
+		postCount: z.number().optional(),
+		avatar: z.string().optional(),
+	}),
+});
+
+// Export the collections
+export const collections = {
+	authors: byCollection,
+	// Include other existing collections here
+};

@@ -1,0 +1,79 @@
+---
+import { getCollection } from "astro:content";
+import BaseHead from "../../components/BaseHead.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+
+// Simple metadata
+const title = "All Authors";
+const description = "Browse all authors on INeedCoffee";
+
+// Get authors from the content collection
+let authors: { slug: string; displayName: string }[] = [];
+try {
+	const fetchedAuthors = await getCollection("authors");
+	authors = fetchedAuthors
+		.map((author) => ({
+			slug: author.data.authorSlug,
+			displayName: author.data.author || author.data.authorSlug.replace(/-/g, " "),
+		}))
+		.sort((a, b) => a.displayName.localeCompare(b.displayName));
+} catch (error) {
+	console.error("Failed to fetch authors collection:", error);
+}
+
+const hasAuthors = authors.length > 0;
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+		<style>
+			.author-list {
+				display: grid;
+				/* Reduced from 2rem to 1rem */
+				max-width: 800px;
+				margin: 0 auto;
+				padding: 2rem 1rem;
+			}
+			.author-card {
+				padding: 0.4rem;
+				border-radius: 0.5rem;
+				transition: background-color 0.2s ease;
+			}
+			.author-card:hover {
+				background-color: var(--color-bg-hover);
+			}
+			h1 {
+				text-align: center;
+				margin-bottom: 2rem;
+			}
+			.author-name {
+				font-size: 1.25rem;
+				font-weight: 600;
+				margin-bottom: 0.5rem;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="author-list">
+				<h1>All Authors</h1>
+
+				{
+					hasAuthors ? (
+						authors.map((author) => (
+							<a href={`/by/${author.slug}/`} class="author-card">
+								<div class="author-name">{author.displayName}</div>
+							</a>
+						))
+					) : (
+						<p>No authors found. Please check your content collection configuration.</p>
+					)
+				}
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
