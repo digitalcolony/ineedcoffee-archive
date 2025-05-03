@@ -1,0 +1,12 @@
+# robots.txt for https://ineedcoffee.com/
+
+User-Agent: *
+Disallow: 
+
+User-agent: Mozilla/5.0 (compatible;contxbot/1.0)
+Disallow:
+
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+Sitemap: https://ineedcoffee.com/sitemap_index.xml

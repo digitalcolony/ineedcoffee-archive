@@ -11,14 +11,38 @@ interface Props {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
+// TODO: Replace this default image with a 1200x630 pixel image
+const { title, description, image = "/ineedcoffee-logo.jpg" } = Astro.props;
 ---
 
 <!-- Global Metadata -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-<meta name="generator" content={Astro.generator} />
+<link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160" />
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<meta name="msapplication-TileColor" content="#2b5797" />
+<meta name="msapplication-TileImage" content="/mstile-144x144.png" />
+<meta name="google-site-verification" content="jrYbaobM-vj_8E_sfvUBTjbeUICwbGZKv7_Z45TTog8" />
+<meta name="flattr:id" content="e0g7vj" />
+<link
+	rel="alternate"
+	type="application/rss+xml"
+	title="INeedCoffee"
+	href="http://feeds.feedburner.com/ineedcoffee"
+/>
 
 <!-- Early theme detection to prevent flash -->
 <script is:inline>
@@ -44,11 +68,20 @@ const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={new URL(image, Astro.url)} />
+<meta property="og:image" content={image ? new URL(image, Astro.url) : undefined} />
+<meta property="og:image:alt" content={description} />
+<meta property="og:site_name" content="INeedCoffee" />
 
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content={Astro.url} />
-<meta property="twitter:title" content={title} />
-<meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={new URL(image, Astro.url)} />
+<!-- Twitter/X Card - Both naming conventions maintained for compatibility -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content={Astro.url} />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={image ? new URL(image, Astro.url) : undefined} />
+<meta name="twitter:image:alt" content={description} />
+<meta name="twitter:creator" content="@INeedCoffee" />
+
+<!-- Modern SEO tags -->
+<meta name="robots" content="index, follow" />
+<meta name="theme-color" content="#2b5797" />
+<meta name="author" content="INeedCoffee" />
