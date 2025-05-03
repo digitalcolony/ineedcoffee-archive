@@ -3,13 +3,11 @@ id: "aeropress-coffee-maker-tutorial"
 title: "AeroPress Coffee Maker Tutorial"
 status: "published"
 author: "Ryan Jacobs"
-description: "desc"
 authorSlug: "ryan-jacobs"
 titleImage: "aeropress-coffee-maker-tutorial.jpg"
 categorySlug: "brewing-coffee"
 category: "Brewing Coffee"
 publishedDate: "2017-07-10T07:00:00"
-pubDate: "2017-07-10T07:00:00"
 updatedAt: "2025-03-23T17:02:10"
 wordpressId: 363
 ---
@@ -18,23 +16,22 @@ The Aerobie AeroPress is a single-cup coffee brewing system that is excellent fo
 
 The device shares similarities with several other [coffee brewing methods](http://ineedcoffee.com/coffee-brewing-guide/). It uses a plunger to force water through the coffee, which will be familiar to [French press](http://ineedcoffee.com/press-pot-tutorial/) users. The pressurization in the plunging action is similar to that of an espresso machine. Let me be clear: this is neither an espresso machine nor a press pot. Compared to other brewing methods, I find the richness of flavor comparable to French press coffee, while the smoothness is more like a Cafe Americano.
 
-This AeroPress brewing system makes coffee by forcing water through the coffee under pressure. The result is a concentrated brew of coffee that you can then use for different purposes. These instructions focus on brewing the coffee and then diluting it with hot water to _normal_ strength.
+This AeroPress brewing system makes coffee by forcing water through the coffee under pressure. The result is a concentrated brew of coffee that you can then use for different purposes. These instructions focus on brewing the coffee and then diluting it with hot water to *normal* strength.
 
 ![aeropress coffee maker](aeropress-coffee-maker400.jpg)
 
-\*Aeropress Coffee and Espresso Maker
-
--
+*Aeropress Coffee and Espresso Maker  
+*
 
 ### #1 Insert Filter
 
 Select one of the round AeroPress filters and place it into the bottom of the black filter cap.
 
 ![aeropress empty black cap for filter](aeropress-empty-black-filter-cap.jpg)  
-_AeroPress filter cap_
+*AeroPress filter cap*
 
 ![add paper filter to aeropress cap](aeropress-black-filter-cap-with-filter.jpg)  
-_AeroPress filter_
+*AeroPress filter*
 
 At this point, you should rinse the filter. This will help the filter stay in place and minimize the chance of any paper-residual flavor entering the coffee.
 
@@ -43,10 +40,10 @@ At this point, you should rinse the filter. This will help the filter stay in pl
 Place the filter into the bottom of the brewing chamber and twist it into place. Now, place the brewing chamber, filter side down, and on top of the mug that you will be drinking from.
 
 ![aeropress brewing chamber](aeropress-brewing-chamber.jpg)  
-_AeroPress brewing chamber_
+*AeroPress brewing chamber*
 
 ![twist filter onto aeropress](aeropress-twist-filter.jpg)  
-_AeroPress twist filter_
+*AeroPress twist filter*
 
 ### #3 Add Coffee
 
@@ -57,10 +54,10 @@ If you misplace your Aeropress scoop, two scoops equal 20-22 grams of coffee.
 A funnel comes with the AeroPress to help you get the coffee into the brewing chamber without causing too much mess. While this is definitely a convenience, it isn’t absolutely necessary. In either case, get that coffee into the chamber.
 
 ![aeropress scoop coffee](aeropress-scoop-coffee.jpg)  
-_AeroPress coffee scoop_
+*AeroPress coffee scoop*
 
 ![add coffee grounds into aeropress coffee brewer with funnel](aeropress-add-ground-coffee-funnel.jpg)  
-_Pour coffee grounds._
+*Pour coffee grounds.*
 
 ### #4 Heat Water
 
@@ -73,19 +70,19 @@ Use the markings on the cylinder to determine how much water to pour into the br
 Add just a portion of the water at first so that the grounds can swell a bit, then give it a good stir with the included stirrer so that the grounds settle back down a bit—similar to preparing French press coffee.
 
 ![use aeropress paddle to saturate coffee grounds](aeropress-paddle.jpg)  
-_AeroPress coffee stir_
+*AeroPress coffee stir*
 
 Add the remaining water so the brew is at the top of the number 2 oval. Let the water steep for about 10 more seconds, and give the brew another quick stir.
 
 ![aeropress add hot water](aeropress-add-water.jpg)  
-_Add water to AeroPress and stir with the paddle._
+*Add water to AeroPress and stir with the paddle.*
 
 ### #6 Plunge
 
 After a total brew time between 45 and 90 seconds, place the plunger into the chamber and apply a steady amount of force to move the plunger downward. Make sure you plunge all the way down until the plunger just begins compacting the coffee at the bottom.
 
 ![aeropress post plunge](aeropress-plunge.jpg)  
-_AeroPress plunge_
+*AeroPress plunge*
 
 ### #7 Remove AeroPress and Add More Water
 
@@ -93,7 +90,7 @@ Remove the brewing unit from your mug and reconstitute the brew with your remain
 
 ![add water to aeropress concentrate](aeropress-add-more-water.jpg)
 
-_Add hot water to AeroPress brewed coffee._
+*Add hot water to AeroPress brewed coffee.*
 
 ### #8 Serve and Enjoy!
 
@@ -104,7 +101,7 @@ Enjoy your AeroPress coffee!
 Remove the filter cap from the AeroPress brewer and push the plunger the remaining way over a compost bin. This will eject the coffee grounds, which now resemble an espresso puck. Once this is complete, rinse the AeroPress so it is ready to use again.
 
 ![aeopress coffee finished brewing](aeropress-finished.jpg)  
-_AeroPress filter after brewing_
+*AeroPress filter after brewing*
 
 ### Resources
 
