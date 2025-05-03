@@ -43,7 +43,7 @@ I’ve noticed that tea people think coffee drinkers will prefer black tea the m
 
 ![pu-erh-tea cake](pu-erh-tea.jpg)
 
-*Pu-erh tea from The Tao of Tea.*
+_Pu-erh tea from The Tao of Tea._
 
 ### Gear
 
@@ -68,41 +68,13 @@ With coffee, the brewing variations are determined more by the equipment than th
 
 Many teas can be steeped multiple times. Oolong and pu-erh teas will usually taste better on subsequent steeps. Teas that may cost more are often the ones that can hold up to many steeps. Here are my general guidelines for tea temperatures and first steep times. Start here and adjust to your tastes. Good tea shops will include specific instructions for each tea on the bag.
 
-Tea
-
-Temperature
-
-Steep Time
-
-White Tea
-
-170-185° F
-
-2 minutes
-
-Green Tea
-
-155-180° F
-
-1.5 - 2 minutes
-
-Oolong Tea
-
-170-195° F
-
-2 - 3 minutes
-
-Black Tea
-
-200-212° F
-
-3 minutes
-
-Pu-erh Tea
-
-200-212° F
-
-2 - 5 minutes
+| Tea        | Temperature | Steep Time      |
+| ---------- | ----------- | --------------- |
+| White Tea  | 170-185° F  | 2 minutes       |
+| Green Tea  | 155-180° F  | 1.5 - 2 minutes |
+| Oolong Tea | 170-195° F  | 2 - 3 minutes   |
+| Black Tea  | 200-212° F  | 3 minutes       |
+| Pu-erh Tea | 200-212° F  | 2 - 5 minutes   |
 
 When you brew a second, third, or greater pot of tea with the same leaves, you may gradually extend the brew time or increase the temperature.
 
@@ -120,7 +92,7 @@ In my opinion, the dose is the least important variable when it comes to making 
 
 ![kukicha tea brewing instructions](kukicha.jpg)
 
-*Kukicha brewing instructions from Adagio Tea.* 
+_Kukicha brewing instructions from Adagio Tea._
 
 ### Sourcing Good Tea
 
@@ -136,7 +108,7 @@ My fellow coffee drinkers, I invite you to take the tea journey. I’m not sayin
 
 ![Jo Sencha Green Tea](my-green-tea.jpg)
 
-*Don’t mess around with the alligator-style or caged tea filter. Oolong teas are often rolled into balls that can’t be unrolled unless there is room. The in-mug style of infuser lets the tea expand fully. Plus, it is easier to fill and clean.*
+_Don’t mess around with the alligator-style or caged tea filter. Oolong teas are often rolled into balls that can’t be unrolled unless there is room. The in-mug style of infuser lets the tea expand fully. Plus, it is easier to fill and clean._
 
 ### Resources
 
