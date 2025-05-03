@@ -1,0 +1,72 @@
+---
+import BaseHead from "../../components/BaseHead.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+
+// Page metadata
+const title = "INeedCoffee Sections";
+const description = "Browse all content sections on INeedCoffee";
+
+const sections = [
+	{ slug: "brewing-coffee", displayName: "Brewing Coffee" },
+	{ slug: "cafe-culture", displayName: "Cafe Culture" },
+	{ slug: "coffee-and-health", displayName: "Coffee and Health" },
+	{ slug: "coffee-business", displayName: "Coffee Beans" },
+	{ slug: "coffee-comics", displayName: "Coffee Comics" },
+	{ slug: "coffee-history", displayName: "Coffee History" },
+	{ slug: "coffee-people", displayName: "Coffee People" },
+	{ slug: "espresso", displayName: "Espresso" },
+	{ slug: "grinding-coffee", displayName: "Grinding Coffee" },
+	{ slug: "coffee-recipes", displayName: "Recipes" },
+	{ slug: "roasting-coffee", displayName: "Roasting Coffee" },
+	{ slug: "tea", displayName: "Tea" },
+].sort((a, b) => a.displayName.localeCompare(b.displayName));
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+		<style>
+			.section-list {
+				display: grid;
+				gap: 1rem;
+				max-width: 800px;
+				margin: 0 auto;
+				padding: 2rem 1rem;
+			}
+			.section-card {
+				padding: 0.4rem;
+				border-radius: 0.5rem;
+				transition: background-color 0.2s ease;
+			}
+			.section-card:hover {
+				background-color: var(--color-bg-hover);
+			}
+			h1 {
+				text-align: center;
+				margin-bottom: 2rem;
+			}
+			.section-name {
+				font-size: 1.25rem;
+				font-weight: 600;
+				margin-bottom: 0.5rem;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="section-list">
+				<h1>INeedCoffee Sections</h1>
+				{
+					sections.map((section) => (
+						<a href={`/section/${section.slug}/`} class="section-card">
+							<div class="section-name">{section.displayName}</div>
+						</a>
+					))
+				}
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

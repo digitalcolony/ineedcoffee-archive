@@ -21,18 +21,21 @@ const posts = defineCollection({
 });
 
 const authors = defineCollection({
-	// Load Markdown files in the `src/content/by` directory
+	// Load Markdown files from the "by" directory
 	loader: glob({ base: "./src/content/by", pattern: "**/*.{md,mdx}" }),
-	// Type-check frontmatter using a schema
+	// Type-check frontmatter using a schema that matches your files
 	schema: z.object({
+		// These are the fields used in your author files
 		author: z.string(),
 		authorSlug: z.string(),
+		// Optional fields
 		x: z.string().optional(),
 		facebook: z.string().optional(),
 		instagram: z.string().optional(),
 		linkedin: z.string().optional(),
 		youtube: z.string().optional(),
 		url: z.string().optional(),
+		// Any other optional fields in your frontmatter
 	}),
 });
 
