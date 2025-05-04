@@ -2,7 +2,7 @@
 author: "Allen J Pais"
 authorSlug: "allen-j-pais"
 x: ""
-facebook: ""
+facebook: "https://www.facebook.com/allen.pais.9"
 instagram: ""
 linkedin: ""
 youtube: ""

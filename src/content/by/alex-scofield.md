@@ -2,7 +2,7 @@
 author: "Alex Scofield"
 authorSlug: "alex-scofield"
 x: ""
-facebook: "https://www.facebook.com/allen.pais.9"
+facebook: ""
 instagram: ""
 linkedin: ""
 youtube: ""
