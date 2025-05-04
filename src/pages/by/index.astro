@@ -30,28 +30,60 @@ const hasAuthors = authors.length > 0;
 		<BaseHead title={title} description={description} />
 		<style>
 			.author-list {
-				display: grid;
-				/* Reduced from 2rem to 1rem */
+				display: flex;
+				flex-direction: column;
+				gap: 0;
 				max-width: 800px;
 				margin: 0 auto;
 				padding: 2rem 1rem;
 			}
-			.author-card {
-				padding: 0.4rem;
-				border-radius: 0.5rem;
-				transition: background-color 0.2s ease;
-			}
-			.author-card:hover {
-				background-color: var(--color-bg-hover);
-			}
+
 			h1 {
 				text-align: center;
 				margin-bottom: 2rem;
 			}
+
+			.author-list a {
+				text-decoration: none;
+				margin-bottom: 1.5rem;
+				padding-bottom: 1.5rem;
+				border-bottom: 1px solid rgba(var(--gray), 0.2);
+			}
+
+			.author-list a:last-child {
+				border-bottom: none;
+			}
+
 			.author-name {
-				font-size: 1.25rem;
+				font-size: 1.5rem;
 				font-weight: 600;
 				margin-bottom: 0.5rem;
+				color: rgb(var(--black));
+				line-height: 1.4;
+			}
+
+			a:hover .author-name {
+				text-decoration: underline;
+			}
+
+			/* Dark mode styles */
+			:global(.dark-mode) .author-name {
+				color: #ffffff;
+			}
+
+			:global(.dark-mode) .author-list a {
+				border-bottom-color: rgba(255, 255, 255, 0.1);
+			}
+
+			/* System preference dark mode */
+			@media (prefers-color-scheme: dark) {
+				:global(:not(.light-mode):not(.dark-mode)) .author-name {
+					color: #ffffff;
+				}
+
+				:global(:not(.light-mode):not(.dark-mode)) .author-list a {
+					border-bottom-color: rgba(255, 255, 255, 0.1);
+				}
 			}
 		</style>
 	</head>

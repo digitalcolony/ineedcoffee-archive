@@ -2,26 +2,22 @@
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
-import FormattedDate from "../components/FormattedDate.astro";
+import ArticleList from "../components/ArticleList.astro";
 
 export interface Props {
 	title: string;
 	description: string;
 	authorSlug: string;
-	authorData?: any; // Add this to receive all frontmatter
+	authorData?: any;
 	posts: any[];
 }
 
 const { title, description, posts, authorSlug, authorData } = Astro.props;
 
-// Filter posts by category if categorySlug is provided
-const sortedPosts = authorSlug
-	? posts
-			.filter(
-				(post) => post.data.authorSlug === authorSlug || post.data.authors?.includes(authorSlug)
-			)
-			.sort((a, b) => b.data.publishedDate.valueOf() - a.data.publishedDate.valueOf())
-	: posts.sort((a, b) => b.data.publishedDate.valueOf() - a.data.publishedDate.valueOf());
+// Filter posts by author
+const authorPosts = posts.filter(
+	(post) => post.data.authorSlug === authorSlug || post.data.authors?.includes(authorSlug)
+);
 ---
 
 <html lang="en">
@@ -34,86 +30,10 @@ const sortedPosts = authorSlug
 				margin: 0 auto;
 				padding: 3em 1em;
 			}
+
 			.section-header {
 				margin-bottom: 2em;
 				text-align: center;
-			}
-			ul {
-				list-style-type: none;
-				margin: 0;
-				padding: 0;
-			}
-			li {
-				margin-bottom: 1.5rem;
-				padding-bottom: 1.5rem;
-				border-bottom: 1px solid rgba(var(--gray), 0.2);
-			}
-			li:last-child {
-				border-bottom: none;
-			}
-			.post-item {
-				display: block;
-				text-decoration: none;
-			}
-			.post-item:hover .title {
-				text-decoration: underline;
-			}
-			.title {
-				margin: 0;
-				color: rgb(var(--black));
-				line-height: 1.4;
-				font-size: 1.5rem;
-			}
-			.date {
-				margin: 0.25rem 0 0.5rem;
-				color: rgb(var(--gray));
-				font-size: 0.9rem;
-			}
-			.description {
-				margin: 0.5rem 0 0;
-				line-height: 1.5;
-			}
-
-			/* Dark mode styles for titles and dates */
-			:global(.dark-mode) .title {
-				color: #ffffff;
-			}
-			:global(.dark-mode) .date {
-				color: #b0b6c6;
-			}
-			:global(.dark-mode) .description {
-				color: rgba(255, 255, 255, 0.9);
-			}
-			:global(.dark-mode) li {
-				border-bottom-color: rgba(255, 255, 255, 0.1);
-			}
-			:global(.dark-mode) .section-header h1 {
-				color: #ffffff;
-			}
-			:global(.dark-mode) .section-header p {
-				color: #b0b6c6;
-			}
-
-			/* System preference dark mode */
-			@media (prefers-color-scheme: dark) {
-				:global(:not(.light-mode):not(.dark-mode)) .title {
-					color: #ffffff;
-				}
-				:global(:not(.light-mode):not(.dark-mode)) .date {
-					color: #b0b6c6;
-				}
-				:global(:not(.light-mode):not(.dark-mode)) .description {
-					color: rgba(255, 255, 255, 0.9);
-				}
-				:global(:not(.light-mode):not(.dark-mode)) li {
-					border-bottom-color: rgba(255, 255, 255, 0.1);
-				}
-				:global(:not(.light-mode):not(.dark-mode)) .section-header h1 {
-					color: #ffffff;
-				}
-				:global(:not(.light-mode):not(.dark-mode)) .section-header p {
-					color: #b0b6c6;
-				}
 			}
 
 			/* Author bio styles */
@@ -133,38 +53,28 @@ const sortedPosts = authorSlug
 
 			.social-links {
 				display: flex;
-				gap: 1.25rem;
+				gap: 1rem;
 				flex-wrap: wrap;
-				margin: 1.5rem 0 2.5rem; /* Added vertical spacing */
 			}
 
-			.social-icon {
-				display: flex;
-				align-items: center;
-				justify-content: center;
-				width: 40px;
-				height: 40px;
-				border-radius: 50%;
-				background: rgba(var(--accent), 0.1);
-				color: rgb(var(--accent));
-				transition: all 0.2s ease;
-				text-decoration: none; /* Remove underline */
+			/* Dark mode styles for headers */
+			:global(.dark-mode) .section-header h1 {
+				color: #ffffff;
 			}
 
-			.social-icon:hover {
-				background: rgba(var(--accent), 0.2);
-				transform: translateY(-2px);
+			:global(.dark-mode) .section-header p {
+				color: #b0b6c6;
 			}
 
-			/* Dark mode styles for social icons */
-			:global(.dark-mode) .social-icon {
-				background: rgba(var(--accent), 0.2);
-				color: rgba(var(--accent), 0.8);
-			}
+			/* System preference dark mode for headers */
+			@media (prefers-color-scheme: dark) {
+				:global(:not(.light-mode):not(.dark-mode)) .section-header h1 {
+					color: #ffffff;
+				}
 
-			:global(.dark-mode) .social-icon:hover {
-				background: rgba(var(--accent), 0.3);
-				color: rgb(var(--accent));
+				:global(:not(.light-mode):not(.dark-mode)) .section-header p {
+					color: #b0b6c6;
+				}
 			}
 		</style>
 	</head>
@@ -179,21 +89,8 @@ const sortedPosts = authorSlug
 				<!-- Render the slot content for author bio and social links -->
 				<slot />
 
-				<ul>
-					{
-						sortedPosts.map((post) => (
-							<li>
-								<a href={`/${post.id}/`} class="post-item">
-									<h2 class="title">{post.data.title}</h2>
-									<p class="date">
-										<FormattedDate date={post.data.publishedDate} />
-									</p>
-									<p class="description">{post.data.description}</p>
-								</a>
-							</li>
-						))
-					}
-				</ul>
+				<!-- Use the ArticleList component -->
+				<ArticleList posts={authorPosts} title={``} />
 			</section>
 		</main>
 		<Footer />

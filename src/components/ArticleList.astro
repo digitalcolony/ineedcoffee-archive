@@ -1,0 +1,120 @@
+---
+import FormattedDate from "./FormattedDate.astro";
+
+export interface Props {
+	posts: any[];
+	title?: string;
+}
+
+const { posts, title } = Astro.props;
+
+// Sort posts by publishedDate if they aren't already sorted
+const sortedPosts = [...posts].sort(
+	(a, b) => b.data.publishedDate.valueOf() - a.data.publishedDate.valueOf()
+);
+---
+
+<div class="article-list">
+	{title && <h2>{title}</h2>}
+
+	<ul>
+		{
+			sortedPosts.map((post) => (
+				<li>
+					<a href={`/${post.id}/`} class="post-item">
+						<h2 class="title">{post.data.title}</h2>
+						<p class="date">
+							<FormattedDate date={post.data.publishedDate} />
+						</p>
+						<p class="description">{post.data.description}</p>
+					</a>
+				</li>
+			))
+		}
+	</ul>
+</div>
+
+<style>
+	.article-list {
+		margin-top: 2rem;
+	}
+
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	li {
+		margin-bottom: 1.5rem;
+		padding-bottom: 1.5rem;
+		border-bottom: 1px solid rgba(var(--gray), 0.2);
+	}
+
+	li:last-child {
+		border-bottom: none;
+	}
+
+	.post-item {
+		display: block;
+		text-decoration: none;
+	}
+
+	.post-item:hover .title {
+		text-decoration: underline;
+	}
+
+	.title {
+		margin: 0;
+		color: rgb(var(--black));
+		line-height: 1.4;
+		font-size: 1.5rem;
+	}
+
+	.date {
+		margin: 0.25rem 0 0.5rem;
+		color: rgb(var(--gray));
+		font-size: 0.9rem;
+	}
+
+	.description {
+		margin: 0.5rem 0 0;
+		line-height: 1.5;
+	}
+
+	/* Dark mode styles */
+	:global(.dark-mode) .title {
+		color: #ffffff;
+	}
+
+	:global(.dark-mode) .date {
+		color: #b0b6c6;
+	}
+
+	:global(.dark-mode) .description {
+		color: rgba(255, 255, 255, 0.9);
+	}
+
+	:global(.dark-mode) li {
+		border-bottom-color: rgba(255, 255, 255, 0.1);
+	}
+
+	/* System preference dark mode */
+	@media (prefers-color-scheme: dark) {
+		:global(:not(.light-mode):not(.dark-mode)) .title {
+			color: #ffffff;
+		}
+
+		:global(:not(.light-mode):not(.dark-mode)) .date {
+			color: #b0b6c6;
+		}
+
+		:global(:not(.light-mode):not(.dark-mode)) .description {
+			color: rgba(255, 255, 255, 0.9);
+		}
+
+		:global(:not(.light-mode):not(.dark-mode)) li {
+			border-bottom-color: rgba(255, 255, 255, 0.1);
+		}
+	}
+</style>
