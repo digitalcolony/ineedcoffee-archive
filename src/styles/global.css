@@ -4,6 +4,21 @@
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
  */
 
+/* Import theme variables */
+@import "./theme.css";
+
+/* Global Reset */
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	font-family: system-ui, sans-serif;
+	scroll-behavior: smooth;
+}
+
 :root {
 	--accent: #2337ff;
 	--accent-dark: #000d8a;
@@ -73,8 +88,8 @@ body {
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	color: var(--text-color);
-	font-size: 20px;
-	line-height: 1.7;
+	font-size: 16px;
+	line-height: 1.5;
 	transition: background-color 0.3s ease, color 0.3s ease;
 }
 main {
@@ -89,7 +104,7 @@ h3,
 h4,
 h5,
 h6 {
-	margin: 0 0 0.5rem 0;
+	margin: 0 0 0.5em 0;
 	color: var(--heading-color);
 	line-height: 1.2;
 }

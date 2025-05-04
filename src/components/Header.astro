@@ -45,82 +45,20 @@ import { SITE_TITLE } from "../consts";
 						fill="none"
 						stroke="currentColor"
 						stroke-width="2"></circle>
-					<line
-						class="sun-path"
-						x1="12"
-						y1="1"
-						x2="12"
-						y2="3"
-						stroke="currentColor"
-						stroke-width="2"></line>
-					<line
-						class="sun-path"
-						x1="12"
-						y1="21"
-						x2="12"
-						y2="23"
-						stroke="currentColor"
-						stroke-width="2"></line>
-					<line
-						class="sun-path"
-						x1="4.22"
-						y1="4.22"
-						x2="5.64"
-						y2="5.64"
-						stroke="currentColor"
-						stroke-width="2"></line>
-					<line
-						class="sun-path"
-						x1="18.36"
-						y1="18.36"
-						x2="19.78"
-						y2="19.78"
-						stroke="currentColor"
-						stroke-width="2"></line>
-					<line
-						class="sun-path"
-						x1="1"
-						y1="12"
-						x2="3"
-						y2="12"
-						stroke="currentColor"
-						stroke-width="2"></line>
-					<line
-						class="sun-path"
-						x1="21"
-						y1="12"
-						x2="23"
-						y2="12"
-						stroke="currentColor"
-						stroke-width="2"></line>
-					<line
-						class="sun-path"
-						x1="4.22"
-						y1="19.78"
-						x2="5.64"
-						y2="18.36"
-						stroke="currentColor"
-						stroke-width="2"></line>
-					<line
-						class="sun-path"
-						x1="18.36"
-						y1="5.64"
-						x2="19.78"
-						y2="4.22"
-						stroke="currentColor"
-						stroke-width="2"></line>
 				</svg>
 			</button>
 		</div>
 	</nav>
 </header>
+
 <style>
 	header {
 		margin: 0;
 		padding: 0 1em;
-		background: #f8f9fa; /* Matching footer light background */
-		box-shadow: 0 2px 8px rgba(var(--black), 5%);
+		background: var(--header-bg);
+		box-shadow: 0 2px 8px var(--header-shadow);
 	}
+
 	h2 {
 		margin: 0;
 		font-size: 1em;
@@ -130,20 +68,23 @@ import { SITE_TITLE } from "../consts";
 	h2 a.active {
 		text-decoration: none;
 	}
+
 	nav {
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
 	}
+
 	nav a {
 		padding: 1em 0.5em;
-		color: var(--black);
+		color: var(--text-color);
 		border-bottom: 4px solid transparent;
 		text-decoration: none;
 	}
+
 	nav a.active {
 		text-decoration: none;
-		border-bottom-color: var(--accent);
+		border-bottom-color: rgb(var(--accent));
 	}
 
 	/* Theme toggle styles */
@@ -166,11 +107,12 @@ import { SITE_TITLE } from "../consts";
 		position: relative;
 		width: 40px;
 		height: 40px;
-		background-color: rgba(var(--gray), 0.1);
+		background-color: var(--button-bg);
+		color: var(--text-color);
 	}
 
 	#theme-toggle:hover {
-		background-color: rgba(var(--accent), 0.2);
+		background-color: var(--button-hover);
 	}
 
 	.theme-icon {
@@ -185,57 +127,33 @@ import { SITE_TITLE } from "../consts";
 	#moon-icon {
 		opacity: 0;
 		position: absolute;
-		color: var(--black);
 	}
 
 	#sun-icon {
 		opacity: 1;
 		position: relative;
-		color: var(--black);
 	}
 
 	:global(.dark-mode) #moon-icon {
 		opacity: 1;
 		position: relative;
-		color: white;
 	}
 
 	:global(.dark-mode) #sun-icon {
 		opacity: 0;
 		position: absolute;
-		color: white;
 	}
 
 	@media (prefers-color-scheme: dark) {
 		:global(:not(.light-mode):not(.dark-mode)) #moon-icon {
 			opacity: 1;
 			position: relative;
-			color: white;
 		}
 
 		:global(:not(.light-mode):not(.dark-mode)) #sun-icon {
 			opacity: 0;
 			position: absolute;
-			color: white;
 		}
-
-		header {
-			background: #161c28; /* Match footer dark background */
-			box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
-		}
-
-		nav a {
-			color: white;
-		}
-	}
-
-	:global(.dark-mode) header {
-		background: #161c28; /* Match footer dark background */
-		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
-	}
-
-	:global(.dark-mode) nav a {
-		color: white;
 	}
 
 	@media (max-width: 720px) {
@@ -248,39 +166,4 @@ import { SITE_TITLE } from "../consts";
 	}
 </style>
 
-<script is:inline>
-	// Theme toggle functionality - using is:inline to ensure it runs immediately
-	document.addEventListener("DOMContentLoaded", initThemeToggle);
-
-	// Also run immediately in case the DOMContentLoaded already fired
-	initThemeToggle();
-
-	function initThemeToggle() {
-		const themeToggle = document.getElementById("theme-toggle");
-
-		if (themeToggle && !themeToggle.hasAttribute("data-initialized")) {
-			// Mark as initialized to avoid duplicate event listeners
-			themeToggle.setAttribute("data-initialized", "true");
-
-			themeToggle.addEventListener("click", () => {
-				const isDark =
-					document.documentElement.classList.contains("dark-mode") ||
-					(!document.documentElement.classList.contains("light-mode") &&
-						window.matchMedia("(prefers-color-scheme: dark)").matches);
-
-				if (isDark) {
-					document.documentElement.classList.remove("dark-mode");
-					document.documentElement.classList.add("light-mode");
-					localStorage.setItem("theme", "light");
-				} else {
-					document.documentElement.classList.remove("light-mode");
-					document.documentElement.classList.add("dark-mode");
-					localStorage.setItem("theme", "dark");
-				}
-			});
-
-			// Debug log to verify script execution
-			console.log("Theme toggle initialized");
-		}
-	}
-</script>
+<script src="../scripts/theme.js"></script>

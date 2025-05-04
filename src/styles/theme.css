@@ -1,0 +1,49 @@
+:root {
+	/* Base colors */
+	--black: 0, 0, 0;
+	--gray: 96, 115, 159;
+	--gray-dark: 34, 41, 57;
+	--gray-light: 229, 233, 240;
+	--white: 255, 255, 255;
+	--accent: 0, 108, 172;
+
+	/* Theme variables */
+	--background: #f8f9fa;
+	--text-color: rgb(var(--black));
+	--text-muted: rgb(var(--gray));
+	--border-color: rgba(var(--gray), 0.2);
+	--card-bg: white;
+	--header-bg: #f8f9fa;
+	--header-shadow: rgba(var(--black), 5%);
+	--button-bg: rgba(var(--gray), 0.1);
+	--button-hover: rgba(var(--accent), 0.2);
+}
+
+/* Dark theme */
+.dark-mode {
+	--background: #0d1117;
+	--text-color: #ffffff;
+	--text-muted: #b0b6c6;
+	--border-color: rgba(255, 255, 255, 0.1);
+	--card-bg: #161c28;
+	--header-bg: #161c28;
+	--header-shadow: rgba(0, 0, 0, 0.3);
+}
+
+/* System preference dark mode */
+@media (prefers-color-scheme: dark) {
+	:not(.light-mode):not(.dark-mode) {
+		--background: #0d1117;
+		--text-color: #ffffff;
+		--text-muted: #b0b6c6;
+		--border-color: rgba(255, 255, 255, 0.1);
+		--card-bg: #161c28;
+		--header-bg: #161c28;
+		--header-shadow: rgba(0, 0, 0, 0.3);
+	}
+}
+
+body {
+	background-color: var(--background);
+	color: var(--text-color);
+}

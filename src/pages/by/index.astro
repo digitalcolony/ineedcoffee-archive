@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 import BaseHead from "../../components/BaseHead.astro";
 import Header from "../../components/Header.astro";
 import Footer from "../../components/Footer.astro";
+import CardList from "../../components/ui/CardList.astro";
 
 // Simple metadata
 const title = "INeedCoffee Authors";
@@ -21,90 +22,16 @@ try {
 } catch (error) {
 	console.error("Failed to fetch authors collection:", error);
 }
-
-const hasAuthors = authors.length > 0;
 ---
 
 <html lang="en">
 	<head>
 		<BaseHead title={title} description={description} />
-		<style>
-			.author-list {
-				display: flex;
-				flex-direction: column;
-				gap: 0;
-				max-width: 800px;
-				margin: 0 auto;
-				padding: 2rem 1rem;
-			}
-
-			h1 {
-				text-align: center;
-				margin-bottom: 2rem;
-			}
-
-			.author-list a {
-				text-decoration: none;
-				margin-bottom: 1.5rem;
-				padding-bottom: 1.5rem;
-				border-bottom: 1px solid rgba(var(--gray), 0.2);
-			}
-
-			.author-list a:last-child {
-				border-bottom: none;
-			}
-
-			.author-name {
-				font-size: 1.5rem;
-				font-weight: 600;
-				margin-bottom: 0.5rem;
-				color: rgb(var(--black));
-				line-height: 1.4;
-			}
-
-			a:hover .author-name {
-				text-decoration: underline;
-			}
-
-			/* Dark mode styles */
-			:global(.dark-mode) .author-name {
-				color: #ffffff;
-			}
-
-			:global(.dark-mode) .author-list a {
-				border-bottom-color: rgba(255, 255, 255, 0.1);
-			}
-
-			/* System preference dark mode */
-			@media (prefers-color-scheme: dark) {
-				:global(:not(.light-mode):not(.dark-mode)) .author-name {
-					color: #ffffff;
-				}
-
-				:global(:not(.light-mode):not(.dark-mode)) .author-list a {
-					border-bottom-color: rgba(255, 255, 255, 0.1);
-				}
-			}
-		</style>
 	</head>
 	<body>
 		<Header />
 		<main>
-			<div class="author-list">
-				<h1>INeedCoffee Authors</h1>
-
-				{
-					hasAuthors ? (
-						authors.map((author) => (
-							<a href={`/by/${author.slug}/`} class="author-card">
-								<div class="author-name">{author.displayName}</div>
-							</a>
-						))
-					) : (
-						<p>Error: No authors found.</p>
-					)
-				}
-			</div>
+			<CardList items={authors} title="INeedCoffee Authors" basePath="by" />
 		</main>
 		<Footer />
 	</body>

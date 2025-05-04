@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import AuthorLayout from "../../layouts/AuthorLayout.astro";
+import SocialIcon from "../../components/ui/SocialIcon.astro";
 
 export async function getStaticPaths() {
 	const authorEntries = await getCollection("authors");
@@ -42,125 +43,24 @@ const authorContent = author.body; // This contains the Markdown content
 		authorData.linkedin ||
 		authorData.youtube ||
 		authorData.url ? (
-			<div class="author-social" style="margin: 2rem 0;">
-				<div
-					class="social-links"
-					style="display: flex; gap: 1.25rem; margin: 1.5rem 0 2.5rem; flex-wrap: wrap;"
-				>
+			<div class="author-social">
+				<div class="social-links">
 					{authorData.x && (
-						<a
-							href={`https://x.com/${authorData.x}`}
-							target="_blank"
-							title="X/Twitter"
-							class="social-icon"
-							style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; border-radius: 50%; background: rgba(var(--accent), 0.1);"
-						>
-							<svg
-								xmlns="http://www.w3.org/2000/svg"
-								width="24"
-								height="24"
-								viewBox="0 0 24 24"
-								fill="currentColor"
-							>
-								<path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
-							</svg>
-						</a>
+						<SocialIcon href={`https://x.com/${authorData.x}`} title="X/Twitter" network="x" />
 					)}
 					{authorData.facebook && (
-						<a
-							href={authorData.facebook}
-							target="_blank"
-							title="Facebook"
-							class="social-icon"
-							style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; border-radius: 50%; background: rgba(var(--accent), 0.1);"
-						>
-							<svg
-								xmlns="http://www.w3.org/2000/svg"
-								width="24"
-								height="24"
-								viewBox="0 0 24 24"
-								fill="currentColor"
-							>
-								<path d="M9.198 21.5h4v-8.01h3.604l.396-3.98h-4V7.5a1 1 0 0 1 1-1h3v-4h-3a5 5 0 0 0-5 5v2.01h-2l-.396 3.98h2.396v8.01Z" />
-							</svg>
-						</a>
+						<SocialIcon href={authorData.facebook} title="Facebook" network="facebook" />
 					)}
 					{authorData.instagram && (
-						<a
-							href={authorData.instagram}
-							target="_blank"
-							title="Instagram"
-							class="social-icon"
-							style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; border-radius: 50%; background: rgba(var(--accent), 0.1);"
-						>
-							<svg
-								xmlns="http://www.w3.org/2000/svg"
-								width="24"
-								height="24"
-								viewBox="0 0 24 24"
-								fill="currentColor"
-							>
-								<path d="M12 2c2.717 0 3.056.01 4.122.06 1.065.05 1.79.217 2.428.465.66.254 1.216.598 1.772 1.153a4.908 4.908 0 0 1 1.153 1.772c.247.637.415 1.363.465 2.428.047 1.066.06 1.405.06 4.122 0 2.717-.01 3.056-.06 4.122-.05 1.065-.218 1.79-.465 2.428a4.883 4.883 0 0 1-1.153 1.772 4.915 4.915 0 0 1-1.772 1.153c-.637.247-1.363.415-2.428.465-1.066.047-1.405.06-4.122.06-2.717 0-3.056-.01-4.122-.06-1.065-.05-1.79-.218-2.428-.465a4.89 4.89 0 0 1-1.772-1.153 4.904 4.904 0 0 1-1.153-1.772c-.248-.637-.415-1.363-.465-2.428C2.013 15.056 2 14.717 2 12c0-2.717.01-3.056.06-4.122.05-1.066.217-1.79.465-2.428a4.88 4.88 0 0 1 1.153-1.772A4.897 4.897 0 0 1 5.45 2.525c.638-.248 1.362-.415 2.428-.465C8.944 2.013 9.283 2 12 2zm0 1.802c-2.67 0-2.986.01-4.04.059-.976.045-1.505.207-1.858.344-.466.182-.8.398-1.15.748-.35.35-.566.683-.748 1.15-.137.353-.3.882-.344 1.857-.048 1.055-.058 1.37-.058 4.04 0 2.67.01 2.986.058 4.04.045.976.207 1.505.344 1.858.182.466.399.8.748 1.15.35.35.684.566 1.15.748.353.137.882.3 1.857.344 1.054.048 1.37.058 4.04.058 2.67 0 2.987-.01 4.04-.058.976-.045 1.505-.207 1.858-.344.466-.182.8-.398 1.15-.748.35-.35.566-.684.748-1.15.137-.353.3-.882.344-1.857.048-1.055.058-1.37.058-4.04 0-2.67-.01-2.986-.058-4.04-.045-.976-.207-1.505-.344-1.858a3.097 3.097 0 0 0-.748-1.15 3.098 3.098 0 0 0-1.15-.748c-.353-.137-.882-.3-1.857-.344-1.054-.048-1.37-.058-4.04-.058zm0 3.063a5.135 5.135 0 1 1 0 10.27 5.135 5.135 0 0 1 0-10.27zm0 8.468a3.333 3.333 0 1 0 0-6.666 3.333 3.333 0 0 0 0 6.666zm6.538-8.671a1.2 1.2 0 1 1-2.4 0 1.2 1.2 0 0 1 2.4 0z" />
-							</svg>
-						</a>
+						<SocialIcon href={authorData.instagram} title="Instagram" network="instagram" />
 					)}
 					{authorData.linkedin && (
-						<a
-							href={authorData.linkedin}
-							target="_blank"
-							title="LinkedIn"
-							class="social-icon"
-							style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; border-radius: 50%; background: rgba(var(--accent), 0.1);"
-						>
-							<svg
-								xmlns="http://www.w3.org/2000/svg"
-								width="24"
-								height="24"
-								viewBox="0 0 24 24"
-								fill="currentColor"
-							>
-								<path d="M6.94 5a2 2 0 1 1-4-.002 2 2 0 0 1 4 .002zM7 8.48H3V21h4V8.48zm6.32 0H9.34V21h3.94v-6.57c0-3.66 4.77-4 4.77 0V21H22v-7.93c0-6.17-7.06-5.94-8.72-2.91l.04-1.68z" />
-							</svg>
-						</a>
+						<SocialIcon href={authorData.linkedin} title="LinkedIn" network="linkedin" />
 					)}
 					{authorData.youtube && (
-						<a
-							href={authorData.youtube}
-							target="_blank"
-							title="YouTube"
-							class="social-icon"
-							style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; border-radius: 50%; background: rgba(var(--accent), 0.1);"
-						>
-							<svg
-								xmlns="http://www.w3.org/2000/svg"
-								width="24"
-								height="24"
-								viewBox="0 0 24 24"
-								fill="currentColor"
-							>
-								<path d="M12.244 4c.534.003 1.87.016 3.29.073l.792.043c1.296.074 2.575.195 3.053.363.723.255 1.29.825 1.54 1.553.36 1.045.402 3.538.41 4.798v.612c-.008 1.26-.05 3.753-.41 4.798a2.208 2.208 0 0 1-1.54 1.553c-.478.168-1.757.29-3.053.363l-.792.043c-1.42.057-2.756.07-3.29.073h-.488c-.534-.003-1.87-.016-3.29-.073l-.792-.043c-1.296-.074-2.575-.195-3.053-.363a2.208 2.208 0 0 1-1.54-1.553c-.36-1.045-.402-3.538-.41-4.798v-.612c.008-1.26.05-3.753.41-4.798a2.208 2.208 0 0 1-1.54-1.553c.478-.168 1.757-.29 3.053-.363l.792-.043c1.42-.057 2.756-.07 3.29-.073h.488zm-1.62 4a.624.624 0 0 0-.285.079l-.059.04v.002l-3.5 2.5v.001a.625.625 0 0 0 .5 1.125V11.75l.008-.004L10.776 9.5l3.486 2.5-.001.001a.625.625 0 0 0 .5-1.126v-.001L11.28 8.373h-.004a.625.625 0 0 0-.653-.373z" />
-							</svg>
-						</a>
+						<SocialIcon href={authorData.youtube} title="YouTube" network="youtube" />
 					)}
-					{authorData.url && (
-						<a
-							href={authorData.url}
-							target="_blank"
-							title="Website"
-							class="social-icon"
-							style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; border-radius: 50%; background: rgba(var(--accent), 0.1);"
-						>
-							<svg
-								xmlns="http://www.w3.org/2000/svg"
-								width="24"
-								height="24"
-								viewBox="0 0 24 24"
-								fill="currentColor"
-							>
-								<path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z" />
-							</svg>
-						</a>
-					)}
+					{authorData.url && <SocialIcon href={authorData.url} title="Website" network="website" />}
 				</div>
 			</div>
 		) : null
