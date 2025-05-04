@@ -16,10 +16,7 @@ const { title, description, posts, categorySlug } = Astro.props;
 // Filter posts by category if categorySlug is provided
 const sortedPosts = categorySlug
 	? posts
-			.filter(
-				(post) =>
-					post.data.categorySlug === categorySlug || post.data.categories?.includes(categorySlug)
-			)
+			.filter((post) => post.data.categorySlug === categorySlug)
 			.sort((a, b) => b.data.publishedDate.valueOf() - a.data.publishedDate.valueOf())
 	: posts.sort((a, b) => b.data.publishedDate.valueOf() - a.data.publishedDate.valueOf());
 ---
@@ -39,71 +36,59 @@ const sortedPosts = categorySlug
 				text-align: center;
 			}
 			ul {
-				display: flex;
-				flex-wrap: wrap;
-				gap: 2rem;
 				list-style-type: none;
 				margin: 0;
 				padding: 0;
 			}
 			li {
-				width: calc(50% - 1rem);
+				margin-bottom: 1.5rem;
+				padding-bottom: 1.5rem;
+				border-bottom: 1px solid rgba(var(--gray), 0.2);
+			}
+			li:last-child {
+				border-bottom: none;
 			}
 			.post-item {
-				display: flex;
-				flex-direction: column;
-				padding: 1.5rem;
-				border-radius: 8px;
-				box-shadow: var(--box-shadow);
-				transition: box-shadow 0.2s ease;
+				display: block;
+				text-decoration: none;
 			}
-			.post-item:hover {
-				box-shadow: var(--box-shadow-hover);
+			.post-item:hover .title {
+				text-decoration: underline;
 			}
 			.title {
 				margin: 0;
 				color: rgb(var(--black));
 				line-height: 1.4;
+				font-size: 1.5rem;
 			}
 			.date {
-				margin: 0;
+				margin: 0.25rem 0 0.5rem;
 				color: rgb(var(--gray));
+				font-size: 0.9rem;
 			}
 			.description {
-				margin-top: 0.5em;
-				margin-bottom: 0;
+				margin: 0.5rem 0 0;
+				line-height: 1.5;
 			}
 
 			/* Dark mode styles for titles and dates */
 			:global(.dark-mode) .title {
 				color: #ffffff;
 			}
-
 			:global(.dark-mode) .date {
 				color: #b0b6c6;
 			}
-
 			:global(.dark-mode) .description {
-				color: rgba(255, 255, 255, 0.95);
+				color: rgba(255, 255, 255, 0.9);
 			}
-
+			:global(.dark-mode) li {
+				border-bottom-color: rgba(255, 255, 255, 0.1);
+			}
 			:global(.dark-mode) .section-header h1 {
 				color: #ffffff;
 			}
-
 			:global(.dark-mode) .section-header p {
 				color: #b0b6c6;
-			}
-
-			:global(.dark-mode) .post-item {
-				background-color: #232a3b;
-				transition:
-					background-color 0.2s ease,
-					box-shadow 0.2s ease;
-			}
-
-			:global(.dark-mode) .post-item:hover {
-				background-color: #2a3247;
 			}
 
 			/* System preference dark mode */
@@ -111,42 +96,20 @@ const sortedPosts = categorySlug
 				:global(:not(.light-mode):not(.dark-mode)) .title {
 					color: #ffffff;
 				}
-
 				:global(:not(.light-mode):not(.dark-mode)) .date {
 					color: #b0b6c6;
 				}
-
 				:global(:not(.light-mode):not(.dark-mode)) .description {
-					color: rgba(255, 255, 255, 0.95);
+					color: rgba(255, 255, 255, 0.9);
 				}
-
+				:global(:not(.light-mode):not(.dark-mode)) li {
+					border-bottom-color: rgba(255, 255, 255, 0.1);
+				}
 				:global(:not(.light-mode):not(.dark-mode)) .section-header h1 {
 					color: #ffffff;
 				}
-
 				:global(:not(.light-mode):not(.dark-mode)) .section-header p {
 					color: #b0b6c6;
-				}
-
-				:global(:not(.light-mode):not(.dark-mode)) .post-item {
-					background-color: #232a3b;
-					transition:
-						background-color 0.2s ease,
-						box-shadow 0.2s ease;
-				}
-
-				:global(:not(.light-mode):not(.dark-mode)) .post-item:hover {
-					background-color: #2a3247;
-				}
-			}
-
-			@media (max-width: 720px) {
-				ul {
-					gap: 0.5em;
-				}
-				li {
-					width: 100%;
-					margin-bottom: 1em;
 				}
 			}
 		</style>
