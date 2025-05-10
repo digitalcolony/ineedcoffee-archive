@@ -39,7 +39,7 @@ This process is repeated, filtering out the caffeine from the water and recircul
 
 ### Low Caffeine or No Caffeine Plants
 
-Lastly, scientists and plant breeders are working on developing a coffee plant that does not contain caffeine or has lower amounts of caffeine. One of 2008’s “most interesting new species discovered by scientists” is the first known [coffee plant that contains no caffeine](http://ineedcoffee.com/the-naturally-caffeine-free-coffee-plant/). It is known as Charrier coffee and was discovered in Cameroon.\[5\] They are hoping to use this new species to breed more naturally caffeine-free coffees.
+Lastly, scientists and plant breeders are working on developing a coffee plant that does not contain caffeine or has lower amounts of caffeine. One of 2008’s “most interesting new species discovered by scientists” is the first known [coffee plant that contains no caffeine](/the-naturally-caffeine-free-coffee-plant/). It is known as Charrier coffee and was discovered in Cameroon.\[5\] They are hoping to use this new species to breed more naturally caffeine-free coffees.
 
 There are currently a few other coffee plants that are low in caffeine, but none of these have met the taste standards that consumers demand.\[6\] Other scientists are going down the genetic engineering road and have discovered the enzymes that are involved in the caffeine-making process. Currently, their genetically modified coffee plants have 70% less caffeine.\[7\]
 

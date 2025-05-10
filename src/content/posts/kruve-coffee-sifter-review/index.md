@@ -90,6 +90,6 @@ It’s not cheap at $129, but we can recommend this as a way to not only increas
 *Kruve Sifter  
 *
 
-[Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) – INeedCoffee photo tutorial of different coffee grind sizes.
+[Coffee Grind Chart](/coffee-grind-chart/) – INeedCoffee photo tutorial of different coffee grind sizes.
 
 *Disclosure: INeedCoffee was sent this product at no cost, which did not affect its review.*

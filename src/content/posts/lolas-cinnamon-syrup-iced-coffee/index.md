@@ -43,6 +43,6 @@ Having devised this iced coffee infusion with coffee syrup means I now enjoy swe
 
 ### Resources
 
-[The Coffee Avocado Shake Recipe](http://ineedcoffee.com/the-coffee-avocado-shake/) – A delicious coffee-based drink recipe from the Philippines.
+[The Coffee Avocado Shake Recipe](/the-coffee-avocado-shake/) – A delicious coffee-based drink recipe from the Philippines.
 
-[Lola’s Iced Chocolate Espresso](http://ineedcoffee.com/lolas-iced-chocolate-espresso/) – Another drink recipe from Lola.
+[Lola’s Iced Chocolate Espresso](/lolas-iced-chocolate-espresso/) – Another drink recipe from Lola.

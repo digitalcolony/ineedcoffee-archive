@@ -58,6 +58,6 @@ If you’ve noticed disruptions in your mental state, appetite, and nightly slee
 
 [Top 10 Coffee Consuming Nations](https://www.worldatlas.com/articles/top-10-coffee-consuming-nations.html) – From World Atlas.
 
-[The accelerated Caffeine Detox](https://ineedcoffee.com/accelerated-caffeine-detox/) – INeedCoffee article by Rachel Elliot covers three coffee detox strategies.
+[The accelerated Caffeine Detox](/accelerated-caffeine-detox/) – INeedCoffee article by Rachel Elliot covers three coffee detox strategies.
 
-[The Quantified Coffee Drinker](http://ineedcoffee.com/the-quantified-coffee-drinker/) – A primer on collecting and measuring personal data to determine optimal coffee intake.
+[The Quantified Coffee Drinker](/the-quantified-coffee-drinker/) – A primer on collecting and measuring personal data to determine optimal coffee intake.

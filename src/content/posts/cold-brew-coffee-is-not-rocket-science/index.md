@@ -19,7 +19,7 @@ It is that time of year again when coffee shops start selling overpriced cold-br
 3.  Done.
 4.  At this point, you can add more water, milk, or even Baileys Irish Cream.
 
-The only question is how do you want to filter the coffee? You could use the classic [Toddy](http://ineedcoffee.com/cold-brew-coffee-with-the-toddy-coffee-maker/), the [Primula](http://ineedcoffee.com/making-cold-brew-coffee-with-the-primula-coffee-maker/), or you could [build your own](http://ineedcoffee.com/cold-brewed-coffee-on-the-cheap/) on the cheap. In this tutorial, we are going to use the Reusable Cold Brew Coffee Filter Pouch by Madesco and a glass jar. No plugs or drilling or special filters. This is about as easy as coffee brewing can get.
+The only question is how do you want to filter the coffee? You could use the classic [Toddy](/cold-brew-coffee-with-the-toddy-coffee-maker/), the [Primula](/making-cold-brew-coffee-with-the-primula-coffee-maker/), or you could [build your own](/cold-brewed-coffee-on-the-cheap/) on the cheap. In this tutorial, we are going to use the Reusable Cold Brew Coffee Filter Pouch by Madesco and a glass jar. No plugs or drilling or special filters. This is about as easy as coffee brewing can get.
 
 For this tutorial, we are using Madesco’s Reusable Cold Brew Coffee Pouch in its basic size, which is perfect for a quart-sized container. If you need to make much larger quantities, Madesco also has a 5-gallon option.
 
@@ -78,7 +78,7 @@ Empty the grounds inside the pouch into a compost container or your garden. Turn
 
 ### #7 Serve the Coffee Concentrate
 
-This is where the cold brew gets fun. You can decide how strong you like it based on your tastes. I experimented with adding 2/3 of a mug filled with concentrate and 1/3 water. You can drink it cold or heat it up on a stove or microwave. You can also use cold brew concentrate for blended iced coffee drinks and [coffee martinis](http://ineedcoffee.com/the-coffee-martini/).
+This is where the cold brew gets fun. You can decide how strong you like it based on your tastes. I experimented with adding 2/3 of a mug filled with concentrate and 1/3 water. You can drink it cold or heat it up on a stove or microwave. You can also use cold brew concentrate for blended iced coffee drinks and [coffee martinis](/the-coffee-martini/).
 
 ![iced cold brew coffee](iced-cold-brew-coffee-650x428.jpg)
 
@@ -98,7 +98,7 @@ Cold-brew is this simple. Cold brew coffee is not rocket science.
 
 ### Resources
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/)  – INeedCoffee has several cold brew coffee tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/)  – INeedCoffee has several cold brew coffee tutorials.
 
 *Disclosure: INeedCoffee received a Cold Brew Coffee Filter Pouch from Madesco to complete this tutorial.* 
 

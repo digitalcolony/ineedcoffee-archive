@@ -66,6 +66,6 @@ In the battle between Steeped Coffee and The Bripe, the clear winner is Steeped 
 
 ### Resources
 
-[Making Coffee With the Cowboy Joe Coffee Brewer](http://ineedcoffee.com/making-coffee-with-the-cowboy-joe-coffee-brewer/) – Review and tutorial of a pour-over coffee brewer ideal for camping.
+[Making Coffee With the Cowboy Joe Coffee Brewer](/making-coffee-with-the-cowboy-joe-coffee-brewer/) – Review and tutorial of a pour-over coffee brewer ideal for camping.
 
 *Title photo by [Julius Ulbrich](https://unsplash.com/@juliusulbrich).*

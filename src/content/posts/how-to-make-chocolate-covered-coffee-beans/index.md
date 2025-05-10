@@ -89,4 +89,4 @@ There are many recipes online for making chocolate-covered coffee or espresso be
 
 [Bain-marie](https://en.wikipedia.org/wiki/Bain-marie) – Wikipedia page on this cooking technique.
 
-[Chocolate Covered Espresso Beans](http://ineedcoffee.com/chocolate-covered-espresso-beans/) – INeedCoffee recipe.
+[Chocolate Covered Espresso Beans](/chocolate-covered-espresso-beans/) – INeedCoffee recipe.

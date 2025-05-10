@@ -14,7 +14,7 @@ wordpressId: 363
 
 The Aerobie AeroPress is a single-cup coffee brewing system that is excellent for traveling or as a solution for quality office coffee. The system is priced between $25 and $30, which I find reasonable. In addition to the core brewing system, you will get 350 AeroPress filters and a holder for them.
 
-The device shares similarities with several other [coffee brewing methods](http://ineedcoffee.com/coffee-brewing-guide/). It uses a plunger to force water through the coffee, which will be familiar to [French press](http://ineedcoffee.com/press-pot-tutorial/) users. The pressurization in the plunging action is similar to that of an espresso machine. Let me be clear: this is neither an espresso machine nor a press pot. Compared to other brewing methods, I find the richness of flavor comparable to French press coffee, while the smoothness is more like a Cafe Americano.
+The device shares similarities with several other [coffee brewing methods](/coffee-brewing-guide/). It uses a plunger to force water through the coffee, which will be familiar to [French press](/press-pot-tutorial/) users. The pressurization in the plunging action is similar to that of an espresso machine. Let me be clear: this is neither an espresso machine nor a press pot. Compared to other brewing methods, I find the richness of flavor comparable to French press coffee, while the smoothness is more like a Cafe Americano.
 
 This AeroPress brewing system makes coffee by forcing water through the coffee under pressure. The result is a concentrated brew of coffee that you can then use for different purposes. These instructions focus on brewing the coffee and then diluting it with hot water to *normal* strength.
 
@@ -47,7 +47,7 @@ Place the filter into the bottom of the brewing chamber and twist it into place.
 
 ### #3 Add Coffee
 
-Using the scoop that came with the AeroPress, measure two scoops of coffee for a 16-oz mug. You’ll want to experiment a bit with your grinder and taste preferences when selecting the grind, but in short, a grind between espresso and drip is a good target to shoot for. See our [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) for a visual explanation.
+Using the scoop that came with the AeroPress, measure two scoops of coffee for a 16-oz mug. You’ll want to experiment a bit with your grinder and taste preferences when selecting the grind, but in short, a grind between espresso and drip is a good target to shoot for. See our [Coffee Grind Chart](/coffee-grind-chart/) for a visual explanation.
 
 If you misplace your Aeropress scoop, two scoops equal 20-22 grams of coffee.
 
@@ -105,6 +105,6 @@ Remove the filter cap from the AeroPress brewer and push the plunger the remaini
 
 ### Resources
 
-[The Upside Down AeroPress Brewing Tutorial](http://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/) – Our detailed tutorial explores other variables you can manipulate when making coffee with an AeroPress.
+[The Upside Down AeroPress Brewing Tutorial](/upside-aeropress-coffee-brewing-tutorial/) – Our detailed tutorial explores other variables you can manipulate when making coffee with an AeroPress.
 
 [Large Mug Hack](https://www.youtube.com/watch?v=4rDzPLz7YjM) – A short video showing how to make AeroPress coffee into a wide mug.

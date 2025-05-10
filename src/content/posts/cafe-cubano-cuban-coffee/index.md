@@ -53,8 +53,8 @@ Pour the hot milk into a mug, filling it almost to the top. Throw in a *tacita* 
 
 ### Resources
 
-[Stovetop Espresso Brewing Tutorial](http://ineedcoffee.com/stovetop-espresso-brewing-tutorial/) – An updated step-by-step brewing tutorial.
+[Stovetop Espresso Brewing Tutorial](/stovetop-espresso-brewing-tutorial/) – An updated step-by-step brewing tutorial.
 
-[Moka Pot Stove](http://ineedcoffee.com/moka-pot-stove/) – How to build your burner for the Moka pot.
+[Moka Pot Stove](/moka-pot-stove/) – How to build your burner for the Moka pot.
 
-[The Story of the Bialetti Moka Express](http://ineedcoffee.com/the-story-of-the-bialetti-moka-express/) – The history of the Bialetti Moka Pot.
+[The Story of the Bialetti Moka Express](/the-story-of-the-bialetti-moka-express/) – The history of the Bialetti Moka Pot.

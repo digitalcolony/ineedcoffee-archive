@@ -24,6 +24,6 @@ wordpressId: 488
 
 ![mary had a little lamb](marys-lamb500.jpg)
 
-Previous: [Decaffeinated Coffee Comics](http://ineedcoffee.com/decaffeinated-coffee-comics/)
+Previous: [Decaffeinated Coffee Comics](/decaffeinated-coffee-comics/)
 
-Next: [Decaffeinated Coffee Comics 3](http://ineedcoffee.com/decaffeinated-coffee-comics-3/)
+Next: [Decaffeinated Coffee Comics 3](/decaffeinated-coffee-comics-3/)

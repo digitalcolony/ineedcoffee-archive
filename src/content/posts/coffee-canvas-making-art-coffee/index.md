@@ -59,6 +59,6 @@ At this point, the piece is essentially done. I apply a few layers of varnish to
 
 ### Resources
 
-[The Coffee Art Corporation](http://ineedcoffee.com/the-coffee-art-corporation/) – INeedCoffee contribution by Ryan L Lewis.
+[The Coffee Art Corporation](/the-coffee-art-corporation/) – INeedCoffee contribution by Ryan L Lewis.
 
-[Coffee Art – Painting With Brewed Coffee](http://ineedcoffee.com/coffee-art/) – INeedCoffee contribution by Andy Saur and Angel Sarkela.
+[Coffee Art – Painting With Brewed Coffee](/coffee-art/) – INeedCoffee contribution by Andy Saur and Angel Sarkela.

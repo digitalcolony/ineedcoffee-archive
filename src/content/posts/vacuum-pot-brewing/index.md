@@ -76,10 +76,10 @@ I hope these general tips will assist you in your vac pot brewing ventures.
 
 ### Resources
 
-[Vac Pot Brewing with the Yama Syphon](http://ineedcoffee.com/vac-pot-brewing-with-the-yama-syphon/) – A brewing tutorial for the Yama.
+[Vac Pot Brewing with the Yama Syphon](/vac-pot-brewing-with-the-yama-syphon/) – A brewing tutorial for the Yama.
 
-[Vac Pot Brewing with the Bodum Sanos](http://ineedcoffee.com/vac-pot-brewing-with-the-bodum-santos/) – INeedCoffee coffee brewing tutorial.
+[Vac Pot Brewing with the Bodum Sanos](/vac-pot-brewing-with-the-bodum-santos/) – INeedCoffee coffee brewing tutorial.
 
-[Vac Pot Brewing with the Starbucks Utopia](http://ineedcoffee.com/vac-pot-brewing-with-the-starbucks-utopia/) – INeedCoffee coffee brewing tutorial.
+[Vac Pot Brewing with the Starbucks Utopia](/vac-pot-brewing-with-the-starbucks-utopia/) – INeedCoffee coffee brewing tutorial.
 
-[Vac Pot Primer](http://ineedcoffee.com/vacuum-pot-brewing/) – An article on the rich history behind vacuum pot coffee brewers.
+[Vac Pot Primer](/vacuum-pot-brewing/) – An article on the rich history behind vacuum pot coffee brewers.

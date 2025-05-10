@@ -16,7 +16,7 @@ Cascara has been gaining popularity in coffee circles in the past few years. Wit
 
 Cascara is the dried outer skin of a coffee cherry. In Spanish, cascara means peel or fruit skin. It is collected during the pulping process. Usually, the coffee producer uses the wet production method, but some cascara is now being collected from producers using natural production. These cascara skins are sometimes dried to be used as tea.
 
-Cascara is not technically tea, as tea comes from the camellia sinensis plant. This is explained in our article [A Coffee Lover’s Guide to Tea](http://ineedcoffee.com/a-coffee-lovers-guide-to-tea/). However, it is being used increasingly to make a tea-like beverage. When brewed as tea, cascara is delicious. It tastes fruity with notes of cranberries and honey. And cascara tastes great both hot and iced.
+Cascara is not technically tea, as tea comes from the camellia sinensis plant. This is explained in our article [A Coffee Lover’s Guide to Tea](/a-coffee-lovers-guide-to-tea/). However, it is being used increasingly to make a tea-like beverage. When brewed as tea, cascara is delicious. It tastes fruity with notes of cranberries and honey. And cascara tastes great both hot and iced.
 
 In this tutorial, we will make a pot of cascara tea using a 34-ounce French Press. You can use a mason jar if you don’t have a French Press. Using the French Press just makes the filtering process easier.
 
@@ -70,7 +70,7 @@ Until now, we have just made regular cascara tea. We can also make cascara conce
 
 For cascara concentrates, we are going to increase our ratio to 10:1, which means using 90 grams of cascara for our 34-ounce French Press. We will also extend our brew time to 15 minutes.
 
-Another concentrated brewing option is to brew the cascara like you would a [cold brew coffee in a French press](http://ineedcoffee.com/making-cold-brew-coffee-french-press/). Place the cascara in the French press, add cold water, and allow it to sit on the counter for 12-24 hours. This is one way to make a stronger extract, but it is not necessary to wait that long. My preference is to increase the amount of cascara by 50% and brew for 15 minutes. Adjust according to taste.
+Another concentrated brewing option is to brew the cascara like you would a [cold brew coffee in a French press](/making-cold-brew-coffee-french-press/). Place the cascara in the French press, add cold water, and allow it to sit on the counter for 12-24 hours. This is one way to make a stronger extract, but it is not necessary to wait that long. My preference is to increase the amount of cascara by 50% and brew for 15 minutes. Adjust according to taste.
 
 ### How Much Caffeine is in Cascara?
 

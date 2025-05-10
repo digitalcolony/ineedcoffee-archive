@@ -36,13 +36,13 @@ The preparation is relatively simple. You take water and sugar (recipe in the li
 
 You then sip slowly and enjoy. The slowly part is key here because if you do not, you learn the hard way what mouth full of coffee and cardamom powder tastes like.
 
-**Recipe: [Preparing a Traditional Turkish Coffee](http://ineedcoffee.com/preparing-a-traditional-turkish-coffee/) (I Need Coffee)**
+**Recipe: [Preparing a Traditional Turkish Coffee](/preparing-a-traditional-turkish-coffee/) (I Need Coffee)**
 
 ### #2 Vietnamese Iced Coffee
 
 ![Vietnamese Coffee Brewer](viet-brewing-setup.jpg)
 
-*From [How to Brew Vietnamese Coffee](http://ineedcoffee.com/brew-vietnamese-coffee/)*
+*From [How to Brew Vietnamese Coffee](/brew-vietnamese-coffee/)*
 
 Next, we head over to Asia, where hot drinks have been commonplace for eons.
 
@@ -50,7 +50,7 @@ Vietnamese coffee has gained popularity over recent years, so you have probably 
 
 It is essentially a two-layer ice coffee with sweetened condensed milk as the base with black coffee in the middle and foam on top. It is traditionally served over ice and made using robusta beans (not my favorite) but using arabica and drinking it hot is just as enjoyable.
 
-**Recipe: [How to Brew Vietnamese Iced Coffee](http://ineedcoffee.com/brew-vietnamese-coffee/) (I Need Coffee)**
+**Recipe: [How to Brew Vietnamese Iced Coffee](/brew-vietnamese-coffee/) (I Need Coffee)**
 
 ### #3 Oliang (Thai Coffee)
 
@@ -60,7 +60,7 @@ It is essentially a two-layer ice coffee with sweetened condensed milk as the ba
 
 Now just a hop, skip, and a jump over to Thailand where we find Oliang or Thai iced-corn-soya bean-sesame coffee.
 
-Oliang is made by taking your coffee and additional ingredients blend (see recipe below), putting it into a [coffee sock](http://ineedcoffee.com/brewing-coffee-coffee-sock/), pouring boiling water through it, and letting it steep for ~10-15 minutes before adding sugar and pouring over ice. You then add sweetened condensed milk (how they do it on the streets of Bangkok), pop in a straw, and enjoy!
+Oliang is made by taking your coffee and additional ingredients blend (see recipe below), putting it into a [coffee sock](/brewing-coffee-coffee-sock/), pouring boiling water through it, and letting it steep for ~10-15 minutes before adding sugar and pouring over ice. You then add sweetened condensed milk (how they do it on the streets of Bangkok), pop in a straw, and enjoy!
 
 If for some reason you are opposed to the sock method, you can simply steep the coffee blend in hot water for the same time and then filter it (it won’t be traditional though).
 
@@ -100,13 +100,13 @@ To make, add a small amount of cold water, instant coffee, and sugar to a jar or
 
 You then pour the mixture over ice, add water and milk to taste, and voila, you have created a frappé!
 
-**Recipe: [Greek Frappe Recipe](http://ineedcoffee.com/greek-frappe-recipe/) (I Need Coffee)**
+**Recipe: [Greek Frappe Recipe](/greek-frappe-recipe/) (I Need Coffee)**
 
 ### #7 Swedish Egg Coffee
 
 ![swedish egg coffee ingredients](image06-650x433.jpg)
 
-*Photo by [Alex Freemon](http://ineedcoffee.com/by/alex-freemon/)*
+*Photo by [Alex Freemon](/by/alex-freemon/)*
 
 Now, we move to Scandinavia, where they have created a new take on coffee for breakfast. Popular in both Sweden and Norway, egg coffee is exactly what it sounds like.
 
@@ -114,13 +114,13 @@ To make it, you mix a raw egg with coffee grounds and a small amount of water an
 
 The result is supposedly one of the smoothest and creamiest cups of coffee you will ever have; make sure you use good eggs though.
 
-**Recipe: [Swedish Egg Coffee](http://ineedcoffee.com/the-smoothest-cup-youll-ever-drink-swedish-egg-coffee/) (INeedCoffee)**
+**Recipe: [Swedish Egg Coffee](/the-smoothest-cup-youll-ever-drink-swedish-egg-coffee/) (INeedCoffee)**
 
 ### #8 Irish Coffee
 
 ![irish-coffee](irish-coffee1.jpg)
 
-*Irish Coffee by [Chris Arnold](http://ineedcoffee.com/by/chris-arnold/)* 
+*Irish Coffee by [Chris Arnold](/by/chris-arnold/)* 
 
 Alcohol and coffee, what else do you really need? Almost everyone has heard of, if not tried, an Irish coffee, though most people simply use Baileys rather than making the real thing.
 
@@ -128,7 +128,7 @@ All you need for this bonafide beverage is your coffee of choice, Irish whiskey,
 
 It makes an excellent after-dinner dessert drink, or, you know, something for breakfast.
 
-**Recipe: [The Best Irish Coffee in the World](http://ineedcoffee.com/the-best-irish-coffee-in-the-world/) (I Need Coffee)**
+**Recipe: [The Best Irish Coffee in the World](/the-best-irish-coffee-in-the-world/) (I Need Coffee)**
 
 ### #9 Pharisäer (German Rum Coffee)
 
@@ -146,7 +146,7 @@ Similar to the Irish method, you simply take your favorite strong cup of coffee,
 
 ![cafe-de-olla-coffee](cafe-de-olla-coffee.jpg)
 
-*Cafe de Olla by [Chris Arnold](http://ineedcoffee.com/by/chris-arnold/)* 
+*Cafe de Olla by [Chris Arnold](/by/chris-arnold/)* 
 
 Nearing the end of our trip is café de olla, or Mexican cinnamon coffee. While it does not contain alcohol, it is similar to Irish coffee or a pharisäer in that it is more of a dessert than a drink, but there is no shame in that.
 
@@ -174,7 +174,7 @@ The freshly roasted beans are then ground in a mortar and pestle and added to th
 
 The entire process can take several hours and each part should be treated with reverence and respect. If you ever get the chance to attend a ceremony be sure to take advantage of the opportunity!
 
-**Ritual: [Coffee Cultures: Eritrea and Ethiopia](http://ineedcoffee.com/coffee-cultures-eritrea-and-ethiopia/)  (I Need Coffee)**
+**Ritual: [Coffee Cultures: Eritrea and Ethiopia](/coffee-cultures-eritrea-and-ethiopia/)  (I Need Coffee)**
 
 ### Conclusion
 

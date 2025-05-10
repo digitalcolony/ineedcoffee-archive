@@ -47,4 +47,4 @@ This is a healthy breakfast shake…protein, some carbs from fruit, very healthy
 
 ### Resources
 
-[The Coffee Avocado Shake](http://ineedcoffee.com/the-coffee-avocado-shake/) – Another smoothie-type recipe.
+[The Coffee Avocado Shake](/the-coffee-avocado-shake/) – Another smoothie-type recipe.

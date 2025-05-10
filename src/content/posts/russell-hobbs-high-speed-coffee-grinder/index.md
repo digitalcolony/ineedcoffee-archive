@@ -52,4 +52,4 @@ I don’t know about Chinese wiring standards (because, like everything else, it
 
 ### Resources
 
-[Choosing the Right Coffee Grinder](http://ineedcoffee.com/choosing-the-right-coffee-grinder/) – INeedCoffee article by Malcolm Pang.
+[Choosing the Right Coffee Grinder](/choosing-the-right-coffee-grinder/) – INeedCoffee article by Malcolm Pang.

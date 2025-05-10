@@ -166,12 +166,12 @@ This is just a set of guidelines and there are no hard and fast rules Everyone f
 
 ### Resources
 
-[Coffee Cupping – A Sensory Experience](http://ineedcoffee.com/coffee-cupping-a-sensory-experience/) – INeedCoffee article by John Carrier.
+[Coffee Cupping – A Sensory Experience](/coffee-cupping-a-sensory-experience/) – INeedCoffee article by John Carrier.
 
-[Espresso Blending Techniques](http://ineedcoffee.com/espresso-blending-techniques/) – Use your cupping skills to develop an espresso blend.
+[Espresso Blending Techniques](/espresso-blending-techniques/) – Use your cupping skills to develop an espresso blend.
 
-[Cupping: The Elements of Quality Coffee](http://ineedcoffee.com/cupping-the-elements-of-quality-coffee/) – INeedCoffee article by Christopher Schaefer.
+[Cupping: The Elements of Quality Coffee](/cupping-the-elements-of-quality-coffee/) – INeedCoffee article by Christopher Schaefer.
 
-[Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) – A visual chart demonstrating the different grind sizes for coffee.
+[Coffee Grind Chart](/coffee-grind-chart/) – A visual chart demonstrating the different grind sizes for coffee.
 
 *This article originally appeared on [Too Much Coffee](http://www.toomuchcoffee.com "A meeting place for European coffee enthusiasts") Copyright 2004 and is reproduced with permission. The photos are by INeedCoffee and are available for unrestricted use with attribution under the Creative Commons license.*

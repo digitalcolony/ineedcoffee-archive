@@ -28,9 +28,9 @@ Even though you can no longer purchase an AromaRoast from the store, you can sti
 
 One goal of home roasting is not to roast the beans too fast or too slow. If you roast too quickly, the beans won’t fully develop the flavors one associates with home-roasted coffee. On the other hand, if the beans take too long to roast, they are baked, which results in a very flat taste. The AromaRoast has a reputation for being underpowered.
 
-My first roast confirmed this. After 11 minutes of roasting, the beans still had a lightly roasted cinnamon hue. Another problem with the AromaRoast, besides its being underpowered, is that there is no way to monitor the roast visually. Other roasters such as the [Hearthware](http://ineedcoffee.com/home-roasting-with-the-hearthware-precision/) and the [Fresh Roast](http://ineedcoffee.com/home-roasting-coffee-with-the-fresh-roast/) have a glass casing so the operator can stop the roast when the roast gets to the desired color. Getting perfect coffee out of the AromaRoast would take a little practice.
+My first roast confirmed this. After 11 minutes of roasting, the beans still had a lightly roasted cinnamon hue. Another problem with the AromaRoast, besides its being underpowered, is that there is no way to monitor the roast visually. Other roasters such as the [Hearthware](/home-roasting-with-the-hearthware-precision/) and the [Fresh Roast](/home-roasting-coffee-with-the-fresh-roast/) have a glass casing so the operator can stop the roast when the roast gets to the desired color. Getting perfect coffee out of the AromaRoast would take a little practice.
 
-To roast the beans quicker, I needed more power or some way to trap the heat. I decided to use the box concept Ryan Jacobs described in his article [Cold Weather Roasting](http://ineedcoffee.com/cold-weather-coffee-roasting/). At this stage, I made three big mistakes.
+To roast the beans quicker, I needed more power or some way to trap the heat. I decided to use the box concept Ryan Jacobs described in his article [Cold Weather Roasting](/cold-weather-coffee-roasting/). At this stage, I made three big mistakes.
 
 The first mistake I made was using a small box, which ended up trapping way too much heat. The second mistake I made was bending the flap back, which trapped even more heat. Finally, the biggest mistake I made was leaving the roast unattended.
 

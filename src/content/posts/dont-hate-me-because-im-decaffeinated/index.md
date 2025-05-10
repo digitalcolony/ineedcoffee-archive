@@ -23,7 +23,7 @@ And then last week, I was innocently flipping through a magazine at the doctor�
 Ah-ha! It’s starting to fit together. Ever since I had my daughter, who is now 4, people have commented on how nice my skin looks. Lest you think I’m being arrogant, I can’t actually tell what these people mean. To me, my skin looks the way it always looked. And I didn’t use to hear such comments.
 
 ![decaf coffee comic](decaf-coffee-comic1.jpg)  
-*Problem? Decaf by [Todd Zapoli](http://ineedcoffee.com/by/todd-zapoli/)*
+*Problem? Decaf by [Todd Zapoli](/by/todd-zapoli/)*
 
 But I get them a lot now; one person even told me my skin looks airbrushed. Again, lest you hate me, be assured that I have many other problems. For instance, no one walks up to me with a sandwich and says, “It looks like you are wasting away, my dear. Eat this.”
 

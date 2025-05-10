@@ -61,6 +61,6 @@ Let simmer for 1-2 minutes more, remove from the stove, pour, and enjoy!
 
 ### Resources
 
-[A Coffee Lover’s Guide to Tea](http://ineedcoffee.com/a-coffee-lovers-guide-to-tea/) – INeedCoffee article
+[A Coffee Lover’s Guide to Tea](/a-coffee-lovers-guide-to-tea/) – INeedCoffee article
 
-[Coffee and Tea Tasting Notes For Beginners](http://ineedcoffee.com/coffee-and-tea-tasting-notes-for-beginners/) – A method for learning which teas you like the best.
+[Coffee and Tea Tasting Notes For Beginners](/coffee-and-tea-tasting-notes-for-beginners/) – A method for learning which teas you like the best.

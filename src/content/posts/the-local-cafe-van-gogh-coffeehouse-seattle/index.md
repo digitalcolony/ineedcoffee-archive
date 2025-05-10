@@ -70,7 +70,7 @@ So the next chance you get to check out that local cafe – just realize that th
 
 I hope to continue sharing my own experiences of different cafes around here – simply so that I can show you the complete uniqueness that each of them presents, and how truly inspiring they can be.
 
-*This article is courtesy of [Extracted Magazine](http://ineedcoffee.com/go/coffeeloversmagazine/).*
+*This article is courtesy of [Extracted Magazine](/go/coffeeloversmagazine/).*
 
 ### Resources
 

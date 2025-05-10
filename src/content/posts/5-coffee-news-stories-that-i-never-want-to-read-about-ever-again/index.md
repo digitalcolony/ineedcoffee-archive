@@ -32,18 +32,18 @@ Stop sending me links to stories about the latest animal that they have tricked 
 
 At the time of this writing, the Starbucks Corporation is worth $40 Billion (USD). Even though they are massively wealthy, they have figured out how to get millions of dollars in free marketing. Every month or so, they send out a press release about something they are up to, and lazy reporters everywhere rearrange the words and publish it as “news”. Meanwhile, small independent coffee businesses with no marketing budgets doing far more innovative stuff with coffee can barely get a mention in their neighborhood blog.
 
-Several people have sent me the latest Starbucks “news” story about some $7 cup of coffee. Boring. In 2008, independent coffee shops charged between [$9 and $15 for a cup of Panama Esmeralda](http://ineedcoffee.com/the-2-best-cups-of-coffee-ive-ever-had/). Yeah, that is where independent coffee was four years ago. They sought the highest quality micro-lots and paid top dollar for those beans. Only for them, it wasn’t a marketing gimmick. Their mission was to push the envelope in terms of coffee quality, which they continue to do.
+Several people have sent me the latest Starbucks “news” story about some $7 cup of coffee. Boring. In 2008, independent coffee shops charged between [$9 and $15 for a cup of Panama Esmeralda](/the-2-best-cups-of-coffee-ive-ever-had/). Yeah, that is where independent coffee was four years ago. They sought the highest quality micro-lots and paid top dollar for those beans. Only for them, it wasn’t a marketing gimmick. Their mission was to push the envelope in terms of coffee quality, which they continue to do.
 
 ![Trabant Clover board](clover-coffee-board1.jpg)  
 *My first Clover Coffee was at Seattle’s Trabant Coffee in May 2007. This was a full year before Starbucks purchased the company and even longer before they began deploying them into stores.*
 
-Please don’t send me any news items related to Starbucks\*. When I look back at my coffee education, I consider them to be middle school at best. INeedCoffee exists to empower coffee drinkers to make better coffee at home. Tutorials on this site will teach you how to [brew](http://ineedcoffee.com/section/brewing-coffee/) and [roast](http://ineedcoffee.com/section/roasting-coffee/) coffee, which is superior to anything Starbucks can do.
+Please don’t send me any news items related to Starbucks\*. When I look back at my coffee education, I consider them to be middle school at best. INeedCoffee exists to empower coffee drinkers to make better coffee at home. Tutorials on this site will teach you how to [brew](/section/brewing-coffee/) and [roast](/section/roasting-coffee/) coffee, which is superior to anything Starbucks can do.
 
 *\* This also extends to Tully’s, Dunkin Donuts, Mcdonald’s, or any other publicly traded corporation that sells coffee.*
 
 ### #4 Automated Single Coffee Brewers
 
-When did coffee become so difficult to make that we needed to fill our counters and break rooms with stale pod-based coffee brewers? Is making coffee really that hard or messy? May I never receive another email that mentions [Keurig](http://ineedcoffee.com/alternatives-to-using-a-keurig-coffee-maker/), [Senseo](http://ineedcoffee.com/senseo-coffee-brewing-revisited/), or whatever the latest mediocre pod-based coffee maker happens to be. These machines are the enemy of good coffee. They promote the belief that making coffee is hard and messy. It isn’t.
+When did coffee become so difficult to make that we needed to fill our counters and break rooms with stale pod-based coffee brewers? Is making coffee really that hard or messy? May I never receive another email that mentions [Keurig](/alternatives-to-using-a-keurig-coffee-maker/), [Senseo](/senseo-coffee-brewing-revisited/), or whatever the latest mediocre pod-based coffee maker happens to be. These machines are the enemy of good coffee. They promote the belief that making coffee is hard and messy. It isn’t.
 
 ### #5 Any Coffee News Item Featured on the Homepage of Major News Outlets
 

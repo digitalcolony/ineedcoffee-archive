@@ -12,7 +12,7 @@ updatedAt: "2025-03-16T19:08:15"
 wordpressId: 513
 ---
 
-A while back, I invited some *INeedCoffee* contributors to submit stories of their worst cup of coffee ever. Alex Scofield did such a good job on [Alex’s Worst Cup of Coffee Ever](http://ineedcoffee.com/alexs-worst-cup-of-coffee-ever/) that I never told my tale. I think it is time I shared my worst cup of coffee ever story.
+A while back, I invited some *INeedCoffee* contributors to submit stories of their worst cup of coffee ever. Alex Scofield did such a good job on [Alex’s Worst Cup of Coffee Ever](/alexs-worst-cup-of-coffee-ever/) that I never told my tale. I think it is time I shared my worst cup of coffee ever story.
 
 I was 17 years old, and I had never tasted coffee. I had no interest in the beverage. I was interested in finding a way to pay for college, so I joined the Army National Guard. My basic training was at Fort Benning, Georgia. On a military base (or at least ours), all the soldiers needed to have their shirt sleeves up or down. We were coming out of summer and heading into the cool autumn, so our sleeves were still up. Each morning got colder and colder.
 

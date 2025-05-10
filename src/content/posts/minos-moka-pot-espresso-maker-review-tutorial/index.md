@@ -129,7 +129,7 @@ At the time of this writing, the 3-cup Minos costs $80 USD, which is triple the 
 
 ### Taste
 
-I could not tell much difference in the taste between the Minos and the Bialetti. Both produced a rich, strong *espresso-like* coffee. I use the term *espresso-like* for reasons explained in the article [Making Lattes Without an Espresso Machine](http://ineedcoffee.com/making-lattes-without-espresso-machine/).
+I could not tell much difference in the taste between the Minos and the Bialetti. Both produced a rich, strong *espresso-like* coffee. I use the term *espresso-like* for reasons explained in the article [Making Lattes Without an Espresso Machine](/making-lattes-without-espresso-machine/).
 
 Some users of the Bialetti have reported a slightly metallic taste, which is not present in stainless steel Moka Pots such as the Minos. My Bialetti did not impart a metallic taste, but it is several years old. Had I tested with a brand new Bialetti, perhaps I would have given the taste edge to the Minos.
 
@@ -147,6 +147,6 @@ If Minos redesigned the handle so that the silicon part covered the entire handl
 
 ### Resources
 
-[Stovetop Espresso Brewing Tutorial](http://ineedcoffee.com/stovetop-espresso-brewing-tutorial/) – INeedCoffee tutorial.
+[Stovetop Espresso Brewing Tutorial](/stovetop-espresso-brewing-tutorial/) – INeedCoffee tutorial.
 
 *Minos provided INeedCoffee with a brewer for this review/tutorial, which did not affect our review.*

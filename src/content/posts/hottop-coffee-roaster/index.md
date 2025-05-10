@@ -187,4 +187,4 @@ Outstanding!
 
 ### Resources
 
-[Hottop KN-8828P Coffee Bean Roaster First Look](http://ineedcoffee.com/hottop-kn-8828p-coffee-bean-roaster-first-look/) – 2008 article on the Hottop KN-8828P.
+[Hottop KN-8828P Coffee Bean Roaster First Look](/hottop-kn-8828p-coffee-bean-roaster-first-look/) – 2008 article on the Hottop KN-8828P.

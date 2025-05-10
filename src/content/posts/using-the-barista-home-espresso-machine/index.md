@@ -65,7 +65,7 @@ If you have just finished steaming milk, wait for the light to turn green again.
 
 ### Tamping the espresso
 
-For more information on the importance and art of tamping, read the [Espresso Tamping Visual Tutorial](http://ineedcoffee.com/espresso-tamping/). Once you’ve filled the portafilter and tamped the espresso, align the handle so that it is about 45 degrees to your left, and insert it into the group head. Then, twist the handle back so that it fits tight.
+For more information on the importance and art of tamping, read the [Espresso Tamping Visual Tutorial](/espresso-tamping/). Once you’ve filled the portafilter and tamped the espresso, align the handle so that it is about 45 degrees to your left, and insert it into the group head. Then, twist the handle back so that it fits tight.
 
 ### Pulling the shot
 
@@ -87,7 +87,7 @@ In addition to the basic recipes we have covered here, you can make many more cr
 
 ### Resources
 
-[Espresso Tamping Visual Tutorial](http://ineedcoffee.com/espresso-tamping/) – Guide to tamping espresso.
+[Espresso Tamping Visual Tutorial](/espresso-tamping/) – Guide to tamping espresso.
 
 [1998 Starbucks Barista home espresso machine demo tape](https://www.youtube.com/watch?v=3X5i2SZ9zGM) – YouTube
 

@@ -33,13 +33,13 @@ For several months, I made espresso from inside my desk. A few co-workers would 
 
 ### The Journey Part 2
 
-After I left IBM and started working for Nielsen Media Research, there was no need for clandestine coffee. Nielsen was way more laid back. It was here that I set up a drip machine on my desk and started a coffee club. Every morning at 9 am and afternoon at 1 pm, I would brew up some quality coffee from a local roaster or one of my [home roast](http://ineedcoffee.com/roast-your-own-coffee/) creations. Although I didn’t charge for coffee, a 50-cent donation to cover the cost of the beans was accepted. Of course, those that didn’t donate didn’t get invited back into the coffee club.
+After I left IBM and started working for Nielsen Media Research, there was no need for clandestine coffee. Nielsen was way more laid back. It was here that I set up a drip machine on my desk and started a coffee club. Every morning at 9 am and afternoon at 1 pm, I would brew up some quality coffee from a local roaster or one of my [home roast](/roast-your-own-coffee/) creations. Although I didn’t charge for coffee, a 50-cent donation to cover the cost of the beans was accepted. Of course, those that didn’t donate didn’t get invited back into the coffee club.
 
 After a month or so, I had employees waiting in line as the coffee brewed. In fact, there was so much interest in my coffee that the club had a waiting list. As soon as one member didn’t show up at the moment it was brewed, that person was replaced by another. Running your own coffee club works if it doesn’t require too much effort to administer the club. When I left Nielsen, I donated my old drip pot to my former co-workers. The coffee club still operates out of my old cubicle.
 
 ### The Journey Part 3
 
-The third and final part of my coffee journey is the [French press](http://ineedcoffee.com/press-pot-tutorial/). With a French press, I don’t need to run a coffee club or operate electrical appliances at my desk. The only thing I need for the French press is hot water. Other employees use the hot water dispenser to make hot tea, and it works fine. Now, I can make a single mug of coffee whenever I want using my own beans. If you have a hot water dispenser, I highly encourage you to buy a French press for your desk and bring in your own supply of coffee every morning.
+The third and final part of my coffee journey is the [French press](/press-pot-tutorial/). With a French press, I don’t need to run a coffee club or operate electrical appliances at my desk. The only thing I need for the French press is hot water. Other employees use the hot water dispenser to make hot tea, and it works fine. Now, I can make a single mug of coffee whenever I want using my own beans. If you have a hot water dispenser, I highly encourage you to buy a French press for your desk and bring in your own supply of coffee every morning.
 
 ![french press](tall-french-press-pot.jpg)  
 *Part 3 of the Office Coffee Journey was the French Press.*
@@ -50,4 +50,4 @@ Just because you sold your soul to work for a company that doesn’t love coffee
 
 ### Resources
 
-[Troubleshooting French Press Coffee](http://ineedcoffee.com/troubleshooting-french-press-coffee/) – How to make better French press coffee.
+[Troubleshooting French Press Coffee](/troubleshooting-french-press-coffee/) – How to make better French press coffee.

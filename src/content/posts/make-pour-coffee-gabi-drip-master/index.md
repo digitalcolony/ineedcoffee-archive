@@ -44,7 +44,7 @@ This is a different recipe than the one included in the instructions. I think mi
 
 ### Grinding the Coffee
 
-Since this is a flat-bottom pour-over brewer, I used a [medium grind](http://ineedcoffee.com/coffee-grind-chart/), like I would for the [Kalita Wave](http://ineedcoffee.com/kalita-wave-coffee-brewing-tutorial/) or the [Stagg Dripper](http://ineedcoffee.com/stagg-pour-coffee-dripper-review-tutorial/).
+Since this is a flat-bottom pour-over brewer, I used a [medium grind](/coffee-grind-chart/), like I would for the [Kalita Wave](/kalita-wave-coffee-brewing-tutorial/) or the [Stagg Dripper](/stagg-pour-coffee-dripper-review-tutorial/).
 
 Brewing the Coffee
 ------------------
@@ -117,10 +117,10 @@ I’m a fan of the Gabi Drip Master. When I first stacked all those sections tog
 
 ### Resources
 
-[Stagg Pour-Over Coffee Dripper Review and Tutorial](http://ineedcoffee.com/stagg-pour-coffee-dripper-review-tutorial/) – Flat-bottom pour-over device.
+[Stagg Pour-Over Coffee Dripper Review and Tutorial](/stagg-pour-coffee-dripper-review-tutorial/) – Flat-bottom pour-over device.
 
-[Kalita Wave Coffee Brewing Tutorial](http://ineedcoffee.com/kalita-wave-coffee-brewing-tutorial/) – INeedCoffee brewing tutorial.
+[Kalita Wave Coffee Brewing Tutorial](/kalita-wave-coffee-brewing-tutorial/) – INeedCoffee brewing tutorial.
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – Our guide includes several different pour-over tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – Our guide includes several different pour-over tutorials.
 
 *Disclosure: INeedCoffee received a Gabi Master Dripper for this tutorial.*

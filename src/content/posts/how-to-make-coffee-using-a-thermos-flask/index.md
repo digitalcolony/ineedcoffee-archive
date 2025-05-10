@@ -80,4 +80,4 @@ If you do this process once, you will never want any other mechanized process, a
 
 [How To Make Coffee Using A Thermos Flask](https://www.youtube.com/watch?v=aElc_ZuLFbk) – 3-minute video on YouTube
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – More coffee brewing tutorials here on INeedCoffee.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – More coffee brewing tutorials here on INeedCoffee.

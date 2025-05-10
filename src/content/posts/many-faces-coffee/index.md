@@ -100,6 +100,6 @@ I wonder what other parts of the coffee plant could be equally enjoyed…
 
 Coffee Lovers Radio #7 – Interview with Lee Ayu Chupa.
 
-[Coffee From Thailand](http://ineedcoffee.com/coffee-from-thailand/) – Article by Len Brault.
+[Coffee From Thailand](/coffee-from-thailand/) – Article by Len Brault.
 
-[11 Crazy Coffee Drinks You Won’t Find on a Starbucks Menu](http://ineedcoffee.com/11-crazy-coffee-drinks-you-wont-find-on-a-starbucks-menu/) – Unique coffee drinks from around the world.
+[11 Crazy Coffee Drinks You Won’t Find on a Starbucks Menu](/11-crazy-coffee-drinks-you-wont-find-on-a-starbucks-menu/) – Unique coffee drinks from around the world.

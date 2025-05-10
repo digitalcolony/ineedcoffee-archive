@@ -43,4 +43,4 @@ Yet, I’ve been continually disappointed by the ristrettos served here in Seatt
 
 ### The Caffe Calabria Solution
 
-[Caffe Calabria](http://ineedcoffee.com/meeting-the-roaster-arne-holt-of-caffe-calabria/) of San Diego has tweaked its espresso blend to taste best as a ristretto. They will serve you a ristretto if you order an espresso. However, they will serve you two ristrettos. The result is that you taste the bold sweetness of the ristretto with the volume of an espresso. The drink isn’t cold, and the customer never feels shortchanged.
+[Caffe Calabria](/meeting-the-roaster-arne-holt-of-caffe-calabria/) of San Diego has tweaked its espresso blend to taste best as a ristretto. They will serve you a ristretto if you order an espresso. However, they will serve you two ristrettos. The result is that you taste the bold sweetness of the ristretto with the volume of an espresso. The drink isn’t cold, and the customer never feels shortchanged.

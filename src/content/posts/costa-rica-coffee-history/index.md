@@ -54,4 +54,4 @@ The awed inhabitants of the capital of Costa Rica, San Jose, attended the memora
 
 4 http://www.aventura-cafe.com/costarica-eng.htm (site down October 2014)
 
-[My Coffee Tis of Thee: America’s Patriotic Coffee History](http://ineedcoffee.com/my-coffee-tis-of-thee/) – America’s coffee history.
+[My Coffee Tis of Thee: America’s Patriotic Coffee History](/my-coffee-tis-of-thee/) – America’s coffee history.

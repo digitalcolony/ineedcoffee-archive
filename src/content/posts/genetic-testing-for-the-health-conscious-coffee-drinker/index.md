@@ -12,7 +12,7 @@ updatedAt: "2025-03-30T09:14:28"
 wordpressId: 587
 ---
 
-If you read my article [5 Coffee News Stories That I Never Want To Read About Ever Again](http://ineedcoffee.com/5-coffee-news-stories-that-i-never-want-to-read-about-ever-again/), you already know that I am tired of hearing about the health benefits of coffee. My main complaint is that we all respond differently to coffee, and that our response to coffee can change as we get older. What is observed with most people in a health study may have no relevance to you as an individual. The only data that matters is your own.
+If you read my article [5 Coffee News Stories That I Never Want To Read About Ever Again](/5-coffee-news-stories-that-i-never-want-to-read-about-ever-again/), you already know that I am tired of hearing about the health benefits of coffee. My main complaint is that we all respond differently to coffee, and that our response to coffee can change as we get older. What is observed with most people in a health study may have no relevance to you as an individual. The only data that matters is your own.
 
 For the past two years, I have tracked my daily coffee consumption and sleep quality score. I outlined this project in the article The Quantified Coffee Drinker, but I wanted more data.
 

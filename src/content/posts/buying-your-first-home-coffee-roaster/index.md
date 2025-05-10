@@ -32,7 +32,7 @@ Noise can be problematic for the new home roaster since you are learning to list
 
 ### #3 Price
 
-Home coffee roasters can be as cheap as a tray in an [oven](http://ineedcoffee.com/home-roasting-coffee-in-an-oven/) or as much as you want to spend. The [Hottop Programmable](http://ineedcoffee.com/hottop-kn-8828p-coffee-bean-roaster-first-look/) is about $1000. Roasting coffee is an intense process. Don’t expect your roaster to last as long as your coffee pot. It won’t. Almost half the roasters I’ve owned have died shortly before or after the warranty expired. If the machine you buy has a 2-year warranty, expect 2 years of life and no more. Start saving for your next machine as soon as you pull it out of the box.
+Home coffee roasters can be as cheap as a tray in an [oven](/home-roasting-coffee-in-an-oven/) or as much as you want to spend. The [Hottop Programmable](/hottop-kn-8828p-coffee-bean-roaster-first-look/) is about $1000. Roasting coffee is an intense process. Don’t expect your roaster to last as long as your coffee pot. It won’t. Almost half the roasters I’ve owned have died shortly before or after the warranty expired. If the machine you buy has a 2-year warranty, expect 2 years of life and no more. Start saving for your next machine as soon as you pull it out of the box.
 
 ### #4 Volume
 
@@ -55,10 +55,10 @@ I hope this helped. Knowing how much money you have to spend, your noise sensiti
 
 ### Resources
 
-[Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) – My tutorial on roasting coffee in the Westbend Poppery
+[Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/) – My tutorial on roasting coffee in the Westbend Poppery
 
-[Hottop KN-8828P Coffee Bean Roaster First Look](http://ineedcoffee.com/hottop-kn-8828p-coffee-bean-roaster-first-look/) – Overview of the Hottop coffee roaster.
+[Hottop KN-8828P Coffee Bean Roaster First Look](/hottop-kn-8828p-coffee-bean-roaster-first-look/) – Overview of the Hottop coffee roaster.
 
-[Home Roasting Coffee in an Oven](http://ineedcoffee.com/home-roasting-coffee-in-an-oven/) – Tutorial on roasting coffee in an oven.
+[Home Roasting Coffee in an Oven](/home-roasting-coffee-in-an-oven/) – Tutorial on roasting coffee in an oven.
 
-[Behmor 1600 Coffee Roaster Tutorial](http://ineedcoffee.com/behmor-1600-coffee-roaster-tutorial/) – How to roast coffee using the Behmor 1600.
+[Behmor 1600 Coffee Roaster Tutorial](/behmor-1600-coffee-roaster-tutorial/) – How to roast coffee using the Behmor 1600.

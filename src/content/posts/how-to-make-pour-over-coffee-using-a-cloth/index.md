@@ -80,6 +80,6 @@ Add milk and sugar to taste. You can reheat the coffee if required. Store the re
 
 ### Resources
 
-[Brewing Coffee With the Coffee Sock](http://ineedcoffee.com/brewing-coffee-coffee-sock/) – A similar coffee brewing method.
+[Brewing Coffee With the Coffee Sock](/brewing-coffee-coffee-sock/) – A similar coffee brewing method.
 
-[How To Make Coffee Using A Thermos Flask](http://ineedcoffee.com/how-to-make-coffee-using-a-thermos-flask/) – Another brewing tutorial by Allen Pais.
+[How To Make Coffee Using A Thermos Flask](/how-to-make-coffee-using-a-thermos-flask/) – Another brewing tutorial by Allen Pais.

@@ -31,7 +31,7 @@ The basic principles that need to be maintained to achieve properly brewed coffe
 
 ### Clean Water
 
-Using clean water will make a huge difference in the overall taste of your brewed coffee. It will also help you achieve consistent coffee. Having ‘off-flavors from tap water such as chlorine, iron or other minerals in your water will taint your perception of the brewed product. Since purified water has no taste or odor to begin with, it can pass no taste or odor onto your coffee. This is the best way to be able to taste your coffee in all of its intended glory. In addition to making better quality coffee, purified water has benefits for your equipment as well. Lime deposits that normally form from the continual use of unfiltered coffee will not have a chance to form in your equipment. For more information on this and cleaning your coffee equipment, read the article [Keeping Your Coffee Equipment Clean](http://ineedcoffee.com/keep-your-coffee-equipment-clean/).
+Using clean water will make a huge difference in the overall taste of your brewed coffee. It will also help you achieve consistent coffee. Having ‘off-flavors from tap water such as chlorine, iron or other minerals in your water will taint your perception of the brewed product. Since purified water has no taste or odor to begin with, it can pass no taste or odor onto your coffee. This is the best way to be able to taste your coffee in all of its intended glory. In addition to making better quality coffee, purified water has benefits for your equipment as well. Lime deposits that normally form from the continual use of unfiltered coffee will not have a chance to form in your equipment. For more information on this and cleaning your coffee equipment, read the article [Keeping Your Coffee Equipment Clean](/keep-your-coffee-equipment-clean/).
 
 To get clean water you can either buy distilled water at the store or use a water filtering device. Some of the newer automatic drip coffee makers have filters built-in with replacement filters easily available.
 
@@ -49,8 +49,8 @@ Now that we have discussed the important factors in preparing good drip coffee, 
 
 I only mention this in this article because it is an important factor in the outcome of your finished product. It does not necessarily have anything to do with your coffee maker. People always ask how strong they should brew the coffee and the answer is simple: whatever tastes right to you. A good starting point is 1 Tbsp. per 6 oz water. The grind of your coffee should not be as fine as espresso or as coarse as French Press. If in doubt, ask your local roaster to grind it for you.
 
-[Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/)
+[Coffee Grind Chart](/coffee-grind-chart/)
 
 ### Conclusion
 
-As I mentioned before, these practices will not turn Folgers into Starbucks. However, even inferior coffee has a better chance of achieving greatness if these methods are followed. In [Good To the Last Drip: Part 2](http://ineedcoffee.com/good-to-the-last-drip-part-2/ "read Part 2"), I will discuss how to apply this knowledge to shop for an Automatic Drip coffee maker that can best help you.
+As I mentioned before, these practices will not turn Folgers into Starbucks. However, even inferior coffee has a better chance of achieving greatness if these methods are followed. In [Good To the Last Drip: Part 2](/good-to-the-last-drip-part-2/ "read Part 2"), I will discuss how to apply this knowledge to shop for an Automatic Drip coffee maker that can best help you.

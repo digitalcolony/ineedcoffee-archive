@@ -26,7 +26,7 @@ Another advantage iced coffee has over cold brew is that it is much faster to ma
 
 You could brew iced coffee in a number of ways, but the Clever is an ideal choice. It has a paper filter, which results in a cleaner finish. The Clever is also a full immersion brewing method. This means the coffee remains in contact with the water for the majority of the brew cycle. This will allow us to control the brewing time better than we could with a pour-over method, resulting in a richer coffee.
 
-Another excellent choice would be the [AeroPress](http://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/).
+Another excellent choice would be the [AeroPress](/upside-aeropress-coffee-brewing-tutorial/).
 
 ![ground-coffee-in-clever-dripper-ice-jar](ground-coffee-in-clever-dripper-ice-jar.jpg)
 
@@ -36,14 +36,14 @@ The math of iced coffee is the same as that of hot coffee, with one exception. T
 
 I experimented with several water to ice ratios and varying brew times. Here is the iced coffee recipe that tasted best:
 
--   20 grams of medium or medium-fine ground coffee (see the [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/))
+-   20 grams of medium or medium-fine ground coffee (see the [Coffee Grind Chart](/coffee-grind-chart/))
 -   180 grams of hot water
 -   120 grams of ice cubes
 -   3-4 minute brew time
 
 Use a slightly finer grind than you would for the hot version because you are brewing with less water. This recipe uses a 15-1 ratio. 15 parts water to 1 part coffee. Adjust the ratio to your taste.
 
-For this tutorial, we will combine several steps that we broke down in detail in the article [Step By Step Bonavita Immersion Coffee Dripper](http://ineedcoffee.com/step-step-bonavita-immersion-coffee-dripper-tutorial/), which operates similarly to the Clever Dripper.
+For this tutorial, we will combine several steps that we broke down in detail in the article [Step By Step Bonavita Immersion Coffee Dripper](/step-step-bonavita-immersion-coffee-dripper-tutorial/), which operates similarly to the Clever Dripper.
 
 ### #1 Prepare the Coffee
 
@@ -81,9 +81,9 @@ Making an iced coffee at home is very simple. Find your ideal brew strength rati
 
 ### References
 
-[Step by Step Bonavita Immersion Coffee Dripper Tutorial](http://ineedcoffee.com/step-step-bonavita-immersion-coffee-dripper-tutorial/) – INeedCoffee brewing tutorial.
+[Step by Step Bonavita Immersion Coffee Dripper Tutorial](/step-step-bonavita-immersion-coffee-dripper-tutorial/) – INeedCoffee brewing tutorial.
 
-[Clever Coffee Dripper Review](http://ineedcoffee.com/clever-coffee-dripper-review/) – INeedCoffee article.
+[Clever Coffee Dripper Review](/clever-coffee-dripper-review/) – INeedCoffee article.
 
 Title photo by [Raphael Rychetsky](https://unsplash.com/@raphaelfyi).
 

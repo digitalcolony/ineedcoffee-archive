@@ -26,7 +26,7 @@ Let me show you how easy it is to make cold brew coffee with the Alkani.
 
 #### #1 Grind Coffee
 
-There is no need for scales. Just grind 1 to 1.25 cups of coffee medium-coarse to coarse. See our [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) for a visual explanation. I found that 1.25 cups is enough to fill the metal filter. I’m using a lighter roast. Darker roasts might take a few more beans, as coffee expands and becomes lighter in weight during the roasting process.
+There is no need for scales. Just grind 1 to 1.25 cups of coffee medium-coarse to coarse. See our [Coffee Grind Chart](/coffee-grind-chart/) for a visual explanation. I found that 1.25 cups is enough to fill the metal filter. I’m using a lighter roast. Darker roasts might take a few more beans, as coffee expands and becomes lighter in weight during the roasting process.
 
 #### #2 Place Filter Into Cold Brewer
 
@@ -60,7 +60,7 @@ When you remove the filter, some coffee will leak, so do this step at your sink.
 
 ### Alkani vs Home and Above (Battle of the Cold Brew Coffee Makers)
 
-I like the *Alkani Cold Brew Coffee Maker*. It is similar to the *Cold Brew Coffee Maker* from Home and Above, which was covered in the post [An Easy Guide to Making Cold Brew Coffee](http://ineedcoffee.com/easy-guide-making-cold-brew-coffee/). There are a few differences:
+I like the *Alkani Cold Brew Coffee Maker*. It is similar to the *Cold Brew Coffee Maker* from Home and Above, which was covered in the post [An Easy Guide to Making Cold Brew Coffee](/easy-guide-making-cold-brew-coffee/). There are a few differences:
 
 1.  Alkani uses a thicker glass with a fatter bottom, which makes it more stable on the counter.
 2.  Home and Above uses a thicker, more sturdy metal filter.
@@ -73,13 +73,13 @@ The metal filter from Home and Above is thick and more sturdy, but it doesn’t 
 
 I like both brewers, but I prefer the thicker bottom-heavy design of the Alkani.  If I wanted a brewer that occupied less space on the counter and in the refrigerator, I’d give the edge to Home and Above.
 
-If I could provide one improvement idea to either cold brewer, it would be to develop a cover to protect the glass. It could look and function similar to the one used to protect the glass on the [Eva Solo Coffee Brewer](http://ineedcoffee.com/eva-solo-coffee-brewing-tutorial/).
+If I could provide one improvement idea to either cold brewer, it would be to develop a cover to protect the glass. It could look and function similar to the one used to protect the glass on the [Eva Solo Coffee Brewer](/eva-solo-coffee-brewing-tutorial/).
 
 ### Resources
 
-[Cold Brew Coffee is Not Rocket Science](http://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/) – The basics of cold brew coffee.
+[Cold Brew Coffee is Not Rocket Science](/cold-brew-coffee-is-not-rocket-science/) – The basics of cold brew coffee.
 
-[An Easy Guide to Making Cold Brew Coffee](http://ineedcoffee.com/easy-guide-making-cold-brew-coffee/) – Article and tutorial on the Cold Brew Coffee Maker from Home and Above.
+[An Easy Guide to Making Cold Brew Coffee](/easy-guide-making-cold-brew-coffee/) – Article and tutorial on the Cold Brew Coffee Maker from Home and Above.
 
 *Brewing photos by Joseph Robertson of Extracted Magazine, a digital coffee magazine published for iOS and Android.  
 *

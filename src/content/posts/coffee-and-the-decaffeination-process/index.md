@@ -19,7 +19,7 @@ To understand decaffeination processes completely, one must consider the functio
 Removing this molecule will alter those taste factors. Other flavor compounds are also diminished or removed in the decaffeination process. This means that the taste of decaffeinated coffee is usually inferior to that of caffeinated coffee.
 
 ![decaf coffee comic ](decaf-coffee-comic1.jpg)  
-*Inanimate Objects – Decaf Coffee Comic by [Todd Zapoli](http://ineedcoffee.com/by/todd-zapoli/)*
+*Inanimate Objects – Decaf Coffee Comic by [Todd Zapoli](/by/todd-zapoli/)*
 
 ### Labeling Practices
 

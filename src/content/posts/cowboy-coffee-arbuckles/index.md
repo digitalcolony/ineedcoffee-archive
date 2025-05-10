@@ -27,7 +27,7 @@ Like today’s consumer, though, for the cowboy on the range, convenience was th
 ### Recipe for COWBOY COFFEE
 
 -   4 qt. water
--   1 1/2 cups freshly ground coffee ([coarse grind](http://ineedcoffee.com/coffee-grind-chart/) – same as French Press)
+-   1 1/2 cups freshly ground coffee ([coarse grind](/coffee-grind-chart/) – same as French Press)
 -   1 eggshell
 -   1/2 cup cold water
 
@@ -43,11 +43,11 @@ Also, unless you normally consume a gallon of coffee, you might want to scale th
 
 ### Resources
 
-[Cowboy Coffee, Backpacker Style](http://ineedcoffee.com/cowboy-coffee-backpacker-style/) – INeedCoffee article with a recipe.
+[Cowboy Coffee, Backpacker Style](/cowboy-coffee-backpacker-style/) – INeedCoffee article with a recipe.
 
-[The Smoothest Cup You’ll Ever Drink – Swedish Egg Coffee](http://ineedcoffee.com/the-smoothest-cup-youll-ever-drink-swedish-egg-coffee/) – INeedCoffee brewing tutorial that uses an eggshell-like cowboy coffee.
+[The Smoothest Cup You’ll Ever Drink – Swedish Egg Coffee](/the-smoothest-cup-youll-ever-drink-swedish-egg-coffee/) – INeedCoffee brewing tutorial that uses an eggshell-like cowboy coffee.
 
-[Preparing a Traditional Turkish Coffee](http://ineedcoffee.com/preparing-a-traditional-turkish-coffee/) – INeedCoffee brewing tutorial.
+[Preparing a Traditional Turkish Coffee](/preparing-a-traditional-turkish-coffee/) – INeedCoffee brewing tutorial.
 
 [Pittsburgh was the Coffee Capital of America!](https://www.pittsburghmagazine.com/pittsburgh-was-the-coffee-capital-of-america/) – The story of Arbuckle’s Grocery.
 

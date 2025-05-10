@@ -27,6 +27,6 @@ This is a great dessert unto itself and is awesome after a spicy Asian meal. You
 
 ### Resources
 
-[11 Crazy Coffee Drinks You Won’t Find on a Starbucks Menu](http://ineedcoffee.com/11-crazy-coffee-drinks-you-wont-find-on-a-starbucks-menu/) – More drink recipe ideas.
+[11 Crazy Coffee Drinks You Won’t Find on a Starbucks Menu](/11-crazy-coffee-drinks-you-wont-find-on-a-starbucks-menu/) – More drink recipe ideas.
 
-[The Coffee Avocado Shake Recipe](http://ineedcoffee.com/the-coffee-avocado-shake/) – Another iced coffee drink recipe with an Asian influence.
+[The Coffee Avocado Shake Recipe](/the-coffee-avocado-shake/) – Another iced coffee drink recipe with an Asian influence.

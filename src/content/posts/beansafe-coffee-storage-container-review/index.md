@@ -48,7 +48,7 @@ The BeanSafe valve system is a piece of specially shaped silicone rubber with a 
 
 ![BeanSafe Coffee Storage](DSC01214.jpg)
 
-I tested some freshly roasted coffee whole beans in both my Friis and the BeanSafe. Although I don’t have a way to measure the CO2 levels being expelled or any oxygen coming in, the coffee tasted very good coming out of both containers over the period of about 7 days. I ground beans fresh out of both containers on Espresso, Drip, and [Cold-Brewed Coffee](http://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/) methods, and they tasted excellent and were not discernibly different between the Friis and the Bean Safe.  I wanted to see if I could record a video of the glass bead rise and fall, but the top exit slit was too small to see inside. I would have to cut the silicone away in order to do this, and I didn’t want to ruin such a beautiful product. Perhaps I will do this in the future as an experiment.
+I tested some freshly roasted coffee whole beans in both my Friis and the BeanSafe. Although I don’t have a way to measure the CO2 levels being expelled or any oxygen coming in, the coffee tasted very good coming out of both containers over the period of about 7 days. I ground beans fresh out of both containers on Espresso, Drip, and [Cold-Brewed Coffee](/cold-brew-coffee-is-not-rocket-science/) methods, and they tasted excellent and were not discernibly different between the Friis and the Bean Safe.  I wanted to see if I could record a video of the glass bead rise and fall, but the top exit slit was too small to see inside. I would have to cut the silicone away in order to do this, and I didn’t want to ruin such a beautiful product. Perhaps I will do this in the future as an experiment.
 
 ### Included Extras and Ground Coffee
 
@@ -74,4 +74,4 @@ At approximately $25 street price for food-grade stainless steel and $20 for BPA
 
 *The BeanSafe Coffee Storage Container is no longer available for sale.*
 
-[How to Store Coffee Beans (Tips and Recommendations)](http://ineedcoffee.com/how-to-store-coffee-beans-tips-and-recommendations/) – Our article on storing coffee beans.
+[How to Store Coffee Beans (Tips and Recommendations)](/how-to-store-coffee-beans-tips-and-recommendations/) – Our article on storing coffee beans.

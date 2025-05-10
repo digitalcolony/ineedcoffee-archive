@@ -82,6 +82,6 @@ The vision that we would like to share not only with our clients but also with e
 
 [Rozum Robotics](https://rozum.com/) – Official website.
 
-[Espresso Tamping Visual Tutorial](http://ineedcoffee.com/espresso-tamping/) – A tutorial for humans on what is involved with tamping espresso.
+[Espresso Tamping Visual Tutorial](/espresso-tamping/) – A tutorial for humans on what is involved with tamping espresso.
 
 *The photos in this article are from Rozum Cafe.*

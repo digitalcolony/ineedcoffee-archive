@@ -21,7 +21,7 @@ What does the coffee fanatic do during a recession? On the surface, there appear
 
 Option 1 is the first line of defense. But what if you’ve already cut back your expenses in other areas? Option 2 is the most efficient method but requires the most discipline. Option 3 is just wrong. Never sacrifice quality. That leaves us with Option 4. Let me review the numbers and show you how much money you could save by home-roasting your coffee.
 
-Before I go through the numbers, I must say that home-roasting coffee is super easy, and many businesses sell green coffee beans. For help on getting started with home roasting, look over the [Roasting Coffee](http://ineedcoffee.com/section/roasting-coffee/) section. It has many tutorials and articles to get you started.
+Before I go through the numbers, I must say that home-roasting coffee is super easy, and many businesses sell green coffee beans. For help on getting started with home roasting, look over the [Roasting Coffee](/section/roasting-coffee/) section. It has many tutorials and articles to get you started.
 
 ![Green Coffee Beans](green-coffee-beans-economics1.jpg)  
 *Green Coffee Beans*
@@ -59,7 +59,7 @@ In the home roasting example above, coffee costs 48 cents per ounce. Here in Sea
 ![Lyman Kona Extra Fancy Green Coffee Beans](kona-green-coffee-beans.jpg)  
 *Lyman Kona Extra Fancy Green Coffee Beans*
 
-Some places sell green beans for less than $6 a pound if money is tight. You can find beans in the $4-$5 price range. There are also green bean cooperatives that pool the resources of many home roasters so they can buy beans at even lower wholesale prices. From the interview [Meeting Up With The Green Coffee Buying Club](https://ineedcoffee.com/meeting-up-with-the-green-coffee-buying-club/):
+Some places sell green beans for less than $6 a pound if money is tight. You can find beans in the $4-$5 price range. There are also green bean cooperatives that pool the resources of many home roasters so they can buy beans at even lower wholesale prices. From the interview [Meeting Up With The Green Coffee Buying Club](/meeting-up-with-the-green-coffee-buying-club/):
 
 > *So a typical nice Ethiopian Harrar for example might come in at $2.50/lb. So on 15 lbs, the coffee is $37.50, shipping is about $10, and the “PayPal, insurance, & packaging fees” are about another $10. So $37.50 + $10 + $10 = $57.50/15 lbs = $3.83/lb, or about $4/lb in round numbers.*
 

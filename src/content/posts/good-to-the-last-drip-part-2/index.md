@@ -12,7 +12,7 @@ updatedAt: "2022-05-12T11:35:17"
 wordpressId: 72
 ---
 
-In the [first part](http://ineedcoffee.com/good-to-the-last-drip-part-1/) of this series, I discussed the basic principles needed to make a good cup of coffee. In this portion, I will be talking about the things to consider when making an auto-drip maker purchase.
+In the [first part](/good-to-the-last-drip-part-1/) of this series, I discussed the basic principles needed to make a good cup of coffee. In this portion, I will be talking about the things to consider when making an auto-drip maker purchase.
 
 Many of the machines that you will find in the stores look highly efficient. Some of them have a grinder, espresso maker, and a drip-maker all rolled into one convenient device which will save money and counter space. DO NOT BE FOOLED. Remember, machines are mechanical and will thus wear out over time. The problem with machines that do many things is that one part will wear out before another does. It is very rare that the whole machine will fail at the same time.
 

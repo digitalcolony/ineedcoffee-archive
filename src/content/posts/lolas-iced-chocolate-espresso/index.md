@@ -48,6 +48,6 @@ I used to hate coffee until I started working for a wholesale coffee supplier an
 
 ### Resources
 
-[Lola’s Cinnamon Syrup Iced Coffee](http://ineedcoffee.com/lolas-cinnamon-syrup-iced-coffee/) – Another coffee recipe.
+[Lola’s Cinnamon Syrup Iced Coffee](/lolas-cinnamon-syrup-iced-coffee/) – Another coffee recipe.
 
-[The Coffee Avocado Shake Recipe](http://ineedcoffee.com/the-coffee-avocado-shake/) – A delicious coffee-based drink recipe from the Philippines.
+[The Coffee Avocado Shake Recipe](/the-coffee-avocado-shake/) – A delicious coffee-based drink recipe from the Philippines.

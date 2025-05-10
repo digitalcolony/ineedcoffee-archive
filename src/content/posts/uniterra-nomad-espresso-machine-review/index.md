@@ -30,7 +30,7 @@ The Nomad is made up of the main base unit and attached pump lever, a built-in w
 
 The build quality is simply excellent. The fit and finish are probably the best in just about any coffee product I have reviewed over the years, including the $2000+ prosumer Italian espresso machines I have purchased on my own.  The unit is designed in the USA and made in Taiwan.
 
-One of the unique features of the Nomad Espresso Machine is what they call the True Crema Valve, or TCV. It claims to compensate for tamping and [grind level](http://ineedcoffee.com/coffee-grind-chart/) variations. They even say that you can use pre-ground coffee from the store or ground beans from a whirly blade grinder and still get excellent results. The TCV can be removed, which then means the ground and tamp become more critical, just like an unforgiving espresso machine. I did not experiment with a poor grind nor did I remove the TCV. I might do this in the future to compare and understand the capabilities and limitations.
+One of the unique features of the Nomad Espresso Machine is what they call the True Crema Valve, or TCV. It claims to compensate for tamping and [grind level](/coffee-grind-chart/) variations. They even say that you can use pre-ground coffee from the store or ground beans from a whirly blade grinder and still get excellent results. The TCV can be removed, which then means the ground and tamp become more critical, just like an unforgiving espresso machine. I did not experiment with a poor grind nor did I remove the TCV. I might do this in the future to compare and understand the capabilities and limitations.
 
 ![Nomad Espresso True Crema Valve](DSC01526-650x433.jpg)
 
@@ -78,6 +78,6 @@ At just under $300, the Nomad is by no means inexpensive. However, I would say i
 
 ### Resources
 
-[Battle of the Handheld Espresso Makers: Handpresso Wild Hybrid vs Wacaco Minipresso GR](http://ineedcoffee.com/battle-handheld-espresso-makers-handpresso-wild-hybrid-vs-wacaco-minipresso-gr/) – Overview of two handheld espresso makers.
+[Battle of the Handheld Espresso Makers: Handpresso Wild Hybrid vs Wacaco Minipresso GR](/battle-handheld-espresso-makers-handpresso-wild-hybrid-vs-wacaco-minipresso-gr/) – Overview of two handheld espresso makers.
 
 *Disclosure: INeedCoffee was sent this product at no cost, which did not affect its review.*

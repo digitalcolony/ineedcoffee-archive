@@ -42,7 +42,7 @@ I think it’s safe to conclude that enough reliable evidence exists that can pu
 
 ### What’s the Better Alternative to Retiring Your Coffee Mug?
 
-As a certified fitness trainer, I’ve learned that one of the most effective ways to counteract high blood pressure and the onset of CVD is to be physically active, NOT – as the studies above prove – eliminate caffeine consumption. In fact, as my [caffeine and fitness article](http://ineedcoffee.com/coffee-and-fitness-friends-or-foes/) explains, caffeine can even help you become more fit.
+As a certified fitness trainer, I’ve learned that one of the most effective ways to counteract high blood pressure and the onset of CVD is to be physically active, NOT – as the studies above prove – eliminate caffeine consumption. In fact, as my [caffeine and fitness article](/coffee-and-fitness-friends-or-foes/) explains, caffeine can even help you become more fit.
 
 An American Heart Association study, as referenced by several peer-reviewed scientific and medical publications, has recently claimed that people who are physically active have a lower risk of getting high blood pressure — 20%-50% lower — than people who are not active.
 
@@ -58,6 +58,6 @@ Coffee consumption does not contribute to high blood pressure and CVD. Retiring 
 
 ### Resources
 
-[Blood Pressure and Coffee](http://ineedcoffee.com/blood-pressure-and-coffee/) – A contrary view on coffee’s role on blood pressure.
+[Blood Pressure and Coffee](/blood-pressure-and-coffee/) – A contrary view on coffee’s role on blood pressure.
 
 *Photo by [RawPixel](https://unsplash.com/@rawpixel)*

@@ -29,6 +29,6 @@ After this is complete, stir to mix the white, caramel-like sweetness at the bot
 
 ### Resources
 
-[Vietnamese Coffee](http://ineedcoffee.com/brew-vietnamese-coffee/) – A step-by-step brewing tutorial.
+[Vietnamese Coffee](/brew-vietnamese-coffee/) – A step-by-step brewing tutorial.
 
-[Vietnam: Silent Global Coffee Power](http://ineedcoffee.com/vietnam-silent-global-coffee-power/) – Article on the rise of Vietnam as a major coffee exporter.
+[Vietnam: Silent Global Coffee Power](/vietnam-silent-global-coffee-power/) – Article on the rise of Vietnam as a major coffee exporter.

@@ -12,7 +12,7 @@ updatedAt: "2025-03-15T16:12:23"
 wordpressId: 82
 ---
 
-***2017 UPDATE:** We have completely updated this article. Check out [A Coffee Drinker’s Guide to Coffee Candies](http://ineedcoffee.com/coffee-drinkers-guide-coffee-candies/).* 
+***2017 UPDATE:** We have completely updated this article. Check out [A Coffee Drinker’s Guide to Coffee Candies](/coffee-drinkers-guide-coffee-candies/).* 
 
 As a coffee fanatic, I’ve often sought ways to extend my love of coffee and simultaneously placate my sweet tooth. So, I’ve taken to eating coffee-flavored candy. It is worth noting that there is no such thing as a coffee flavoring that is completely man-made. All coffee flavoring is derived from coffee because the taste of coffee is just too complex to be replicated accurately. But just because it is derived from real coffee **does not** mean that all coffee candy is created equal.
 
@@ -53,4 +53,4 @@ This candy is marketed “for adults only” and claims to boost energy like a c
 
 ### Resources
 
-[A Coffee Drinker’s Guide to Coffee Candies](http://ineedcoffee.com/coffee-drinkers-guide-coffee-candies/) – Our updated guide to Coffee Candies.
+[A Coffee Drinker’s Guide to Coffee Candies](/coffee-drinkers-guide-coffee-candies/) – Our updated guide to Coffee Candies.

@@ -12,17 +12,17 @@ updatedAt: "2025-03-15T16:14:51"
 wordpressId: 80
 ---
 
-For those unfamiliar with roasting coffee using a popcorn popper, I strongly recommend reading Ryan Jacobs’ [Roast Your Own](http://ineedcoffee.com/roast-your-own-coffee/) tutorial before proceeding. That article provides a detailed step-by-step walk-through of the roasting process and is the perfect starting point for any new home coffee roaster.
+For those unfamiliar with roasting coffee using a popcorn popper, I strongly recommend reading Ryan Jacobs’ [Roast Your Own](/roast-your-own-coffee/) tutorial before proceeding. That article provides a detailed step-by-step walk-through of the roasting process and is the perfect starting point for any new home coffee roaster.
 
 This article picks up where that one left off. Experience has given me a few minor enhancements to make home roasting in a popcorn popper even better. Like the original tutorial, these tips are also geared toward the beginner. The popper used in this tutorial is the West Bend 2.
 
 ### Yanking The Cord
 
-It didn’t take too many roasts before I got sick of pulling the cord out of the wall to stop the roast. Unlike other roasters such as the [Fresh Roast](http://ineedcoffee.com/home-roasting-coffee-with-the-fresh-roast/) or the [Hearthware](http://ineedcoffee.com/home-roasting-with-the-hearthware-precision/), the West Bend 2 has no OFF switch. *Note: the original West Bend Poppery does have an off switch.* The way to stop a roast is simply by pulling the cord out of the wall. Pulling on anything electrical isn’t my idea of fun. The simple solution is to get a dedicated power strip for the roaster. This will allow the roaster to manually turn on and off the roaster from a switch. Far more elegant, and if you’re roasting multiple batches, it becomes a slight time saver.
+It didn’t take too many roasts before I got sick of pulling the cord out of the wall to stop the roast. Unlike other roasters such as the [Fresh Roast](/home-roasting-coffee-with-the-fresh-roast/) or the [Hearthware](/home-roasting-with-the-hearthware-precision/), the West Bend 2 has no OFF switch. *Note: the original West Bend Poppery does have an off switch.* The way to stop a roast is simply by pulling the cord out of the wall. Pulling on anything electrical isn’t my idea of fun. The simple solution is to get a dedicated power strip for the roaster. This will allow the roaster to manually turn on and off the roaster from a switch. Far more elegant, and if you’re roasting multiple batches, it becomes a slight time saver.
 
 ### Cooling the Beans Method 1
 
-The common method of cooling beans is using a cookie tray and the wind. This works fine enough unless it’s a warm day without a breeze. In a previous article, we learned that [cold weather](http://ineedcoffee.com/cold-weather-coffee-roasting/ "Advice on roasting in the winter.") is an enemy of roasting. On the flip side, hot weather is the enemy of cooling. If the freshly roasted coffee doesn’t cool, it’s still roasting. And if it’s still cooking, the coffee will be over-roasted and flat.
+The common method of cooling beans is using a cookie tray and the wind. This works fine enough unless it’s a warm day without a breeze. In a previous article, we learned that [cold weather](/cold-weather-coffee-roasting/ "Advice on roasting in the winter.") is an enemy of roasting. On the flip side, hot weather is the enemy of cooling. If the freshly roasted coffee doesn’t cool, it’s still roasting. And if it’s still cooking, the coffee will be over-roasted and flat.
 
 Cooling the beans quickly is essential to great-tasting coffee. I found that a perforated metal colander works best. Because of the dish shape, the roaster can shake the beans around more than on a flat tray. The perforations allow air to get to the beans and accelerate cooling. Another added benefit is that rolling the beans around will shake off some of the chaff.
 
@@ -35,7 +35,7 @@ The next cooling method is by spraying a light mist of cold water onto the beans
 
 ### Chaff Removal
 
-A cool technique that I’ve read about, but never implemented is using a shop vac to remove the chaff. Holding a shop vac up to a perforated holding tray or colander will strip off any excess chaff. It has the added bonus of immediately cooling the beans. My guess is that this method would work extremely well for cooling [oven roasted coffee](http://ineedcoffee.com/home-roasting-coffee-in-an-oven/) which doesn’t lose any of its chaff during the roasting process.
+A cool technique that I’ve read about, but never implemented is using a shop vac to remove the chaff. Holding a shop vac up to a perforated holding tray or colander will strip off any excess chaff. It has the added bonus of immediately cooling the beans. My guess is that this method would work extremely well for cooling [oven roasted coffee](/home-roasting-coffee-in-an-oven/) which doesn’t lose any of its chaff during the roasting process.
 
 ### Volume or Weight
 
@@ -47,8 +47,8 @@ Innovative ways exist to improve the home roasting process. As you gain experien
 
 ### Resources
 
-[Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) – A tutorial on roasting coffee using the West Bend Poppery.
+[Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/) – A tutorial on roasting coffee using the West Bend Poppery.
 
-[Roast Your Own](http://ineedcoffee.com/roast-your-own-coffee/) – Our original popcorn popper home roasting guide.
+[Roast Your Own](/roast-your-own-coffee/) – Our original popcorn popper home roasting guide.
 
-[Winter Home Roasting](http://ineedcoffee.com/winter-home-roasting/) – Ideas to speed up your cold-weather coffee roasts.
+[Winter Home Roasting](/winter-home-roasting/) – Ideas to speed up your cold-weather coffee roasts.

@@ -34,10 +34,10 @@ Here is a list of the basic tea types. This is an overview. Entire books have be
 
 1.  **White Tea** – White tea is made from the first buds picked and has a light color.
 2.  **Green Tea** – This tea is pan-fried or steamed to prevent oxidation.
-3.  **Oolong Tea** – Oolong teas are partially oxidized teas. They could be lightly or darkly oxidized. They might even be [roasted](http://ineedcoffee.com/home-roasting-oolong-tea/). Some are aged. This is where you’ll find many tea lovers. Some of the world’s finest and most expensive tea plants are used to make oolong tea.
+3.  **Oolong Tea** – Oolong teas are partially oxidized teas. They could be lightly or darkly oxidized. They might even be [roasted](/home-roasting-oolong-tea/). Some are aged. This is where you’ll find many tea lovers. Some of the world’s finest and most expensive tea plants are used to make oolong tea.
 4.  **Black Tea** – Black tea is fully oxidized tea.
 5.  **Pu-erh Tea** – Another area of outstanding tea is the pu-erh (pu’er), which is divided into two groups: raw (green) and cooked (black). Raw pu-erh is fermented green tea. Cooked is fermented black tea. The tea might be one year old or decades old. I once had pu-erh tea that was 40 years old.
-6.  **Herbal** – Herbal tea is not tea. You might like it, but it is not tea. However, Chai is a mixture of tea and herbs. See our [Traditional Chai Tea Recipe](http://ineedcoffee.com/traditional-chai-tea-recipe/) for more information.
+6.  **Herbal** – Herbal tea is not tea. You might like it, but it is not tea. However, Chai is a mixture of tea and herbs. See our [Traditional Chai Tea Recipe](/traditional-chai-tea-recipe/) for more information.
 
 I’ve noticed that tea people think coffee drinkers will prefer black tea the most, but my observation is that coffee aficionados most like oolong and pu-erh. Black tea doesn’t hold our interest compared to black coffee. The unique flavors found in oolong and pu-erh are more enticing. My favorites are raw pu-erh, lighter oolongs, and a handful of green teas.
 
@@ -58,7 +58,7 @@ To make excellent tea, you will need:
 3.  Timer
 4.  Digital scale (optional)
 
-We are brewing with a narrow range of temperatures just off a boil with coffee. Teas have a much wider range of brewing temperatures. The less oxidized a tea is, the more sensitive it is to water temperature. Black tea will be fine with water just off of boil, but a Japanese sencha wants water at 155° F. You could screw around with a thermometer in a regular kettle or pot, but we don’t need to do that anymore. Bonavita makes a kettle you can program to the exact degree you need. This is a godsend for making excellent tea, and the goose-neck makes it ideal for coffee pour-overs such as the [Kalita Wave](http://ineedcoffee.com/kalita-wave-coffee-brewing-tutorial/) and the [AeroPress](http://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/).
+We are brewing with a narrow range of temperatures just off a boil with coffee. Teas have a much wider range of brewing temperatures. The less oxidized a tea is, the more sensitive it is to water temperature. Black tea will be fine with water just off of boil, but a Japanese sencha wants water at 155° F. You could screw around with a thermometer in a regular kettle or pot, but we don’t need to do that anymore. Bonavita makes a kettle you can program to the exact degree you need. This is a godsend for making excellent tea, and the goose-neck makes it ideal for coffee pour-overs such as the [Kalita Wave](/kalita-wave-coffee-brewing-tutorial/) and the [AeroPress](/upside-aeropress-coffee-brewing-tutorial/).
 
 That is all the gear you will need. You don’t need the drip tray or the special gong fu pots.
 
@@ -112,4 +112,5 @@ _Don’t mess around with the alligator-style or caged tea filter. Oolong teas a
 
 ### Resources
 
-[Coffee and Tea Tasting Notes For Beginners](http://ineedcoffee.com/coffee-and-tea-tasting-notes-for-beginners/) – A method for learning which teas you like the best.
+[Coffee and Tea Tasting Notes For Beginners](/coffee-and-tea-tasting-notes-for-beginners/) – A method for learning which teas you like the best.
+

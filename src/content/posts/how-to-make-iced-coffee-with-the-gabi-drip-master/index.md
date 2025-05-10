@@ -12,7 +12,7 @@ updatedAt: "2025-03-29T15:15:45"
 wordpressId: 52711
 ---
 
-In my previous article, [How to Make Pour-Over Coffee With the Gabi Drip Master](http://ineedcoffee.com/make-pour-coffee-gabi-drip-master/), I showed you an innovative coffee dripper that simplified pour-over coffee in a few ways.
+In my previous article, [How to Make Pour-Over Coffee With the Gabi Drip Master](/make-pour-coffee-gabi-drip-master/), I showed you an innovative coffee dripper that simplified pour-over coffee in a few ways.
 
 Besides the cool waterspout, which controls the flow of water over the grounds in a slow, controlled manner, the Gabi Drip Master’s top chamber was designed to hold exactly 150 grams of water. This means you don’t need to weigh the water or babysit the pour-over. Just fill the chamber twice.
 
@@ -22,7 +22,7 @@ A few weeks ago, I got the idea that the Gabi has the perfect design for making 
 
 Iced coffee is different from the more popular cold brew. Cold Brew takes hours to make, whereas Iced Coffee takes minutes.
 
-From the tutorial [A Clever Way To Make Iced Coffee](http://ineedcoffee.com/clever-way-make-iced-coffee/):
+From the tutorial [A Clever Way To Make Iced Coffee](/clever-way-make-iced-coffee/):
 
 > Iced Coffee, which is also referred to as Japanese Iced Coffee, is made by brewing coffee directly over ice. This instantly chills the coffee, while preserving the flavor. To avoid having a watery coffee, the amount of water used when brewing is split between the hot water and the ice. Many coffee aficionados prefer iced coffee to cold brew as it tends to taste like a chilled refreshing version of that hot coffee. Whatever acidity level or flavor notes the hot version has will remain. And if you get the water ratio right it won’t taste weak.
 
@@ -76,6 +76,6 @@ The flavor was light and refreshing, exactly what I want from iced coffee. If yo
 
 ### Resources
 
-[How to Make Pour-Over Coffee With the Gabi Drip Master](http://ineedcoffee.com/make-pour-coffee-gabi-drip-master/) – Tutorial and review of the Gabi Dripper.
+[How to Make Pour-Over Coffee With the Gabi Drip Master](/make-pour-coffee-gabi-drip-master/) – Tutorial and review of the Gabi Dripper.
 
-[A Clever Way To Make Iced Coffee](http://ineedcoffee.com/clever-way-make-iced-coffee/) – How to make a full-immersion iced coffee with the Clever.
+[A Clever Way To Make Iced Coffee](/clever-way-make-iced-coffee/) – How to make a full-immersion iced coffee with the Clever.

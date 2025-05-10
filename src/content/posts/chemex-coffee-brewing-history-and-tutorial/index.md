@@ -16,7 +16,7 @@ The first time I saw a Chemex was in December 2002. It wasn’t in a coffee shop
 
 Since the early 2000s, the Chemex has had a resurgence in popularity. You can find the Chemex in many coffee shops. While some use it for decoration, an increasing number are using it as part of their slow brew bar. This is where the customer gets a handmade brewed coffee, much like they already get for espresso-based drinks.
 
-The Chemex brews coffee using the infusion method, which makes it most similar to drip coffee in terms of body and taste. Chemex filters are 20-30% thicker than those used by other pourover methods, such as the [Hario](http://ineedcoffee.com/how-hard-is-a-hario-pour-over/). The result is a slower brew and a richer cup of coffee. Although not as rich as the French Press, the Chemex does produce a sediment-free cup of coffee that will impress anyone used to the weaker taste of most auto-drip coffee machines.
+The Chemex brews coffee using the infusion method, which makes it most similar to drip coffee in terms of body and taste. Chemex filters are 20-30% thicker than those used by other pourover methods, such as the [Hario](/how-hard-is-a-hario-pour-over/). The result is a slower brew and a richer cup of coffee. Although not as rich as the French Press, the Chemex does produce a sediment-free cup of coffee that will impress anyone used to the weaker taste of most auto-drip coffee machines.
 
 ![chemex coffee brewer setup with scale and filters](chemex650.jpg)
 
@@ -50,7 +50,7 @@ You will need the 510 grams of water used for the brew and some extra water to r
 
 ### #2 Grind Coffee
 
-Grind 30 grams of coffee. What grind is best? Start with something a little coarser than drip but finer than a French press. See our [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) for visual guidance.
+Grind 30 grams of coffee. What grind is best? Start with something a little coarser than drip but finer than a French press. See our [Coffee Grind Chart](/coffee-grind-chart/) for visual guidance.
 
 ![weight coffee in grams on scale ](chemex-weigh-beans.jpg)
 
@@ -112,7 +112,7 @@ While putting this article together, I saw that Amazon is also selling a CoffeeS
 
 In the book *Uncommon Grounds*, author Mark Pendergrast stated the Chemex was *difficult to clean*. I beg to differ. It’s a piece of glass. Rinse it out with hot, soapy water. Even just hot water without the soap is enough to keep it clean. And if, for some reason, you need extra cleaning, the glass carafe is dishwasher safe. Just be sure to remove the handle. Untie the leather knot, and the handle will fall right off.
 
-Another option for cleaning is to fill the Chemex with ice and add salt. Add some ice and a tablespoon of salt, and spin it. Dump, rinse and you are ready to go for the next brew. Thanks to [Jesse of Conduit Coffee](http://ineedcoffee.com/meet-the-roaster-interview-with-jesse-nelson-of-conduit-coffee/) for that idea.
+Another option for cleaning is to fill the Chemex with ice and add salt. Add some ice and a tablespoon of salt, and spin it. Dump, rinse and you are ready to go for the next brew. Thanks to [Jesse of Conduit Coffee](/meet-the-roaster-interview-with-jesse-nelson-of-conduit-coffee/) for that idea.
 
 ### Last Words
 

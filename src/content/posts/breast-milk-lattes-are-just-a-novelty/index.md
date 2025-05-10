@@ -58,4 +58,4 @@ Although there is occasional hype and even documented video reports of breast mi
 
 [Iowa woman takes out ad to sell her breast milk](http://web.archive.org/web/20161112015337/http://usatoday30.usatoday.com/news/offbeat/2007-11-04-breastmilk-sale_N.htm) – November 2007 story in USA Today.
 
-*Latte art photo by Joseph Robertson of [Extracted Magazine](http://ineedcoffee.com/go/coffeeloversmagazine/).*
+*Latte art photo by Joseph Robertson of [Extracted Magazine](/go/coffeeloversmagazine/).*

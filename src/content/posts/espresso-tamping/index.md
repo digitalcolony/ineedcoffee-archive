@@ -30,7 +30,7 @@ You will rinse and wipe the portafilter between shots. Over time, you’ll want 
 
 Espresso can be ground directly into the portafilter or poured in from another container. A single shot is usually around 7 grams, a double around 14 grams, and a triple around 21 grams. There are baskets for each size, and double baskets are the most common. These weights are a starting point. You can experiment with “up dosing,” which could mean adding a few more grams to the basket.
 
-A very good (and often expensive) coffee grinder [fine enough for espresso](http://ineedcoffee.com/coffee-grind-chart/) will go a long way to producing quality and consistency in your espresso shots. The Baratza Virtuoso, Rancilio Rocky, and the Mazzer Mini are three grinders that excel at espresso.
+A very good (and often expensive) coffee grinder [fine enough for espresso](/coffee-grind-chart/) will go a long way to producing quality and consistency in your espresso shots. The Baratza Virtuoso, Rancilio Rocky, and the Mazzer Mini are three grinders that excel at espresso.
 
 Adding the coffee to the basket creates an even bed of grounds. In the photo below you can see the espresso mounds up above the base. This is done to have enough coffee when the grounds are evened out and tamped down.
 

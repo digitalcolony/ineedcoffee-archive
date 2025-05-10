@@ -40,14 +40,14 @@ One more note about the filter—I believe, though I haven’t been able to conf
 
 All in all, it’s a beautiful press pot that makes a fantastic cup of coffee that will stay hot. It is extremely well made and durable – the only part I could see having to replace ever would be the filtering mechanism (which is easily removable). The only real potential downside to this press pot is that it costs considerably more than a standard glass French press. However, if it fits in your price range, I honestly believe it’s worth it. This is a French press that will last for many, many years.
 
-*This article first appeared in issue 13 of [Extracted Magazine](http://ineedcoffee.com/go/coffeeloversmagazine/), which is available on iTunes.*
+*This article first appeared in issue 13 of [Extracted Magazine](/go/coffeeloversmagazine/), which is available on iTunes.*
 
 ### Resources
 
-[Buying a French Press – Picking the Right One](http://ineedcoffee.com/buying-a-french-press-picking-the-right-one/) – Our French Press purchasing guide.
+[Buying a French Press – Picking the Right One](/buying-a-french-press-picking-the-right-one/) – Our French Press purchasing guide.
 
-[French Press Tabletop Coffee and Tea Maker with Bru Stop Technology Review](http://ineedcoffee.com/table-top-press-pot-review/) – French Press review.
+[French Press Tabletop Coffee and Tea Maker with Bru Stop Technology Review](/table-top-press-pot-review/) – French Press review.
 
-[Troubleshooting French Press Coffee](http://ineedcoffee.com/troubleshooting-french-press-coffee/) – Tips for a better brew.
+[Troubleshooting French Press Coffee](/troubleshooting-french-press-coffee/) – Tips for a better brew.
 
-[French Press Tutorial](http://ineedcoffee.com/press-pot-tutorial/) – Start here if you are new to the French Press.
+[French Press Tutorial](/press-pot-tutorial/) – Start here if you are new to the French Press.

@@ -75,10 +75,10 @@ I didn’t think I needed another French press until I could play with the Plane
 
 ### Resources
 
-[Buying a French Press – Picking the Right One](http://ineedcoffee.com/buying-a-french-press-picking-the-right-one/) – INeedCoffee article to help you get started on a Press Pot purchase.
+[Buying a French Press – Picking the Right One](/buying-a-french-press-picking-the-right-one/) – INeedCoffee article to help you get started on a Press Pot purchase.
 
-[French Press Coffee Tutorial](http://ineedcoffee.com/press-pot-tutorial/) – INeedCoffee guide to making great French Press coffee.
+[French Press Coffee Tutorial](/press-pot-tutorial/) – INeedCoffee guide to making great French Press coffee.
 
-[Troubleshooting French Press Coffee](http://ineedcoffee.com/troubleshooting-french-press-coffee/): Once you have your French press, here are some ideas for making your coffee taste great.
+[Troubleshooting French Press Coffee](/troubleshooting-french-press-coffee/): Once you have your French press, here are some ideas for making your coffee taste great.
 
 *Disclaimer: The author received a Tabletop from Planetary Design for this review in 2013 and 2017.*

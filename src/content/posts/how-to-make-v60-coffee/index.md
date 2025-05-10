@@ -50,7 +50,7 @@ Let’s Get Brewing
 
 ### #1 Grind Coffee
 
-Using the Coffee Grind Chart, find yourself a [medium-fine grind](http://ineedcoffee.com/coffee-grind-chart/). The V60 will brew well from fine all the way to coarse depending on methods, but to start out, we’ll use a traditional medium-fine grind.
+Using the Coffee Grind Chart, find yourself a [medium-fine grind](/coffee-grind-chart/). The V60 will brew well from fine all the way to coarse depending on methods, but to start out, we’ll use a traditional medium-fine grind.
 
 ![v60 coffee grind size](v60-1-GrindSize.jpg)
 

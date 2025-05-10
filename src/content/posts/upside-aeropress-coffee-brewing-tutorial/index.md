@@ -12,7 +12,7 @@ updatedAt: "2025-04-06T15:29:47"
 wordpressId: 2618
 ---
 
-There are two main methods for brewing coffee with the AeroPress Coffee Maker. The first method is described in the directions that ship with the Aerobie AeroPress and in our [AeroPress Coffee Maker Tutorial](http://ineedcoffee.com/aeropress-coffee-maker-tutorial/). It is the regular top-down, straightforward brewing method.
+There are two main methods for brewing coffee with the AeroPress Coffee Maker. The first method is described in the directions that ship with the Aerobie AeroPress and in our [AeroPress Coffee Maker Tutorial](/aeropress-coffee-maker-tutorial/). It is the regular top-down, straightforward brewing method.
 
 The second method is known as inverted or upside-down brewing, which I will highlight in this brewing tutorial.
 
@@ -154,7 +154,7 @@ I’ve tried many different methods for brewing coffee; none are as forgiving as
 
 [The Invention of the AeroPress](https://priceonomics.com/the-invention-of-the-aeropress/) – Excellent article by Zachary Crockett.
 
-[AeroPress Coffee Maker Tutorial](http://ineedcoffee.com/aeropress-coffee-maker-tutorial/) – Original INeedCoffee tutorial.
+[AeroPress Coffee Maker Tutorial](/aeropress-coffee-maker-tutorial/) – Original INeedCoffee tutorial.
 
 [AeroPress FAQ](https://aeropress.com/pages/faq) – Page by Aerobie.
 

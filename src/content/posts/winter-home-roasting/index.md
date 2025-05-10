@@ -12,7 +12,7 @@ updatedAt: "2025-03-15T15:55:18"
 wordpressId: 111
 ---
 
-In the article [Roast Your Own](http://ineedcoffee.com/roast-your-own-coffee/), I showed you how easy it is to home roast coffee using a popcorn popper, but I didn’t mention the popper roaster’s nemesis: Old Man Winter.
+In the article [Roast Your Own](/roast-your-own-coffee/), I showed you how easy it is to home roast coffee using a popcorn popper, but I didn’t mention the popper roaster’s nemesis: Old Man Winter.
 
 Cold winds and bitter temperatures have a negative impact on outdoor roasting in a popper. Coffee roasting requires a high temperature and when the cold winds start whipping around the machine, the coffee beans are cooled. The lower the roast temperature, the longer the roast will take. There are many good aspects of slow-roasted coffee, but cold temperatures can be deadly to your roasting efforts. Simply put: if the roast gets too cold and takes too long the final result will be unpalatable coffee.
 
@@ -69,4 +69,4 @@ After making the modifications, the results were impressive. I was able to roast
 
 ### Summary
 
-By using a cardboard box and the popper’s hood attachment, I was able to ward off Old Man Winter and roast my coffee outdoors. These are probably some of the simplest modifications that you can make, but they proved very safe and effective. There are other ideas for conquering the cold weather; just [don’t use a space heater](http://ineedcoffee.com/cold-weather-coffee-roasting/). Armed with this information, I encourage all of my fellow popper roasters living in cold climates to don their winter coat and roast some coffee.
+By using a cardboard box and the popper’s hood attachment, I was able to ward off Old Man Winter and roast my coffee outdoors. These are probably some of the simplest modifications that you can make, but they proved very safe and effective. There are other ideas for conquering the cold weather; just [don’t use a space heater](/cold-weather-coffee-roasting/). Armed with this information, I encourage all of my fellow popper roasters living in cold climates to don their winter coat and roast some coffee.

@@ -56,7 +56,7 @@ Lastly, wipe the inside of the glass window frequently. Sometimes, oils can fog 
 
 ### Flavor
 
-I have roasted Brazilian, Ethiopian, and Island coffees, all with nice results. This machine really works well for espresso. As with many drum-like profiles, the flavors are slightly more rounded off and sweet, which is great for espresso. For drip or [French Press](http://ineedcoffee.com/press-pot-tutorial/), it still does a good job, but I like a brighter roast for these preparations. The Fresh Roast is the perfect companion for that job.
+I have roasted Brazilian, Ethiopian, and Island coffees, all with nice results. This machine really works well for espresso. As with many drum-like profiles, the flavors are slightly more rounded off and sweet, which is great for espresso. For drip or [French Press](/press-pot-tutorial/), it still does a good job, but I like a brighter roast for these preparations. The Fresh Roast is the perfect companion for that job.
 
 ### Tips
 
@@ -82,6 +82,6 @@ The Behmor Roaster is built very well. It is priced well below its nearest compe
 
 ### Resources
 
-[Behmor 1600 Coffee Roaster – First Impression](http://ineedcoffee.com/behmor-1600-coffee-roaster-first-impression/) – INeedCoffee article.
+[Behmor 1600 Coffee Roaster – First Impression](/behmor-1600-coffee-roaster-first-impression/) – INeedCoffee article.
 
-[Hottop KN-8828P Coffee Bean Roaster First Look](http://ineedcoffee.com/hottop-kn-8828p-coffee-bean-roaster-first-look/) – INeedCoffee article.
+[Hottop KN-8828P Coffee Bean Roaster First Look](/hottop-kn-8828p-coffee-bean-roaster-first-look/) – INeedCoffee article.

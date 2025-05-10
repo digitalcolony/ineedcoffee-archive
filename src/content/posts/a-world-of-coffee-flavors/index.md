@@ -28,7 +28,7 @@ First of all, any consumer of global coffee varieties should be aware that the o
 
 The roast of the beans will be a major factor in the taste of your coffee. French Roast and many Starbucks coffees are made of beans that have been roasted to a dark color, giving the coffee an intense taste. It is a roaster’s task to bring out a bean’s characteristics through an appropriate roast level.
 
-The brewing method is another major determinant of how a coffee will taste. Several of us at INeedCoffee prefer the [French Press](http://ineedcoffee.com/press-pot-tutorial/) method of coffee-making. This holds especially when the aim is to distinguish between the nuances of taste in different coffee beans. Other methods may produce a “cleaner” coffee with less sediment, but no other method will convey the unfiltered impact of a coffee bean’s flavor than a French Press.
+The brewing method is another major determinant of how a coffee will taste. Several of us at INeedCoffee prefer the [French Press](/press-pot-tutorial/) method of coffee-making. This holds especially when the aim is to distinguish between the nuances of taste in different coffee beans. Other methods may produce a “cleaner” coffee with less sediment, but no other method will convey the unfiltered impact of a coffee bean’s flavor than a French Press.
 
 Furthermore, differences in bean taste will usually be more evident in the absence of any creamer or sweetener. While I often enjoy sugar in my coffee, I find a pressed, unenhanced cup is the best way to experience a bean’s truest nature.
 
@@ -105,7 +105,7 @@ In the end, it’s best to get away from your computer and begin tasting these c
 
 ### Resources
 
-[Coffee Cupping: A Basic Introduction](http://ineedcoffee.com/coffee-cupping-a-basic-introduction/) – INeedCoffee article
+[Coffee Cupping: A Basic Introduction](/coffee-cupping-a-basic-introduction/) – INeedCoffee article
 
 Front Porch Cafe/Kill Devil Roasters (NOVEMBER 2019: site down)
 

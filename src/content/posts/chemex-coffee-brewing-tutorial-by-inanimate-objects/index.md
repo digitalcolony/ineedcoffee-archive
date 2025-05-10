@@ -16,6 +16,6 @@ wordpressId: 5958
 
 ### Resources
 
-[Chemex Coffee Brewing](http://ineedcoffee.com/chemex-coffee-brewing-history-and-tutorial/) – History and Tutorial – INeedCoffee brewing tutorial
+[Chemex Coffee Brewing](/chemex-coffee-brewing-history-and-tutorial/) – History and Tutorial – INeedCoffee brewing tutorial
 
-[More Inanimate Objects](http://ineedcoffee.com/by/todd-zapoli/) – By Todd Zapoli
+[More Inanimate Objects](/by/todd-zapoli/) – By Todd Zapoli

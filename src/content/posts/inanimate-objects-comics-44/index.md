@@ -20,8 +20,8 @@ wordpressId: 2192
 
 ![Super Decaf](201409SuperDecaff.jpg)
 
-Previous: [Inanimate Objects Comics #43](http://ineedcoffee.com/inanimate-objects-comics-43/)
+Previous: [Inanimate Objects Comics #43](/inanimate-objects-comics-43/)
 
-Next: [Inanimate Objects Comics #45](http://ineedcoffee.com/inanimate-objects-comics-45/)
+Next: [Inanimate Objects Comics #45](/inanimate-objects-comics-45/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

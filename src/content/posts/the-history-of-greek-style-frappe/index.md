@@ -43,8 +43,8 @@ A print ad from that year carried a bold illustration of a glass with an exceedi
 
 ### Resources
 
-[Greek Frappe Recipe](http://ineedcoffee.com/greek-frappe-recipe/) – The Greek Frappe recipe is here on INeedCoffee.
+[Greek Frappe Recipe](/greek-frappe-recipe/) – The Greek Frappe recipe is here on INeedCoffee.
 
-[11 Crazy Coffee Drinks You Won’t Find on a Starbucks Menu](http://ineedcoffee.com/11-crazy-coffee-drinks-you-wont-find-on-a-starbucks-menu/) – INeedCoffee article.
+[11 Crazy Coffee Drinks You Won’t Find on a Starbucks Menu](/11-crazy-coffee-drinks-you-wont-find-on-a-starbucks-menu/) – INeedCoffee article.
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – INeedCoffee’s collection of coffee brewing tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – INeedCoffee’s collection of coffee brewing tutorials.

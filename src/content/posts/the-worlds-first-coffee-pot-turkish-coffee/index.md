@@ -18,7 +18,7 @@ Turkish coffee was invented as a drink during the 16th century in the Middle Eas
 
 ### Grind and Pot Essential
 
-Essential to making Turkish coffee, of course, is the pot, not the bean. Any bean can be prepared as Turkish Coffee. You simply need a good hand mill or commercial grinder that grinds to Turkish. Most grinders in America, even if they say Turkish, will not grind to the powdery fine texture needed for a good Turkish — finer than espresso. *(See [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) for visual explanation)*
+Essential to making Turkish coffee, of course, is the pot, not the bean. Any bean can be prepared as Turkish Coffee. You simply need a good hand mill or commercial grinder that grinds to Turkish. Most grinders in America, even if they say Turkish, will not grind to the powdery fine texture needed for a good Turkish — finer than espresso. *(See [Coffee Grind Chart](/coffee-grind-chart/) for visual explanation)*
 
 A Turkish mill works the best.
 
@@ -64,8 +64,8 @@ Authentic Turkish blends are different in different regions of the world; for in
 
 ### Resources
 
-[Preparing Traditional Turkish Coffee](http://ineedcoffee.com/preparing-a-traditional-turkish-coffee/) – INeedCoffee step-by-step guide to making Turkish coffee.
+[Preparing Traditional Turkish Coffee](/preparing-a-traditional-turkish-coffee/) – INeedCoffee step-by-step guide to making Turkish coffee.
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – More coffee brewing tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – More coffee brewing tutorials.
 
 *Title photo by [Keith Hardy](https://unsplash.com/@keithhardy2001).*

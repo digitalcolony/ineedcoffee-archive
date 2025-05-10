@@ -25,6 +25,6 @@ However you flavor your coffee, do so gently so as not to overwhelm the subtle c
 
 ### Resources
 
-[Naturally Flavored Coffee](http://ineedcoffee.com/naturally-flavored-coffee/) – INeedCoffee article on natural ways to flavor your coffee.
+[Naturally Flavored Coffee](/naturally-flavored-coffee/) – INeedCoffee article on natural ways to flavor your coffee.
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – Our collection of coffee brewing tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – Our collection of coffee brewing tutorials.

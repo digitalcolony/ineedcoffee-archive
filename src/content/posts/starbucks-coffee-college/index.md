@@ -16,7 +16,7 @@ wordpressId: 523
 
 One of the perks of running a coffee website is that I will occasionally get invited to coffee-related events. Being in Seattle helps, too. Most are for new coffee offerings and product launches. This spring, I received the most interesting invitation to date: Starbucks was inviting me to attend a two-day Coffee College.
 
-I am not exactly known for being a Starbucks fan, but I am also not a hater. My position on Starbucks is that it was part of my coffee journey years ago, but I’ve moved on to better quality. I prefer espresso to regular coffee and prefer lighter roasters over darker ones. That is why I only visit Starbucks when [far away](http://ineedcoffee.com/sleepy-starbucks-and-caffeinated-sins-in-phuket-thailand/) from Seattle.
+I am not exactly known for being a Starbucks fan, but I am also not a hater. My position on Starbucks is that it was part of my coffee journey years ago, but I’ve moved on to better quality. I prefer espresso to regular coffee and prefer lighter roasters over darker ones. That is why I only visit Starbucks when [far away](/sleepy-starbucks-and-caffeinated-sins-in-phuket-thailand/) from Seattle.
 
 Although several friends encouraged me to wear my Charbucks shirt, I was respectful of my host and kept it at home. When I accepted the offer to attend *Starbucks Coffee College*, I decided I would not let my past Starbucks experiences cloud my judgment. It was time to listen and learn. I was going back to college.
 
@@ -121,9 +121,9 @@ Starbucks Coffee College concluded with a graduation ceremony. My fellow student
 
 ### Sources
 
-[The History of Instant Coffee](http://ineedcoffee.com/the-history-of-instant-coffee/) – INeedCoffee article covering the origins of instant coffee.
+[The History of Instant Coffee](/the-history-of-instant-coffee/) – INeedCoffee article covering the origins of instant coffee.
 
-[Fearing Starbucks VIA Instant Coffee and My Solution](http://ineedcoffee.com/fearing-starbucks-via-instant-coffee-and-my-solution/) – INeedCoffee article on the Starbucks VIA.
+[Fearing Starbucks VIA Instant Coffee and My Solution](/fearing-starbucks-via-instant-coffee-and-my-solution/) – INeedCoffee article on the Starbucks VIA.
 
 [Photo Gallery](http://www.flickr.com/photos/digitalcolony/sets/72157624150826566/) – Full photo gallery for Starbucks Coffee College
 

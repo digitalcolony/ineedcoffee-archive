@@ -62,8 +62,8 @@ As a coffee fan, if you can try these next-generation instant coffees, do so. I 
 
 ### Resources
 
-[The History of Instant Coffee](http://ineedcoffee.com/the-history-of-instant-coffee/) – INeedCoffee article covering the origins of instant coffee.
+[The History of Instant Coffee](/the-history-of-instant-coffee/) – INeedCoffee article covering the origins of instant coffee.
 
-[Fearing Starbucks VIA Instant Coffee and My Solution](http://ineedcoffee.com/fearing-starbucks-via-instant-coffee-and-my-solution/) – INeedCoffee article from 2010.
+[Fearing Starbucks VIA Instant Coffee and My Solution](/fearing-starbucks-via-instant-coffee-and-my-solution/) – INeedCoffee article from 2010.
 
-[Camping Showdown: Steeped Coffee vs The Bripe Coffee Pipe](http://ineedcoffee.com/camping-showdown-steeped-coffee-vs-bripe-coffee-pipe/) – Steeped Coffee isn’t instant coffee, but it is close, as it uses a “teabag” approach to making brewed coffee.
+[Camping Showdown: Steeped Coffee vs The Bripe Coffee Pipe](/camping-showdown-steeped-coffee-vs-bripe-coffee-pipe/) – Steeped Coffee isn’t instant coffee, but it is close, as it uses a “teabag” approach to making brewed coffee.

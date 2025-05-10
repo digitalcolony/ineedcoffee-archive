@@ -18,10 +18,10 @@ wordpressId: 289
 
 ![glass mug](0160-glass-mug.jpg)
 
-[![angry water mug](0139angry-water-mug-650x308.jpg)](http://ineedcoffee.com/wp-content/uploads/2006/09/0139angry-water-mug.jpg)
+[![angry water mug](0139angry-water-mug-650x308.jpg)](/wp-content/uploads/2006/09/0139angry-water-mug.jpg)
 
-Previous: [Inanimate Objects Comics #25](http://ineedcoffee.com/inanimate-objects-comics-25/)
+Previous: [Inanimate Objects Comics #25](/inanimate-objects-comics-25/)
 
-Next: [Inanimate Objects Comics #27](http://ineedcoffee.com/inanimate-objects-comics-27/)
+Next: [Inanimate Objects Comics #27](/inanimate-objects-comics-27/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

@@ -52,12 +52,12 @@ The Dosacaffe Espresso Dispenser holds 250 grams of ground coffee.
 
 ### Resources
 
-[How to Brew Espresso in a Moka Pot](http://ineedcoffee.com/brewing-espresso-in-a-moka/) – INeedCoffee tutorial that uses sugar.
+[How to Brew Espresso in a Moka Pot](/brewing-espresso-in-a-moka/) – INeedCoffee tutorial that uses sugar.
 
-[Stovetop Espresso Brewing Tutorial](http://ineedcoffee.com/stovetop-espresso-brewing-tutorial/) – INeedCoffee tutorial.
+[Stovetop Espresso Brewing Tutorial](/stovetop-espresso-brewing-tutorial/) – INeedCoffee tutorial.
 
-[Cafe Cubano](http://ineedcoffee.com/cafe-cubano-cuban-coffee/) – Learn how to use the Bialetti Stovetop Espresso Maker to make this classic Cuban-style coffee drink.
+[Cafe Cubano](/cafe-cubano-cuban-coffee/) – Learn how to use the Bialetti Stovetop Espresso Maker to make this classic Cuban-style coffee drink.
 
-[The Story of the Bialetti Moka Express](http://ineedcoffee.com/the-story-of-the-bialetti-moka-express/) – The interesting history of the stovetop espresso maker.
+[The Story of the Bialetti Moka Express](/the-story-of-the-bialetti-moka-express/) – The interesting history of the stovetop espresso maker.
 
 *Disclosure: INeedCoffee received a Dosacaffe Espresso Dispenser for this review.*

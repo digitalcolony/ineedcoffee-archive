@@ -46,4 +46,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unpor
 
 [Dubsea Coffee](https://www.dubseacoffee.com/) – 9910 8th Avenue Southwest Seattle, WA 98106
 
-[Latte Art Gallery](http://ineedcoffee.com/latte-art-gallery/) – INeedCoffee Photo gallery of traditional latte art.
+[Latte Art Gallery](/latte-art-gallery/) – INeedCoffee Photo gallery of traditional latte art.

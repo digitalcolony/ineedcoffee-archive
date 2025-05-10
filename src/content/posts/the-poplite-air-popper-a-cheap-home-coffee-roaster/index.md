@@ -85,8 +85,8 @@ I realized that Starbucks is inconsistent with its roast as well as many other s
 
 ### Resources
 
-[Hacking the Orville Redenbacher Hot Air Popper to Roast Coffee](http://ineedcoffee.com/poplite-coffee-roaster/) – Detailed tutorial on modifying the PopLite popper.
+[Hacking the Orville Redenbacher Hot Air Popper to Roast Coffee](/poplite-coffee-roaster/) – Detailed tutorial on modifying the PopLite popper.
 
-[Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) – This is a general tutorial on how to roast coffee using a popcorn popper.
+[Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/) – This is a general tutorial on how to roast coffee using a popcorn popper.
 
-[Popper Roasting Tips](http://ineedcoffee.com/popper-roasting-tips/) – General advice on improving your success with popcorn popper coffee roasting.
+[Popper Roasting Tips](/popper-roasting-tips/) – General advice on improving your success with popcorn popper coffee roasting.

@@ -26,4 +26,4 @@ Here are three *Decaffeinated Coffee* comics from Chuck Harrison.
 
 ![red shirt](red-shirt500.jpg)
 
-Next: [Decaffeinated Coffee Comics 2](http://ineedcoffee.com/decaffeinated-coffee-comics-2/)
+Next: [Decaffeinated Coffee Comics 2](/decaffeinated-coffee-comics-2/)

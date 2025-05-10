@@ -28,7 +28,7 @@ Roasting your own coffee gives you virtually unlimited possibilities in your que
 
 Green coffee will store well for over a year without a loss in character whereas roasted coffee will be best consumed within a week or two. Buying your beans green will allow you to make larger purchases without worrying about the beans going bad.
 
-Roasting coffee in a popcorn popper can be a messy venture. During the roasting process, pieces of green coffee called chaff will blow off while producing a great amount of smoke. While the smoke smells great initially, it will find its way into everything in your homestead, and once stale, it stinks. In the beginning, the easiest course of action is to find a place to roast outside, such as a garage, porch, or balcony. Along the way, you may upgrade your equipment to devices such as the [Hearthware iRoast2](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) with a built-in chaff filter or the [HotTop](http://ineedcoffee.com/hottop-kn-8828p-coffee-bean-roaster-first-look/) with a built-in smoke filter.
+Roasting coffee in a popcorn popper can be a messy venture. During the roasting process, pieces of green coffee called chaff will blow off while producing a great amount of smoke. While the smoke smells great initially, it will find its way into everything in your homestead, and once stale, it stinks. In the beginning, the easiest course of action is to find a place to roast outside, such as a garage, porch, or balcony. Along the way, you may upgrade your equipment to devices such as the [Hearthware iRoast2](/roasting-coffee-in-a-popcorn-popper/) with a built-in chaff filter or the [HotTop](/hottop-kn-8828p-coffee-bean-roaster-first-look/) with a built-in smoke filter.
 
 ![green coffee beans](green-coffee-beans1.jpg)  
 *Green Coffee Beans*
@@ -37,7 +37,7 @@ Roasting coffee in a popcorn popper can be a messy venture. During the roasting 
 
 First, you will want to purchase a roaster. You want a device that will heat the beans to at least 400 degrees F and be able to do this in an even manner. You may be thinking of your oven, and while that will work, it is somewhat difficult to gauge the roast level visually, and usually will set off your smoke detector if you don’t have good air filtration. It also produces scorched beans since one side of them is in constant contact with the hot metal of the sheet pan.
 
-A good device to start with is a West Bend Poppery II. For a tutorial on roasting coffee using the original Poppery see the tutorial [Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/). This little hot air popcorn popper makes a great coffee roaster. The reason this is a good unit is that it allows for good visual inspection of the roast level, and it actually moves the beans around in a circular fashion, which prevents scorching. The hot air blowing the beans around is commonly referred to as *fluid-bed* roasting. The Poppery II is often available at thrift stores for a few bucks.
+A good device to start with is a West Bend Poppery II. For a tutorial on roasting coffee using the original Poppery see the tutorial [Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/). This little hot air popcorn popper makes a great coffee roaster. The reason this is a good unit is that it allows for good visual inspection of the roast level, and it actually moves the beans around in a circular fashion, which prevents scorching. The hot air blowing the beans around is commonly referred to as *fluid-bed* roasting. The Poppery II is often available at thrift stores for a few bucks.
 
 After you get a roaster, you should have a cooling pan, a stirrer, and a scale. For the cooling pan, you want something that will allow a mass of hot beans to cool as quickly as possible. I use an aluminum pasta strainer. The holes let air through for more rapid cooling. You may also use a simple cookie sheet.
 
@@ -81,12 +81,12 @@ If you would like the darker roast of a typical Espresso blend or a French or Vi
 
 ### The Cooling Process
 
-The main objective of the cooling process is to stop the roasting dead in its tracks as fast as possible. Simply dump the coffee beans into your cooling pan, which will allow them to lie in a single layer. Using a pan with holes, such as a metal colander, will aid this. If you live in a hot climate, you might consider using a [light mist of water](http://ineedcoffee.com/popper-roasting-tips/) from a spray bottle.
+The main objective of the cooling process is to stop the roasting dead in its tracks as fast as possible. Simply dump the coffee beans into your cooling pan, which will allow them to lie in a single layer. Using a pan with holes, such as a metal colander, will aid this. If you live in a hot climate, you might consider using a [light mist of water](/popper-roasting-tips/) from a spray bottle.
 
 ![cooling the coffee roast](cooling-the-coffee-roast.jpg)  
 *This technique uses two colanders to cool the coffee beans rapidly.*
 
-Once the roasted coffee beans have cooled, they should be stored properly in an [airtight container](http://ineedcoffee.com/coffee-storage/).
+Once the roasted coffee beans have cooled, they should be stored properly in an [airtight container](/coffee-storage/).
 
 ### Conclusion
 
@@ -94,8 +94,8 @@ Once you’ve assembled the tools, you will find roasting your own coffee from h
 
 ### Resources
 
-[Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) – INeedCoffee tutorial on roasting coffee in the Westbend Poppery.
+[Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/) – INeedCoffee tutorial on roasting coffee in the Westbend Poppery.
 
-[Why Home Roast Coffee?](http://ineedcoffee.com/why-home-roast/) – In the event you didn’t know.
+[Why Home Roast Coffee?](/why-home-roast/) – In the event you didn’t know.
 
-[Popper Roasting Tips](http://ineedcoffee.com/popper-roasting-tips/) – Some tips that apply to popcorn popper roasting in general.
+[Popper Roasting Tips](/popper-roasting-tips/) – Some tips that apply to popcorn popper roasting in general.

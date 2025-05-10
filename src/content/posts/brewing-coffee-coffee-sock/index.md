@@ -16,7 +16,7 @@ I received what has to be the most simple coffee brewing method I’ve ever seen
 
 I don’t go camping, but if I did, this would be an ideal brewing method for someone wishing to keep their pack weight down. You don’t need to step outside to use the brewer. I’ve been brewing with it in my kitchen.
 
-The coffee tasted closest to the [Clever Dripper](http://ineedcoffee.com/clever-coffee-dripper-review/) or a cleaner [French press](http://ineedcoffee.com/press-pot-tutorial/).
+The coffee tasted closest to the [Clever Dripper](/clever-coffee-dripper-review/) or a cleaner [French press](/press-pot-tutorial/).
 
 ### #1 Place Coffee Sock into Mug
 
@@ -28,7 +28,7 @@ This brewing method is similar to making loose-leaf tea with an in-mug filter.
 
 ### #2 Add Ground Coffee
 
-I am getting good results using a [drip ground](http://ineedcoffee.com/coffee-grind-chart/). My baseline brewing ratio is 17 to 1 (17 grams of water per 1 gram of coffee). Since you will make one mug of coffee at a time, figure out how many ounces or grams your mug holds and do some basic math.
+I am getting good results using a [drip ground](/coffee-grind-chart/). My baseline brewing ratio is 17 to 1 (17 grams of water per 1 gram of coffee). Since you will make one mug of coffee at a time, figure out how many ounces or grams your mug holds and do some basic math.
 
 I use a kitchen scale, but you could follow this basic rule.
 
@@ -75,6 +75,6 @@ Let the filter cool before emptying the grounds into the trash or compost. Turn 
 
 Coffee Sock Company – Official site with product FAQ. (UPDATE March 2023: site offline)
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – INeedCoffee library of coffee brewing tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – INeedCoffee library of coffee brewing tutorials.
 
 *Disclosure: INeedCoffee received a Coffee Sock for this tutorial.*

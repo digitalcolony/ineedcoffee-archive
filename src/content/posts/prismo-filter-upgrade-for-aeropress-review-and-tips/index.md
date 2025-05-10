@@ -34,7 +34,7 @@ Add the metal filter inside the insert with the Fellow logo facing up.
 
 ![Add the filter](primso-with-insert.jpg)
 
-Attach the Prismo to the AeroPress chamber. If you are used to making AeroPress using the Inverted (aka [Upside-Down method](http://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/)), you do not need to do that with the Prismo. The Prismo will hold all the coffee in the brewing chamber until pressed, thus giving you a full immersion brew.
+Attach the Prismo to the AeroPress chamber. If you are used to making AeroPress using the Inverted (aka [Upside-Down method](/upside-aeropress-coffee-brewing-tutorial/)), you do not need to do that with the Prismo. The Prismo will hold all the coffee in the brewing chamber until pressed, thus giving you a full immersion brew.
 
 ![prismo attach to aeropress](primso-attach-filter.jpg)
 
@@ -112,10 +112,10 @@ I will keep brewing with my Prismo, and if I discover any more valuable tips, I 
 
 ### Resources
 
-[The Upside Down AeroPress Coffee Brewing Tutorial](http://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/) – How to brew AeroPress coffee using the inverted method.
+[The Upside Down AeroPress Coffee Brewing Tutorial](/upside-aeropress-coffee-brewing-tutorial/) – How to brew AeroPress coffee using the inverted method.
 
-[AeroPress Coffee Maker Tutorial](http://ineedcoffee.com/aeropress-coffee-maker-tutorial/) – Original INeedCoffee tutorial.
+[AeroPress Coffee Maker Tutorial](/aeropress-coffee-maker-tutorial/) – Original INeedCoffee tutorial.
 
-[Making Lattes Without an Espresso Machine](http://ineedcoffee.com/making-lattes-without-espresso-machine/) – Which brewing method came closest to espresso?
+[Making Lattes Without an Espresso Machine](/making-lattes-without-espresso-machine/) – Which brewing method came closest to espresso?
 
 *Disclosure: INeedCoffee was sent this product at no cost, which did not affect its review.*

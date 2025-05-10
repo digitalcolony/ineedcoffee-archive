@@ -38,7 +38,7 @@ Winter’s dates and girlfriends come and go, put off eventually by being second
 
 Is Winter’s mission worth its cost? Winter himself seems up-and-down on this question in the documentary. In some scenes, he takes obvious pride in living a life different from the rest of the crowd. Nobody, not even Starbucks CEO Jim Donald, has likely done what Winter has done. Most folks stay rooted in their jobs and the area where they grew up. Winter takes short-term programming jobs, sees them through, then he’s back in his car to knock a few dozen more Starbuckses off his life list.
 
-“You cannot imagine how much I love this, just being out on the road, driving from city to city,” Winter says. He expresses similar sentiments in an [INeedCoffee article he wrote](http://ineedcoffee.com/seeing-the-world-one-starbucks-at-a-time/), stressing the once-in-a-lifetime sights he’s seen on his road trips.
+“You cannot imagine how much I love this, just being out on the road, driving from city to city,” Winter says. He expresses similar sentiments in an [INeedCoffee article he wrote](/seeing-the-world-one-starbucks-at-a-time/), stressing the once-in-a-lifetime sights he’s seen on his road trips.
 
 Tangeman captures some of these sights, too, like a sequence of approaches toward some of America’s great cities. The skylines are an uplifting rush. They’re juxtaposed, however, by a scene of Winter sprinting across the street toward a Starbucks in Anywhere, USA. The chain-franchise experience gnaws away at a town’s individuality. In other scenes, Winter dwells on his own insignificance and the futility of his chase, likely during times when the caffeine buzz runs low. When asked how he compares to Lewis and Clark, Winter says, with a despondent look on his face, “What they were doing is truly important. …What I am doing is not.”
 
@@ -62,8 +62,8 @@ Whatever one thinks of the Winter and his Starbucks mission, Tangeman uses what�
 
 ### Resources
 
-[Seeing the World One Starbucks at a Time](http://ineedcoffee.com/seeing-the-world-one-starbucks-at-a-time/)
+[Seeing the World One Starbucks at a Time](/seeing-the-world-one-starbucks-at-a-time/)
 
-[Winter: Coffee Achiever 2.0](http://ineedcoffee.com/winter-coffee-achiever-2-0/)
+[Winter: Coffee Achiever 2.0](/winter-coffee-achiever-2-0/)
 
-[Winter: Coffee Achiever](http://ineedcoffee.com/winter-coffee-achiever/)
+[Winter: Coffee Achiever](/winter-coffee-achiever/)

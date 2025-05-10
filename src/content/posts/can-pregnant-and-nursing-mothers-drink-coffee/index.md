@@ -58,4 +58,4 @@ When monitoring caffeine consumption as a pregnant or nursing mom, it’s import
 
 [Your Ultimate Guide To Caffeine And Breastfeeding](https://momlovesbest.com/caffeine-while-breastfeeding) – From Mom Loves Best.
 
-[Infant Coffee – 6 Tips for Coffee Drinking Parents](http://ineedcoffee.com/infant-coffee-6-tips-for-coffee-drinking-parents/) – Some tips for coffee-drinking parents to be safe with hot beverages like coffee around children.
+[Infant Coffee – 6 Tips for Coffee Drinking Parents](/infant-coffee-6-tips-for-coffee-drinking-parents/) – Some tips for coffee-drinking parents to be safe with hot beverages like coffee around children.

@@ -26,6 +26,6 @@ If you want a long life out of your Bodum Cordless Electric Kettle, I advise kee
 
 ### Resources
 
-[The Hamilton Beach Cool Touch Tea Kettle Review](http://ineedcoffee.com/the-hamilton-beach-cool-touch-tea-kettle-review/) – This is the kettle I bought to replace my Ibis.
+[The Hamilton Beach Cool Touch Tea Kettle Review](/the-hamilton-beach-cool-touch-tea-kettle-review/) – This is the kettle I bought to replace my Ibis.
 
-[Avoiding Plastic – 3 Stainless Steel Electric Kettle Options](http://ineedcoffee.com/avoiding-plastic-3-stainless-steel-electric-kettle-options/) – An overview of 3 different tea kettle options.
+[Avoiding Plastic – 3 Stainless Steel Electric Kettle Options](/avoiding-plastic-3-stainless-steel-electric-kettle-options/) – An overview of 3 different tea kettle options.

@@ -44,7 +44,7 @@ Fellow designed the Stagg brewer to make coffee without needing to weigh anythin
 
 ### Grinding the Coffee
 
-According to Fellow, the Stagg Coffee Dripper uses a [Medium Grind](http://ineedcoffee.com/coffee-grind-chart/). I found the grind size to be quite sensitive. My first brew was a little too fine, and the extraction took over five minutes. Then, I made the grind a little more coarse, and it brewed in under a minute, which was too fast.
+According to Fellow, the Stagg Coffee Dripper uses a [Medium Grind](/coffee-grind-chart/). I found the grind size to be quite sensitive. My first brew was a little too fine, and the extraction took over five minutes. Then, I made the grind a little more coarse, and it brewed in under a minute, which was too fast.
 
 I advise using older coffee for the first few brews while discovering the ideal grind size.
 
@@ -99,6 +99,6 @@ Should you get a Stagg Pour Over? If you need something extremely well-built tha
 
 ### Resources
 
-[Kalita Wave Coffee Brewing Tutorial](http://ineedcoffee.com/kalita-wave-coffee-brewing-tutorial/) – INeedCoffee brewing tutorial
+[Kalita Wave Coffee Brewing Tutorial](/kalita-wave-coffee-brewing-tutorial/) – INeedCoffee brewing tutorial
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – Our guide includes several different pour-over tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – Our guide includes several different pour-over tutorials.

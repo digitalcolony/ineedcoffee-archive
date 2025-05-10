@@ -44,8 +44,8 @@ Happy hunting, fellow snobs!
 
 ### Resources
 
-[Espresso Tamping Visual Tutorial](http://ineedcoffee.com/espresso-tamping/) – INeedCoffee tutorial.
+[Espresso Tamping Visual Tutorial](/espresso-tamping/) – INeedCoffee tutorial.
 
-[Things I Would Like to See Improved in Specialty Coffee](http://ineedcoffee.com/improving-specialty-coffee/) – 6 ideas for making espresso bars better.
+[Things I Would Like to See Improved in Specialty Coffee](/improving-specialty-coffee/) – 6 ideas for making espresso bars better.
 
-[Latte Lingo: The Vocabulary of Coffee](http://ineedcoffee.com/latte-lingo/) – How to speak coffee at the coffee shop.
+[Latte Lingo: The Vocabulary of Coffee](/latte-lingo/) – How to speak coffee at the coffee shop.

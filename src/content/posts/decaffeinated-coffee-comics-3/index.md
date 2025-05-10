@@ -24,4 +24,4 @@ wordpressId: 489
 
 ![sword feeling](yuk-sword500.jpg)
 
-Previous: [Decaffeinated Coffee Comics 2](http://ineedcoffee.com/decaffeinated-coffee-comics-2/)
+Previous: [Decaffeinated Coffee Comics 2](/decaffeinated-coffee-comics-2/)

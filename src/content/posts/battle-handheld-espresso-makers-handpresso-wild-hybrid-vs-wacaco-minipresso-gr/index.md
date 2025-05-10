@@ -93,7 +93,7 @@ If I were taking one of these hiking or on a road trip, I would probably opt for
 
 ### Tamping and Cleanup
 
-The Handpresso works best when [tamping coffee](http://ineedcoffee.com/espresso-tamping/) using the end of the pump handle, and the Minipresso with the bottom of the scoop. Considering the small basket size of each, these tamping implements are more than adequate.
+The Handpresso works best when [tamping coffee](/espresso-tamping/) using the end of the pump handle, and the Minipresso with the bottom of the scoop. Considering the small basket size of each, these tamping implements are more than adequate.
 
 The cleanup on the Handpresso was very simple. Emptying and cleaning just the coffee basket was all that was needed most of the time, with an occasional rinse of the locking cover. With the Minipresso, I felt I had to clean inside the main body, lock the cover, and empty/clean the coffee basket every time.
 

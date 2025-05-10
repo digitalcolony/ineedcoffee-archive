@@ -157,6 +157,6 @@ Now that the beer is complete, the only step left is to consume it. To serve the
 
 ### Resources
 
-[Espresso Blending Techniques](http://ineedcoffee.com/espresso-blending-techniques/) – Guidance on constructing an ideal espresso blend.
+[Espresso Blending Techniques](/espresso-blending-techniques/) – Guidance on constructing an ideal espresso blend.
 
-[Coffee Blending For the Home Roaster](http://ineedcoffee.com/coffee-blending-for-the-home-roaster/) – INeedCoffee article
+[Coffee Blending For the Home Roaster](/coffee-blending-for-the-home-roaster/) – INeedCoffee article

@@ -45,8 +45,8 @@ It is somewhat reminiscent of a root beer float, with a little less sweetness an
 
 ### Resources
 
-[An Introduction to Affogato (Recipes and Tips)](http://ineedcoffee.com/an-introduction-to-affogato-recipes-and-tips/) – A similar recipe that uses coffee and ice cream.
+[An Introduction to Affogato (Recipes and Tips)](/an-introduction-to-affogato-recipes-and-tips/) – A similar recipe that uses coffee and ice cream.
 
-[Homemade Coffee Ice Cream Recipe](http://ineedcoffee.com/homemade-coffee-ice-cream-recipe/) – How to make coffee ice cream at home.
+[Homemade Coffee Ice Cream Recipe](/homemade-coffee-ice-cream-recipe/) – How to make coffee ice cream at home.
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – Our collection of coffee brewing tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – Our collection of coffee brewing tutorials.

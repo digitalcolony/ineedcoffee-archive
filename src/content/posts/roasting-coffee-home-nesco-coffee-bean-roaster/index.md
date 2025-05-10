@@ -14,7 +14,7 @@ wordpressId: 7216
 
 I must confess a couple of things before I talk about my experience with the Nesco Professional Home Roaster. My first confession is that I drink coffee roasted by a coffee giant who shall remain unnamed and when I actually look at their roasted beans – they look pretty dark! I know many people say that these beans are over-roasted and bitter and they may be right BUT it’s what I know.
 
-My other confession is that I was not all that familiar with home-roasted coffee…that is until two weeks ago. I tried my first roasting session with my mom using a [stovetop popcorn popper](http://ineedcoffee.com/stovetop-roasting-with-the-whirley-pop/) with mixed results. Because we both had only a vague idea of what we were doing, the beans turned out too dark in one roasting session and brown-ish in two other sessions (probably okay to use but I haven’t tried them yet!).
+My other confession is that I was not all that familiar with home-roasted coffee…that is until two weeks ago. I tried my first roasting session with my mom using a [stovetop popcorn popper](/stovetop-roasting-with-the-whirley-pop/) with mixed results. Because we both had only a vague idea of what we were doing, the beans turned out too dark in one roasting session and brown-ish in two other sessions (probably okay to use but I haven’t tried them yet!).
 
 The long and the short of it is that stovetop roasting can be inconsistent if you have no idea what you are doing. I’m sure home roasting experts would tell my Mom and me that “practice makes perfect” and that we should experiment some more with temperature and time for the stovetop roasting but in this busy world, who has time to “get it right?”
 
@@ -94,7 +94,7 @@ I was pleasantly surprised that the Nesco wasn’t too loud, and it didn’t hav
 
 The next morning, I tried the beans that I had roasted and was pleasantly surprised. The beans weren’t as dark as I’m used to but the taste was nutty and very good. Because they were lighter, I could let them rest a few days longer to see how the flavor developed. One tip I would like to share is that I would extend the roasting process to the maximum allowable time, which is 35 minutes. The extra 5 minutes would have darkened them to the colour that I’m used to, even though many roasters would probably tell me my taste buds are shot!
 
-Overall, my experience was positive. This machine is perfect for someone wanting freshly roasted coffee daily. Stockpiling the coffee for the week would be my suggestion since it doesn’t hold a ton of beans. If you want to roast a higher volume of coffee at once, you might consider seeking out another roasting method. You could use the stovetop popcorn popper or a drum roaster such as the [Behmor](http://ineedcoffee.com/behmor-1600-coffee-roaster-tutorial/) or [Hottop](http://ineedcoffee.com/hottop-kn-8828p-coffee-bean-roaster-first-look/).
+Overall, my experience was positive. This machine is perfect for someone wanting freshly roasted coffee daily. Stockpiling the coffee for the week would be my suggestion since it doesn’t hold a ton of beans. If you want to roast a higher volume of coffee at once, you might consider seeking out another roasting method. You could use the stovetop popcorn popper or a drum roaster such as the [Behmor](/behmor-1600-coffee-roaster-tutorial/) or [Hottop](/hottop-kn-8828p-coffee-bean-roaster-first-look/).
 
 If you want to play it safe, or if you don’t really know what you are doing but know you want fresh roasts, use the Nesco. The smell in the house is kept to a minimum, and I woke up in the morning not even smelling the roast. Sometimes, dinner smells linger more than coffee.
 
@@ -106,4 +106,4 @@ I think the average consumer needs to think differently about roasted coffee. Th
 
 [Nesco Coffee Bean Roaster (PDF)](https://web.archive.org/web/20200923062052/https://www.nesco.com/wp-content/uploads/2018/09/bean_roast.pdf) – Use/Care Guide CR 1000 Series.
 
-[Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) – This article uses a popcorn popper, but it covers the roasting process in general as well.
+[Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/) – This article uses a popcorn popper, but it covers the roasting process in general as well.

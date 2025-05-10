@@ -60,7 +60,7 @@ Light exposure is probably the least violated rule of coffee storage. Unless you
 
 Other coffee sites that tackle the subject of coffee storage never seem to mention the role roast level plays in the coffee freshness equation. Darker roasted coffees, regardless of how they are stored, go stale quicker than lighter roasted coffees. Coffees taken to French Roast or Italian Roast are more porous than lighter-roasted coffees.
 
-From the article [Hacking Dark Roast – Tips on Brewing a Better Bold Coffee](http://ineedcoffee.com/hacking-dark-roast-tips-on-brewing-a-better-bold-coffee/):
+From the article [Hacking Dark Roast – Tips on Brewing a Better Bold Coffee](/hacking-dark-roast-tips-on-brewing-a-better-bold-coffee/):
 
 > When coffee is roasted well into and even beyond the second crack, the structure of the coffee bean is more fragile and porous. This greatly shortens the window of freshness. I talked with one Seattle roaster that told me a dark French roast coffee might start to taste flat in as little as four days. That is four days from roast. You can try and seal the coffee as best as you can to preserve and extend freshness, but a heavily roasted coffee will age faster.
 
@@ -68,7 +68,7 @@ There are three solutions for the dark roast fan:
 
 1.  Make more frequent purchases of smaller amounts of coffee. Time your purchases close to the roast date.
 2.  Shift to a medium-dark roast to extend the freshness window.
-3.  Start the rewarding hobby of home-roasting, so you are guaranteed to get fresh coffee in the exact amounts you want. Plus, you’ll save money. All you need is a porch and an old popcorn popper. ([Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/))
+3.  Start the rewarding hobby of home-roasting, so you are guaranteed to get fresh coffee in the exact amounts you want. Plus, you’ll save money. All you need is a porch and an old popcorn popper. ([Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/))
 
 ### Coffee Storage Options
 
@@ -100,4 +100,4 @@ At a minimum, we will keep coffee sealed in its bag and stored in a dark cabinet
 
 ### Resources
 
-[Coffee Storage](http://ineedcoffee.com/coffee-storage/)—Our original article dives deeper into the best way to use the freezer to store coffee.
+[Coffee Storage](/coffee-storage/)—Our original article dives deeper into the best way to use the freezer to store coffee.

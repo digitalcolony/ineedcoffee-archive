@@ -12,7 +12,7 @@ updatedAt: "2025-03-30T09:11:27"
 wordpressId: 526
 ---
 
-Here is a mini collection of latte art photos I have taken in the past three years. Feel free to use whatever image you want for any purpose, even commercial. I only ask that you link to [INeedCoffee](https://ineedcoffee.com/). Full Creative Commons license information is at the bottom of this article.
+Here is a mini collection of latte art photos I have taken in the past three years. Feel free to use whatever image you want for any purpose, even commercial. I only ask that you link to [INeedCoffee](/). Full Creative Commons license information is at the bottom of this article.
 
 ![artigiano misto](artigiano-misto.jpg)  
 *Caffe Artigiano – 763 Hornby St, Vancouver, BC*

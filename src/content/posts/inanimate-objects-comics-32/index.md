@@ -17,8 +17,8 @@ wordpressId: 538
 ![](just-kidding-comic.jpg)  
 ![](king-of-england-comic.jpg)
 
-Previous: [Inanimate Objects Comics #31](http://ineedcoffee.com/inanimate-objects-comics-31/)
+Previous: [Inanimate Objects Comics #31](/inanimate-objects-comics-31/)
 
-Next: [Inanimate Objects Comics #33](http://ineedcoffee.com/inanimate-objects-comics-33/)
+Next: [Inanimate Objects Comics #33](/inanimate-objects-comics-33/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

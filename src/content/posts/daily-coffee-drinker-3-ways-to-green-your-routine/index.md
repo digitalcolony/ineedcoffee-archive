@@ -58,7 +58,7 @@ KillTheCup – Seeking 22,000 people to carry a reusable on April 22. (site dow
 
 [Earth Day](https://en.wikipedia.org/wiki/Earth_Day) – Wikipedia Page.
 
-[INeedCoffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – Learn how to make coffee at home.
+[INeedCoffee Brewing Guide](/coffee-brewing-guide/) – Learn how to make coffee at home.
 
 ### References
 

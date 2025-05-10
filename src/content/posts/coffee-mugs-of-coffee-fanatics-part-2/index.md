@@ -12,7 +12,7 @@ updatedAt: "2025-04-06T15:29:32"
 wordpressId: 397
 ---
 
-As soon as we released [Coffee Mugs of Coffee Fanatics](http://ineedcoffee.com/coffee-mugs-of-coffee-fanatics/), Both INeedCoffee and Paul over at the Caffination podcast received more mug submissions. I didn’t expect to have a Part 2 so soon. Without further introduction, below are **more** Coffee Mugs of Coffee Fanatics.
+As soon as we released [Coffee Mugs of Coffee Fanatics](/coffee-mugs-of-coffee-fanatics/), Both INeedCoffee and Paul over at the Caffination podcast received more mug submissions. I didn’t expect to have a Part 2 so soon. Without further introduction, below are **more** Coffee Mugs of Coffee Fanatics.
 
 **Alex Scofield, Cape Cod**
 

@@ -12,7 +12,7 @@ updatedAt: "2025-03-17T19:20:41"
 wordpressId: 20
 ---
 
-To roast your own coffee beans at home is quite simple. It is so simple that I wish I had learned it many years ago. All you have to do is measure out some green beans, throw them into a popcorn popper, stir a little, and wait. After a few minutes, you have the freshest coffee of your life. If you would like to learn more about home roasting read [Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/). Roasting from a popcorn popper is done outside, and provided you have good weather, it isn’t a challenge.
+To roast your own coffee beans at home is quite simple. It is so simple that I wish I had learned it many years ago. All you have to do is measure out some green beans, throw them into a popcorn popper, stir a little, and wait. After a few minutes, you have the freshest coffee of your life. If you would like to learn more about home roasting read [Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/). Roasting from a popcorn popper is done outside, and provided you have good weather, it isn’t a challenge.
 
 ### Roasting In a Winter Climate
 
@@ -55,6 +55,6 @@ UPDATE: Tim Culver writes:
 
 > Great article, Michael. I disagree with your “Lesson #1 – Don’t use a hair dryer for home roasting” though. I have lately found that a hair dryer helps. I set it on low aim it at the intakes at the bottom of my Proctor-Silex Popcorn Pumper. This is the only way I can get to 2nd crack (here in the frozen tundra of North Carolina).
 
-UPDATE 2001: In the article [Winter Home Roasting](http://ineedcoffee.com/cold-weather-coffee-roasting/), Ryan Jacobs figured out that using a cardboard box could trap and recycle heat effectively for cold weather roasting.
+UPDATE 2001: In the article [Winter Home Roasting](/cold-weather-coffee-roasting/), Ryan Jacobs figured out that using a cardboard box could trap and recycle heat effectively for cold weather roasting.
 
-UPDATE 2004: Jim Liedeka wrote the article [Roasting with a Heat Gun: A Top-Down Approach](http://ineedcoffee.com/roasting-coffee-with-a-heat-gun-a-top-down-approach/). I consider this a hair dryer on steroids. By the way, don’t ever use a heat gun to dry your hair.
+UPDATE 2004: Jim Liedeka wrote the article [Roasting with a Heat Gun: A Top-Down Approach](/roasting-coffee-with-a-heat-gun-a-top-down-approach/). I consider this a hair dryer on steroids. By the way, don’t ever use a heat gun to dry your hair.

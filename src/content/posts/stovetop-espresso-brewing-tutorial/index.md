@@ -25,7 +25,7 @@ Fill the bottom chamber with cold water. Stumptown Coffee advises pre-heating th
 
 Add ground coffee to the filter. There is some debate on how fine the grind should be. I use a grind that is finer than drip but a little coarser than an espresso grind. Do not pack the filter. Like regular espresso, I level the grinds with my finger and wipe off any loose grounds. Once the coffee is loaded into the filter, place it into the bottom chamber. You could load the filter first and then add the ground coffee. Either way is fine.
 
-If you make Stovetop Espresso regularly, consider getting a [Moka Pot Coffee Dispenser](http://ineedcoffee.com/moka-pot-coffee-dispenser-review/).
+If you make Stovetop Espresso regularly, consider getting a [Moka Pot Coffee Dispenser](/moka-pot-coffee-dispenser-review/).
 
 ![add coffee to stovetop espresso](add-coffee-to-stovetop-espresso.jpg)  
 *Add ground coffee to the filter.*
@@ -63,8 +63,8 @@ Allow your stovetop espresso maker time to cool before you break it down for cle
 
 ### Resources
 
-[How to Brew Espresso in a Moka Pot](http://ineedcoffee.com/brewing-espresso-in-a-moka/) – INeedCoffee tutorial that uses sugar.
+[How to Brew Espresso in a Moka Pot](/brewing-espresso-in-a-moka/) – INeedCoffee tutorial that uses sugar.
 
-[Cafe Cubano](http://ineedcoffee.com/cafe-cubano-cuban-coffee/) – Learn how to use the Bialetti Stovetop Espresso Maker to make this classic Cuban-style coffee drink.
+[Cafe Cubano](/cafe-cubano-cuban-coffee/) – Learn how to use the Bialetti Stovetop Espresso Maker to make this classic Cuban-style coffee drink.
 
-[The Story of the Bialetti Moka Express](http://ineedcoffee.com/the-story-of-the-bialetti-moka-express/) – The interesting history of the stovetop espresso maker.
+[The Story of the Bialetti Moka Express](/the-story-of-the-bialetti-moka-express/) – The interesting history of the stovetop espresso maker.

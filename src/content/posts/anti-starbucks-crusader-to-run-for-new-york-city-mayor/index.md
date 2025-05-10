@@ -29,7 +29,7 @@ RESULTS: Reverend Billy finished 4th in the Mayoral election with 0.8% of the vo
 
 ### Sources
 
-[Billy Talen](http://ineedcoffee.com/by/billy-talen/) – Contributor page on INeedCoffee.
+[Billy Talen](/by/billy-talen/) – Contributor page on INeedCoffee.
 
 [Reverend Billy’s Starbucks Invasion](https://www.utne.com/community/reverendbillysstarbucksinvasion/) – Utne article by Bill Talen
 

@@ -39,8 +39,8 @@ Coffee has played an integral role in society since its discovery centuries ago.
 
 ### Resources
 
-[My Coffee Tis of Thee: America’s Patriotic Coffee History](http://ineedcoffee.com/my-coffee-tis-of-thee/) – More coffee history.
+[My Coffee Tis of Thee: America’s Patriotic Coffee History](/my-coffee-tis-of-thee/) – More coffee history.
 
-[Coffee in Israel](http://ineedcoffee.com/coffee-in-israel/) – Israeli coffee history.
+[Coffee in Israel](/coffee-in-israel/) – Israeli coffee history.
 
-[Costa Rica Coffee History](http://ineedcoffee.com/costa-rica-coffee-history/) – INeedCoffee article.
+[Costa Rica Coffee History](/costa-rica-coffee-history/) – INeedCoffee article.

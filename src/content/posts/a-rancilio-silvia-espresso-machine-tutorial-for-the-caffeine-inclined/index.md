@@ -48,7 +48,7 @@ And now that you know all about how great your Rancilio is supposed to be, you�
 
 **Step 5:** The basket held by the portafilter is where you’re going to want to dose your ground coffee. For best results – which is obviously what you’re going for if you’ve purchased this high-class machine – use freshly ground coffee. To be honest, stale coffee may result in espresso that tastes a bit off.
 
-**Step 6:** Unlike a regular home coffee brewer, you can’t just place the grounds in an espresso machine and be done with them! There’s another step: you want to press down on the coffee grounds. This is called [tamping the grind](http://ineedcoffee.com/espresso-tamping/). Use about 30 lbs of pressure as you press down with the tamper, being sure to give a 90-degree twist before easing off.
+**Step 6:** Unlike a regular home coffee brewer, you can’t just place the grounds in an espresso machine and be done with them! There’s another step: you want to press down on the coffee grounds. This is called [tamping the grind](/espresso-tamping/). Use about 30 lbs of pressure as you press down with the tamper, being sure to give a 90-degree twist before easing off.
 
 **Step 7:** During tamping, it’s possible that some loose grounds can migrate toward the edge of the portafilter – so take your tamper and tap it a few times against the portafilter, getting rid of any grounds along the rim. You can also brush them off.
 
@@ -68,4 +68,4 @@ After every use, make sure you empty the coffee grinds from the portafilter and 
 
 ### Resources
 
-[Rancilio Silvia Espresso Machine Tips](http://ineedcoffee.com/rancilio-silvia-espresso-machine-tips/) – INeedCoffee article
+[Rancilio Silvia Espresso Machine Tips](/rancilio-silvia-espresso-machine-tips/) – INeedCoffee article

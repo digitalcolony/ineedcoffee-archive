@@ -27,7 +27,7 @@ Put ground coffee into a paper filter. Set the filter in the ceramic holder over
 
 ### #2 The AeroPress
 
-The AeroPress makes a great cup of coffee. Penny for penny, the AeroPress may be the best coffee brewer one can buy. For step-by-step guidance, read [The Upside Down Aeropress Coffee Brewing Tutorial](http://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/).
+The AeroPress makes a great cup of coffee. Penny for penny, the AeroPress may be the best coffee brewer one can buy. For step-by-step guidance, read [The Upside Down Aeropress Coffee Brewing Tutorial](/upside-aeropress-coffee-brewing-tutorial/).
 
 ![AeroPress Coffee maker kit](aeropress-coffee-maker400.jpg)
 
@@ -35,7 +35,7 @@ The AeroPress makes a great cup of coffee. Penny for penny, the AeroPress may be
 
 ### #3 The Clever Coffee Dripper
 
-If you would like the rich taste of a French Press but don’t want to deal with the cleanup, a Clever might be for you. Like a French Press, you control the steeping time, but unlike a French Press, it has a filter that makes for easy cleanup. For more information, see our [Clever Coffee Dripper](http://ineedcoffee.com/clever-coffee-dripper-review/) article.
+If you would like the rich taste of a French Press but don’t want to deal with the cleanup, a Clever might be for you. Like a French Press, you control the steeping time, but unlike a French Press, it has a filter that makes for easy cleanup. For more information, see our [Clever Coffee Dripper](/clever-coffee-dripper-review/) article.
 
 ![Clever Coffee Dripper ](clever-coffee-dripper400.jpg)
 

@@ -84,4 +84,4 @@ In the past few years, people have shown increased interest in this amazing drin
 
 [Kombucha Fabric](https://www.instructables.com/Kombucha-Fabric/) – Intructables tutorial on kombucha fabric
 
-[A Coffee Lover’s Guide to Tea](http://ineedcoffee.com/a-coffee-lovers-guide-to-tea/) – INeedCoffee article.
+[A Coffee Lover’s Guide to Tea](/a-coffee-lovers-guide-to-tea/) – INeedCoffee article.

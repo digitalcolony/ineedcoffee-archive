@@ -17,8 +17,8 @@ wordpressId: 7689
 ![](201707-Over-Caffeinated.jpg)  
 ![](201708-Caffeine-Deprivation.jpg)
 
-Previous: [Inanimate Objects Comics #63](http://ineedcoffee.com/inanimate-objects-comics-63/)
+Previous: [Inanimate Objects Comics #63](/inanimate-objects-comics-63/)
 
-Next: [Inanimate Objects Comics #65](http://ineedcoffee.com/inanimate-objects-comics-65/)
+Next: [Inanimate Objects Comics #65](/inanimate-objects-comics-65/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

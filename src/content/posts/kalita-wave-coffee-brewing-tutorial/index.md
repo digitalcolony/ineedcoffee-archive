@@ -18,7 +18,7 @@ In 2013, I organized a trip for the Coffee Club of Seattle to visit the coffee s
 
 *Kalita Wave brewing at Olympia Coffee Roasting*
 
-The Kalita Wave Dripper is a pour-over coffee brewer from Japan with a flat bottom design. The flat bottom design is for a more even extraction. Unlike the [Bonavita Immersion Coffee Dripper](http://ineedcoffee.com/step-step-bonavita-immersion-coffee-dripper-tutorial/) or the [Clever Coffee Dripper](http://ineedcoffee.com/clever-coffee-dripper-review/), the Kalita Wave is not a pour-and-wait, but a hands-on brewing method that requires an even flow of hot water on the grounds. So it resembles a [Hario V60](http://ineedcoffee.com/how-hard-is-a-hario-pour-over/), but with a flat bottom filter.
+The Kalita Wave Dripper is a pour-over coffee brewer from Japan with a flat bottom design. The flat bottom design is for a more even extraction. Unlike the [Bonavita Immersion Coffee Dripper](/step-step-bonavita-immersion-coffee-dripper-tutorial/) or the [Clever Coffee Dripper](/clever-coffee-dripper-review/), the Kalita Wave is not a pour-and-wait, but a hands-on brewing method that requires an even flow of hot water on the grounds. So it resembles a [Hario V60](/how-hard-is-a-hario-pour-over/), but with a flat bottom filter.
 
 The Kalita Wave Dripper comes in two sizes: #155 and #185. The #155 is smaller and ideal for a single-cup brewer, while the #185 is slightly larger. The Kalita Wave Dripper is available in glass or stainless steel, and the #185 is also available in ceramic.
 
@@ -68,7 +68,7 @@ With most brewing methods, I like to start with a 17-to-1 brewing ratio. This me
 -   #155 model: 300 grams (10.1 oz) water and 17-18 grams of coffee.
 -   #185 model: 500 grams (16.9 oz) water and 29-30 grams of coffee.
 
-The coffee grind size will be between Medium and Medium Coarse. See our [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) for a visual explanation.
+The coffee grind size will be between Medium and Medium Coarse. See our [Coffee Grind Chart](/coffee-grind-chart/) for a visual explanation.
 
 The timer will confirm that you have an ideal grind size. The brew time to aim for is between 3:00 and 3:30. If it goes faster, tighten the grind a little. If it goes slower, adjust your grind to be coarser.
 

@@ -141,6 +141,6 @@ Happy roasting, and thanks for your attention. S.H.
 
 ### Resources
 
-[Hacking the Orville Redenbacher Hot Air Popper to Roast Coffee](http://ineedcoffee.com/poplite-coffee-roaster/) – Tutorial on modifying the PopLite to roast coffee.
+[Hacking the Orville Redenbacher Hot Air Popper to Roast Coffee](/poplite-coffee-roaster/) – Tutorial on modifying the PopLite to roast coffee.
 
-[Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) – Tutorial on the roasting process for a popcorn popper.
+[Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/) – Tutorial on the roasting process for a popcorn popper.

@@ -22,7 +22,7 @@ I never got that memo. It seemed, at first, like nobody had ever heard of this h
 
 After a little trial and error, I produced a cup acceptable to my father-in-law and sure to please or at least intrigue even the non-coffee drinker. Having an almost tea-like flavor, this coffee is fun to make and impressive to even the most epicurean dinner guests.
 
-A terrific article on roasting your own coffee beans in a popcorn popper is [Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/). Don’t be intimidated by roasting your own coffee—it’s easier than it looks.
+A terrific article on roasting your own coffee beans in a popcorn popper is [Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/). Don’t be intimidated by roasting your own coffee—it’s easier than it looks.
 
 This coffee is all about the depth of the roast, so roast your beans only until they are the color of peanut butter. A few here and there may be a little darker it’s O.K.
 

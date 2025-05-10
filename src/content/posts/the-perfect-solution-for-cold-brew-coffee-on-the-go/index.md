@@ -12,7 +12,7 @@ updatedAt: "2025-03-29T08:48:24"
 wordpressId: 6337
 ---
 
-In addition to their [regular cold brewer](http://ineedcoffee.com/making-cold-brew-coffee-with-the-primula-coffee-maker/), Primula also makes a Travel Bottle Cold Brew Coffee Maker. I really like this brewer. The travel version is different than the regular version in a few ways. Besides brewing less coffee, the coffee it makes is not a concentrate, meaning it is ready to drink as soon as the brew completes. Also, the travel bottle does everything. You brew, store, and drink coffee from it.
+In addition to their [regular cold brewer](/making-cold-brew-coffee-with-the-primula-coffee-maker/), Primula also makes a Travel Bottle Cold Brew Coffee Maker. I really like this brewer. The travel version is different than the regular version in a few ways. Besides brewing less coffee, the coffee it makes is not a concentrate, meaning it is ready to drink as soon as the brew completes. Also, the travel bottle does everything. You brew, store, and drink coffee from it.
 
 In this tutorial, we will make cold brew coffee with the Primula Travel Bottle Cold Brew Coffee Maker.
 
@@ -74,14 +74,14 @@ If you discover that the coffee is too weak, you can try a few strategies. You c
 
 ### No More Leaks
 
-A few Amazon reviews complain that the bottom lid leaks. The first brewer I received for this tutorial did have an occasional leak issue. Usually, it resulted from loose grounds between the lip of the filter and the bottom lid. The same thing can happen with the [Aeropress](http://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/).
+A few Amazon reviews complain that the bottom lid leaks. The first brewer I received for this tutorial did have an occasional leak issue. Usually, it resulted from loose grounds between the lip of the filter and the bottom lid. The same thing can happen with the [Aeropress](/upside-aeropress-coffee-brewing-tutorial/).
 
 The good news is the filter has been redesigned. It is larger and it solves the leak problem. If you are looking for a simple no-mess foolproof cold coffee brewer, give the Primula Brew Travel Bottle a try.
 
 ### Resources
 
-[Making Cold Brew Coffee With the Primula Coffee Maker](http://ineedcoffee.com/making-cold-brew-coffee-with-the-primula-coffee-maker/) – INeedCoffee tutorial for the 1.6-quart cold coffee brewer.
+[Making Cold Brew Coffee With the Primula Coffee Maker](/making-cold-brew-coffee-with-the-primula-coffee-maker/) – INeedCoffee tutorial for the 1.6-quart cold coffee brewer.
 
-[Cold Brew Coffee is Not Rocket Science](http://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/) – INeedCoffee overview of Cold Brew Coffee.
+[Cold Brew Coffee is Not Rocket Science](/cold-brew-coffee-is-not-rocket-science/) – INeedCoffee overview of Cold Brew Coffee.
 
 *Disclosure: INeedCoffee received a Primula brewer to use for this tutorial.*

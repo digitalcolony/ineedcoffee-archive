@@ -46,7 +46,7 @@ Many of the great blends I’ve tried had used three different crops. My pattern
 2.  Subtle Flavor (medium roast): Central America (Panama, Costa Rica, Guatemala, Honduras)
 3.  Body (darker roast): Brazil. Colombia, Sumatra
 
-Keep the three roasts in three different containers. Now, experiment with brewing in a [press pot](http://ineedcoffee.com/press-pot-tutorial/) with various ratios. This will enable home roasters to quickly determine what flavors to include and those to change.
+Keep the three roasts in three different containers. Now, experiment with brewing in a [press pot](/press-pot-tutorial/) with various ratios. This will enable home roasters to quickly determine what flavors to include and those to change.
 
 ### Faking Freshness Blend
 

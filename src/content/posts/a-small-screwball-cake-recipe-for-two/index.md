@@ -75,6 +75,6 @@ Serve and enjoy!
 
 ### Resources
 
-[Espresso Carrot Cake Recipe](http://ineedcoffee.com/espresso-carrot-cake-recipe/) – A coffee-based cake recipe.
+[Espresso Carrot Cake Recipe](/espresso-carrot-cake-recipe/) – A coffee-based cake recipe.
 
-[Cold Brew Coffee Cupcakes With Mocha Buttercream Frosting Recipe](http://ineedcoffee.com/cold-brew-coffee-cupcakes-with-mocha-buttercream-frosting-recipe/) – Use cold-brew coffee as an ingredient for making cupcakes.
+[Cold Brew Coffee Cupcakes With Mocha Buttercream Frosting Recipe](/cold-brew-coffee-cupcakes-with-mocha-buttercream-frosting-recipe/) – Use cold-brew coffee as an ingredient for making cupcakes.

@@ -121,6 +121,6 @@ That’s all. Try some cold brew coffee and see if you like it. If not, you aren
 
 ### Resources
 
-[Cold Brew Coffee with the Toddy Coffee Maker](http://ineedcoffee.com/cold-brew-coffee-with-the-toddy-coffee-maker/) – An alternate cold coffee brewing method.
+[Cold Brew Coffee with the Toddy Coffee Maker](/cold-brew-coffee-with-the-toddy-coffee-maker/) – An alternate cold coffee brewing method.
 
-[Greek Frappe Recipe](http://ineedcoffee.com/greek-frappe-recipe/) – A cold coffee treat.
+[Greek Frappe Recipe](/greek-frappe-recipe/) – A cold coffee treat.

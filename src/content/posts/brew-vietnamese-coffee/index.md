@@ -98,7 +98,7 @@ Mix the ice into the drink and enjoy!
 
 ### Resources
 
-[Vietnamese Iced Coffee Brewing Tutorial by Inanimate Objects](http://ineedcoffee.com/vietnamese-iced-coffee-brewing-tutorial-by-inanimate-objects/) – Comic version of this tutorial.
+[Vietnamese Iced Coffee Brewing Tutorial by Inanimate Objects](/vietnamese-iced-coffee-brewing-tutorial-by-inanimate-objects/) – Comic version of this tutorial.
 
 [Condensed Milk](https://en.wikipedia.org/wiki/Condensed_milk) – A Wikipedia page describing how condensed milk is made using steam and sugar so it remains shelf-stable for years.
 

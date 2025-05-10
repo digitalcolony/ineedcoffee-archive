@@ -26,9 +26,9 @@ You can rinse the filter before brewing. Most coffee professionals advise doing 
 
 ### #3 Add Ground Coffee
 
-For pour-over coffee, I am using a [medium drip grind](http://ineedcoffee.com/coffee-grind-chart/). How strong or weak you like your coffee is up to you. I start with a 17 to 1 ratio. That means 17 grams of water per 1 gram of coffee.
+For pour-over coffee, I am using a [medium drip grind](/coffee-grind-chart/). How strong or weak you like your coffee is up to you. I start with a 17 to 1 ratio. That means 17 grams of water per 1 gram of coffee.
 
-I shared this rule in the [Coffee Sock article](http://ineedcoffee.com/brewing-coffee-coffee-sock/), which applies here.
+I shared this rule in the [Coffee Sock article](/brewing-coffee-coffee-sock/), which applies here.
 
 -   A 12-ounce mug of coffee is 340 grams.
 -   Divide 340 by 17, and you get 20 grams of coffee.

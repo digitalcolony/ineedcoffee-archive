@@ -12,7 +12,7 @@ updatedAt: "2025-03-22T09:21:13"
 wordpressId: 220
 ---
 
-I first learned to roast coffee with the *FreshRoast Plus*. There are a lot of advantages to small purpose-built roasting appliances. I still recommend them to beginners. A desire to improve the roasting process led me through various phases of experimentation. By [adding a variac](http://ineedcoffee.com/roasting-with-a-variac-controlled-freshroast-plus/ "Roasting with a Variac Controlled FreshRoast Plus") I was able to achieve an amazing level of control over the profile. After a while, however, I found I was spending too much time roasting due to the small batch sizes.
+I first learned to roast coffee with the *FreshRoast Plus*. There are a lot of advantages to small purpose-built roasting appliances. I still recommend them to beginners. A desire to improve the roasting process led me through various phases of experimentation. By [adding a variac](/roasting-with-a-variac-controlled-freshroast-plus/ "Roasting with a Variac Controlled FreshRoast Plus") I was able to achieve an amazing level of control over the profile. After a while, however, I found I was spending too much time roasting due to the small batch sizes.
 
 There are other home coffee roasting methods suited to larger batches. I tried a stovetop popper, which worked well, but the popper I got wasn’t very durable. I decided to try the heat gun, figuring if it didn’t work, a heat gun would still be useful. It turns out the heat gun is a viable way to roast up to a pound or so of green beans. The following is a how-to based on my experience.
 
@@ -82,4 +82,4 @@ Someone once said all you need to roast coffee are beans and a heat source. The 
 
 ### Resources
 
-[Why Home Roast Coffee?](http://ineedcoffee.com/why-home-roast/) – INeedCoffee article.
+[Why Home Roast Coffee?](/why-home-roast/) – INeedCoffee article.

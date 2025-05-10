@@ -20,8 +20,8 @@ wordpressId: 560
 
 ![real or fake](comic-03-real-or-fake.jpg)
 
-Previous: [Inanimate Objects Comics #36](http://ineedcoffee.com/inanimate-objects-comics-36/)
+Previous: [Inanimate Objects Comics #36](/inanimate-objects-comics-36/)
 
-Next: [Inanimate Objects Comics #38](http://ineedcoffee.com/inanimate-objects-comics-38/)
+Next: [Inanimate Objects Comics #38](/inanimate-objects-comics-38/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

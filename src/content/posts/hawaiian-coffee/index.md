@@ -98,6 +98,6 @@ If you want roasted coffee, a quick Google search will turn up an endless supply
 
 ### Resources
 
-[Everything You Wanted to Know About Coffee From Hawaii](http://ineedcoffee.com/everything-you-wanted-to-know-about-coffee-from-hawaii/) – Review of *The Hawai’i Coffee Book* by Shawn Steiman.
+[Everything You Wanted to Know About Coffee From Hawaii](/everything-you-wanted-to-know-about-coffee-from-hawaii/) – Review of *The Hawai’i Coffee Book* by Shawn Steiman.
 
-[Kona Coffee Confusion](http://ineedcoffee.com/kona-coffee-confusion/) – An article covering Kona Blends, Kona Style, and 100% Kona labeling.
+[Kona Coffee Confusion](/kona-coffee-confusion/) – An article covering Kona Blends, Kona Style, and 100% Kona labeling.

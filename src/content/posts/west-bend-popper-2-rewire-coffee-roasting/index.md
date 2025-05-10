@@ -12,7 +12,7 @@ updatedAt: "2025-03-22T15:27:25"
 wordpressId: 5229
 ---
 
-I was inspired to buy the [West Bend Poppery 1](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) when I saw *willbldrco’s* video on YouTube entitled *West Bend Poppery rewire for coffee roasting*. What a masterful modification to simply solve the coffee roasting routine by changing one wire to another terminal.
+I was inspired to buy the [West Bend Poppery 1](/roasting-coffee-in-a-popcorn-popper/) when I saw *willbldrco’s* video on YouTube entitled *West Bend Poppery rewire for coffee roasting*. What a masterful modification to simply solve the coffee roasting routine by changing one wire to another terminal.
 
 By changing the fan wire to the hot terminal, so it would bypass the off-on switch and the fan would run all the time when the popper was plugged into the socket, is sheer genius. This means that the off-on switch, on the popper, can now be used to control the heat; thereby regulating the temperature and prolonging the roasting time of the beans.
 
@@ -30,21 +30,21 @@ A $1.69 extension cord, after it is cut in half, will provide the new plug-in co
 
 ### The Conversion
 
-This conversion will work not only on the West Bend Poppery 2 but on most of the [Presto hot air poppers](http://ineedcoffee.com/poplite-coffee-roaster/) with similar wiring. The one cautionary provision in this modification is to make sure the two circuits are completely separate. Some hot air poppers have a small coil connected directly to the main heating coil. If the popper is so wired, then the small coil must be separated from the main heating coil. It should be connected to a point somewhere on the fan circuit so it is in series with the current to supply power to the fan. This should only be attempted by someone who knows what they are doing.
+This conversion will work not only on the West Bend Poppery 2 but on most of the [Presto hot air poppers](/poplite-coffee-roaster/) with similar wiring. The one cautionary provision in this modification is to make sure the two circuits are completely separate. Some hot air poppers have a small coil connected directly to the main heating coil. If the popper is so wired, then the small coil must be separated from the main heating coil. It should be connected to a point somewhere on the fan circuit so it is in series with the current to supply power to the fan. This should only be attempted by someone who knows what they are doing.
 
 ![convert popper](wb-hack-setup.jpg)
 
 The WB Poppery 2 is disassembled by removing three screws in the top cover of the popper. The power cord is removed by twisting the power cord keeper fitting 90 degrees to the right or left and then pulling it out. The cord keeper can be removed and saved for later re-assembly using the reverse procedure. The heating and fan unit are disassembled by removing three small screws that hold them together. When you have performed that task the internal working of the heating unit can be explored. Mark the orientation of the parts so that reassembly will be easier.
 
-[![West Bend Label A](wb-label-A-650x487.jpg)](http://ineedcoffee.com/wp-content/uploads/2014/08/wb-label-A.jpg)
+[![West Bend Label A](wb-label-A-650x487.jpg)](/wp-content/uploads/2014/08/wb-label-A.jpg)
 
 Point A is the incoming 120-volt hot wire. The current moves from A through the Thermal Fuse to D to supply both the small and main heating coils. D is one end of the small heating coil, and E is the other end of the small heating coil. This supplies power to the fan. Current then runs down the brass strip from D to the thermostat and supplies current to C, which is one end of the main heating coil. By removing the top part of the thermostat (and the bi-metal disk), we isolate the two heating coils. The white ground wire is attached to the other end of the Main heating coil. It is cut from the incoming 120-volt ground connection.
 
 In the photograph below, before the removal of the thermostat tab, I propped open the thermostat contacts with a toothpick. I tested to make sure there was no contact between the two coils with a continuity meter. When the white ground wire to C has been clipped, the separation of the two coil circuits is complete. The fan and the small coil are on the original popper cord. The white wire at B and the new black wire at C will be attached to a new power cord to supply power to the Main heating coil.
 
-[![West Bend B](wb-label-B-650x487.jpg)](http://ineedcoffee.com/wp-content/uploads/2014/08/wb-label-B.jpg)
+[![West Bend B](wb-label-B-650x487.jpg)](/wp-content/uploads/2014/08/wb-label-B.jpg)
 
-[![West Bend C](wb-label-C-650x487.jpg)](http://ineedcoffee.com/wp-content/uploads/2014/08/wb-label-C.jpg)
+[![West Bend C](wb-label-C-650x487.jpg)](/wp-content/uploads/2014/08/wb-label-C.jpg)
 
 ### Near Completion
 

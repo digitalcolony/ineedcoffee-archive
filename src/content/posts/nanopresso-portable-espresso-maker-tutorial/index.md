@@ -74,10 +74,10 @@ Nanopresso uses the person making the coffee’s pressing action to generate eno
 
 [Wacaco – Portable Espresso Machines](https://www.youtube.com/channel/UC-y91EU3KtDG_yZuSxeMI6w?view_as=subscriber) – YouTube channel with recipes and more.
 
-[Prismo Filter Upgrade For AeroPress Review and Tips](http://ineedcoffee.com/prismo-filter-upgrade-for-aeropress-review-and-tips/) – A way to make fake espresso with an AeroPress.
+[Prismo Filter Upgrade For AeroPress Review and Tips](/prismo-filter-upgrade-for-aeropress-review-and-tips/) – A way to make fake espresso with an AeroPress.
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – INeedCoffee brewing tutorials
+[Coffee Brewing Guide](/coffee-brewing-guide/) – INeedCoffee brewing tutorials
 
-[Battle of the Handheld Espresso Makers: Handpresso Wild Hybrid vs Wacaco Minipresso GR](http://ineedcoffee.com/battle-handheld-espresso-makers-handpresso-wild-hybrid-vs-wacaco-minipresso-gr/) – Our 2015 review.
+[Battle of the Handheld Espresso Makers: Handpresso Wild Hybrid vs Wacaco Minipresso GR](/battle-handheld-espresso-makers-handpresso-wild-hybrid-vs-wacaco-minipresso-gr/) – Our 2015 review.
 
 *Disclosure: INeedCoffee received a Nanopresso and a Nanovessel for this tutorial.*

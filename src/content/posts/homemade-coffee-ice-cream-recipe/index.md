@@ -34,7 +34,7 @@ Let us make some coffee ice cream. We will be using the *Cuisinart ICE-21 Frozen
 
 I used the 100% Colombian Instant Coffee sold by Trader Joe’s. I can vouch for this instant coffee. If you use Starbucks VIA, pick their Colombian instead of the French Roast. If you prefer a stronger coffee taste, double the amount of instant coffee added to 3 tablespoons.
 
-I used regular granulated white sugar for my coffee ice cream, but there are other options. Some recipes call for splitting the amount of sugar equally between white sugar and brown sugar. And our [Coconut Milk Coffee Ice Cream](http://ineedcoffee.com/coconut-milk-coffee-ice-cream/) recipe gives the tip to use rice syrup if you find the ice cream too hard after a day in the freezer.
+I used regular granulated white sugar for my coffee ice cream, but there are other options. Some recipes call for splitting the amount of sugar equally between white sugar and brown sugar. And our [Coconut Milk Coffee Ice Cream](/coconut-milk-coffee-ice-cream/) recipe gives the tip to use rice syrup if you find the ice cream too hard after a day in the freezer.
 
 ![ice cream supplies](ice-cream-supplies.jpg)
 
@@ -102,4 +102,4 @@ Now that you have your coffee ice cream, you could make a milkshake or a malt. A
 
 ### Resources
 
-[Coconut Milk Coffee Ice Cream](http://ineedcoffee.com/coconut-milk-coffee-ice-cream-recipe/) – For those who want to make coffee ice cream without dairy.
+[Coconut Milk Coffee Ice Cream](/coconut-milk-coffee-ice-cream-recipe/) – For those who want to make coffee ice cream without dairy.

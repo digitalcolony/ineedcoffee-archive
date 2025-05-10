@@ -16,11 +16,11 @@ Prior to the COVID lockdowns, I loved exploring new coffee shops. It was my spor
 
 This year, I have been traveling around the country with my web browser, exploring numerous great American coffee roasters. In this article, I want to share some of my favorites. I also want to share with the coffee roasters who might be reading the things I like and dislike about ordering coffee online. The ordering process for coffee is much better than it was just two years ago. Most excellent roasters now have top-notch secure e-commerce websites that simplify ordering coffee.
 
-A few years ago, I compiled a list of tips for [finding a good coffee roaster subscription online](http://ineedcoffee.com/guide-coffee-mail-order-subscriptions/). Those tips also apply to single purchases.
+A few years ago, I compiled a list of tips for [finding a good coffee roaster subscription online](/guide-coffee-mail-order-subscriptions/). Those tips also apply to single purchases.
 
-Before I tell you the coffee I tried, let me tell you what type of coffee I like. I prefer lighter-roasted single-origin coffee. I make almost all my coffee in the [AeroPress](http://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/) or as [cold brew in the Penguin](http://ineedcoffee.com/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/).
+Before I tell you the coffee I tried, let me tell you what type of coffee I like. I prefer lighter-roasted single-origin coffee. I make almost all my coffee in the [AeroPress](/upside-aeropress-coffee-brewing-tutorial/) or as [cold brew in the Penguin](/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/).
 
-If you are a fan of dark roast coffee, my list may not be of much value to you. My advice for those who like coffee on the dark side is to take up home coffee roasting or find some really good medium roasts, as dark-roasted coffee goes stale quickly. See my article [Hacking Dark Roast – Tips on Brewing a Better Bold Coffee](http://ineedcoffee.com/hacking-dark-roast-tips-on-brewing-a-better-bold-coffee/) for more guidance.
+If you are a fan of dark roast coffee, my list may not be of much value to you. My advice for those who like coffee on the dark side is to take up home coffee roasting or find some really good medium roasts, as dark-roasted coffee goes stale quickly. See my article [Hacking Dark Roast – Tips on Brewing a Better Bold Coffee](/hacking-dark-roast-tips-on-brewing-a-better-bold-coffee/) for more guidance.
 
 ### How to Not Earn My Business
 
@@ -90,4 +90,4 @@ I love this quest to explore the best coffee roasters in America. If you like my
 
 [My Guide to San Francisco Espresso (2015)](https://criticalmas.org/2015/01/guide-san-francisco-espresso-2015/) – My favorite coffee shops I discovered during my time in the Bay Area.
 
-[Our Guide to Coffee Mail Order Subscriptions](http://ineedcoffee.com/guide-coffee-mail-order-subscriptions/) – INeedCoffee article.
+[Our Guide to Coffee Mail Order Subscriptions](/guide-coffee-mail-order-subscriptions/) – INeedCoffee article.

@@ -13,7 +13,7 @@ wordpressId: 153
 ---
 
 ![ode to coffee](041SandiHollandPoem1.jpg)  
-*Poem by [Sandi J. Holland](http://ineedcoffee.com/by/sandi-j-holland/)*
+*Poem by [Sandi J. Holland](/by/sandi-j-holland/)*
 
 ![coffee maker in bedroom](coffee-maker-in-bedroom.jpg)
 
@@ -23,8 +23,8 @@ wordpressId: 153
 
 ![comic moldy coffee](comic-moldy-coffee.jpg)
 
-Previous: [Inanimate Objects Comics #4](http://ineedcoffee.com/inanimate-objects-comics-4/)
+Previous: [Inanimate Objects Comics #4](/inanimate-objects-comics-4/)
 
-Next: [Inanimate Objects Comics #6](http://ineedcoffee.com/inanimate-objects-comics-6/)
+Next: [Inanimate Objects Comics #6](/inanimate-objects-comics-6/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

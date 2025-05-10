@@ -12,7 +12,7 @@ updatedAt: "2025-03-28T15:11:22"
 wordpressId: 588
 ---
 
-The Clever Coffee Dripper has gotten a lot of buzz. The claim is that it offers the best of Drip and [French Press](http://ineedcoffee.com/press-pot-tutorial/), without the drawbacks of either.
+The Clever Coffee Dripper has gotten a lot of buzz. The claim is that it offers the best of Drip and [French Press](/press-pot-tutorial/), without the drawbacks of either.
 
 ![Clever Coffee Dripper - Add Filter](ccd-11.jpg)  
 *Clever Coffee Dripper – Insert Coffee Filter*
@@ -43,7 +43,7 @@ I found that all my favorite cups were too wide, and my favorite thermoses were 
 
 I used the Clever Coffee Dripper using many of the variations that Tom from Sweet Maria’s mentions on his site just to see what I liked. It turned out I am somewhat lazy, and I was fine with my method below since it seems a lot easier for me, so here it is:
 
-1.  Grind a little on the finer side, probably medium-fine grind as shown on the [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/).
+1.  Grind a little on the finer side, probably medium-fine grind as shown on the [Coffee Grind Chart](/coffee-grind-chart/).
 2.  I don’t weigh my coffee or water.
 3.  On a #4 filter, I just eyeball and fill the coffee until it is filled about 1/3 of the way from the bottom.
 4.  I immediately pour the water and stir, leave about an inch of headroom for bloom, and put the cover on.
@@ -84,6 +84,6 @@ Although it doesn’t fit all my vessels, at $20, it is a great deal. I would re
 
 ### Resources
 
-[Step By Step Bonavita Immersion Coffee Dripper Tutorial](http://ineedcoffee.com/step-step-bonavita-immersion-coffee-dripper-tutorial/) – A similar brewing method that uses a ceramic brewer instead of plastic.
+[Step By Step Bonavita Immersion Coffee Dripper Tutorial](/step-step-bonavita-immersion-coffee-dripper-tutorial/) – A similar brewing method that uses a ceramic brewer instead of plastic.
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – A collection of coffee brewing tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – A collection of coffee brewing tutorials.

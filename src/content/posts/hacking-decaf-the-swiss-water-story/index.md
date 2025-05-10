@@ -156,4 +156,4 @@ Forget about what you think you know about Decaf – these people have completel
 
 [How is caffeine removed to produce decaffeinated coffee?](https://www.scientificamerican.com/article/how-is-caffeine-removed-t/) – Article from Scientific American.
 
-[Decaf Coffee Methods](http://ineedcoffee.com/decaf-coffee-methods/) – INeedCoffee article by Stephanie Spencer
+[Decaf Coffee Methods](/decaf-coffee-methods/) – INeedCoffee article by Stephanie Spencer

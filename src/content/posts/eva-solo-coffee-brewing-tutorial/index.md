@@ -12,7 +12,7 @@ updatedAt: "2025-03-24T17:54:06"
 wordpressId: 537
 ---
 
-When I tell people that my favorite rich coffee brewing method—other than espresso—is the Eva Solo, they usually don’t know what I am talking about. The Eva Solo is also known as a Cafe Solo. What is the Eva Solo? It brews like an upside-down French press with a fine convex filter that descends into the brewing chamber. The glass brewing container resembles a [Chemex](http://ineedcoffee.com/chemex-coffee-brewing-history-and-tutorial/), but without the handle. It is covered with a thin neoprene cover that zips up like a sleeping bag.
+When I tell people that my favorite rich coffee brewing method—other than espresso—is the Eva Solo, they usually don’t know what I am talking about. The Eva Solo is also known as a Cafe Solo. What is the Eva Solo? It brews like an upside-down French press with a fine convex filter that descends into the brewing chamber. The glass brewing container resembles a [Chemex](/chemex-coffee-brewing-history-and-tutorial/), but without the handle. It is covered with a thin neoprene cover that zips up like a sleeping bag.
 
 ![Eva Solo Coffee Brewer](eva-solo-1-577x650.jpg "Eva Solo Coffee Brewer")  
 *Eva Solo Coffee Brewer*
@@ -76,6 +76,6 @@ The only downside to the Eva Solo is the cost. You can find one on Amazon for ju
 
 ### Resources
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – Our collection of coffee brewing tutorials here on INeedCoffee.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – Our collection of coffee brewing tutorials here on INeedCoffee.
 
-[Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) – A visual guide to getting the right coffee grind size.
+[Coffee Grind Chart](/coffee-grind-chart/) – A visual guide to getting the right coffee grind size.

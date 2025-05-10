@@ -22,8 +22,8 @@ wordpressId: 158
 
 ![Ode Fellow Mugs](25Fellow-Mugs.jpg)
 
-Previous: [Inanimate Objects Comics #7](http://ineedcoffee.com/inanimate-objects-comics-7/)
+Previous: [Inanimate Objects Comics #7](/inanimate-objects-comics-7/)
 
-Next: [Inanimate Objects Comics #9](http://ineedcoffee.com/inanimate-objects-comics-9/)
+Next: [Inanimate Objects Comics #9](/inanimate-objects-comics-9/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

@@ -33,7 +33,7 @@ Here is a quick list of coffee terms and their meanings. This isn’t an all-enc
 
 **Doppio**: Italian for double. As in “Espresso Doppio” or just “doppio”. Translates into a double espresso.
 
-**French Press**: Coffee brewing method. Also known as the ‘plunge pot’, ‘press pot’ or ‘cafetiere’. This method requires a coarsely ground coffee, hot water, a french press pot. See [Troubleshooting French Press Coffee](http://ineedcoffee.com/troubleshooting-french-press-coffee/).
+**French Press**: Coffee brewing method. Also known as the ‘plunge pot’, ‘press pot’ or ‘cafetiere’. This method requires a coarsely ground coffee, hot water, a french press pot. See [Troubleshooting French Press Coffee](/troubleshooting-french-press-coffee/).
 
 **French Roast**: Darkly roasted coffee with high amounts of oil on the surface of the bean
 
@@ -49,14 +49,14 @@ Here is a quick list of coffee terms and their meanings. This isn’t an all-enc
 
 **Pull**: 1. The act of preparing espresso. 2. Part of the espresso machine includes the filter basket and handle.
 
-**Ristretto**: [Ristretto](http://ineedcoffee.com/ristretto-rant/) is Italian for restrain. Used to describe method of pulling a shot of espresso resulting in less fluid in the beverage.
+**Ristretto**: [Ristretto](/ristretto-rant/) is Italian for restrain. Used to describe method of pulling a shot of espresso resulting in less fluid in the beverage.
 
 ![ristretto](ristretto.jpg)  
 *Ristretto*
 
 **Second Crack**: This is the point in the roasting process where steam builds up in the bean and oils begin to come to the surface. At this stage, ‘tipping’ occurs, and little black chips come off the bean.
 
-**Shade Grown**: Organic method of growing coffee which is good for the environment and good for the coffee. It employs the use of growing trees which provide natural habitats for birds. The birds, in turn, eat the insects and this eliminates the need for pesticides. See [Primer on Shade Grown Coffee](http://ineedcoffee.com/primer-on-shade-grown-coffee/).
+**Shade Grown**: Organic method of growing coffee which is good for the environment and good for the coffee. It employs the use of growing trees which provide natural habitats for birds. The birds, in turn, eat the insects and this eliminates the need for pesticides. See [Primer on Shade Grown Coffee](/primer-on-shade-grown-coffee/).
 
 **Skinny**: Ordering a coffee beverage requesting the use of skim milk.
 

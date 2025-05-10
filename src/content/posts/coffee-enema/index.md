@@ -68,8 +68,8 @@ If constipation is consistent for several weeks in a row and you continue to hav
 
 ### Resources
 
-[Top 10 Dangers of the Coffee Enema](http://ineedcoffee.com/top-10-dangers-of-the-coffee-enema/) – INeedCoffee article outlining potential risks of the coffee enema.
+[Top 10 Dangers of the Coffee Enema](/top-10-dangers-of-the-coffee-enema/) – INeedCoffee article outlining potential risks of the coffee enema.
 
-[Coffee Enema Benefits vs Dangers](http://ineedcoffee.com/coffee-enema-benefits-vs-dangers/) – Article by health professional Kristina Amelong.
+[Coffee Enema Benefits vs Dangers](/coffee-enema-benefits-vs-dangers/) – Article by health professional Kristina Amelong.
 
 *Photo by [Daniel Ruswick](https://unsplash.com/@danielruswick)*

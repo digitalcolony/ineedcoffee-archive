@@ -12,7 +12,7 @@ updatedAt: "2025-03-15T18:51:07"
 wordpressId: 208
 ---
 
-In this tutorial, you will learn how to build your own stovetop coffee roaster. It will work very similar to the [Whirley-Pop popcorn poppers](http://ineedcoffee.com/stovetop-roasting-with-the-whirley-pop/), which can also be used to roast coffee.
+In this tutorial, you will learn how to build your own stovetop coffee roaster. It will work very similar to the [Whirley-Pop popcorn poppers](/stovetop-roasting-with-the-whirley-pop/), which can also be used to roast coffee.
 
 Materials needed:
 

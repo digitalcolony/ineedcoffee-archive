@@ -12,7 +12,7 @@ updatedAt: "2025-03-27T15:06:56"
 wordpressId: 7876
 ---
 
-In an earlier article titled [Cold Brew Coffee is Not Rocket Science](http://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/), I outlined just how easy it was to make cold brew coffee at home. No matter how you tackle the task of making cold brew, it all breaks down to some basic steps:
+In an earlier article titled [Cold Brew Coffee is Not Rocket Science](/cold-brew-coffee-is-not-rocket-science/), I outlined just how easy it was to make cold brew coffee at home. No matter how you tackle the task of making cold brew, it all breaks down to some basic steps:
 
 1.  Grind coffee to a medium-coarse or regular coarse setting.
 2.  Place coffee inside a filter.
@@ -41,7 +41,7 @@ Let us make some cold brew coffee.
 
 ### #1 Grind 1 Cup of Coffee
 
-A common ratio in cold brew coffee is 4 to 1. This means four parts water for 1 part coffee. 32 ounces is 1 quart, or 4 cups in a quart. Divide by 4, and we get 1 cup of coffee. For those who prefer grams, use 85 grams of coffee. The coffee should be ground medium-coarse to coarse. See our [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) for more guidance, but don’t be concerned with being exact. Cold brew is very forgiving.
+A common ratio in cold brew coffee is 4 to 1. This means four parts water for 1 part coffee. 32 ounces is 1 quart, or 4 cups in a quart. Divide by 4, and we get 1 cup of coffee. For those who prefer grams, use 85 grams of coffee. The coffee should be ground medium-coarse to coarse. See our [Coffee Grind Chart](/coffee-grind-chart/) for more guidance, but don’t be concerned with being exact. Cold brew is very forgiving.
 
 ![](coldbrew-coffee-setup.jpg)
 
@@ -95,9 +95,9 @@ I’m a big fan of the design of the *Cold Brew Coffee Maker from Home and Above
 
 *Cold Brew Coffee Maker by Home and Above*
 
-[Cold Brew Coffee is Not Rocket Science](http://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/) – The basics of cold brew coffee.
+[Cold Brew Coffee is Not Rocket Science](/cold-brew-coffee-is-not-rocket-science/) – The basics of cold brew coffee.
 
-[The Perfect Solution For Cold Brew Coffee on the Go](http://ineedcoffee.com/the-perfect-solution-for-cold-brew-coffee-on-the-go/) – Cold brew coffee with the Primula travel mug.
+[The Perfect Solution For Cold Brew Coffee on the Go](/the-perfect-solution-for-cold-brew-coffee-on-the-go/) – Cold brew coffee with the Primula travel mug.
 
 *Disclosure: INeedCoffee received a Cold Brew Coffee Maker from Home and Above for this tutorial, which did not affect its content.*
 

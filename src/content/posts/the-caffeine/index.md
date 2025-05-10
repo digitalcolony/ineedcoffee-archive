@@ -202,4 +202,4 @@ It’s just the caffeine that I adore.
 
 Copyright 1995, BADBOB New Haven, CT. Reprinted with permission.
 
-Bad Bob fans are encouraged to read our [Bad Bob Interview](http://ineedcoffee.com/bad-bob-interview/) from December 2000.
+Bad Bob fans are encouraged to read our [Bad Bob Interview](/bad-bob-interview/) from December 2000.

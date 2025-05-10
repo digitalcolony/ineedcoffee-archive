@@ -27,7 +27,7 @@ I love cowboy coffee. If not so much for the taste, as for the setting. I do a l
 
 The finer you grind the coffee, the faster the flavor will extract. If you brew too long, the coffee could taste bitter. The upside is that the finer grounds will sink more easily at the end of the brew. If you decide to use coarser ground coffee to reduce the risk of bitterness and over-extraction, you will need a spoon or something to scrape off the floating ground coffee.
 
-My advice is to start with a drip grind and adjust up or down from there based on whatever tastes best and works best for you. See our [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) for a visual explanation.
+My advice is to start with a drip grind and adjust up or down from there based on whatever tastes best and works best for you. See our [Coffee Grind Chart](/coffee-grind-chart/) for a visual explanation.
 
 ### ![Cowboy Coffee on campfire](cowboy-coffee-alex-holt.jpg)
 
@@ -70,9 +70,9 @@ I suppose this attempt at an article is my attempt to right that wrong. I’ve n
 
 ### Resources
 
-[Cowboy Coffee: Arbuckles](http://ineedcoffee.com/cowboy-coffee-arbuckles/) – Cowboy Coffee article with a recipe.
+[Cowboy Coffee: Arbuckles](/cowboy-coffee-arbuckles/) – Cowboy Coffee article with a recipe.
 
-[Preparing a Traditional Turkish Coffee](http://ineedcoffee.com/preparing-a-traditional-turkish-coffee/) – INeedCoffee brewing tutorial.
+[Preparing a Traditional Turkish Coffee](/preparing-a-traditional-turkish-coffee/) – INeedCoffee brewing tutorial.
 
 [Water Altitude Boiling Point Calculator](http://www.csgnetwork.com/h2oboilcalc.html) – Uses barometric pressure and altitude to calculate boiling temperature.
 

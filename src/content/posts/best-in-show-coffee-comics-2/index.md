@@ -14,8 +14,8 @@ wordpressId: 549
 
 ![comic-combat-coffee](comic-combat-coffee.jpg) ![comic-good-pinch](comic-good-pinch.jpg) ![comic-sell-shares](comic-sell-shares.jpg) ![comic-seventh-coffee](comic-seventh-coffee1.jpg) ![comic-switched-to-decaf](comic-switched-to-decaf.jpg) ![comic-where-is-the-remote](comic-where-is-the-remote.jpg)
 
-Previous: [Best In Show – Coffee Comics #1](http://ineedcoffee.com/best-in-show-coffee-comics-1/)
+Previous: [Best In Show – Coffee Comics #1](/best-in-show-coffee-comics-1/)
 
-Next: [Best In Show – Coffee Comics #3](http://ineedcoffee.com/best-in-show-coffee-comics-3/)
+Next: [Best In Show – Coffee Comics #3](/best-in-show-coffee-comics-3/)
 
 For more Best in Show comics visit [Phil Juliano](http://philjulianoillustration.com/).

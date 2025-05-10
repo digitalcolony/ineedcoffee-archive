@@ -20,8 +20,8 @@ wordpressId: 7361
 
 ![My-Place](201613-My-Place.jpg)
 
-Previous: [Inanimate Objects Comics #59](http://ineedcoffee.com/inanimate-objects-comics-59/)
+Previous: [Inanimate Objects Comics #59](/inanimate-objects-comics-59/)
 
-Next: [Inanimate Objects Comics #61](http://ineedcoffee.com/inanimate-objects-comics-61/)
+Next: [Inanimate Objects Comics #61](/inanimate-objects-comics-61/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

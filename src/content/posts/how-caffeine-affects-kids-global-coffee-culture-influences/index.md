@@ -34,7 +34,7 @@ When a child’s diet isn’t monitored, and they end up eating too much candy a
 Although a moderate amount of caffeine in children shouldn’t cause an issue, kids who overdo it could experience a number of adverse health effects, including the possibility for caffeine to aggravate an existing heart problem or nervous disorder. This may be true even in children who may not be aware of a health issue.
 
 ![Michael drinking Coke](michael_drinking_coke1.jpg)  
-*A future [coffee enthusiast](http://ineedcoffee.com/by/michael-allen-smith/) enjoying Coke.*
+*A future [coffee enthusiast](/by/michael-allen-smith/) enjoying Coke.*
 
 ### Global Coffee Cultures and Children
 

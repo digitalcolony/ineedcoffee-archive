@@ -125,7 +125,7 @@ we will! We need coffee too...MAS!
 
 (C) 2006 By Florence Rosie Givens
 
-Inspired by INeedCoffee.com Website and [MAS](http://ineedcoffee.com/by/michael-allen-smith/)
+Inspired by INeedCoffee.com Website and [MAS](/by/michael-allen-smith/)
 
 ### Coffee Rhymes
 
@@ -202,7 +202,7 @@ Stands by us, Thanks MAS!
 
 (C) 2007 By Florence Rosie Givens
 
-Inspired By ineedcoffee.com and [MAS](http://ineedcoffee.com/by/michael-allen-smith/)
+Inspired By ineedcoffee.com and [MAS](/by/michael-allen-smith/)
 
 ### Press For Coffee
 

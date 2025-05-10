@@ -44,4 +44,4 @@ Could China, in the future, be the next Colombia in the 1970s? A Chinese version
 
 ### Resources
 
-[Colombian Coffee](http://ineedcoffee.com/colombian-coffee/) – History and overview.
+[Colombian Coffee](/colombian-coffee/) – History and overview.

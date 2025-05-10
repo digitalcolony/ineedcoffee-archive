@@ -86,7 +86,7 @@ For over a decade, I was loyal to the French Press brewing method. These days, I
 
 ### Resources
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – The INeedCoffee collection of coffee brewing tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – The INeedCoffee collection of coffee brewing tutorials.
 
 *Brewing photos by Joseph Robertson of Extracted Magazine, a digital coffee magazine published for iOS and Android.  
 *

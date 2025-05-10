@@ -12,7 +12,7 @@ updatedAt: "2025-03-27T15:38:41"
 wordpressId: 53207
 ---
 
-Last year, I wrote a list of complaints about specialty coffee. You can read those at [Things I Would Like to See Improved in Specialty Coffee (2017)](http://ineedcoffee.com/improving-specialty-coffee/). Unfortunately, with the exception of #2 (Bus Trays) and #4 (Mugs without Handles), most of those issues are still a problem.
+Last year, I wrote a list of complaints about specialty coffee. You can read those at [Things I Would Like to See Improved in Specialty Coffee (2017)](/improving-specialty-coffee/). Unfortunately, with the exception of #2 (Bus Trays) and #4 (Mugs without Handles), most of those issues are still a problem.
 
 However, there are lots of great things happening in specialty coffee. In this article, I want to celebrate those changes.
 
@@ -24,7 +24,7 @@ Here are some of the best trends I see in specialty coffee.
 
 Around 10 years ago, a few cafes in Portland and Seattle began offering espresso options from multiple roasters. At the time, it was a revolutionary idea. Then, the idea of serving multiple espressos started to take off. Today, there are numerous cafes that offer more than one espresso, often from different roasters, and sometimes, those roasters rotate.
 
-As an espresso fan, I love this trend and hope it continues. I wish the cafes would better communicate that they have a 2nd espresso option ([see #1](http://ineedcoffee.com/improving-specialty-coffee/)).
+As an espresso fan, I love this trend and hope it continues. I wish the cafes would better communicate that they have a 2nd espresso option ([see #1](/improving-specialty-coffee/)).
 
 ![3 espresso hoppers](3-espresso-hoppers.jpg)
 
@@ -94,11 +94,11 @@ Some exciting things are happening in specialty coffee. Innovations occur at eve
 
 ### Resources
 
-[Things I Would Like to See Improved in Specialty Coffee (2017)](http://ineedcoffee.com/improving-specialty-coffee/) – My list of how the coffee industry could improve.
+[Things I Would Like to See Improved in Specialty Coffee (2017)](/improving-specialty-coffee/) – My list of how the coffee industry could improve.
 
-[Next Generation Instant Coffee Reviews](http://ineedcoffee.com/next-generation-instant-coffee-reviews/) – Our article discusses how a few companies started making great instant coffee.
+[Next Generation Instant Coffee Reviews](/next-generation-instant-coffee-reviews/) – Our article discusses how a few companies started making great instant coffee.
 
-[Hacking Decaf – The Swiss Water Story](http://ineedcoffee.com/hacking-decaf-the-swiss-water-story/) – An in-depth article on the improvements in decaffeination.
+[Hacking Decaf – The Swiss Water Story](/hacking-decaf-the-swiss-water-story/) – An in-depth article on the improvements in decaffeination.
 
 [Coffee Club of Seattle](https://www.meetup.com/seattle-coffee-club/) – Meetup group founded in 2006.
 

@@ -106,10 +106,10 @@ Finally, with all these aroma and taste descriptors there can be additional adje
 
 ### Resources
 
-[Coffee Cupping: A Basic Introduction](http://ineedcoffee.com/coffee-cupping-a-basic-introduction/) – Introduction to the basics of coffee cupping.
+[Coffee Cupping: A Basic Introduction](/coffee-cupping-a-basic-introduction/) – Introduction to the basics of coffee cupping.
 
-[Espresso Blending Techniques](http://ineedcoffee.com/espresso-blending-techniques/) – Use your cupping skills to develop an espresso blend.
+[Espresso Blending Techniques](/espresso-blending-techniques/) – Use your cupping skills to develop an espresso blend.
 
-[Cupping: The Elements of Quality Coffee](http://ineedcoffee.com/cupping-the-elements-of-quality-coffee/) – INeedCoffee article by Christopher Schaefer.
+[Cupping: The Elements of Quality Coffee](/cupping-the-elements-of-quality-coffee/) – INeedCoffee article by Christopher Schaefer.
 
-[Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) – A visual chart demonstrating the different grind sizes for coffee.
+[Coffee Grind Chart](/coffee-grind-chart/) – A visual chart demonstrating the different grind sizes for coffee.

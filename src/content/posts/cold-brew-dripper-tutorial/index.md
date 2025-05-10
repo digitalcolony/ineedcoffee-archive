@@ -18,11 +18,11 @@ Brewing takes a long time, but the taste is bright and wonderful. It highlights 
 
 ### Not Cold Brew or Iced Coffee
 
-Cold Drip coffee is different from cold brew or even iced coffee. It is its own style. Cold Brew coffee is a full immersion brewing method. This means the coffee makes contact with the water the entire brewing cycle. It is more like a very long French Press. To learn more about Cold Brew coffee, see the article [Cold Brew Coffee is Not Rocket Science](http://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/).
+Cold Drip coffee is different from cold brew or even iced coffee. It is its own style. Cold Brew coffee is a full immersion brewing method. This means the coffee makes contact with the water the entire brewing cycle. It is more like a very long French Press. To learn more about Cold Brew coffee, see the article [Cold Brew Coffee is Not Rocket Science](/cold-brew-coffee-is-not-rocket-science/).
 
 Contrast this with drip immersion, where the water makes contact with the coffee and passes through.
 
-Iced coffee can be either full or drip immersion, but in most cases, the brewing time equals that of its hot brew equivalent. The coffee is brewed hot using a smaller amount of water and is then released onto the ice. If you get the ratios right what you get is a rich cup of coffee that is not watered down and cool to cold in temperature. For an example of this brewing method see the article [A Clever Way to Make Iced Coffee](http://ineedcoffee.com/clever-way-make-iced-coffee/).
+Iced coffee can be either full or drip immersion, but in most cases, the brewing time equals that of its hot brew equivalent. The coffee is brewed hot using a smaller amount of water and is then released onto the ice. If you get the ratios right what you get is a rich cup of coffee that is not watered down and cool to cold in temperature. For an example of this brewing method see the article [A Clever Way to Make Iced Coffee](/clever-way-make-iced-coffee/).
 
 #### Cold Brew Coffee
 
@@ -48,7 +48,7 @@ Iced coffee can be either full or drip immersion, but in most cases, the brewing
 
 To me, the flavor of Cold Drip Coffee is much closer to Iced Coffee than Cold Brew. The cold dripper highlights delicate flavors that are sometimes harder to detect or lost in hot brewed coffee. Whenever I begin experimenting with a new coffee brewer, I grab the oldest coffee I have for the first few batches. I expect a learning curve and that the first few brews won’t be the best. Why not put my old coffee to good use?
 
-For my initial brews, I used a somewhat flat older Tanzania that I thought was a little over-roasted when I made it in an [AeroPress](http://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/). When I made it with the Cold Brew Dripper, I was shocked. It was bright and lively. A coffee I planned on throwing away tasted amazing with the cold dripper.
+For my initial brews, I used a somewhat flat older Tanzania that I thought was a little over-roasted when I made it in an [AeroPress](/upside-aeropress-coffee-brewing-tutorial/). When I made it with the Cold Brew Dripper, I was shocked. It was bright and lively. A coffee I planned on throwing away tasted amazing with the cold dripper.
 
 The cold dripper will not make all flat coffee taste great, but this brewing method will benefit those coffees on the edge.
 
@@ -68,7 +68,7 @@ This tutorial will use 35 grams of coffee brewed at a 12-1 ratio.
 
 ### #2 Grind Coffee
 
-The coffee will be ground medium coarse. See our [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) for a visual explanation. Place the ground coffee inside the filter.
+The coffee will be ground medium coarse. See our [Coffee Grind Chart](/coffee-grind-chart/) for a visual explanation. Place the ground coffee inside the filter.
 
 ### #3 Measure out Water and Ice
 
@@ -137,11 +137,11 @@ If your coffee tastes weak and you can see the drips have made a tunnel directly
 
 The Cold Dripper is not the ideal coffee brewer for everyone. It has a very long brew cycle. However, I think it would be perfect for someone with a desk job. Come into work with a hot coffee and then set up the dripper. A few hours later, you have your next delicious coffee waiting for you. No electricity is required.
 
-In my article [The Quest for Good Coffee in the Office](http://ineedcoffee.com/the-quest-for-good-coffee-in-the-office/), I told the tale of how my office had a strict policy against bringing in any electrical appliances, so I had to break the rules. What I didn’t cover in the article was my rebel coffee lab was eventually shut down. With the Cold Dripper, I could have had great coffee without breaking any rules.
+In my article [The Quest for Good Coffee in the Office](/the-quest-for-good-coffee-in-the-office/), I told the tale of how my office had a strict policy against bringing in any electrical appliances, so I had to break the rules. What I didn’t cover in the article was my rebel coffee lab was eventually shut down. With the Cold Dripper, I could have had great coffee without breaking any rules.
 
 ### Resources
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – INeedCoffee brewing guide resource.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – INeedCoffee brewing guide resource.
 
 *[Title photo](https://flic.kr/p/Wekkgw) by arbyreed.*
 

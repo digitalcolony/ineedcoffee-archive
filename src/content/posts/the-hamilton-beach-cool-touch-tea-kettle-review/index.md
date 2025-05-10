@@ -28,7 +28,7 @@ The *Cool Touch* has a nice feature that allows you to hide the excess power cor
 ![underneath kettle](hamilton-beach-kettle-underneath.jpg)  
 *Hiding excess cord underneath the heating element.*
 
-The *Hamilton Beach Cool Touch Kettle* has a green light that indicates when it is powered on. Green makes more sense than [Bodum’s use of red](http://ineedcoffee.com/extending-the-life-of-your-bodum-cordless-electric-kettle/).
+The *Hamilton Beach Cool Touch Kettle* has a green light that indicates when it is powered on. Green makes more sense than [Bodum’s use of red](/extending-the-life-of-your-bodum-cordless-electric-kettle/).
 
 ![tea kettle light](tea-kettle-light.jpg)  
 *Green means Go or ON.*
@@ -45,6 +45,6 @@ The Hamilton Beach 40898 Cool-Touch Cordless 8 Cup Electric Kettle can heat up t
 
 ### Resources
 
-[Avoiding Plastic – 3 Stainless Steel electric Kettle Options](http://ineedcoffee.com/avoiding-plastic-3-stainless-steel-electric-kettle-options/) – Overview of Adagio Teas 3, Breville SK500XL, and Hamilton Beach Cool Touch tea kettles.
+[Avoiding Plastic – 3 Stainless Steel electric Kettle Options](/avoiding-plastic-3-stainless-steel-electric-kettle-options/) – Overview of Adagio Teas 3, Breville SK500XL, and Hamilton Beach Cool Touch tea kettles.
 
-[Extending the Life of Your Bodum Cordless Electric Kettle](http://ineedcoffee.com/extending-the-life-of-your-bodum-cordless-electric-kettle/) – My trick for keeping your Bodum Cordless Kettle alive longer.
+[Extending the Life of Your Bodum Cordless Electric Kettle](/extending-the-life-of-your-bodum-cordless-electric-kettle/) – My trick for keeping your Bodum Cordless Kettle alive longer.

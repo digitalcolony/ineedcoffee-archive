@@ -55,7 +55,7 @@ Fill the strainer with espresso. Ensure that you do not get any grounds on the o
 
 **Warning: Do not pack the espresso down!** This could possibly clog the system and generate too much pressure. Although acceptable for commercial machines, packing the espresso in this type of pot can be dangerous.
 
-If you make Stovetop Espresso on a regular basis, consider getting a [Moka Pot Coffee Dispenser](http://ineedcoffee.com/moka-pot-coffee-dispenser-review/).
+If you make Stovetop Espresso on a regular basis, consider getting a [Moka Pot Coffee Dispenser](/moka-pot-coffee-dispenser-review/).
 
 ![Add ground espresso to moka pot espresso maker](4DSCF1024.jpg)  
 *Add espresso to Moka.*
@@ -143,6 +143,6 @@ Learning how to make caffè using the espresso pot is not hard. Part of the enjo
 
 ### Resources  
 
-[Stovetop Espresso Brewing Tutorial](http://ineedcoffee.com/stovetop-espresso-brewing-tutorial/) – INeedCoffee article
+[Stovetop Espresso Brewing Tutorial](/stovetop-espresso-brewing-tutorial/) – INeedCoffee article
 
-[The Story of the Bialetti Moka Express](http://ineedcoffee.com/the-story-of-the-bialetti-moka-express/) – INeedCoffee article
+[The Story of the Bialetti Moka Express](/the-story-of-the-bialetti-moka-express/) – INeedCoffee article

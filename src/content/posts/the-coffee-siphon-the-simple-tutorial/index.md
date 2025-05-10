@@ -16,7 +16,7 @@ A few months ago, I received a wonderful gift: a coffee siphon. Although the sip
 
 ### #1 Measure and Grind
 
-The most common dosage recommendation for vacuum pot coffee is 8 grams of coffee for every four ounces of water. The grind will be slightly finer than that for drip coffee. See the [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) for a visual approximation.
+The most common dosage recommendation for vacuum pot coffee is 8 grams of coffee for every four ounces of water. The grind will be slightly finer than that for drip coffee. See the [Coffee Grind Chart](/coffee-grind-chart/) for a visual approximation.
 
 ### #2 Pre-Heat the Water
 
@@ -68,10 +68,10 @@ Once the flame is removed, the coffee will flood into the bottom chamber. Once t
 
 ### Resources 
 
-[Vac Pot Brewing with the Yama Syphon](http://ineedcoffee.com/vac-pot-brewing-with-the-yama-syphon/) – A brewing tutorial for the Yama.
+[Vac Pot Brewing with the Yama Syphon](/vac-pot-brewing-with-the-yama-syphon/) – A brewing tutorial for the Yama.
 
-[Vacuum Pot Brewing](http://ineedcoffee.com/vacuum-pot-brewing/) – A guide to different vacuum pot brewers and a brewing tutorial are available.
+[Vacuum Pot Brewing](/vacuum-pot-brewing/) – A guide to different vacuum pot brewers and a brewing tutorial are available.
 
-[Vac Pot Primer](http://ineedcoffee.com/vacuum-pot-brewing/) – An article on the rich history behind vacuum pot coffee brewers.
+[Vac Pot Primer](/vacuum-pot-brewing/) – An article on the rich history behind vacuum pot coffee brewers.
 
 *Photos by Amanda Sparr.*

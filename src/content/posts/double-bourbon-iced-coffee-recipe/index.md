@@ -52,8 +52,8 @@ Watch the video version of the Double Bourbon Iced Coffee Recipe on YouTube.
 
 ### Resources
 
-[Cold Brew Coffee is Not Rocket Science](http://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/) – A guide to making your cold brew coffee.
+[Cold Brew Coffee is Not Rocket Science](/cold-brew-coffee-is-not-rocket-science/) – A guide to making your cold brew coffee.
 
-[Homebrewing: Espresso Stout](http://ineedcoffee.com/homebrewing-espresso-stout/) – If you wish to make a stout for this recipe, here is a primer on homebrewing.
+[Homebrewing: Espresso Stout](/homebrewing-espresso-stout/) – If you wish to make a stout for this recipe, here is a primer on homebrewing.
 
-[The Coffee Martini](http://ineedcoffee.com/the-coffee-martini/) – Recipes using coffee and vodka.
+[The Coffee Martini](/the-coffee-martini/) – Recipes using coffee and vodka.

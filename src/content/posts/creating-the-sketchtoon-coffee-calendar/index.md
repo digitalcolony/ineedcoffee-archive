@@ -59,7 +59,7 @@ I didn’t have a budget for marketing, though I do have my [Rohdesign blog](htt
 
 I also added a link to the Cafe Press page for the calendar in my email signature and [uploaded images of the calendar](http://www.flickr.com/photos/rohdesign/sets/72157600161864325/) to my Flickr account.
 
-INeedCoffee.com also provided exposure, as I had been a contributor on the page, I was able to submit a small ad for the site and on my [contributor profile page](http://ineedcoffee.com/by/michael-rohde/).
+INeedCoffee.com also provided exposure, as I had been a contributor on the page, I was able to submit a small ad for the site and on my [contributor profile page](/by/michael-rohde/).
 
 I’ve recently purchased an iPod Touch, and one of the options is to install your wallpaper on the startup screen. I decided to take the artwork from the calendar and create [vertical wallpapers](http://www.flickr.com/photos/rohdesign/sets/72157603305471752/) for each illustration.
 

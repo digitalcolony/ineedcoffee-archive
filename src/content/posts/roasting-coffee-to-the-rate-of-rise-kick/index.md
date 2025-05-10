@@ -14,7 +14,7 @@ wordpressId: 54168
 
 Several articles in the past few months that I encountered centered on the importance of ROR (rate of rise) when roasting coffee. After reading just one it was like eating potato chips, l could not stop. Over the past few months, I started comparing my data on ROR with what I was finding online.
 
-I still roast in the perfect roasting apparatus, a converted [bread machine using a heat gun](http://ineedcoffee.com/corretto-home-roasting/). I added two switches and a temperature probe at a cost of fewer than twenty dollars to a bread machine I picked up at a thrift store for $3.50. It took about an hour to convert and that was about two and a half years ago and many happy roasts since.
+I still roast in the perfect roasting apparatus, a converted [bread machine using a heat gun](/corretto-home-roasting/). I added two switches and a temperature probe at a cost of fewer than twenty dollars to a bread machine I picked up at a thrift store for $3.50. It took about an hour to convert and that was about two and a half years ago and many happy roasts since.
 
 I started Googling ROR and looking at the ROR Image lines on roasting charts. I did this for temperature curves several years before when looking at the roasting temperature, but did not focus on the ROR output lines at that time. This time, I noticed one thing right off the bat when comparing my ROR lines with other ROR chart lines I found online. For the most part, the chart lines on most of the charts were a squiggle of descending lines, which to me were meaningless. I could only see the **Natural Roasting Profile**, which allows the ROR to drop as the coffee beans lose moisture and dry out when roasting.
 
@@ -50,7 +50,7 @@ _The Green Bean Logger_ is a free spreadsheet template I created for Microsoft E
 
 For your reference, below is a screenshot of the _New Minute Green Bean Coffee Logger_ template.
 
-[![Green Bean Coffee Logger](green-bean-coffee-logger-screen-shot-650.jpg)](http://ineedcoffee.com/wp-content/uploads/2019/10/green-bean-coffee-logger-screen-shot-full.jpg)
+[![Green Bean Coffee Logger](green-bean-coffee-logger-screen-shot-650.jpg)](/wp-content/uploads/2019/10/green-bean-coffee-logger-screen-shot-full.jpg)
 
 _Click on the image for a screenshot of the full-size Green Bean Coffee Logger._
 
@@ -66,4 +66,5 @@ May you enjoy many great roasts. SH
 
 <a href="/files/Green-Bean-Loggers-both-versions.zip" download>_The Green Bean Coffee Logger_ and the _New Minute Green Bean Coffee Logger_</a> – Excel (XLSM) file in Zipped format.
 
-[Home Roasting Coffee with a Heat Gun and Bread Machine](http://ineedcoffee.com/corretto-home-roasting/) – A guide to home roasting coffee with a heat gun and a bread machine.
+[Home Roasting Coffee with a Heat Gun and Bread Machine](/corretto-home-roasting/) – A guide to home roasting coffee with a heat gun and a bread machine.
+

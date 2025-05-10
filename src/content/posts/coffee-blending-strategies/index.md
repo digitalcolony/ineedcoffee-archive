@@ -35,6 +35,6 @@ Back in the supermarket, you might also notice ones like breakfast blends, which
 
 ### Resources
 
-[Coffee Blending For the Home Roaster](http://ineedcoffee.com/coffee-blending-for-the-home-roaster/) – Tips on creating blends for the home coffee roaster.
+[Coffee Blending For the Home Roaster](/coffee-blending-for-the-home-roaster/) – Tips on creating blends for the home coffee roaster.
 
-[Espresso Blending Techniques](http://ineedcoffee.com/espresso-blending-techniques/) – How to create an excellent espresso blend.
+[Espresso Blending Techniques](/espresso-blending-techniques/) – How to create an excellent espresso blend.

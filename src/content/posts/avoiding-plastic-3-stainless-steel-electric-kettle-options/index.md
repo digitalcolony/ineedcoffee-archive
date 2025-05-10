@@ -23,7 +23,7 @@ Why is this bad? There are at least two reasons:
 1.  Imparts bad taste to beverages
 2.  Estrogens
 
-I will confess that I’ve never tasted any *plastic-like qualities* in the tea or French press coffees I’ve made using my trusty [plastic electric kettle](http://ineedcoffee.com/extending-the-life-of-your-bodum-cordless-electric-kettle/). However, I’ve learned that the best tasters in both tea and coffee can taste the plastic. They use stainless steel electric kettles to heat their water. **If it were just a taste issue and I was happy with the taste of my beverages, I would still be using a plastic kettle.** Estrogens are a different story – they motivated me to research stainless steel kettle options.
+I will confess that I’ve never tasted any *plastic-like qualities* in the tea or French press coffees I’ve made using my trusty [plastic electric kettle](/extending-the-life-of-your-bodum-cordless-electric-kettle/). However, I’ve learned that the best tasters in both tea and coffee can taste the plastic. They use stainless steel electric kettles to heat their water. **If it were just a taste issue and I was happy with the taste of my beverages, I would still be using a plastic kettle.** Estrogens are a different story – they motivated me to research stainless steel kettle options.
 
 In the book *The Warrior Diet*, author Ori Hofmekler lays out the case against dietary and environmental estrogens. I won’t cover his book here; you can find my review, Revisiting The Warrior Diet, on my personal site. What Ori said about plastics grabbed my attention. He stated that compounds in plastic called plasticizers can be estrogenic and carcinogenic (EX, bisphenol A). When I started going through all the different types of plastic, which were bad and less bad, my head started to spin. I didn’t understand the chemistry, but I knew what I had to do to minimize estrogenic exposure – **I decided to replace my plastic kettle with a stainless steel one.**
 
@@ -55,7 +55,7 @@ It was tough to decide between the three models. I liked Adagio’s three temper
 *Hamilton Beach 40898 Cool-Touch Cordless 8-Cup Electric Kettle  
 *
 
-My full review of the [Hamilton Beach Cool Touch Tea Kettle](http://ineedcoffee.com/the-hamilton-beach-cool-touch-tea-kettle-review/).
+My full review of the [Hamilton Beach Cool Touch Tea Kettle](/the-hamilton-beach-cool-touch-tea-kettle-review/).
 
 ### Resources
 

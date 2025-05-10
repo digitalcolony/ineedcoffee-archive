@@ -34,7 +34,7 @@ Your no-nonsense, purist, and sensible personality sets you apart. Just like you
 One of the most-loved forms of coffee, the Latte is highly preferred, and latte-lovers are great friends and fun to be with. They are also known to be generous with their time.
 
 ![](latte-etching.jpg)  
-*[Latte Art Etching](http://ineedcoffee.com/latte-art-etching-photo-gallery/) by INeedCoffee*
+*[Latte Art Etching](/latte-art-etching-photo-gallery/) by INeedCoffee*
 
 ### Mocha
 
@@ -52,14 +52,14 @@ Strong, distinct, and intense, the Latte Macchiato is an experimental blend of c
 You love to aim high and have high aspirations in life. Your choice of pure and honest flavors is evident in your personality as well.
 
 ![McCafe in Thailand](mccafe-americano-thailand.jpg)  
-*[Americano in Thailand](http://ineedcoffee.com/sleepy-starbucks-and-caffeinated-sins-in-phuket-thailand/) by MAS*
+*[Americano in Thailand](/sleepy-starbucks-and-caffeinated-sins-in-phuket-thailand/) by MAS*
 
 Interesting results, don’t you agree? So next time you are in the mood for coffee, just stop and think for a minute – do you order your coffee or does your coffee order you? Try out the diverse flavors of the world’s most loved beverage at your home today.
 
 ### Resources
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – Tutorials on how to make coffee with different brewing methods.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – Tutorials on how to make coffee with different brewing methods.
 
-[Latte Art Etching Photo Gallery](http://ineedcoffee.com/latte-art-etching-photo-gallery/) – Latte Art Etching photos.
+[Latte Art Etching Photo Gallery](/latte-art-etching-photo-gallery/) – Latte Art Etching photos.
 
-[Espresso Tamping Visual Tutorial](http://ineedcoffee.com/espresso-tamping/) – How to make espresso.
+[Espresso Tamping Visual Tutorial](/espresso-tamping/) – How to make espresso.

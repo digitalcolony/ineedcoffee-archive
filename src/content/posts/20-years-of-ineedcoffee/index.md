@@ -26,7 +26,7 @@ I wanted to start something new. I liked coffee and creating web pages, so on Se
 
 My team leader at work offered to host INeedCoffee from his home server for free. This turned out to be a bad decision, as it was often down and I could not connect to the server most of the time. Months were wasted on that setup until I moved the site to a legitimate web hosting company. Had I hired a real web host from the start, INeedCoffee would have had a 1998 birth date. Lesson learned. Since then, I’ve only used excellent web hosts.
 
-The first article went live on April 4th, 1999. [Coffee History Primer](http://ineedcoffee.com/coffee-history-primer/) was written by Ryan Jacobs. Ryan also taught me how to home roast coffee, which is as cool as it sounds, especially if you’ve never done it before. Home roasting became an important topic for several posts in the early years.
+The first article went live on April 4th, 1999. [Coffee History Primer](/coffee-history-primer/) was written by Ryan Jacobs. Ryan also taught me how to home roast coffee, which is as cool as it sounds, especially if you’ve never done it before. Home roasting became an important topic for several posts in the early years.
 
 In the first decade, INeedCoffee experimented with accepting content from many writers across many coffee-related topics. Some topics, such as brewing tutorials, home roasting, and comics, were popular, whereas fiction, poetry, and travel articles weren’t. We stopped publishing those topics. Our agriculture section grew so big that we spun off that content to [EcoFriendlyCoffee.org](https://ecofriendlycoffee.org/), which releases new content monthly.
 
@@ -38,7 +38,7 @@ Over the years, we have increasingly focused on coffee education, which has turn
 
 ![](iroast2-1st-crack.jpg)
 
-*Hearthware I-Roast 2 photo taken by [Chris Arnold](http://ineedcoffee.com/by/chris-arnold/) in 2007*
+*Hearthware I-Roast 2 photo taken by [Chris Arnold](/by/chris-arnold/) in 2007*
 
 In recent years, we’ve taken new photos for many older articles. It is something we continue to do from time to time.
 
@@ -63,4 +63,4 @@ I didn’t include any social media tips because I’m not very good at them, an
 
 I want to thank all our readers, contributors, and sponsors. Here is to another 20 years! Powered by coffee, of course. ☕❤
 
-*20 Years Comic by [Todd Zapoli](http://ineedcoffee.com/by/todd-zapoli/)*
+*20 Years Comic by [Todd Zapoli](/by/todd-zapoli/)*

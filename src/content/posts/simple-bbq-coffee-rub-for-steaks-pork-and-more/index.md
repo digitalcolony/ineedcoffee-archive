@@ -46,6 +46,6 @@ Here are a couple of mixtures I use, but definitely feel free to experiment.
 
 ### Resources
 
-[Coffee and Barbecue](http://ineedcoffee.com/coffee-and-barbecue/) – Coffee barbecue recipes include Squealin’ Good Wake-Me-Up Java Rub and Brown Eye Piggy Sauce.
+[Coffee and Barbecue](/coffee-and-barbecue/) – Coffee barbecue recipes include Squealin’ Good Wake-Me-Up Java Rub and Brown Eye Piggy Sauce.
 
-[Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) – Photo article that shows you how fine to grind when making your coffee rub.
+[Coffee Grind Chart](/coffee-grind-chart/) – Photo article that shows you how fine to grind when making your coffee rub.

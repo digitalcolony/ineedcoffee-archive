@@ -24,7 +24,7 @@ Carefully (using the oven mitt) remove the cookie sheet from the oven and pour t
 
 ![home roasting book](home-roasting-book1.jpg)
 
-Almost any appliance used to pop popcorn can be used to roast coffee beans. The [hot air poppers](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) are great, however, you may want to roast outside or in your garage as they blow the chaff out and can be messy. There are a number of manufacturers of home coffee roasters, including several that use a gas grill and rotisserie. The internet is full of sources to purchase raw beans, but you want to make certain the supplier you use knows their beans and “cups” their coffee before selling it to you (see resources below). Many other sources can be found using your favorite search engine. If you’re interested in using a gas grill to roast your beans there are several manufacturers of drums fitted for gas grills that work great (see resources below).
+Almost any appliance used to pop popcorn can be used to roast coffee beans. The [hot air poppers](/roasting-coffee-in-a-popcorn-popper/) are great, however, you may want to roast outside or in your garage as they blow the chaff out and can be messy. There are a number of manufacturers of home coffee roasters, including several that use a gas grill and rotisserie. The internet is full of sources to purchase raw beans, but you want to make certain the supplier you use knows their beans and “cups” their coffee before selling it to you (see resources below). Many other sources can be found using your favorite search engine. If you’re interested in using a gas grill to roast your beans there are several manufacturers of drums fitted for gas grills that work great (see resources below).
 
 Green, raw coffee beans last for years when properly stored. This allows you to build a collection of fine coffees to choose from as well as buy larger amounts of the great coffees and save more money. Keep your bean collection in a cool, dry place out of any direct sunlight and they will last until you roast them. As coffee ages, it loses acidity and becomes more mellow. Many like the rich mild cup of coffee that has had a couple of years to rest and mellow. More important than the year of the crop is the quality of the bean, the preparation at origin, transportation, and warehousing in the country of consumption. If all of these things are done correctly, your green coffee will last for years.
 
@@ -34,6 +34,6 @@ Home roasting is one of the fastest-growing hobbies in the country and for good 
 
 ### Resources
 
-[Home Roasting Coffee in an Oven](http://ineedcoffee.com/home-roasting-coffee-in-an-oven/) – Tutorial on roasting coffee at home using an oven.
+[Home Roasting Coffee in an Oven](/home-roasting-coffee-in-an-oven/) – Tutorial on roasting coffee at home using an oven.
 
-[Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) – Tutorial on home roasting coffee using a popcorn popper.
+[Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/) – Tutorial on home roasting coffee using a popcorn popper.

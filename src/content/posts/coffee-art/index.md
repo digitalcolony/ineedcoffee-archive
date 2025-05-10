@@ -56,6 +56,6 @@ Andy and Angel Saur make coffee art. They work entirely in coffee – there are 
 
 ### Resources
 
-[The Coffee Art Corporation](http://ineedcoffee.com/the-coffee-art-corporation/) – INeedCoffee contribution by Ryan L Lewis.
+[The Coffee Art Corporation](/the-coffee-art-corporation/) – INeedCoffee contribution by Ryan L Lewis.
 
-[Coffee on Canvas – Making Art With Coffee](http://ineedcoffee.com/coffee-canvas-making-art-coffee/) – INeedCoffee contribution by Jon Norquist.
+[Coffee on Canvas – Making Art With Coffee](/coffee-canvas-making-art-coffee/) – INeedCoffee contribution by Jon Norquist.

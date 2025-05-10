@@ -22,8 +22,8 @@ wordpressId: 152
 
 ![comic coffee table poem](comic-coffee-table-poem.jpg)
 
-Previous: [Inanimate Objects Comics #3](http://ineedcoffee.com/inanimate-objects-comics-3/)
+Previous: [Inanimate Objects Comics #3](/inanimate-objects-comics-3/)
 
-Next: [Inanimate Objects Comics #5](http://ineedcoffee.com/inanimate-objects-comics-5/)
+Next: [Inanimate Objects Comics #5](/inanimate-objects-comics-5/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

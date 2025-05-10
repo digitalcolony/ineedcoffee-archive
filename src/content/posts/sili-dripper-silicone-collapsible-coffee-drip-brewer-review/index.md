@@ -36,7 +36,7 @@ There are a few things about the Sili Dripper I would like to see improved:
 -   More support for the cone filter at the top, and a little better fit so that the filter doesn’t bunch up.
 -   Another version uses a #4 size paper cone filter for more than one person.
 -   A way to keep it covered and clean, especially when out hiking or camping.
--   The ability to control the brew time (think of a portable version of the [Clever Coffee Dripper](http://ineedcoffee.com/clever-coffee-dripper-review/ "Clever Coffee Dripper Review")).
+-   The ability to control the brew time (think of a portable version of the [Clever Coffee Dripper](/clever-coffee-dripper-review/ "Clever Coffee Dripper Review")).
 
 At under $10, the Sili-Dripper is a good value. If you want something with a larger capacity and an included cover, consider the GSI Outdoors Collapsible Java Drip for just a couple of bucks more.
 

@@ -42,6 +42,6 @@ Oh yeah, say hi to Juan for me…if you see him!
 
 ### Resources
 
-[Coffee and Brazil – How Coffee Molded the Culture of a Country](http://ineedcoffee.com/coffee-and-brazil-how-coffee-molded-the-culture-of-a-country/) – INeedCoffee article.
+[Coffee and Brazil – How Coffee Molded the Culture of a Country](/coffee-and-brazil-how-coffee-molded-the-culture-of-a-country/) – INeedCoffee article.
 
-[Buying a French Press – Picking the Right One](http://ineedcoffee.com/buying-a-french-press-picking-the-right-one/) – Our French Press guide.
+[Buying a French Press – Picking the Right One](/buying-a-french-press-picking-the-right-one/) – Our French Press guide.

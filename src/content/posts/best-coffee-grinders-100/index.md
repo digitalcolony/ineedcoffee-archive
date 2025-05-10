@@ -47,7 +47,7 @@ I think hand coffee grinders are fine for making one cup at a time, but if I wer
 
 #### \[$30 – $40: Mr. Coffee Automatic Burr Mill Grinder\]
 
-If you really want to go budget on an electric burr grinder, there is the classic Mr. Coffee Burr Grinder. It does an admirable job with medium and coarse grinds but fails at the finer grinds. However, if you are comfortable with pulling apart appliances, the Mr. Coffee can be modified to grind for espresso. See the tutorial [Adjusting the Mr. Coffee Burr Mill for Espresso Grind](http://ineedcoffee.com/adjustable-mr-coffee-burr-mill/) for more details.
+If you really want to go budget on an electric burr grinder, there is the classic Mr. Coffee Burr Grinder. It does an admirable job with medium and coarse grinds but fails at the finer grinds. However, if you are comfortable with pulling apart appliances, the Mr. Coffee can be modified to grind for espresso. See the tutorial [Adjusting the Mr. Coffee Burr Mill for Espresso Grind](/adjustable-mr-coffee-burr-mill/) for more details.
 
 The Mr. Coffee Burr Mill grinder doesn’t have a reputation for lasting a long time, but given the price point, that is to be expected. This would be a good first grinder for someone very tight on money. A word of warning: these devices can be loud.
 
@@ -112,8 +112,8 @@ The Capresso Infinity Conical Burr is the most sturdy of the bunch, makes less n
 
 ### Resources
 
-[Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/)—Once you have your grinder, this article will help you find the right grind size.
+[Coffee Grind Chart](/coffee-grind-chart/)—Once you have your grinder, this article will help you find the right grind size.
 
-[Ground Rules for Grinding Coffee](http://ineedcoffee.com/ground-rules-for-grinding-coffee/) – Some tips on operating a coffee grinder.
+[Ground Rules for Grinding Coffee](/ground-rules-for-grinding-coffee/) – Some tips on operating a coffee grinder.
 
 *Prices for this article were collected in December 2017 and are in US Dollars.*

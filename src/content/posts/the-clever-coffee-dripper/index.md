@@ -44,4 +44,4 @@ I have a wonderfully refreshing drink for you on a hot summer day, and it is sup
 
 ### Resources
 
-[Clever Coffee Dripper Review](http://ineedcoffee.com/clever-coffee-dripper-review/) – by Chris Arnold
+[Clever Coffee Dripper Review](/clever-coffee-dripper-review/) – by Chris Arnold

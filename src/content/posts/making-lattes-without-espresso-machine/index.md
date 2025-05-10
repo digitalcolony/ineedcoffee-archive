@@ -44,15 +44,15 @@ We would like to thank *Bizzy* for donating the Cold Brew Coffee used to resear
 
 ### #2 AeroPress
 
-The AeroPress is an amazing coffee brewer. As I covered in the article [The Upside Down AeroPress Brewing Tutorial](http://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/), there are many ways to brew coffee. Change the grind, brewing temperature, brewing time, or even the position of the brewer, and you can still make an excellent cup of coffee. You can also make concentrated fake espresso shots. I’m using the term *fake* because even though the AeroPress generates pressure with its plunger, it is well short of the 9 bars produced by espresso machines.
+The AeroPress is an amazing coffee brewer. As I covered in the article [The Upside Down AeroPress Brewing Tutorial](/upside-aeropress-coffee-brewing-tutorial/), there are many ways to brew coffee. Change the grind, brewing temperature, brewing time, or even the position of the brewer, and you can still make an excellent cup of coffee. You can also make concentrated fake espresso shots. I’m using the term *fake* because even though the AeroPress generates pressure with its plunger, it is well short of the 9 bars produced by espresso machines.
 
 When making an AeroPress espresso shot, I conducted numerous tests and found that a 3.5 ratio works best. This means that for every gram of coffee you use, you add 3.5 grams of water.
 
-In the first version of this article, I stated I preferred using a traditional method over the inverted method. I’ve changed my mind and now use the [inverted method](http://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/). The reason is that the seal tends to weaken as your AeroPress ages. The result is that the coffee passes through the chamber too quickly, which can result in under-extracted coffee. Your other option is to use the Prismo replacement filter.
+In the first version of this article, I stated I preferred using a traditional method over the inverted method. I’ve changed my mind and now use the [inverted method](/upside-aeropress-coffee-brewing-tutorial/). The reason is that the seal tends to weaken as your AeroPress ages. The result is that the coffee passes through the chamber too quickly, which can result in under-extracted coffee. Your other option is to use the Prismo replacement filter.
 
 The Prismo was developed to help your AeroPress make more espresso-like shots. It uses a finer filter with a tighter seal than what comes with the AeroPress. For a detailed review, check out Prismo Filter Upgrade For AeroPress Review and Tips.
 
-1.  Add 20 grams of [fine ground coffee](http://ineedcoffee.com/coffee-grind-chart/) to the AeroPress.
+1.  Add 20 grams of [fine ground coffee](/coffee-grind-chart/) to the AeroPress.
 2.  Slowly add 70 grams of hot water (202°F).
 3.  Stir enough to ensure the water is contacting all the coffee grounds. Break up any clumps.
 4.  Wait 60-90 seconds.
@@ -71,7 +71,7 @@ If your shot tastes too bitter, you can reduce the brew time or the water. If it
 
 Stovetop espresso makers are also known as Moka Pots or Bialetti. Despite the name, they aren’t true espresso machines because they do not produce the pressure of an actual espresso machine. On a CoffeeGeek forum\*, a discussion estimated that a stovetop espresso maker generated 2 bars of pressure.
 
-Despite the lower pressure, the Moka Pot did a fine job of making a concentrated shot of coffee. For guidance on this brewer, see the article [Stovetop Espresso Brewing Tutorial](http://ineedcoffee.com/stovetop-espresso-brewing-tutorial/). I got the best results when I filled the bottom chamber with water until it was about 70% full. You may need to tweak that number to fit your personal preference. That is just a starting point. I used the 3-cup Bialetti for my test.
+Despite the lower pressure, the Moka Pot did a fine job of making a concentrated shot of coffee. For guidance on this brewer, see the article [Stovetop Espresso Brewing Tutorial](/stovetop-espresso-brewing-tutorial/). I got the best results when I filled the bottom chamber with water until it was about 70% full. You may need to tweak that number to fit your personal preference. That is just a starting point. I used the 3-cup Bialetti for my test.
 
 ![add coffee to stovetop espresso](add-coffee-to-stovetop-espresso.jpg)
 
@@ -91,7 +91,7 @@ For hot lattes, we need to heat and froth milk. Some wands froth the milk, which
 
 ### Handheld Espresso Makers
 
-If you’ve tried the ideas in this article and aren’t satisfied, yet you still don’t want to spend a lot of money on a countertop espresso machine, there is a middle option: handheld espresso makers. They run around $100 or less and have built-in hand pumps. See our article Battle of the Handheld Espresso Makers: Handpresso Wild Hybrid vs. [Wacaco Minipresso GR](http://ineedcoffee.com/battle-handheld-espresso-makers-handpresso-wild-hybrid-vs-wacaco-minipresso-gr/) for more information on this brewing method. I also want to mention the [UniTerra Nomad](http://ineedcoffee.com/uniterra-nomad-espresso-machine-review/), which costs nearly $300.
+If you’ve tried the ideas in this article and aren’t satisfied, yet you still don’t want to spend a lot of money on a countertop espresso machine, there is a middle option: handheld espresso makers. They run around $100 or less and have built-in hand pumps. See our article Battle of the Handheld Espresso Makers: Handpresso Wild Hybrid vs. [Wacaco Minipresso GR](/battle-handheld-espresso-makers-handpresso-wild-hybrid-vs-wacaco-minipresso-gr/) for more information on this brewing method. I also want to mention the [UniTerra Nomad](/uniterra-nomad-espresso-machine-review/), which costs nearly $300.
 
 ### Conclusion
 
@@ -99,7 +99,7 @@ You can not replicate espresso without an espresso machine, but you can get clos
 
 ### References
 
-[Prismo Filter Upgrade For AeroPress Review and Tips](http://ineedcoffee.com/prismo-filter-upgrade-for-aeropress-review-and-tips/) – A filter replacement that will help you get better shots with an AeroPress.
+[Prismo Filter Upgrade For AeroPress Review and Tips](/prismo-filter-upgrade-for-aeropress-review-and-tips/) – A filter replacement that will help you get better shots with an AeroPress.
 
 [Tips for creating the closest thing to an espresso… From an Aeropress?](https://www.reddit.com/r/Coffee/comments/34ly0r/tips_for_creating_the_closest_thing_to_an/) – Reddit
 

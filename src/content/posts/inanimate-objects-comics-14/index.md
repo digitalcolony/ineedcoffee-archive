@@ -20,10 +20,10 @@ wordpressId: 176
 
 ![comic bathroom](comic-bathroom.jpg)
 
-[![comic brain freeze](comic-brain-freeze-650x308.jpg)](http://ineedcoffee.com/wp-content/uploads/2003/12/comic-brain-freeze.jpg)
+[![comic brain freeze](comic-brain-freeze-650x308.jpg)](/wp-content/uploads/2003/12/comic-brain-freeze.jpg)
 
-Previous: [Inanimate Objects Comics #13](http://ineedcoffee.com/inanimate-objects-comics-13/)
+Previous: [Inanimate Objects Comics #13](/inanimate-objects-comics-13/)
 
-Next: [Inanimate Objects Comics #15](http://ineedcoffee.com/inanimate-objects-comics-15/)
+Next: [Inanimate Objects Comics #15](/inanimate-objects-comics-15/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

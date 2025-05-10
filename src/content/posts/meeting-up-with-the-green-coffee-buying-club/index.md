@@ -59,6 +59,6 @@ While researching the economics of home coffee roasting, I wanted to learn more 
 
 [Green Coffee Buying Club](https://www.greencoffeebuyingclub.com/) – Site for the Green Coffee Buying Club.
 
-[Chris Arnold](http://ineedcoffee.com/by/chris-arnold/) – INeedCoffee contributor page.
+[Chris Arnold](/by/chris-arnold/) – INeedCoffee contributor page.
 
 UPDATE December 2018: Confirmed current member count at 2,382.

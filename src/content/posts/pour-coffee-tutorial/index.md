@@ -39,13 +39,13 @@ Place the stand over your mug and then the filter inside the stand. A 12-ounce m
 
 ### #4 Add Ground Coffee to Brewer
 
-Add three scoops or 21 grams of [medium-fine](http://ineedcoffee.com/coffee-grind-chart/) ground coffee inside the pour-over.
+Add three scoops or 21 grams of [medium-fine](/coffee-grind-chart/) ground coffee inside the pour-over.
 
 ![](coffesto-04-650x433.jpg)
 
 ### #5 Add Enough Hot Water to Bloom
 
-A rule of thumb I use for brewing temperature is higher for lighter roasts and lower for darker roasts. I explain this more in the article [Hacking Dark Roast – Tips on Brewing a Better Bold Coffee](http://ineedcoffee.com/hacking-dark-roast-tips-on-brewing-a-better-bold-coffee/).
+A rule of thumb I use for brewing temperature is higher for lighter roasts and lower for darker roasts. I explain this more in the article [Hacking Dark Roast – Tips on Brewing a Better Bold Coffee](/hacking-dark-roast-tips-on-brewing-a-better-bold-coffee/).
 
 -   205 F – light roasts
 -   200 F – medium roasts
@@ -75,9 +75,9 @@ Once the brewer has had a few minutes to cool, you can empty the used grounds in
 
 ### Resources
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – INeedCoffee guide to several coffee brewing methods.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – INeedCoffee guide to several coffee brewing methods.
 
-[Clever Coffee Dripper](http://ineedcoffee.com/clever-coffee-dripper-review/)—If you prefer more control over the steep time, check out the Clever Dripper, a full-immersion brew method.
+[Clever Coffee Dripper](/clever-coffee-dripper-review/)—If you prefer more control over the steep time, check out the Clever Dripper, a full-immersion brew method.
 
 *Disclosure: INeedCoffee was sent this product at no cost.* 
 

@@ -21,7 +21,7 @@ Sure, I thought about being hungry, although I have no problem with not eating u
 ![Snowman Latte Art](snowman-latte-art1.jpg)  
 *Snowman Latte Art*
 
-In [Accelerated Detox](http://ineedcoffee.com/accelerated-caffeine-detox/), several methods are described to assist one with caffeine detox, and I think they are pretty good overall. Yet this experience got me thinking of another technique designed to avoid going into surgery with terrible caffeine withdrawal headaches.
+In [Accelerated Detox](/accelerated-caffeine-detox/), several methods are described to assist one with caffeine detox, and I think they are pretty good overall. Yet this experience got me thinking of another technique designed to avoid going into surgery with terrible caffeine withdrawal headaches.
 
 ### Forced Fading
 
@@ -35,6 +35,6 @@ Do yourself a favor and plan to be able to deal with a lack of caffeine pre-op a
 
 ### Resources
 
-[Accelerated Detox](http://ineedcoffee.com/accelerated-caffeine-detox/) – A strategy to detox from coffee quickly.
+[Accelerated Detox](/accelerated-caffeine-detox/) – A strategy to detox from coffee quickly.
 
-[The Decaf Diaries](http://ineedcoffee.com/the-decaf-diaries/) – An essay on moving to decaf coffee.
+[The Decaf Diaries](/the-decaf-diaries/) – An essay on moving to decaf coffee.

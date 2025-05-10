@@ -12,7 +12,7 @@ updatedAt: "2025-03-24T18:12:00"
 wordpressId: 52593
 ---
 
-I recently received a Double Shot 3.0 French Press from Planetary Design. This updated portable French Press uses the same Bru Stop technology they added to their Tabletop French Press line, which we covered in the article [French Press Tabletop Coffee and Tea Maker with Bru Stop Technology Review](http://ineedcoffee.com/table-top-press-pot-review/).
+I recently received a Double Shot 3.0 French Press from Planetary Design. This updated portable French Press uses the same Bru Stop technology they added to their Tabletop French Press line, which we covered in the article [French Press Tabletop Coffee and Tea Maker with Bru Stop Technology Review](/table-top-press-pot-review/).
 
 For over a decade, I made French Press coffee about three times daily. It was an earlier time when the filters did a poor job of keeping the coffee grounds separate from the coffee once the brewing period was complete. Because of this, immediately after brewing, I would always transfer all the coffee brewed directly into a mug or some form of thermal container. It was an extra step, but if I didn’t take that step, the coffee that remained in the French Press would continue brewing at a slow rate.
 
@@ -56,12 +56,12 @@ This is also a perfect travel mug for loose-leaf tea drinkers, especially those 
 
 ### Resources
 
-[French Press Tabletop Coffee and Tea Maker with Bru Stop Technology Review](http://ineedcoffee.com/table-top-press-pot-review/) – Overview of their countertop model.
+[French Press Tabletop Coffee and Tea Maker with Bru Stop Technology Review](/table-top-press-pot-review/) – Overview of their countertop model.
 
 [How To Clean Your Brü-Stop French Press](https://www.youtube.com/watch?v=SbbNBfXP64o) – A 40-second video showing how to clean your Planetary Design French Press.
 
-[French Press Coffee Tutorial](http://ineedcoffee.com/press-pot-tutorial/) – INeedCoffee guide to making great French Press coffee.
+[French Press Coffee Tutorial](/press-pot-tutorial/) – INeedCoffee guide to making great French Press coffee.
 
-[Troubleshooting French Press Coffee](http://ineedcoffee.com/troubleshooting-french-press-coffee/): Once you have your French press, here are some ideas for making your coffee taste great.
+[Troubleshooting French Press Coffee](/troubleshooting-french-press-coffee/): Once you have your French press, here are some ideas for making your coffee taste great.
 
 *Disclaimer: The author received a Double Shot 3.0 from Planetary Design for this review.*

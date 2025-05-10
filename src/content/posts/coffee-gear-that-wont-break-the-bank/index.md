@@ -12,15 +12,15 @@ updatedAt: "2025-03-29T14:05:26"
 wordpressId: 527
 ---
 
-Making great coffee at home is something that should be easy and inexpensive. With the right equipment and our [Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/), it is. Here on INeedCoffee, we have a comprehensive list of the best equipment called [Essential Coffee Gear](http://ineedcoffee.com/essential-coffee-gear/). In this article, I’d like to introduce the items on the list and match them with brewing tutorials here on INeedCoffee.
+Making great coffee at home is something that should be easy and inexpensive. With the right equipment and our [Coffee Brewing Guide](/coffee-brewing-guide/), it is. Here on INeedCoffee, we have a comprehensive list of the best equipment called [Essential Coffee Gear](/essential-coffee-gear/). In this article, I’d like to introduce the items on the list and match them with brewing tutorials here on INeedCoffee.
 
 ### French Press
 
-Which French Press you pick is up to you. The important thing is to have one. French Press coffee is about as simple as it gets. Grind the coffee coarse, add water off a boil, wait 3-4 minutes, plunge, and pour. It is one of the easiest ways to make an excellent cup of coffee. For more purchase guidance check out [Buying a French Press – Picking The Right One](http://ineedcoffee.com/buying-a-french-press-picking-the-right-one/).
+Which French Press you pick is up to you. The important thing is to have one. French Press coffee is about as simple as it gets. Grind the coffee coarse, add water off a boil, wait 3-4 minutes, plunge, and pour. It is one of the easiest ways to make an excellent cup of coffee. For more purchase guidance check out [Buying a French Press – Picking The Right One](/buying-a-french-press-picking-the-right-one/).
 
-[French Press Tutorial](http://ineedcoffee.com/press-pot-tutorial/) – This tutorial will get you brewing once you’ve bought your French Press.
+[French Press Tutorial](/press-pot-tutorial/) – This tutorial will get you brewing once you’ve bought your French Press.
 
-[Troubleshooting French Press Coffee](http://ineedcoffee.com/troubleshooting-french-press-coffee/) – If your coffee isn’t wonderful, follow this troubleshooting guide.
+[Troubleshooting French Press Coffee](/troubleshooting-french-press-coffee/) – If your coffee isn’t wonderful, follow this troubleshooting guide.
 
 ### Aeropress Coffee
 
@@ -29,11 +29,11 @@ At less than $30, the Aeropress makes an amazing cup of coffee.
 ![aeropress](aeropress.jpg)  
 *Aeropress Coffee and Espresso Maker*
 
-[The Upside Down AeroPress Coffee Brewing Tutorial](http://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/)—This detailed tutorial explains the inverted brewing method and provides tips on grind size, brewing times, and temperature.
+[The Upside Down AeroPress Coffee Brewing Tutorial](/upside-aeropress-coffee-brewing-tutorial/)—This detailed tutorial explains the inverted brewing method and provides tips on grind size, brewing times, and temperature.
 
-[AeroPress Coffee Maker Tutorial](http://ineedcoffee.com/aeropress-coffee-maker-tutorial/) – A step-by-step tutorial on making coffee with the Aeropress.
+[AeroPress Coffee Maker Tutorial](/aeropress-coffee-maker-tutorial/) – A step-by-step tutorial on making coffee with the Aeropress.
 
-[Prismo Filter Upgrade For AeroPress Review and Tips](http://ineedcoffee.com/prismo-filter-upgrade-for-aeropress-review-and-tips/)—This attachment will help you make more espresso-like coffee with your AeroPress.
+[Prismo Filter Upgrade For AeroPress Review and Tips](/prismo-filter-upgrade-for-aeropress-review-and-tips/)—This attachment will help you make more espresso-like coffee with your AeroPress.
 
 ### The Chemex
 
@@ -44,7 +44,7 @@ This classic pour-over coffee brewer just requires a custom-sized filter and som
 *Chemex Coffeemaker  
 *
 
-[Chemex Brewing](http://ineedcoffee.com/chemex-coffee-brewing-history-and-tutorial/) – This brewing tutorial has been updated with new text and photos three times now.
+[Chemex Brewing](/chemex-coffee-brewing-history-and-tutorial/) – This brewing tutorial has been updated with new text and photos three times now.
 
 ### Electric Variable Temperature Kettle with Gooseneck
 
@@ -82,9 +82,9 @@ The Clever is as rich as the French Press but without any sediment.
 
 *Clever Coffee Dripper*
 
-For more information, read [Clever Coffee Dripper Review](http://ineedcoffee.com/clever-coffee-dripper-review/).
+For more information, read [Clever Coffee Dripper Review](/clever-coffee-dripper-review/).
 
-[A Clever Way to Make Iced Coffee](http://ineedcoffee.com/clever-way-make-iced-coffee/) – You can also make Japanese-style iced coffee with the Clever.
+[A Clever Way to Make Iced Coffee](/clever-way-make-iced-coffee/) – You can also make Japanese-style iced coffee with the Clever.
 
 The Bialetti Stovetop Espresso Maker is used to make Cuban coffee. The Ibrik is used for Turkish Coffee, and for Vietnamese Coffee, you will need a coffee filter set.
 
@@ -100,11 +100,11 @@ The Bialetti Stovetop Espresso Maker is used to make Cuban coffee. The Ibrik is 
 ![vietnamese-coffee](vietnamese-coffee.jpg)  
 *Vietnamese Coffee Filter*
 
-[Cafe Cubano (Cuban Coffee)](http://ineedcoffee.com/cafe-cubano-cuban-coffee/) – Cuban coffee brewing tutorial.
+[Cafe Cubano (Cuban Coffee)](/cafe-cubano-cuban-coffee/) – Cuban coffee brewing tutorial.
 
-[Preparing a Traditional Turkish Coffee](http://ineedcoffee.com/preparing-a-traditional-turkish-coffee/) – Turkish coffee brewing tutorial.
+[Preparing a Traditional Turkish Coffee](/preparing-a-traditional-turkish-coffee/) – Turkish coffee brewing tutorial.
 
-[How to Brew Vietnamese Iced Coffee](http://ineedcoffee.com/brew-vietnamese-coffee/)
+[How to Brew Vietnamese Iced Coffee](/brew-vietnamese-coffee/)
 
 ### Get Started
 
@@ -112,4 +112,4 @@ Brewing coffee at home is not hard and highly rewarding. We have many tutorials 
 
 ### Resources
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – Our directory of coffee brewing tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – Our directory of coffee brewing tutorials.

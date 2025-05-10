@@ -31,6 +31,6 @@ The artist Ryan L. Lewis, a native of Florida now residing in Wilmington North C
 
 ### Resources
 
-[Coffee on Canvas – Making Art With Coffee](http://ineedcoffee.com/coffee-canvas-making-art-coffee/) – INeedCoffee contribution by Jon Norquist.
+[Coffee on Canvas – Making Art With Coffee](/coffee-canvas-making-art-coffee/) – INeedCoffee contribution by Jon Norquist.
 
-[Coffee Art – Painting With Brewed Coffee](http://ineedcoffee.com/coffee-art/) – INeedCoffee contribution by Andy Saur and Angel Sarkela.
+[Coffee Art – Painting With Brewed Coffee](/coffee-art/) – INeedCoffee contribution by Andy Saur and Angel Sarkela.

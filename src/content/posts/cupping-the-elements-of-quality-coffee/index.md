@@ -71,10 +71,10 @@ I’ve shown you how large and complicated the equation of taste can be. Bean ag
 
 ### Resources
 
-[Coffee Cupping: A Basic](http://ineedcoffee.com/coffee-cupping-a-basic-introduction/) [Introduction](http://ineedcoffee.com/coffee-cupping-a-basic-introduction/) – A guide to get started with Coffee Cupping.
+[Coffee Cupping: A Basic](/coffee-cupping-a-basic-introduction/) [Introduction](/coffee-cupping-a-basic-introduction/) – A guide to get started with Coffee Cupping.
 
-[Coffee Cupping – A Sensory Experience](http://ineedcoffee.com/coffee-cupping-a-sensory-experience/) – INeedCoffee article by John Carrier.
+[Coffee Cupping – A Sensory Experience](/coffee-cupping-a-sensory-experience/) – INeedCoffee article by John Carrier.
 
-[Espresso Blending Techniques](http://ineedcoffee.com/espresso-blending-techniques/) – Use your cupping skills to develop an espresso blend.
+[Espresso Blending Techniques](/espresso-blending-techniques/) – Use your cupping skills to develop an espresso blend.
 
-[Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) – A visual chart demonstrating the different grind sizes for coffee.
+[Coffee Grind Chart](/coffee-grind-chart/) – A visual chart demonstrating the different grind sizes for coffee.

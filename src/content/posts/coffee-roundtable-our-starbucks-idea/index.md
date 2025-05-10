@@ -18,7 +18,7 @@ Below are some Starbucks ideas from some of our contributors.
 
 **Winter, StarbucksEverywhere**
 
-Winter is a computer programmer and the subject of [Starbucking](http://ineedcoffee.com/starbucking-honest-artistry/), a documentary that chronicles his mission to visit every Starbucks in North America. He has visited more than 7,800 company-owned Starbucks locations worldwide, including 7,190 (91 percent) of the active Starbucks cafes in North America.
+Winter is a computer programmer and the subject of [Starbucking](/starbucking-honest-artistry/), a documentary that chronicles his mission to visit every Starbucks in North America. He has visited more than 7,800 company-owned Starbucks locations worldwide, including 7,190 (91 percent) of the active Starbucks cafes in North America.
 
 1.  Curtail store growth. The announcements about cutting back on new store openings and closing 100 stores are positive, but Starbucks can go further. When I start to encounter a multitude of baristas who do not know what a “short” coffee is, that is a sign that store growth might be affecting the company’s ability to hire and train quality staff.
 2.  Since music has become almost as important to Starbucks as coffee, the company should allow baristas more control over what is played in the stores. Sure, guidelines need to be in place to ensure that customers are not offended by explicit lyrics, for example, but if there is only one customer in the store, what is the harm in letting the baristas play what the customer wants to hear?

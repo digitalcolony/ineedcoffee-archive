@@ -37,8 +37,8 @@ If you insist upon performing this dangerous procedure, please consider the foll
 
 ### Resources
 
-[Coffee Enema Benefits vs Dangers](http://ineedcoffee.com/coffee-enema-benefits-vs-dangers/) – The article by health professional Kristina Amelong was submitted as a point-by-point response to this article.
+[Coffee Enema Benefits vs Dangers](/coffee-enema-benefits-vs-dangers/) – The article by health professional Kristina Amelong was submitted as a point-by-point response to this article.
 
-[How to Perform a Coffee Enema](http://ineedcoffee.com/coffee-enema/) – An overview of the coffee enema topic along with instructions.
+[How to Perform a Coffee Enema](/coffee-enema/) – An overview of the coffee enema topic along with instructions.
 
 *Photo by [Namphuong Van](https://unsplash.com/@namphuong)*

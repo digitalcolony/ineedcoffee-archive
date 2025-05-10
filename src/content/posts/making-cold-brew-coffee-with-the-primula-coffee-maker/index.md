@@ -14,7 +14,7 @@ wordpressId: 6317
 
 Cold-brew coffee continues to surge in popularity. Most coffee shops offer cold-brew options, but you don’t need to spend a lot of money in the cafes because making cold-brew coffee at home is easy. Save your cafe money for espresso-based drinks.
 
-In this tutorial, we will make a pitcher of cold brew coffee using the *Primula Cold Brew Glass Carafe Iced Coffee Maker*. Although they call it an iced coffee maker, it is not. Iced coffee is coffee brewed at normal hot temperatures and then chilled. It can even be brewed directly over ice. The Primula is a cold coffee brewer, as it is brewed with cold water, takes 12-24 hours to brew, and makes a concentrate. Primula also makes a slick travel coffee brewer, which we will cover in a [separate tutorial](http://ineedcoffee.com/the-perfect-solution-for-cold-brew-coffee-on-the-go/).
+In this tutorial, we will make a pitcher of cold brew coffee using the *Primula Cold Brew Glass Carafe Iced Coffee Maker*. Although they call it an iced coffee maker, it is not. Iced coffee is coffee brewed at normal hot temperatures and then chilled. It can even be brewed directly over ice. The Primula is a cold coffee brewer, as it is brewed with cold water, takes 12-24 hours to brew, and makes a concentrate. Primula also makes a slick travel coffee brewer, which we will cover in a [separate tutorial](/the-perfect-solution-for-cold-brew-coffee-on-the-go/).
 
 The filter is referred to as the Cold Brew Core in the instructions.
 
@@ -70,8 +70,8 @@ A few years ago, I did a tutorial on the Toddy Brewer. It did a fine job, but I 
 
 ### Resources
 
-[Make Concentrated Cold Brew Coffee With the Penguin Coffee](http://ineedcoffee.com/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/) – Another cold brew option.
+[Make Concentrated Cold Brew Coffee With the Penguin Coffee](/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/) – Another cold brew option.
 
-[Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) – INeedCoffee article with photos displaying grind levels.
+[Coffee Grind Chart](/coffee-grind-chart/) – INeedCoffee article with photos displaying grind levels.
 
 *Disclosure: INeedCoffee received a Primula brewer to use for this tutorial.*

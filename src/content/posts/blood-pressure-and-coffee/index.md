@@ -91,6 +91,6 @@ The evidence is mounting that caffeine and coffee do increase blood pressure. It
 
 ### Resources
 
-[Does Coffee Raise Blood Pressure?](http://ineedcoffee.com/does-coffee-raise-blood-pressure/) – Another view on the relationship between coffee and blood pressure.
+[Does Coffee Raise Blood Pressure?](/does-coffee-raise-blood-pressure/) – Another view on the relationship between coffee and blood pressure.
 
-[Accelerated Caffeine Detox](http://ineedcoffee.com/accelerated-caffeine-detox/) – INeedCoffee article.
+[Accelerated Caffeine Detox](/accelerated-caffeine-detox/) – INeedCoffee article.

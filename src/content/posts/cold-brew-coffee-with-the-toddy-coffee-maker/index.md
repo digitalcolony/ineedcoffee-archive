@@ -20,7 +20,7 @@ To make a cup of cold brew, pour one part of concentrate into a mug with three p
 
 ### Must it be the Toddy?
 
-Toddy started cold brewing in 1964. Before that, it was done for who knows how many years in Central America. You don’t need a Toddy to make cold-brewed coffee. There are other methods. See our [Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) for more cold brewing ideas.
+Toddy started cold brewing in 1964. Before that, it was done for who knows how many years in Central America. You don’t need a Toddy to make cold-brewed coffee. There are other methods. See our [Coffee Brewing Guide](/coffee-brewing-guide/) for more cold brewing ideas.
 
 The Toddy Brewer’s design makes it easy enough to get started. It’s an inexpensive brewing system that costs around $30.
 
@@ -71,7 +71,7 @@ Take the Reusable Filter and wet it. Then place it snugly into the inside bottom
 
 ### #3 Add 1 pound of coffee into the Brewing Container
 
-Cold-brewed coffee requires an extra coarse grind. See the [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) for a visual explanation.
+Cold-brewed coffee requires an extra coarse grind. See the [Coffee Grind Chart](/coffee-grind-chart/) for a visual explanation.
 
 ![add Coffee in Toddy maker](pour-coffee400.jpg)
 
@@ -147,10 +147,11 @@ I now know it’s possible to make an excellent cup of coffee using this brewing
 
 ### Resources
 
-[Make Concentrated Cold Brew Coffee With the Penguin Coffee](https://ineedcoffee.com/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/) – A better way to make cold brew coffee.
+[Make Concentrated Cold Brew Coffee With the Penguin Coffee](/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/) – A better way to make cold brew coffee.
 
 [My coffee is cold](https://www.today.com/news/my-coffee-cold-wbna5728227) – MSNBC article by Jon Bonne.
 
 [Low Acid Coffee](https://web.archive.org/web/20191102144508/https://toddycafe.com/cold-brew/low-acid-coffee) – Toddy’s page on coffee acidity
 
 <a href="/files/poplite-3-amps.pdf" download>ICB.Toddy</a> (PDF) – Acidity analysis by Intertek Caleb Brett
+

@@ -40,13 +40,13 @@ Roasting coffee does produce smoke. The darker you roast, the more smoke. Make s
 
 ### Cooling the Beans
 
-When the beans have roasted as dark as you like, it is now time to cool the beans. Turn off the stove and then [spray a fine mist of cold water](http://ineedcoffee.com/popper-roasting-tips/) on top of the coffee beans. The water should immediately evaporate. Now, transfer the beans to your cooling tray. Place the cooling tray in an area that will allow it to cool quickly, such as near an open window in the kitchen.
+When the beans have roasted as dark as you like, it is now time to cool the beans. Turn off the stove and then [spray a fine mist of cold water](/popper-roasting-tips/) on top of the coffee beans. The water should immediately evaporate. Now, transfer the beans to your cooling tray. Place the cooling tray in an area that will allow it to cool quickly, such as near an open window in the kitchen.
 
 ![Serve Coffee](pour450.jpg)  
 *Serve Coffee*
 
 ### Resources
 
-[Home Roasting Coffee in an Oven](http://ineedcoffee.com/home-roasting-coffee-in-an-oven/) – This tutorial covers listening to the roast as well as advice on cooling the beans quickly.
+[Home Roasting Coffee in an Oven](/home-roasting-coffee-in-an-oven/) – This tutorial covers listening to the roast as well as advice on cooling the beans quickly.
 
-[Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) – Another tutorial that guides you through the coffee roasting process.
+[Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/) – Another tutorial that guides you through the coffee roasting process.

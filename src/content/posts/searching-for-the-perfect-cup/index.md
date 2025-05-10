@@ -33,4 +33,4 @@ We now find ourselves sitting at the counter timing the cracks, looking at color
 
 ### Resources
 
-[Home Roasting Coffee with the Fresh Roast](http://ineedcoffee.com/home-roasting-coffee-with-the-fresh-roast/) – INeedCoffee tutorial.
+[Home Roasting Coffee with the Fresh Roast](/home-roasting-coffee-with-the-fresh-roast/) – INeedCoffee tutorial.

@@ -37,6 +37,6 @@ If you are an Elvis fan, *The Elvis Encyclopedia* by Adam Victor is a must-own b
 
 ### Resources
 
-[Frank Zappa: Coffee Achiever](http://ineedcoffee.com/frank-zappa-coffee-achiever/) – Another musician who loved coffee.
+[Frank Zappa: Coffee Achiever](/frank-zappa-coffee-achiever/) – Another musician who loved coffee.
 
-[Bill Clinton: Coffee Achiever](http://ineedcoffee.com/bill-clinton-coffee-achiever/) – President Clinton enjoyed coffee as well.
+[Bill Clinton: Coffee Achiever](/bill-clinton-coffee-achiever/) – President Clinton enjoyed coffee as well.

@@ -12,7 +12,7 @@ updatedAt: "2025-03-15T17:36:41"
 wordpressId: 100
 ---
 
-Before Hearthware developed the popular [Precision Roaster](http://ineedcoffee.com/home-roasting-with-the-hearthware-precision/), they created the Gourmet Roaster. Like the Precision, the Gourmet is an indoor coffee roaster that can roast 1/2 cup of green coffee beans at a time. It is also very easy to operate and can make excellent-tasting coffee with minimal effort.
+Before Hearthware developed the popular [Precision Roaster](/home-roasting-with-the-hearthware-precision/), they created the Gourmet Roaster. Like the Precision, the Gourmet is an indoor coffee roaster that can roast 1/2 cup of green coffee beans at a time. It is also very easy to operate and can make excellent-tasting coffee with minimal effort.
 
 ![Hearthware Gourmet](hwg150x2391.jpg)  
 *The Hearthware Gourmet*
@@ -54,7 +54,7 @@ You are ready to roast once you have the lid securely on top of the roasting cha
 
 ### Finish and Cleanup
 
-Once the cool-down has been completed, you can collect your coffee. For coffee tip storage, read [Coffee Storage](http://ineedcoffee.com/coffee-storage/) by Ryan Jacobs. After the coffee is safely stored, the next step is cleaning the equipment. Between each roast, you will need to remove the chaff. Open the lid on the chaff collector and dump out the chaff. Using the small toothbrush attached to the back of the power-base, brush out any chaff clinging to the inside.
+Once the cool-down has been completed, you can collect your coffee. For coffee tip storage, read [Coffee Storage](/coffee-storage/) by Ryan Jacobs. After the coffee is safely stored, the next step is cleaning the equipment. Between each roast, you will need to remove the chaff. Open the lid on the chaff collector and dump out the chaff. Using the small toothbrush attached to the back of the power-base, brush out any chaff clinging to the inside.
 
 ![chaff collector](gourmet-roaster-chaff-collector.jpg)  
 *After it has cooled down, clean out the chaff collector before the next roast.*

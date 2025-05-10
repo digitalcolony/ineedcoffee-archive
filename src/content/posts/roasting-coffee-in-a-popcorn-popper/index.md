@@ -48,7 +48,7 @@ Note that when buying a West Bend Poppery through the mail, it’s possible that
 
 ### Reasons to NOT use the West Bend Poppery
 
-As much as I prefer the West Bend Poppery for most of my roasting, there are real reasons why this may not be the roaster for you. The first reason is that it is an outdoor roaster that doesn’t like colder weather. When I say it doesn’t like colder weather, I mostly refer to the first roast. On cold days, the first roast can take an extra 3-4 minutes. The result is the beans sound done (well into the 2nd crack), but visually they look light. The taste is a little flat. Subsequent roasts tend to roast quicker and taste better. There are [cold weather tricks](http://ineedcoffee.com/cold-weather-coffee-roasting/), however, my advice is for beginners to learn the Poppery during nice weather. I even put my Poppery away during the winter and use a countertop roaster.
+As much as I prefer the West Bend Poppery for most of my roasting, there are real reasons why this may not be the roaster for you. The first reason is that it is an outdoor roaster that doesn’t like colder weather. When I say it doesn’t like colder weather, I mostly refer to the first roast. On cold days, the first roast can take an extra 3-4 minutes. The result is the beans sound done (well into the 2nd crack), but visually they look light. The taste is a little flat. Subsequent roasts tend to roast quicker and taste better. There are [cold weather tricks](/cold-weather-coffee-roasting/), however, my advice is for beginners to learn the Poppery during nice weather. I even put my Poppery away during the winter and use a countertop roaster.
 
 ### Step By Step Roasting
 
@@ -80,7 +80,7 @@ Small (Peaberries)
 
 140-150 grams
 
-It should be noted that there is technically no such thing as *hands-off* coffee roasting. Roasting coffee in a popcorn popper does require constant attention. *Hands-off in the above chart refers to the amount of work needed* to produce excellent coffee. In short, more coffee equals more work. Leaving a roast unattended is [never a good idea](http://ineedcoffee.com/melitta-mishap/ "Melitta Mishap").
+It should be noted that there is technically no such thing as *hands-off* coffee roasting. Roasting coffee in a popcorn popper does require constant attention. *Hands-off in the above chart refers to the amount of work needed* to produce excellent coffee. In short, more coffee equals more work. Leaving a roast unattended is [never a good idea](/melitta-mishap/ "Melitta Mishap").
 
 ![kitchen scale](weigh-coffee-beans.jpg)  
 *Use a kitchen scale to weigh the green coffee beans.*
@@ -124,7 +124,7 @@ Hit the off switch on the popper. Using the wooden spoon, gently knock the soup 
 ![cool the beans](cooling-coffee-beans.jpg)  
 *Move the coffee back and forth between the two colanders to quickly cool the beans.*
 
-After the beans have cooled, they should be stored properly in an airtight container. Don’t put them in the freezer; [keep them out of the refrigerator](http://ineedcoffee.com/coffee-storage/). Keep your container at room temperature. Take out a Post-It note and write the name of the bean and the date you roasted it.
+After the beans have cooled, they should be stored properly in an airtight container. Don’t put them in the freezer; [keep them out of the refrigerator](/coffee-storage/). Keep your container at room temperature. Take out a Post-It note and write the name of the bean and the date you roasted it.
 
 Coffee is a perishable item. The darker you roast, the faster the beans will go stale. I tend to roast on the lighter side, so my beans are still fresh 10-14 days off roast. If I roasted dark, I would try to use up my coffee in the first week. The date label reminds us to throw those beans away if they get too old. If you find yourself throwing too much away, roast less.
 
@@ -149,10 +149,10 @@ Roasting coffee at home is highly rewarding. One of the benefits of learning to 
 
 ### Resources
 
-[Roast Your Own](http://ineedcoffee.com/roast-your-own-coffee/) – Our original popper article uses the Poppery 2, but the rules are the same.
+[Roast Your Own](/roast-your-own-coffee/) – Our original popper article uses the Poppery 2, but the rules are the same.
 
-[Why Home Roast Coffee?](http://ineedcoffee.com/why-home-roast/) – In the event you didn’t know.
+[Why Home Roast Coffee?](/why-home-roast/) – In the event you didn’t know.
 
-[Popper Roasting Tips](http://ineedcoffee.com/popper-roasting-tips/) – Some tips that apply to popcorn popper roasting in general.
+[Popper Roasting Tips](/popper-roasting-tips/) – Some tips that apply to popcorn popper roasting in general.
 
-[Winter Home Roasting](http://ineedcoffee.com/cold-weather-coffee-roasting/) – A method to prevent under-roasting coffee in cold weather environments.
+[Winter Home Roasting](/cold-weather-coffee-roasting/) – A method to prevent under-roasting coffee in cold weather environments.

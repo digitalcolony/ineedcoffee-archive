@@ -29,7 +29,7 @@ This is a tasty recipe that combines both coffee and rum on a marinade not only 
 
 -   1 1/2 teaspoons Cinnamon, ground
 -   3/4 teaspoon Nutmeg, freshly ground
--   2 oz finely ground coffee (see [espresso grind photo](http://ineedcoffee.com/coffee-grind-chart/))
+-   2 oz finely ground coffee (see [espresso grind photo](/coffee-grind-chart/))
 -   2 tablespoons Unsalted Butter
 -   2 cups Wild Rice Pilaf, cooked to serve
 

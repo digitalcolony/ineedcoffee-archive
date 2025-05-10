@@ -59,7 +59,7 @@ Press into the rolled foil slowly and gently to create the cone shape. If you pr
 
 Now that the DIY Dripper is finished, we can make some coffee. As you can see from the photo and the video below, the dripper will fit over the glass or mug.
 
-Here you will use the standard brewing instructions common with other pour-over coffee methods such as the [stainless steel pour-over drippers](http://ineedcoffee.com/making-pour-over-coffee/). No paper filters are needed. Start with medium-ground coffee. If the coffee brews too fast and tastes weak, tighten up the grind. If the coffee brews too slowly and becomes over-extracted, use a more coarse grind.
+Here you will use the standard brewing instructions common with other pour-over coffee methods such as the [stainless steel pour-over drippers](/making-pour-over-coffee/). No paper filters are needed. Start with medium-ground coffee. If the coffee brews too fast and tastes weak, tighten up the grind. If the coffee brews too slowly and becomes over-extracted, use a more coarse grind.
 
 ![Brew Coffee with Foil](brew-foil-8.jpg)
 
@@ -87,4 +87,4 @@ Masaru is also using the same technique to make an aluminum sake cup with URUSHI
 
 [Making a Glass from Rice Straw and Rice](https://www.youtube.com/watch?v=2QqRwbvBtBE) – A 3-minute YouTube video by Masaru.
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – A collection of coffee brewing tutorials on INeedCoffee.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – A collection of coffee brewing tutorials on INeedCoffee.

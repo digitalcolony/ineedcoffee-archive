@@ -67,4 +67,4 @@ Since espresso machine makers love to invent their own sizes, shapes, and molecu
 
 ### Resources
 
-[Espresso Tamping Visual Tutorial](http://ineedcoffee.com/espresso-tamping/) – Having a good tamp is a major factor in pulling excellent espresso shots.
+[Espresso Tamping Visual Tutorial](/espresso-tamping/) – Having a good tamp is a major factor in pulling excellent espresso shots.

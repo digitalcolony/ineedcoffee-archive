@@ -30,13 +30,13 @@ The glass carafe is nicely shaped, and the top section is designed to hold the i
 
 ### Usage of the Kettle and Carafe together
 
-I filled the cone up about halfway with [medium grind](http://ineedcoffee.com/coffee-grind-chart/) Ethiopian Harrar coffee and heated some water in a glass pitcher in the microwave until it came to a rolling boil for about 30 seconds. I then transferred the boiling water to the kettle and waited for the thermometer to indicate the proper temperature of about 200F.
+I filled the cone up about halfway with [medium grind](/coffee-grind-chart/) Ethiopian Harrar coffee and heated some water in a glass pitcher in the microwave until it came to a rolling boil for about 30 seconds. I then transferred the boiling water to the kettle and waited for the thermometer to indicate the proper temperature of about 200F.
 
 ![Gator Carafe](2016-05-16-05.58.42-650x649.jpg)
 
 ![Gator Kettle](2016-05-16-06.03.41-650x488.jpg)
 
-As I began to pour water over the coffee, I found the kettle spout provided very precise pinpoint control, which was refreshing. The resulting coffee was very nice, if a little light. I felt the extraction time could have been a little longer, so I tried again with a finer grind. The finer grind did improve the extraction time and taste, and the amount of silt at the bottom of the cup was minimal, but this is expected with any metal filter. I would love to see a future cone filter option where the flow can be adjusted or stopped altogether, similar to the [Clever Coffee Dripper](http://ineedcoffee.com/clever-coffee-dripper-review/).
+As I began to pour water over the coffee, I found the kettle spout provided very precise pinpoint control, which was refreshing. The resulting coffee was very nice, if a little light. I felt the extraction time could have been a little longer, so I tried again with a finer grind. The finer grind did improve the extraction time and taste, and the amount of silt at the bottom of the cup was minimal, but this is expected with any metal filter. I would love to see a future cone filter option where the flow can be adjusted or stopped altogether, similar to the [Clever Coffee Dripper](/clever-coffee-dripper-review/).
 
 ![Gator Carafe](2016-05-16-06.04.00-650x627.jpg)
 

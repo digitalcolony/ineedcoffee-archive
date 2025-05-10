@@ -38,7 +38,7 @@ The Pour-Over Coffee Dripper is a one-mug-at-a-time brewer. The only question is
 
 ### #4 Add Ground Coffee
 
-Grind your coffee [medium-fine](http://ineedcoffee.com/coffee-grind-chart/).
+Grind your coffee [medium-fine](/coffee-grind-chart/).
 
 The Java Maestro Pour Over Coffee Dripper includes a scooper that also serves as a coffee bag clip. Use 3 scoops for a single 12-ounce mug. If you lose the scooper or want to use a gram scale, I use 20 grams of coffee and 310 grams of water. That works out to a 15.5 to 1 ratio (water to coffee).
 
@@ -46,7 +46,7 @@ The Java Maestro Pour Over Coffee Dripper includes a scooper that also serves as
 
 ### #5 Add Hot Water
 
-With the kettle, you’ll be adding coffee in the 195 F—205 F range. For more information about brewing temperature, see section #2 in the article Hacking Dark Roast—[Tips on Brewing a Better Bold Coffee](http://ineedcoffee.com/hacking-dark-roast-tips-on-brewing-a-better-bold-coffee/).
+With the kettle, you’ll be adding coffee in the 195 F—205 F range. For more information about brewing temperature, see section #2 in the article Hacking Dark Roast—[Tips on Brewing a Better Bold Coffee](/hacking-dark-roast-tips-on-brewing-a-better-bold-coffee/).
 
 For the initial pour, add enough water to cover the coffee grounds and allow them to bloom. For those weighing, this works out to about double the weight of the ground coffee. So, if we use 20 grams of coffee, the initial pour will be 40 grams of water.
 
@@ -68,6 +68,6 @@ Empty the used grounds into a compost bin or set them aside for gardening. You c
 
 While playing with the Pour Over Coffee Dripper, we discovered the filter was so good that it could be used as an additional filter for other coffee brewing methods. Full immersion brewing methods such as the French Press or some cold brewing methods sometimes have a little grit, which are those loose grounds that sneak past the filter.
 
-Using the Java Maestro as an additional filter will improve the flavor of your French Press and [Swedish Egg Coffee](http://ineedcoffee.com/the-smoothest-cup-youll-ever-drink-swedish-egg-coffee/).
+Using the Java Maestro as an additional filter will improve the flavor of your French Press and [Swedish Egg Coffee](/the-smoothest-cup-youll-ever-drink-swedish-egg-coffee/).
 
 *Disclosure: INeedCoffee was sent this product at no cost.*

@@ -27,11 +27,11 @@ The footer of the French Press does a nice job of supporting the glass. I usuall
 
 ![scoop coffee](scoop-coffee.jpg)
 
-A scoop is included if you don’t want to weigh your coffee. Use one scoop of coffee for every 4 ounces of water. If you are interested in learning more about weighing coffee for the French Press, read [French Press Coffee Tutorial](http://ineedcoffee.com/press-pot-tutorial/) for more information.
+A scoop is included if you don’t want to weigh your coffee. Use one scoop of coffee for every 4 ounces of water. If you are interested in learning more about weighing coffee for the French Press, read [French Press Coffee Tutorial](/press-pot-tutorial/) for more information.
 
 ### #1 Add Coffee
 
-I used eight scoops of coffee and 32 ounces of water for this brew. As with any French Press, the grind is coarse. You can see what that means on our [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/).
+I used eight scoops of coffee and 32 ounces of water for this brew. As with any French Press, the grind is coarse. You can see what that means on our [Coffee Grind Chart](/coffee-grind-chart/).
 
 ![add ground coffee to french press](french-press-add-coffee.jpg)
 
@@ -71,12 +71,12 @@ Small Farms Collective has made a good budget glass French Press that would be a
 
 ### Resources
 
-[French Press Tabletop Coffee and Tea Maker with Bru Stop Technology Review](http://ineedcoffee.com/table-top-press-pot-review/) – French Press Review
+[French Press Tabletop Coffee and Tea Maker with Bru Stop Technology Review](/table-top-press-pot-review/) – French Press Review
 
-[Buying a French Press – Picking the Right One](http://ineedcoffee.com/buying-a-french-press-picking-the-right-one/) – INeedCoffee guide.
+[Buying a French Press – Picking the Right One](/buying-a-french-press-picking-the-right-one/) – INeedCoffee guide.
 
-[French Press Coffee Tutorial](http://ineedcoffee.com/press-pot-tutorial/) – Our updated coffee tutorial for the French Press.
+[French Press Coffee Tutorial](/press-pot-tutorial/) – Our updated coffee tutorial for the French Press.
 
-[The Frieling French Press Review](http://ineedcoffee.com/the-frieling-french-press/) – A fancy stainless steel French Press.
+[The Frieling French Press Review](/the-frieling-french-press/) – A fancy stainless steel French Press.
 
 *Disclosure: INeedCoffee received a French Press from Small Farms Collective for this review.*

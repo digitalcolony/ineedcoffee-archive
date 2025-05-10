@@ -65,4 +65,4 @@ This is a recipe that can be served the same day if you start early enough. It w
 
 [Torani. In Your Home: Our Story](https://www.torani.com/our-story) – From the official site.
 
-[Coffee Granita](http://ineedcoffee.com/coffee-granita-cream-recipe-and-the-history-of-torani-syrups/) – INeedCoffee’s original Coffee Granita recipe.
+[Coffee Granita](/coffee-granita-cream-recipe-and-the-history-of-torani-syrups/) – INeedCoffee’s original Coffee Granita recipe.

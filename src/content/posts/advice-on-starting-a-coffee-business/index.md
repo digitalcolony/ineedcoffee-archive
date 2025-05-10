@@ -208,4 +208,4 @@ Your start-up investment to open a coffee bar may vary greatly with the chosen l
 
 ### Resources
 
-[Starting Your Own Coffee Franchise](http://ineedcoffee.com/starting-your-own-coffee-franchise/) – INeedCoffee article
+[Starting Your Own Coffee Franchise](/starting-your-own-coffee-franchise/) – INeedCoffee article

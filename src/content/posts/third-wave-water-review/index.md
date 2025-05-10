@@ -56,6 +56,6 @@ Third Wave Water is a great option for coffee lovers who want to improve their w
 
 [Water Profiling: Chromatic Coffee](https://freshcup.com/water-profiling-chromatic-coffee/) – Fresh Cup article on Chromatic Coffee’s water setup.
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/)—Once you have your water dialed in, follow a coffee brewing tutorial from our Coffee Brewing Guide to make delicious coffee.
+[Coffee Brewing Guide](/coffee-brewing-guide/)—Once you have your water dialed in, follow a coffee brewing tutorial from our Coffee Brewing Guide to make delicious coffee.
 
 *Disclosure: INeedCoffee received samples from Third Water Coffee for this review.*

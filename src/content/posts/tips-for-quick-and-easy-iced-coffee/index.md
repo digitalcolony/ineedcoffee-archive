@@ -18,7 +18,7 @@ The second and superior method is to make a coffee concentrate. This method is q
 
 ![Toddy Cold Brew System](toddy-cold-brew-system.jpg)
 
-In the article [Cold Brew Coffee with the Toddy Coffee Maker](http://ineedcoffee.com/cold-brew-coffee-with-the-toddy-coffee-maker/), I listed a few reasons for using this coffee brewing method. They include:
+In the article [Cold Brew Coffee with the Toddy Coffee Maker](/cold-brew-coffee-with-the-toddy-coffee-maker/), I listed a few reasons for using this coffee brewing method. They include:
 
 1.  Less acid than other coffee brewing methods.
 2.  33% less caffeine.
@@ -56,4 +56,4 @@ The title of this article makes it clear that easy is essential to good iced cof
 
 ### Resources
 
-[Cold Brew Coffee with the Toddy Coffee Maker](http://ineedcoffee.com/cold-brew-coffee-with-the-toddy-coffee-maker/) – Cold brewing coffee tutorial.
+[Cold Brew Coffee with the Toddy Coffee Maker](/cold-brew-coffee-with-the-toddy-coffee-maker/) – Cold brewing coffee tutorial.

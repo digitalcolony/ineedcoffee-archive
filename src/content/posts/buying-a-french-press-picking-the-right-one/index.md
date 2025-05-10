@@ -18,7 +18,7 @@ Even though there are more options, **I believe selecting a French Press is one 
 
 For about a decade, I brewed almost exclusively with the French Press. I had two different French Press brewers at home: a larger one that I used when guests came over and a smaller one that was my day-to-day workhorse. I also kept a cheap French Press at my desk for brewing coffee at the office.
 
-Despite their differences, the coffee they brewed tasted pretty much the same. After brewing a few thousand times with various French Press brewers, I learned that **as long as the filter seal was tight, no one French Press made better coffee than the next**. Using better coffee, having a more consistent grind, or [changing your coffee to water ratio](http://ineedcoffee.com/coffee-grind-chart/) will be vastly more important. So, if you already have a working French Press and don’t like the results, head over to the Troubleshooting French Press Coffee article before pulling out your credit card to buy a new brewer.
+Despite their differences, the coffee they brewed tasted pretty much the same. After brewing a few thousand times with various French Press brewers, I learned that **as long as the filter seal was tight, no one French Press made better coffee than the next**. Using better coffee, having a more consistent grind, or [changing your coffee to water ratio](/coffee-grind-chart/) will be vastly more important. So, if you already have a working French Press and don’t like the results, head over to the Troubleshooting French Press Coffee article before pulling out your credit card to buy a new brewer.
 
 ### #1 The Road Warrior
 
@@ -72,9 +72,9 @@ Stainless Steel French Press brewers have two advantages over glass models: They
 
 ![press pot insulation temperature and time graph ](press-pot-insulation.png)
 
-This chart compares the heat retention of a stainless steel French Press versus a glass French Press. We used the [Tabletop model](http://ineedcoffee.com/table-top-press-pot-review/) for this test. Other stainless steel models should retain heat equally. My tip would be to rinse the brewer with hot water before brewing.
+This chart compares the heat retention of a stainless steel French Press versus a glass French Press. We used the [Tabletop model](/table-top-press-pot-review/) for this test. Other stainless steel models should retain heat equally. My tip would be to rinse the brewer with hot water before brewing.
 
-There are a few stainless steel French Press options. The *Bruhen* has a slick design and is more affordable than the [Frieling](http://ineedcoffee.com/the-frieling-french-press/). It can also brew 32 ounces of coffee and has a heat retention curve similar to the Planetary Design model in the above chart.  
+There are a few stainless steel French Press options. The *Bruhen* has a slick design and is more affordable than the [Frieling](/the-frieling-french-press/). It can also brew 32 ounces of coffee and has a heat retention curve similar to the Planetary Design model in the above chart.  
 ![bruhen french press coffee maker ](bruhen-french-press.jpg)
 
 *Bruhen Large Stainless Steel French Press Coffee Maker  
@@ -91,6 +91,6 @@ See how easy that was? Unlike an espresso machine, which can take longer to rese
 
 ### Resources
 
-[French Press Tutorial](http://ineedcoffee.com/press-pot-tutorial/) – This tutorial will get you brewing once you’ve bought your French Press.
+[French Press Tutorial](/press-pot-tutorial/) – This tutorial will get you brewing once you’ve bought your French Press.
 
-[Troubleshooting French Press Coffee](http://ineedcoffee.com/troubleshooting-french-press-coffee/) – Follow this troubleshooting guide if your coffee isn’t fantastic.
+[Troubleshooting French Press Coffee](/troubleshooting-french-press-coffee/) – Follow this troubleshooting guide if your coffee isn’t fantastic.

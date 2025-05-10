@@ -39,4 +39,4 @@ Whether you’re looking for something new or just need a caffeine-free coffee s
 
 [Herbal Tea Source](http://web.archive.org/web/20141217052242/http://herbalteasource.com/) – Web resource dedicated to herbal teas.
 
-[Red Espresso is Espresso Style Rooibos](http://ineedcoffee.com/red-espresso-is-espresso-style-rooibos/) – INeedCoffee article about making espresso with Red Rooibos.
+[Red Espresso is Espresso Style Rooibos](/red-espresso-is-espresso-style-rooibos/) – INeedCoffee article about making espresso with Red Rooibos.

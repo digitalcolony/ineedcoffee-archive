@@ -47,4 +47,4 @@ It’s almost one year later, and Starbucks has lost money on me. I’ve gone fr
 
 ### Resources
 
-[Using the Barista Home Espresso Machine](http://ineedcoffee.com/using-the-barista-home-espresso-machine/) – Tutorial with tips on using the Starbucks Barista Espresso Machine
+[Using the Barista Home Espresso Machine](/using-the-barista-home-espresso-machine/) – Tutorial with tips on using the Starbucks Barista Espresso Machine

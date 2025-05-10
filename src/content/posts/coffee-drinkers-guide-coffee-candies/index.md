@@ -80,4 +80,4 @@ After tasting all of these coffee candies, we learned a few things. First, we de
 
 [Bulk Candy Store](https://bulkcandystore.com/) – All different candies, including the Coffee Prim Candy.
 
-[Coffee Candy Review](http://ineedcoffee.com/coffee-candy-review/) – Our original coffee candy review was written way back in 2001.
+[Coffee Candy Review](/coffee-candy-review/) – Our original coffee candy review was written way back in 2001.

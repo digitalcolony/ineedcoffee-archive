@@ -33,4 +33,4 @@ Pour into a tall glass and add the ice cubes. Add remaining water and milk to ta
 
 ### Resources
 
-[The History of Greek-Style Frappe](http://ineedcoffee.com/the-history-of-greek-style-frappe/) – Some background on this popular drink.
+[The History of Greek-Style Frappe](/the-history-of-greek-style-frappe/) – Some background on this popular drink.

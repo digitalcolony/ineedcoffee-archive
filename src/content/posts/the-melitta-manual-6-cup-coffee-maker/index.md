@@ -21,7 +21,7 @@ But I digress again. So the other day, I was in World Market looking for stuff u
 ![Melitta Manual 6 cup Coffee Maker](PHOTO11.jpg)  
 *Melitta Manual 6 cup Coffee Maker*
 
-It’s a Melitta six-cup manual coffee brewing system. Since I had been contemplating a Chemex for quite some time, this thing intrigued me. Basically, it is the same setup: a cone-holding device on top, a carafe on the bottom and you add your own boiling water. Nice. I checked the price: On sale for $9.99. Even at the full price of $11.99, it beat the [Chemex](http://ineedcoffee.com/chemex-coffee-brewing-history-and-tutorial/) by thirty bucks.
+It’s a Melitta six-cup manual coffee brewing system. Since I had been contemplating a Chemex for quite some time, this thing intrigued me. Basically, it is the same setup: a cone-holding device on top, a carafe on the bottom and you add your own boiling water. Nice. I checked the price: On sale for $9.99. Even at the full price of $11.99, it beat the [Chemex](/chemex-coffee-brewing-history-and-tutorial/) by thirty bucks.
 
 Based on my research at sites like INEEDCOFFEE and by my own trials, I believe that the major problem with brewing coffee is controlling the temperature of the water. Of course, coffee quality and grind, water quality, etc. are all factors, I’ve taken care of these elements but still have crappy coffee. The problem is the temperature; electric pots either don’t get it right or their internal design ultimately fails and either makes the water too hot or too cold.
 

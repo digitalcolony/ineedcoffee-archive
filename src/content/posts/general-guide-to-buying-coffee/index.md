@@ -24,7 +24,7 @@ Coffee degrades quickly after it has been roasted. The optimal time to drink cof
 
 ### Unroasted
 
-Unroasted coffee will stay very fresh for months, which is making it a great choice for those who are very serious about the coffee they drink. Since you can roast coffee in a variety of ways (including a [popcorn maker](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/)), many people have switched to buying unroasted coffee.
+Unroasted coffee will stay very fresh for months, which is making it a great choice for those who are very serious about the coffee they drink. Since you can roast coffee in a variety of ways (including a [popcorn maker](/roasting-coffee-in-a-popcorn-popper/)), many people have switched to buying unroasted coffee.
 
 ![unroasted coffee](unroasted-coffee1.jpg)  
 *2 pounds of unroasted coffee*
@@ -33,7 +33,7 @@ Unroasted coffee will stay very fresh for months, which is making it a great cho
 
 So last time I went down to the store and bought some nice fancy Kona coffee, however it tasted no better than the regular coffee I have been buying over the years.
 
-Coffee regulations in the United States only require manufacturers to specify that they are selling 100% coffee. This allows coffee manufacturers to blend 10% of an expensive type of Kona coffee with a much cheaper grade and advertise is it as Kona Coffee. This not only spoils the reputation of Kona coffee, but it is a very dishonest trick. Therefore when you buy international coffee, make sure they specify that it is 100% from the country and crop advertised. For more information on this point, read [Kona Coffee Confusion](http://ineedcoffee.com/kona-coffee-confusion/).
+Coffee regulations in the United States only require manufacturers to specify that they are selling 100% coffee. This allows coffee manufacturers to blend 10% of an expensive type of Kona coffee with a much cheaper grade and advertise is it as Kona Coffee. This not only spoils the reputation of Kona coffee, but it is a very dishonest trick. Therefore when you buy international coffee, make sure they specify that it is 100% from the country and crop advertised. For more information on this point, read [Kona Coffee Confusion](/kona-coffee-confusion/).
 
 ### Other Buying Tips
 

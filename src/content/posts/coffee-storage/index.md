@@ -79,4 +79,4 @@ If you find yourself at a coffee shop that has a sale on Jamaican Blue Mountain 
 
 ### Resources
 
-[How to Store Coffee Beans (Tips and Recommendations)](http://ineedcoffee.com/how-to-store-coffee-beans-tips-and-recommendations/) – Our updated article on storing coffee beans.
+[How to Store Coffee Beans (Tips and Recommendations)](/how-to-store-coffee-beans-tips-and-recommendations/) – Our updated article on storing coffee beans.

@@ -21,13 +21,13 @@ According to the book, Hawaii grew 5.7 million pounds of green coffee during the
 
 Some of the topics covered in the book include:
 
--   **Island Guide**: The author posts maps of the coffee-growing regions for each island. If you enjoyed reading Chris Arnold’s article on [Hawaiian Coffee](http://ineedcoffee.com/hawaiian-coffee/) this section will be a perfect complement.
+-   **Island Guide**: The author posts maps of the coffee-growing regions for each island. If you enjoyed reading Chris Arnold’s article on [Hawaiian Coffee](/hawaiian-coffee/) this section will be a perfect complement.
 -   **Cupping, Roasting, and Grinding Overview**: Not specific to Hawaii, but these parts round out the book nicely.
 -   **Resources**: This section lists all the coffee farms that offer tours and provides contact information, including Kona Earth, which is run by INeedCoffee contributor Gary Strawn. If you are interested in taking a tour of a coffee farm, this section offers a few options.
 -   **Farming**: Growing, Harvesting, and Processing are covered in detail. The Wet, Dry, and newer Mechanical Demulching methods are explained. Mechanical demulching is the newest method and uses far less water than the traditional wet process.
 -   **Hawaiian Coffee Professional Profiles**: Several important people associated with Hawaiian coffee are profiled throughout the book. There is a nice write-up of INeedCoffee contributor Andrew Hetzel (page 65).
 -   **Recipes**: Several pages are devoted to award-winning recipes using Kona coffee. These include main courses, desserts, and drinks. There is even one that uses the porter brewed by Kona Brewing Company, which I was fortunate to visit during my 2004 trip to Oahu.
--   **Organizations**: Last month, we learned about the WWOOF (Willing Workers on Organic Farms) in the article [Coffee Internship on Kona Farm](http://ineedcoffee.com/coffee-internship-on-kona-farm/). This section covers that program and many others.
+-   **Organizations**: Last month, we learned about the WWOOF (Willing Workers on Organic Farms) in the article [Coffee Internship on Kona Farm](/coffee-internship-on-kona-farm/). This section covers that program and many others.
 -   **Certification**: This portion of the book goes through Fair Trade, shade-grown, Direct Trade, and how those programs are being used in Hawaii.
 
 This book was beautifully edited and has lots of great photos. The only thing I missed on the first read was some information explaining the taste differences between the various growing regions across the islands. When I went back, I noticed the varietal name was listed under the island profile, and a varietal tasting chart was listed at the end of the chapter. A single chart connecting the two might have been clearer.
@@ -38,8 +38,8 @@ UPDATE (8/1/2008): The author, Shawn Steiman, contacted me regarding listing cup
 
 ### Resources
 
-[Hawaiian Coffee](http://ineedcoffee.com/hawaiian-coffee/) – An island-by-island breakdown of Hawaiian coffee.
+[Hawaiian Coffee](/hawaiian-coffee/) – An island-by-island breakdown of Hawaiian coffee.
 
-[Kona Coffee Confusion](http://ineedcoffee.com/kona-coffee-confusion/) – An article covering Kona Blends, Kona Style, and 100% Kona labeling.
+[Kona Coffee Confusion](/kona-coffee-confusion/) – An article covering Kona Blends, Kona Style, and 100% Kona labeling.
 
 ***Disclosure:** The author of this article received this book in exchange for a review.*

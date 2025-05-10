@@ -89,7 +89,7 @@ Ergo, the word “Frappuccino” must be named after Capuchin friars.
 
 ### Mormonism
 
-Mormons don’t drink coffee. This topic is covered in greater detail in the INeedCoffee article [Why Mormons Don’t Drink Coffee or Tea](http://ineedcoffee.com/why-mormons-dont-drink-coffee-or-tea/).
+Mormons don’t drink coffee. This topic is covered in greater detail in the INeedCoffee article [Why Mormons Don’t Drink Coffee or Tea](/why-mormons-dont-drink-coffee-or-tea/).
 
 ![Pope statue ](god_that_is_good_coffee_ending.jpg)
 

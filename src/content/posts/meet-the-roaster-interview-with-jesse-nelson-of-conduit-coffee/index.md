@@ -214,7 +214,7 @@ All in all, they are not too far apart, you don’t want to have the inconsisten
 
 ### Resources
 
-[Roasting Coffee: Conduit Coffee Roasters Seattle](http://ineedcoffee.com/roasting-coffee-conduit-coffee-roasters-seattle/) – Article by Joseph Robertson
+[Roasting Coffee: Conduit Coffee Roasters Seattle](/roasting-coffee-conduit-coffee-roasters-seattle/) – Article by Joseph Robertson
 
 [Conduit Coffee](https://www.conduitcoffee.com/) – Seattle-based coffee roaster.
 

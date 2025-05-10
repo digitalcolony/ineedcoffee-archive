@@ -52,4 +52,4 @@ Get Creative, and don’t forget to Share and Enjoy!
 
 ### Resources
 
-[Simple BBQ Coffee Rub for Steaks, Pork and More](http://ineedcoffee.com/simple-bbq-coffee-rub-for-steaks-pork-and-more/) – INeedCoffee recipe.
+[Simple BBQ Coffee Rub for Steaks, Pork and More](/simple-bbq-coffee-rub-for-steaks-pork-and-more/) – INeedCoffee recipe.

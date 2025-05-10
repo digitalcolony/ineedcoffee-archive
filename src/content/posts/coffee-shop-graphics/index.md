@@ -15,5 +15,5 @@ wordpressId: 266
 ![Coffee Shop](coffeeshop4751.jpg)  
 *Coffee Shop by Greg Matusic*
 
-[![Coffee Beans](beans-650x384.gif)](http://ineedcoffee.com/wp-content/uploads/2005/03/beans.gif)  
+[![Coffee Beans](beans-650x384.gif)](/wp-content/uploads/2005/03/beans.gif)  
 *Coffee Beans by Greg Matusic*

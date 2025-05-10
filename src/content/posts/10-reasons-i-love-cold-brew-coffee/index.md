@@ -20,11 +20,11 @@ The other day, I jotted down ten reasons I love cold brew coffee. Maybe an idea 
 
 Add cold water over ground coffee and let it sit for a day. Filter, and you are done. That is as simple as it gets. Anyone is capable of making great cold-brew coffee. INeedCoffee has some detailed tutorials customized to different brewers, but the steps are mostly the same.
 
-[Cold Brew Coffee is Not Rocket Science](http://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/)
+[Cold Brew Coffee is Not Rocket Science](/cold-brew-coffee-is-not-rocket-science/)
 
 ### #2 Easy to Fix Coffee That is Too Weak or Too Strong
 
-With other brewing methods, if you mess up when brewing your coffee, there isn’t anything you can do but start over. With cold brew, you can fix your coffee. If you discover the coffee is too weak at the end of the brew cycle, you can extend the brew time. With some brewers such as the [Penguin](http://ineedcoffee.com/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/), this will be as easy as removing the filter and returning it to the brewing chamber.
+With other brewing methods, if you mess up when brewing your coffee, there isn’t anything you can do but start over. With cold brew, you can fix your coffee. If you discover the coffee is too weak at the end of the brew cycle, you can extend the brew time. With some brewers such as the [Penguin](/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/), this will be as easy as removing the filter and returning it to the brewing chamber.
 
 If the coffee is too strong, that is fine, as you are usually making a concentrate. Just add water until you reach the coffee strength you prefer.
 
@@ -80,7 +80,7 @@ New brewers such as the Penguin and the Alkani have been designed to make cold b
 
 ![Alkani Cold Coffee Brewer setup](cold-brew-coffee-setup.jpg)
 
-The [Alkani](http://ineedcoffee.com/alkani-cold-brew-coffee-maker-review-tutorial/) is one of the new cold brewer models that uses a metal filter, which makes cleaning a simple task. Remove the filter, empty the grounds into a compost bin, rinse, and it is ready for the next brew.
+The [Alkani](/alkani-cold-brew-coffee-maker-review-tutorial/) is one of the new cold brewer models that uses a metal filter, which makes cleaning a simple task. Remove the filter, empty the grounds into a compost bin, rinse, and it is ready for the next brew.
 
 ### Other Reasons
 
@@ -88,15 +88,15 @@ There are other reasons to love cold brew that I haven’t even explored. One gr
 
 ### Getting Started
 
-Although you could start making [cold brew coffee in your French Press](http://ineedcoffee.com/making-cold-brew-coffee-french-press/), I love the newer dedicated cold-brewers much more. Look into the Penguin or the Alkani. New cold brewers are hitting the market all the time now. Look for a sturdy glass frame, a metal filter, and a size that best suits your needs.
+Although you could start making [cold brew coffee in your French Press](/making-cold-brew-coffee-french-press/), I love the newer dedicated cold-brewers much more. Look into the Penguin or the Alkani. New cold brewers are hitting the market all the time now. Look for a sturdy glass frame, a metal filter, and a size that best suits your needs.
 
 ### Resources
 
 [21 Reasons I Love Cold Brew Coffee](https://criticalmas.org/2021/04/21-reasons-i-love-cold-brew-coffee/) – An updated list by the author.
 
-[Make Concentrated Cold Brew Coffee With the Penguin Coffee](http://ineedcoffee.com/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/)
+[Make Concentrated Cold Brew Coffee With the Penguin Coffee](/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/)
 
-[The Alkani Cold Brew Coffee Maker – Review and Tutorial](http://ineedcoffee.com/alkani-cold-brew-coffee-maker-review-tutorial/)
+[The Alkani Cold Brew Coffee Maker – Review and Tutorial](/alkani-cold-brew-coffee-maker-review-tutorial/)
 
 *Title photo by [Matt Hoffman](https://unsplash.com/@__matthoffman__)*
 

@@ -54,10 +54,10 @@ Compared to other cold coffees, like an iced Americano you can get at Starbucks 
 
 ### Resources
 
-[Buying a French Press – Picking the Right One](http://ineedcoffee.com/buying-a-french-press-picking-the-right-one/) – If you don’t own a French Press, here is a guide to help you make a purchase.
+[Buying a French Press – Picking the Right One](/buying-a-french-press-picking-the-right-one/) – If you don’t own a French Press, here is a guide to help you make a purchase.
 
-[The Perfect Solution For Cold Brew Coffee on the Road](http://ineedcoffee.com/the-perfect-solution-for-cold-brew-coffee-on-the-go/) – How to brew cold brew coffee in the Primula travel bottle.
+[The Perfect Solution For Cold Brew Coffee on the Road](/the-perfect-solution-for-cold-brew-coffee-on-the-go/) – How to brew cold brew coffee in the Primula travel bottle.
 
-[Cold Brew Coffee is Not Rocket Science](http://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/) – A primer on cold brew coffee.
+[Cold Brew Coffee is Not Rocket Science](/cold-brew-coffee-is-not-rocket-science/) – A primer on cold brew coffee.
 
-[A Clever Way to Make Iced Coffee](http://ineedcoffee.com/clever-way-make-iced-coffee/) – How to make iced coffee that isn’t bitter or watered down.
+[A Clever Way to Make Iced Coffee](/clever-way-make-iced-coffee/) – How to make iced coffee that isn’t bitter or watered down.

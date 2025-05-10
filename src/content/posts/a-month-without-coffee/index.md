@@ -32,7 +32,7 @@ I had done other health experiments in the last four years. I’ve tested how my
 
 ### Coffee Taste Deconditioning
 
-Countless articles on different strategies used to cut back or eliminate coffee. My favorite is another *INeedCoffee* article titled [Accelerated Caffeine Detox](http://ineedcoffee.com/accelerated-caffeine-detox/), but I had more than caffeine addiction. Not only was I addicted to caffeine, but I was addicted to the taste of coffee – more specifically, I was addicted to the taste of espresso. Not just any espresso, but some of the best espresso in the world. In addition to my home-roasted espresso blends, by living in Seattle I had access to some of the best espresso in the world. To be successful on my quest to go a month without coffee, I’d have to not only address the caffeine addiction but the taste itself.
+Countless articles on different strategies used to cut back or eliminate coffee. My favorite is another *INeedCoffee* article titled [Accelerated Caffeine Detox](/accelerated-caffeine-detox/), but I had more than caffeine addiction. Not only was I addicted to caffeine, but I was addicted to the taste of coffee – more specifically, I was addicted to the taste of espresso. Not just any espresso, but some of the best espresso in the world. In addition to my home-roasted espresso blends, by living in Seattle I had access to some of the best espresso in the world. To be successful on my quest to go a month without coffee, I’d have to not only address the caffeine addiction but the taste itself.
 
 Enter Seth Roberts. In 2007, he wrote a book called The Shangri-La Diet. This book tackles fat loss by addressing how much reward we place on the flavors we are exposed to. Instead of counting calories or carbs, you consume certain food combinations with weak flavor profiles to *decondition* yourself from foods with a high food reward. Flavors that are stronger, more frequent, and more predictable end up increasing the body’s fat setpoint. Because espresso, when made properly, has a higher flavor signal than brewed coffee, I decided to create my coffee taste deconditioning plan.
 
@@ -80,7 +80,7 @@ Going a month without coffee was extremely tough but a highly rewarding experien
 
 ### Resources
 
-[Accelerated Caffeine Detox](http://ineedcoffee.com/accelerated-caffeine-detox/) – An effective way to quickly lower caffeine levels without the pain of going cold turkey.
+[Accelerated Caffeine Detox](/accelerated-caffeine-detox/) – An effective way to quickly lower caffeine levels without the pain of going cold turkey.
 
 The Shangri-La Diet: The No Hunger Eat Anything Weight-Loss Plan, by Seth Roberts, inspired my coffee taste deconditioning strategy. My review of the book is [here](https://criticalmas.org/2011/08/flavor-signaling-and-the-shangri-la-diet/).
 

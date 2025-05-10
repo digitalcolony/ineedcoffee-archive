@@ -16,12 +16,12 @@ Between panoramic fjords, the world’s greatest saunas, and wild, cold-water sa
 
 Barring an actual trip, you can still taste the locale by making and drinking the Swede’s unique take on java: egg coffee. Egg coffee is also known as Scandinavian coffee or Hungarian coffee.
 
-Recently listed in the article [11 Crazy Coffee Drinks You Won’t Find on a Starbucks Menu](http://ineedcoffee.com/11-crazy-coffee-drinks-you-wont-find-on-a-starbucks-menu/) here on INeedCoffee, Swedish egg coffee is dead simple to make. The result is a non-bitter, surprisingly light, and incredibly smooth cup that combines the wonderful flavor of your favorite roast with a reminiscent aftertaste of toasted cheese (trust me, it sounds strange, but it works).
+Recently listed in the article [11 Crazy Coffee Drinks You Won’t Find on a Starbucks Menu](/11-crazy-coffee-drinks-you-wont-find-on-a-starbucks-menu/) here on INeedCoffee, Swedish egg coffee is dead simple to make. The result is a non-bitter, surprisingly light, and incredibly smooth cup that combines the wonderful flavor of your favorite roast with a reminiscent aftertaste of toasted cheese (trust me, it sounds strange, but it works).
 
 Ok, so to make this strange and delightful concoction, you are going to need the following:
 
 -   1 fresh egg
--   1 to 1 ½ tbs of your preferred coffee, [coarsely ground](http://ineedcoffee.com/coffee-grind-chart/) (similar to what you would use for a French press)
+-   1 to 1 ½ tbs of your preferred coffee, [coarsely ground](/coffee-grind-chart/) (similar to what you would use for a French press)
 -   1 cup of water
 -   1 cup of ice-cold water (yes, that’s a total of 2 cups of water)
 -   Sugar and milk to taste
@@ -93,10 +93,10 @@ There you have it—yet another new and fancy way to brew the world’s greatest
 
 ### Resources
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – Our collection of coffee brewing tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – Our collection of coffee brewing tutorials.
 
-[The Coffee Avocado Shake Recipe](http://ineedcoffee.com/the-coffee-avocado-shake/) – A coffee drink recipe from the Philippines.
+[The Coffee Avocado Shake Recipe](/the-coffee-avocado-shake/) – A coffee drink recipe from the Philippines.
 
-[Preparing Traditional Turkish Coffee](http://ineedcoffee.com/preparing-a-traditional-turkish-coffee/) – How to make Turkish Coffee.
+[Preparing Traditional Turkish Coffee](/preparing-a-traditional-turkish-coffee/) – How to make Turkish Coffee.
 
 *All photos are by the author Alex Freemon ([CC By 4.0](https://creativecommons.org/licenses/by/4.0/))*

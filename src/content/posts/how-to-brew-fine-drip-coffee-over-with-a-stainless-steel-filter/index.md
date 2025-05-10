@@ -93,6 +93,6 @@ It is now time to relish a finely brewed Drip over “Filter Coffee”. This cof
 
 ### Resources
 
-[How To Make Coffee Using A Thermos Flask](http://ineedcoffee.com/how-to-make-coffee-using-a-thermos-flask/) – Coffee brewing tutorial.
+[How To Make Coffee Using A Thermos Flask](/how-to-make-coffee-using-a-thermos-flask/) – Coffee brewing tutorial.
 
 [Indian filter coffee](https://en.wikipedia.org/wiki/Indian_filter_coffee) – Wikipedia page on the milk version of this recipe.

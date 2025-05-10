@@ -60,7 +60,7 @@ I think the diagram “Interactive B” is a little confusing, and takes away ra
 
 ### Beans
 
-They do have a video of Sweet Maria’s, touted by the authors as “Our favorite provider of green specialty coffee”. Some other vendors that get a nod are Burman Coffee, Coffee Bean Corral, and Coffee Bean Direct. I have purchased from all of them, and they are all decent retailers. One aspect of green coffee bean buying they did not explore is the Co-Op scene. See the article [Green Coffee Buying Club (aka GCBC)](https://ineedcoffee.com/meeting-up-with-the-green-coffee-buying-club/) for more info.
+They do have a video of Sweet Maria’s, touted by the authors as “Our favorite provider of green specialty coffee”. Some other vendors that get a nod are Burman Coffee, Coffee Bean Corral, and Coffee Bean Direct. I have purchased from all of them, and they are all decent retailers. One aspect of green coffee bean buying they did not explore is the Co-Op scene. See the article [Green Coffee Buying Club (aka GCBC)](/meeting-up-with-the-green-coffee-buying-club/) for more info.
 
 ![Your final cup will only be as good as your beans](4-final-cup.jpg)  
 *“Your final cup will only be as good as your beans.”*
@@ -72,25 +72,25 @@ I like the Basic Roast Levels diagram. It really makes things crystal clear.
 ![Basic Roast Levels](5-roast-levels.jpg)  
 *Basic Roast Levels*
 
-I found the home methods they suggest interesting: [Popcorn popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/), [Heat gun](http://ineedcoffee.com/roasting-coffee-with-a-heat-gun-a-top-down-approach/), and [Whirley pop](http://ineedcoffee.com/stovetop-roasting-with-the-whirley-pop/). I have used them all, and while they do work, using them inevitably leads to commercially produced consumer coffee roasters that provide more volume, better temp control, smoke suppressors, etc. I wish they would have delved into some of those consumer machines, that also won’t break the bank. Or at least whet our appetite for another eBook when you are ready to spend some more money.
+I found the home methods they suggest interesting: [Popcorn popper](/roasting-coffee-in-a-popcorn-popper/), [Heat gun](/roasting-coffee-with-a-heat-gun-a-top-down-approach/), and [Whirley pop](/stovetop-roasting-with-the-whirley-pop/). I have used them all, and while they do work, using them inevitably leads to commercially produced consumer coffee roasters that provide more volume, better temp control, smoke suppressors, etc. I wish they would have delved into some of those consumer machines, that also won’t break the bank. Or at least whet our appetite for another eBook when you are ready to spend some more money.
 
 ![Home Roasting Methods](6-roast-methods.jpg)  
 *Home Roasting Methods*
 
 ### Grinding
 
-They do show two levels of grind (French Press and Filter) as compared to a dime. Would have liked to have seen Aeropress or some others just for comparison. See the article [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) for more comparisons of grind sizes.
+They do show two levels of grind (French Press and Filter) as compared to a dime. Would have liked to have seen Aeropress or some others just for comparison. See the article [Coffee Grind Chart](/coffee-grind-chart/) for more comparisons of grind sizes.
 
 ![Grinding](7-grind.jpg)  
 *Grinding*
 
-They only show two types of [gri](http://ineedcoffee.com/choosing-the-right-coffee-grinder/)n[ders](http://ineedcoffee.com/choosing-the-right-coffee-grinder/) (burr hand mill and spice blender). Again, there are machines out there that can do a great job, offer more volume, do it quicker, and don’t break the bank.
+They only show two types of [gri](/choosing-the-right-coffee-grinder/)n[ders](/choosing-the-right-coffee-grinder/) (burr hand mill and spice blender). Again, there are machines out there that can do a great job, offer more volume, do it quicker, and don’t break the bank.
 
 ### Brewing
 
-They show [French Press](http://ineedcoffee.com/press-pot-tutorial/), [Clever Coffee Dripper](http://ineedcoffee.com/the-clever-coffee-dripper/), and Automatic Drip. They make excuses for why they didn’t include pour-over, [vac pots](http://ineedcoffee.com/vacuum-pot-brewing/), or espresso. And I agree with that. But what about the [Aeropress](http://ineedcoffee.com/aeropress-coffee-maker-tutorial/)?
+They show [French Press](/press-pot-tutorial/), [Clever Coffee Dripper](/the-clever-coffee-dripper/), and Automatic Drip. They make excuses for why they didn’t include pour-over, [vac pots](/vacuum-pot-brewing/), or espresso. And I agree with that. But what about the [Aeropress](/aeropress-coffee-maker-tutorial/)?
 
-While this eBook really focuses on roasting, with other aspects being secondary, I found the FREE Intelligentsia app, more useful for the preparation of coffee, as well as more expansive. See the article [Intelligentsia iPhone App Review](http://ineedcoffee.com/intelligentsia-iphone-app-review/) for more information on that application.
+While this eBook really focuses on roasting, with other aspects being secondary, I found the FREE Intelligentsia app, more useful for the preparation of coffee, as well as more expansive. See the article [Intelligentsia iPhone App Review](/intelligentsia-iphone-app-review/) for more information on that application.
 
 ### And Then What?
 
@@ -112,6 +112,6 @@ They give some nice reference material for Tasting, Coffee Terms, Troubleshootin
 
 ### Resourses
 
-[Meeting Up With The Green Coffee Buying Club](https://ineedcoffee.com/meeting-up-with-the-green-coffee-buying-club/) – The interview topic is how green coffee buying cooperative clubs work.
+[Meeting Up With The Green Coffee Buying Club](/meeting-up-with-the-green-coffee-buying-club/) – The interview topic is how green coffee buying cooperative clubs work.
 
-[Intelligentsia iPhone App Review](http://ineedcoffee.com/intelligentsia-iphone-app-review/) – Coffee brewing application by coffee roaster Intelligentsia.
+[Intelligentsia iPhone App Review](/intelligentsia-iphone-app-review/) – Coffee brewing application by coffee roaster Intelligentsia.

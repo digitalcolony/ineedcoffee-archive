@@ -27,7 +27,7 @@ I don’t have much experience with drip coffee makers, but I found that iCoffee
 
 ### iCoffee Tips
 
-The documentation does not specify a recommended grind size. We found that using a regular drip grind was too fine and tasted bitter. Go a little coarser—not quite French Press coarse, though. Look at the [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) and try to get your grind between Medium and Coarse.
+The documentation does not specify a recommended grind size. We found that using a regular drip grind was too fine and tasted bitter. Go a little coarser—not quite French Press coarse, though. Look at the [Coffee Grind Chart](/coffee-grind-chart/) and try to get your grind between Medium and Coarse.
 
 The *iCoffee* website states that you can save money by using 15% less coffee. The claim was skeptical, but our tests showed that a 19 to 1 ratio (grams of water to grams of coffee) tasted just as good as the standard 17 to 1 ratio. This might change with different coffees, different roast levels, and, of course, personal tastes.
 
@@ -57,7 +57,7 @@ The downside of the iCoffee is the effort required to clean the brewer properly.
 
 ### Resources 
 
-[Buying a French Press – Picking the Right One](http://ineedcoffee.com/buying-a-french-press-picking-the-right-one/) – Our French Press purchasing guide.
+[Buying a French Press – Picking the Right One](/buying-a-french-press-picking-the-right-one/) – Our French Press purchasing guide.
 
 [iCoffee Machine Review](https://web.archive.org/web/20171029072853/http://kitchenboy.net:80/blog/icoffee-machine-review/) – Detailed iCoffee review from KitchenBoy.
 

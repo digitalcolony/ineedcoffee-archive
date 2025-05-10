@@ -12,7 +12,7 @@ updatedAt: "2025-03-22T15:29:37"
 wordpressId: 364
 ---
 
-My first espresso machine was the Starbucks Barista espresso machine. It uses a pressurized portafilter which allows you to use a coarser espresso grind. For years, I used the Starbucks Barista Grinder with this machine and it worked wonderfully. Eventually the Barista espresso machine gave way to the [Rancilio Silvia](http://ineedcoffee.com/rancilio-silvia-espresso-machine-tips/). While my grinder was able to deliver decent espresso, I never could reliably produce a great shot. Too often, the shots were pulling way too fast.
+My first espresso machine was the Starbucks Barista espresso machine. It uses a pressurized portafilter which allows you to use a coarser espresso grind. For years, I used the Starbucks Barista Grinder with this machine and it worked wonderfully. Eventually the Barista espresso machine gave way to the [Rancilio Silvia](/rancilio-silvia-espresso-machine-tips/). While my grinder was able to deliver decent espresso, I never could reliably produce a great shot. Too often, the shots were pulling way too fast.
 
 What I needed was a finer grind, but my grinder couldn’t deliver. Or could it? It turns out that this grinder was adjusted to work optimally with the Starbucks Barista machine at its finest setting. With a little work, you can adjust yours to grind coffee fine enough to yield a properly pulled espresso in the Rancilio Silvia. The adjustments I make below are specific to the Rancilio Silvia, but you should be able to get a setting that works for your espresso machine using the same technique.
 
@@ -85,6 +85,6 @@ You can put the burr assembly and hopper back on without reassembling everything
 
 ### Resources
 
-[Rancilio Silvia Espresso Machine Tips](http://ineedcoffee.com/rancilio-silvia-espresso-machine-tips/) – Ideas on improving your espresso shots.
+[Rancilio Silvia Espresso Machine Tips](/rancilio-silvia-espresso-machine-tips/) – Ideas on improving your espresso shots.
 
-[Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) – A visual chart to help dial in the espresso grind.
+[Coffee Grind Chart](/coffee-grind-chart/) – A visual chart to help dial in the espresso grind.

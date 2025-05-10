@@ -66,6 +66,6 @@ As with everything Starbucks, just as many people will flock to the Reserve Roas
 
 *Holy Grounds: The Surprising Connection Between Coffee and Faith — From Dancing Goats to Satan’s Drink*
 
-[Starbucks Coffee College](http://ineedcoffee.com/starbucks-coffee-college/) – INeedCoffee article about attending a coffee education program hosted by Starbucks.
+[Starbucks Coffee College](/starbucks-coffee-college/) – INeedCoffee article about attending a coffee education program hosted by Starbucks.
 
 [Starbucks Reserve Roastery](https://www.starbucksreserve.com/) – Official site.

@@ -79,6 +79,6 @@ I really love this product in so many ways, and it’s affordable to boot. I can
 
 *The LifStyl Milk Frother (no longer available)*
 
-[Sherwood SMF-1000 Automatic Electric Milk Frother and Warmer Review](http://ineedcoffee.com/sherwood-smf-1000-automatic-electric-milk-frother-warmer-review/) – INeedCoffee article.
+[Sherwood SMF-1000 Automatic Electric Milk Frother and Warmer Review](/sherwood-smf-1000-automatic-electric-milk-frother-warmer-review/) – INeedCoffee article.
 
 *Disclosure: INeedCoffee was sent this product at no cost, which did not affect its review.*

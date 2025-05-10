@@ -12,11 +12,11 @@ updatedAt: "2025-03-30T08:34:05"
 wordpressId: 8228
 ---
 
-It’s time for another coffee brewing tutorial. This time, we are going to make iced coffee with a Chemex. The Chemex is a popular pour coffee brewer, which we covered in detail in the article “[Chemex Coffee Brewing—History and Tutorial](http://ineedcoffee.com/chemex-coffee-brewing-history-and-tutorial/).” In addition to making great hot coffee, the Chemex does a stellar job of making iced coffee.
+It’s time for another coffee brewing tutorial. This time, we are going to make iced coffee with a Chemex. The Chemex is a popular pour coffee brewer, which we covered in detail in the article “[Chemex Coffee Brewing—History and Tutorial](/chemex-coffee-brewing-history-and-tutorial/).” In addition to making great hot coffee, the Chemex does a stellar job of making iced coffee.
 
 Before we jump into the tutorial, I want to briefly explain how iced coffee is different from cold brew coffee. Cold-brew coffee, which has been surging in popularity in recent years, takes about 24 hours to make. Iced coffee is different. It just takes the same time it normally takes to make hot coffee. Iced coffee should taste as bright and as flavorful as the hot version without being weak and watery. Iced coffee excels at preserving the same flavor characteristics in the regular brewed hot version. Cold brew will create a low acidity profile and is higher in caffeine.
 
-The big theme with making iced coffee is that the water will come from the hot brewing water and ice cubes. A smaller amount of hot water will pass through the coffee grounds. As the coffee brews, it will fall onto the ice cubes. The ice will mostly be melted, but the drink will be chilled and not taste weak or watered down. With the Chemex, the brew time for iced coffee is comparable to that of the hot version. If you want a slow-drip iced coffee, check out our [Cold Brew Dripper Tutorial](http://ineedcoffee.com/cold-brew-dripper-tutorial/).
+The big theme with making iced coffee is that the water will come from the hot brewing water and ice cubes. A smaller amount of hot water will pass through the coffee grounds. As the coffee brews, it will fall onto the ice cubes. The ice will mostly be melted, but the drink will be chilled and not taste weak or watered down. With the Chemex, the brew time for iced coffee is comparable to that of the hot version. If you want a slow-drip iced coffee, check out our [Cold Brew Dripper Tutorial](/cold-brew-dripper-tutorial/).
 
 ![iced chemex coffee brewing](iced-chemex-brewing-close.jpg)
 
@@ -58,7 +58,7 @@ Place 234 grams of ice into the base of the Chemex.
 
 #### #4 Place Filter on Chemex and Add Ground Coffee
 
-Now that the ice is in the Chemex, return the filter to the top of the Chemex. Place 50 grams of ground coffee into the filter. Use a medium-coarse grind, which is in between a normal drip and a French press grind. See our [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) for visual guidance.
+Now that the ice is in the Chemex, return the filter to the top of the Chemex. Place 50 grams of ground coffee into the filter. Use a medium-coarse grind, which is in between a normal drip and a French press grind. See our [Coffee Grind Chart](/coffee-grind-chart/) for visual guidance.
 
 #### #5 Slowly Pour Hot Water over the Coffee Grounds
 
@@ -80,13 +80,13 @@ Once the water has finished passing through the coffee and filter, remove the fi
 
 ### Last Words
 
-We have another tutorial that uses a [Clever Coffee Brewer to make Iced Coffee](http://ineedcoffee.com/clever-way-make-iced-coffee/). That is still my favorite iced coffee brewing method. However, the larger Chemex sizes (6-cup and 10-cup) are best for making larger batches of iced coffee. If I’m just making an iced coffee for myself, I grab the Clever; however, for friends and family, I use the Chemex.
+We have another tutorial that uses a [Clever Coffee Brewer to make Iced Coffee](/clever-way-make-iced-coffee/). That is still my favorite iced coffee brewing method. However, the larger Chemex sizes (6-cup and 10-cup) are best for making larger batches of iced coffee. If I’m just making an iced coffee for myself, I grab the Clever; however, for friends and family, I use the Chemex.
 
 ### Resources
 
-[Chemex Coffee Brewing – History and Tutorial](http://ineedcoffee.com/chemex-coffee-brewing-history-and-tutorial/) – INeedCoffee tutorial.
+[Chemex Coffee Brewing – History and Tutorial](/chemex-coffee-brewing-history-and-tutorial/) – INeedCoffee tutorial.
 
-[Clever Coffee Brewer to Make Iced Coffee](http://ineedcoffee.com/clever-way-make-iced-coffee/) – INeedCoffee tutorial.
+[Clever Coffee Brewer to Make Iced Coffee](/clever-way-make-iced-coffee/) – INeedCoffee tutorial.
 
 *Brewing photos by Joseph Robertson of Extracted Magazine, a digital coffee magazine published for iOS and Android.  
 *

@@ -20,8 +20,8 @@ wordpressId: 6776
 
 ![our coffee](2015005-our-coffee.jpg)
 
-Previous: [Inanimate Objects Comics #54](http://ineedcoffee.com/inanimate-objects-comics-54/)
+Previous: [Inanimate Objects Comics #54](/inanimate-objects-comics-54/)
 
-Next: [Inanimate Objects Comics #56](http://ineedcoffee.com/inanimate-objects-comics-56/)
+Next: [Inanimate Objects Comics #56](/inanimate-objects-comics-56/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

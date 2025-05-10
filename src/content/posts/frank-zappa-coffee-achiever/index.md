@@ -53,4 +53,4 @@ Overachieving, overreaching, and overworking, Frank Zappa’s approach to his wo
 
 ### Resources
 
-[How Did Elvis Like His Coffee?](http://ineedcoffee.com/how-did-elvis-like-his-coffee/) – Coffee profile of another musician.
+[How Did Elvis Like His Coffee?](/how-did-elvis-like-his-coffee/) – Coffee profile of another musician.

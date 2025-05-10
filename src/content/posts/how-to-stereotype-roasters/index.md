@@ -12,7 +12,7 @@ updatedAt: "2025-03-15T15:14:46"
 wordpressId: 37
 ---
 
-In the spirit of [Stereotyping Coffeehouses](http://ineedcoffee.com/coffee-house-stereotyping/), I’ve decided that learning how to distinguish good roasters from the bad is just as crucial without trying the wares. Stereotyping a roaster is relatively easy once you know how to size up an operation. Let’s look over some clues indicating that a coffee roaster is turning out a poor product.
+In the spirit of [Stereotyping Coffeehouses](/coffee-house-stereotyping/), I’ve decided that learning how to distinguish good roasters from the bad is just as crucial without trying the wares. Stereotyping a roaster is relatively easy once you know how to size up an operation. Let’s look over some clues indicating that a coffee roaster is turning out a poor product.
 
 ![coffee roasting](coffee-roaster1.jpg)  
 *Coffee Roaster*

@@ -19,7 +19,7 @@ I had some Colombian Supremo beans I had purchased online, so this weekend, I de
 ![green coffee](green4501.jpg)  
 *Green Coffee*
 
-I followed the [Home Roasting Coffee with the Whirley-Pop Popcorn Popper](http://ineedcoffee.com/stovetop-roasting-with-the-whirley-pop/) article and just placed the Whirley-Pop on the gas grill, rather than the stove. This produced a fairly light roast after about twenty minutes. I heard the first crack but never heard the second. I don’t think the heat was enough to roast the coffee much more than that. This also took a lot longer than I thought it would which is probably a temperature issue, as well.
+I followed the [Home Roasting Coffee with the Whirley-Pop Popcorn Popper](/stovetop-roasting-with-the-whirley-pop/) article and just placed the Whirley-Pop on the gas grill, rather than the stove. This produced a fairly light roast after about twenty minutes. I heard the first crack but never heard the second. I don’t think the heat was enough to roast the coffee much more than that. This also took a lot longer than I thought it would which is probably a temperature issue, as well.
 
 ![roasting coffee](popper450.jpg)  
 *Roasting Coffee*
@@ -28,7 +28,7 @@ One drawback of this method is that you have to keep the lid of the grill open a
 
 After I declared the roast “done”, I moved the beans to a metal colander and shook them to cool and remove the chaff.
 
-The next day, I decided to try the [Home Roasting Coffee in an Oven](http://ineedcoffee.com/home-roasting-coffee-in-an-oven/) method, replacing the oven with the grill. I used a pizza pan as in the recipe, got the grill up to 500 degrees per the thermostat, placed the tray on the grill, and closed the lid.
+The next day, I decided to try the [Home Roasting Coffee in an Oven](/home-roasting-coffee-in-an-oven/) method, replacing the oven with the grill. I used a pizza pan as in the recipe, got the grill up to 500 degrees per the thermostat, placed the tray on the grill, and closed the lid.
 
 I adjusted the three burners to keep the thermostat at 500 degrees during the roast. At about six minutes, I heard the first crack. I would check the beans each minute after that, boosting the gas after I closed the lid to get the temperature back up to 500.
 

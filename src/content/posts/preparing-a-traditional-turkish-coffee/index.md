@@ -56,6 +56,6 @@ Don’t drink the grinds at the bottom. These may be used to tell your future. W
 
 ### Resources
 
-[Coffee Fortune Telling With a Turkish Coffee Pot](http://ineedcoffee.com/coffee-fortune-telling-with-a-turkish-coffee-pot/) – Fortune telling with Turkish Coffee.
+[Coffee Fortune Telling With a Turkish Coffee Pot](/coffee-fortune-telling-with-a-turkish-coffee-pot/) – Fortune telling with Turkish Coffee.
 
-[The World’s First Coffee Pot: Turkish Coffee](http://ineedcoffee.com/the-worlds-first-coffee-pot-turkish-coffee/) – Additional tips on making Turkish coffee.
+[The World’s First Coffee Pot: Turkish Coffee](/the-worlds-first-coffee-pot-turkish-coffee/) – Additional tips on making Turkish coffee.

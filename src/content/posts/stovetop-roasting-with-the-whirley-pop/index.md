@@ -12,7 +12,7 @@ updatedAt: "2025-03-23T17:16:37"
 wordpressId: 146
 ---
 
-Other home roasting articles on INeedCoffee focus on roasting with electrical roasters, such as the [West Bend Poppery](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) or the [iRoast 2](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/). You can easily start roasting at home with one of these roasters. But there are other, older methods of home roasting. This article explores using a stovetop popcorn popper, enabling you to roast coffee on your gas stove. It’s not nearly as easy as roasting with an electrical popcorn popper, but the advantages of this method are that you have 100% control over the roasting profile and can roast greater quantities at one time.
+Other home roasting articles on INeedCoffee focus on roasting with electrical roasters, such as the [West Bend Poppery](/roasting-coffee-in-a-popcorn-popper/) or the [iRoast 2](/roasting-coffee-in-a-popcorn-popper/). You can easily start roasting at home with one of these roasters. But there are other, older methods of home roasting. This article explores using a stovetop popcorn popper, enabling you to roast coffee on your gas stove. It’s not nearly as easy as roasting with an electrical popcorn popper, but the advantages of this method are that you have 100% control over the roasting profile and can roast greater quantities at one time.
 
 ![whirley pop popcorn roaster](whirley-pop-popcorn-roaster1.jpg)  
 *Whirley-Pop Stovetop Popcorn Popper  
@@ -20,7 +20,7 @@ Other home roasting articles on INeedCoffee focus on roasting with electrical ro
 
 ### Is Stovetop Roasting Wrong For You?
 
-Let’s start with a basic truth. Home-roasting coffee is easy. That is up till now. Whether you are using a popcorn popper, a Hearthware, Fresh Roast, or even an [oven](http://ineedcoffee.com/home-roasting-coffee-in-an-oven/), it doesn’t take much time before you are making excellent coffee. A big reason for the ease is that the roasting device handles your roasting temperature. Even the oven remembers where to roast once you’ve set the dial. And some roasters even handle the cooling. With stovetop roasting, it’s the roaster’s responsibility to keep the coffee in a temperature profile that will roast it not too fast or slow. That requires some practice and constant attention.
+Let’s start with a basic truth. Home-roasting coffee is easy. That is up till now. Whether you are using a popcorn popper, a Hearthware, Fresh Roast, or even an [oven](/home-roasting-coffee-in-an-oven/), it doesn’t take much time before you are making excellent coffee. A big reason for the ease is that the roasting device handles your roasting temperature. Even the oven remembers where to roast once you’ve set the dial. And some roasters even handle the cooling. With stovetop roasting, it’s the roaster’s responsibility to keep the coffee in a temperature profile that will roast it not too fast or slow. That requires some practice and constant attention.
 
 During the roast, you, as the roaster, will need to monitor rising and falling temperatures and make adjustments, all while hand-cranking the Whirley-Pop. This is rodeo-style roasting. Too much heat and the beans will burn, too little and they’ll bake. **If you are a hands-off roaster, you can stop reading now. This isn’t for you.** The next requirement is excellent ventilation. Roasting coffee produces smoke, and the Whirley-Pop can roast 3 times as much as other roasters. This means 3 times the amount of smoke.
 
@@ -77,7 +77,7 @@ A typical roast takes between 7 and 9 minutes. Towards the end, you’ll hear th
 
 Although lighter roasts are possible, it’s much easier to go dark. Roasting color with conduction heat seems to even out over time. An additional minute or two can turn a blotchy city roast into an even Vienna roast.
 
-Once you believe the roast is ready, turn off the burner and quickly carry the popper to your metal colanders. I like having two colanders. This allows me to pour the beans from one to another. This both cools the beans and helps remove the chaff. You can also use the spray method to cool the beans. For more information on cooling roasted coffee, read the 2nd and 3rd tips from the article [Popper Roasting Tips](http://ineedcoffee.com/popper-roasting-tips/)
+Once you believe the roast is ready, turn off the burner and quickly carry the popper to your metal colanders. I like having two colanders. This allows me to pour the beans from one to another. This both cools the beans and helps remove the chaff. You can also use the spray method to cool the beans. For more information on cooling roasted coffee, read the 2nd and 3rd tips from the article [Popper Roasting Tips](/popper-roasting-tips/)
 
 ![cool the beans](cooling-coffee-beans.jpg)  
 *Cool the coffee beans using two metal colanders.*

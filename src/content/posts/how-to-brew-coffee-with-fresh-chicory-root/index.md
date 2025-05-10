@@ -86,6 +86,6 @@ This article is dedicated to the Lions Club of Warner-QLD Group members, Austral
 
 ### Resources
 
-[How to Brew Fine Drip Over Coffee With a Stainless Steel Filter](http://ineedcoffee.com/how-to-brew-fine-drip-coffee-over-with-a-stainless-steel-filter/) – This is the coffee brewer used in this tutorial.
+[How to Brew Fine Drip Over Coffee With a Stainless Steel Filter](/how-to-brew-fine-drip-coffee-over-with-a-stainless-steel-filter/) – This is the coffee brewer used in this tutorial.
 
-[How to Brew Vietnamese Iced Coffee](http://ineedcoffee.com/brew-vietnamese-coffee/) – Vietnamese Coffee often uses chicory in the blend.
+[How to Brew Vietnamese Iced Coffee](/brew-vietnamese-coffee/) – Vietnamese Coffee often uses chicory in the blend.

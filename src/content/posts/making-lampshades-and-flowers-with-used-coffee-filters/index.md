@@ -12,7 +12,7 @@ updatedAt: "2025-03-29T13:51:31"
 wordpressId: 5871
 ---
 
-At INeedCoffee, we always want to see what artistic things can be created using coffee. We have [three](http://ineedcoffee.com/coffee-art/) [different](http://ineedcoffee.com/art-of-farr-coffee-greeting-cards/) [galleries](http://ineedcoffee.com/the-coffee-art-corporation/) by different artists that have used coffee grounds to create amazing artwork. Vilma Silveira Farrell takes a different path. Instead of using coffee grounds, she uses coffee filters to make her artwork.
+At INeedCoffee, we always want to see what artistic things can be created using coffee. We have [three](/coffee-art/) [different](/art-of-farr-coffee-greeting-cards/) [galleries](/the-coffee-art-corporation/) by different artists that have used coffee grounds to create amazing artwork. Vilma Silveira Farrell takes a different path. Instead of using coffee grounds, she uses coffee filters to make her artwork.
 
 In a series of emails, I learned that Vilma collects used coffee filters from coffee shops. The filters are cleaned and dried, then dyed to the desired color. If you want a dark brown color, the coffee grounds are left inside the filter during the drying process. Once dry, the grounds are removed.
 

@@ -39,7 +39,7 @@ Option #1 wasn’t for me. I’d rather have more coffee. To make the coffee mor
 
 ![coffee scoop](scoop.jpg)
 
-*1.5 scoops is about 15 grams of coffee. Start there. I got good results using a basic [drip coffee grind](http://ineedcoffee.com/coffee-grind-chart/).*
+*1.5 scoops is about 15 grams of coffee. Start there. I got good results using a basic [drip coffee grind](/coffee-grind-chart/).*
 
 ### #3 Add Hot Water and Stir
 
@@ -55,7 +55,7 @@ The coffee is done brewing. Hold the brewer with one hand, then turn the plug an
 
 ### #4 Add Water to Taste
 
-At this point, I add an ounce or two of hot water, just like I do for the [Aeropress](http://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/). This is optional. Experiment.
+At this point, I add an ounce or two of hot water, just like I do for the [Aeropress](/upside-aeropress-coffee-brewing-tutorial/). This is optional. Experiment.
 
 ### Comparisons to Clever Dripper and Melitta Pour Over
 
@@ -65,7 +65,7 @@ At first glance, the Cowboy Joe is similar to the Clever Coffee Dripper and the 
 
 *The Clever Coffee Dripper (L) and the Cowboy Joe Coffee Brewer (R).*
 
-The Cowboy Joe, like the Melitta, is dishwasher safe. Just use the top rack. The Clever is not. The Cowboy Joe and the Melitta do not have any parts that can go bad. Although it has not happened to my Clever, there are reports that the parts that initiate the seal with the Clever get stuck after a lot of use. As Chris Arnold pointed out in the [Clever Coffee Dripper Review](http://ineedcoffee.com/clever-coffee-dripper-review/), some mug sizes don’t work for the Clever. This is not an issue for the Cowboy Joe, as the coffee is released when the plug is removed from the drain hole and doesn’t require a seal mechanism to be engaged.
+The Cowboy Joe, like the Melitta, is dishwasher safe. Just use the top rack. The Clever is not. The Cowboy Joe and the Melitta do not have any parts that can go bad. Although it has not happened to my Clever, there are reports that the parts that initiate the seal with the Clever get stuck after a lot of use. As Chris Arnold pointed out in the [Clever Coffee Dripper Review](/clever-coffee-dripper-review/), some mug sizes don’t work for the Clever. This is not an issue for the Cowboy Joe, as the coffee is released when the plug is removed from the drain hole and doesn’t require a seal mechanism to be engaged.
 
 The Clever also has a lid to keep heat in during the brew. The Cowboy Joe doesn’t, but I’ve never once used the lid, so I don’t consider it a loss. However, if you were making coffee outdoors at a cold campsite, you might want to place something over the top during the 3-4 minute brew cycle to hold the heat in.
 
@@ -75,7 +75,7 @@ Which is best? That will depend on your needs. What is most important to you? Vo
 
 *Cowboy Joe Single Cup Direct Immersion Coffee Brewer*
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – Our collection of coffee brewing tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – Our collection of coffee brewing tutorials.
 
 [Cowboy Joe](https://www.cowboyjoe.com/) – Official site for the Cowboy Joe Coffee Brewer.
 

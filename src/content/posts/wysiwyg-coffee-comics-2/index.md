@@ -20,4 +20,4 @@ wordpressId: 553
 
 ![comic-parlez-vous-decaf](comic-parlez-vous-decaf.jpg)
 
-Previous: [WYSIWYG Coffee Comics #1](http://ineedcoffee.com/wysiwyg-coffee-comics-1/)
+Previous: [WYSIWYG Coffee Comics #1](/wysiwyg-coffee-comics-1/)

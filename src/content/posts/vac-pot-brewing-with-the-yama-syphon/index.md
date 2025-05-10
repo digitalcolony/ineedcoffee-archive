@@ -63,6 +63,6 @@ These filters, however, are also the main problem, as they are hard to come by w
 
 ### Resources
 
-[Vacuum Pot Brewing](http://ineedcoffee.com/vacuum-pot-brewing/) – Article by Ryan Jacobs that highlights different vac-pot brewers.
+[Vacuum Pot Brewing](/vacuum-pot-brewing/) – Article by Ryan Jacobs that highlights different vac-pot brewers.
 
-[The Coffee Siphon – The Simple Tutorial](http://ineedcoffee.com/the-coffee-siphon-the-simple-tutorial/) – A basic coffee siphon tutorial.
+[The Coffee Siphon – The Simple Tutorial](/the-coffee-siphon-the-simple-tutorial/) – A basic coffee siphon tutorial.

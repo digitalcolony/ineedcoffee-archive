@@ -46,10 +46,10 @@ These can also be made with Spanish brandy, but I prefer to stick with Irish cof
 
 ### Resources
 
-[11 Crazy Coffee Drinks You Won’t Find on a Starbucks Menu](http://ineedcoffee.com/11-crazy-coffee-drinks-you-wont-find-on-a-starbucks-menu/) – More coffee-based drink ideas.
+[11 Crazy Coffee Drinks You Won’t Find on a Starbucks Menu](/11-crazy-coffee-drinks-you-wont-find-on-a-starbucks-menu/) – More coffee-based drink ideas.
 
-[Spanish Coffee](http://ineedcoffee.com/spanish-coffee/) – A coffee drink that is made with rum and brandy.
+[Spanish Coffee](/spanish-coffee/) – A coffee drink that is made with rum and brandy.
 
-[The Coffee Martini](http://ineedcoffee.com/the-coffee-martini/) – Coffee-inspired cocktail recipes that use vodka.
+[The Coffee Martini](/the-coffee-martini/) – Coffee-inspired cocktail recipes that use vodka.
 
-*Photos by [Chris Arnold](http://ineedcoffee.com/by/chris-arnold/)*
+*Photos by [Chris Arnold](/by/chris-arnold/)*

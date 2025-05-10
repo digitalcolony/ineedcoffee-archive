@@ -42,7 +42,7 @@ _The Corretto roaster in action, with average roast times of 10 to 12 minutes._
 
 ### The Crocodile Dundee Connection
 
-My first roast was with a [heat gun](http://ineedcoffee.com/roasting-coffee-with-a-heat-gun-a-top-down-approach/) and a dog bowl. I quickly graduated to the [popcorn popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) and amassed a [menagerie of poppers and modified poppers](http://ineedcoffee.com/coffee-roasting-popcorn-poppers/) that lasted a couple of years. I was roasting up to ten batches of four ounces each (40 ounces) per session about every two or three weeks. I roasted so many times I finally started to understand the roasting process. After two years, roasting so many batches in about two or three hours of sessions gave me an insight into the nuances of roasting but exhausted my desire to roast.
+My first roast was with a [heat gun](/roasting-coffee-with-a-heat-gun-a-top-down-approach/) and a dog bowl. I quickly graduated to the [popcorn popper](/roasting-coffee-in-a-popcorn-popper/) and amassed a [menagerie of poppers and modified poppers](/coffee-roasting-popcorn-poppers/) that lasted a couple of years. I was roasting up to ten batches of four ounces each (40 ounces) per session about every two or three weeks. I roasted so many times I finally started to understand the roasting process. After two years, roasting so many batches in about two or three hours of sessions gave me an insight into the nuances of roasting but exhausted my desire to roast.
 
 I had to have a shorter process of roasting more beans at a time and in less time. I looked around and settled on the “Corretto” style of roasting, which was promoted and invented by a group of Coffee Snobs in Australia.
 
@@ -83,3 +83,4 @@ Best of Luck and Good Roasting ….SH
 [A Fireside Chat](https://www.youtube.com/watch?v=ofFAdnhEu7c) – Trout Doc YouTube channel that includes photos of both Corretto and popper roasting.
 
 <a href="/files/Green-Bean-Loggers-both-versions.zip" download>_The Green Bean Coffee Logger_ and the _New Minute Green Bean Coffee Logger_</a> – Excel (XLSM) file in Zipped format.
+

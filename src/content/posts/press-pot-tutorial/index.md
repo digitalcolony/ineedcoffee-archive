@@ -45,7 +45,7 @@ The French Press uses a coarse grind. See the photo below.
 
 ![French Press coffee Grind by US nickel](2-french-press-grind.jpg)
 
-*From the [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/)*
+*From the [Coffee Grind Chart](/coffee-grind-chart/)*
 
 ### #3 Add Coffee and Water to French Press
 
@@ -124,12 +124,12 @@ I feel your pain. Boil only the amount needed for your press pot—don’t compl
 
 My guess is you have one of those $20 blade grinders. Some of the coffee is coarsely ground, and some are fine ground. Getting an excellent grind from a blade grinder takes practice. Buying a burr grinder is ultimately a better solution.
 
-*This discussion has been expanded into a full article: [Troubleshooting French Press Coffee](http://ineedcoffee.com/troubleshooting-french-press-coffee/).*
+*This discussion has been expanded into a full article: [Troubleshooting French Press Coffee](/troubleshooting-french-press-coffee/).*
 
 ### Cleaning
 
-The stainless steel French press is easy to disassemble and clean. Although it’s unnecessary to disassemble before cleaning, every so often, you would want to give your press pot a complete cleaning. For more instructions, read [Keeping Your French Press Clean](http://ineedcoffee.com/keeping-your-french-press-clean/). For day-to-day cleaning, I give my brewer a quick rinse. Occasionally, I will disassemble the parts and do a more thorough cleaning.
+The stainless steel French press is easy to disassemble and clean. Although it’s unnecessary to disassemble before cleaning, every so often, you would want to give your press pot a complete cleaning. For more instructions, read [Keeping Your French Press Clean](/keeping-your-french-press-clean/). For day-to-day cleaning, I give my brewer a quick rinse. Occasionally, I will disassemble the parts and do a more thorough cleaning.
 
 ### Final Thoughts
 
-Once you’ve dialed in the grind and the dosage, the French Press is a straightforward way to make great coffee. if you don’t have a French Press already, check out [Buying a French Press – Picking the Right One](http://ineedcoffee.com/buying-a-french-press-picking-the-right-one/). You can also use the French Press to make [Cold Brew Coffee](http://ineedcoffee.com/making-cold-brew-coffee-french-press/).
+Once you’ve dialed in the grind and the dosage, the French Press is a straightforward way to make great coffee. if you don’t have a French Press already, check out [Buying a French Press – Picking the Right One](/buying-a-french-press-picking-the-right-one/). You can also use the French Press to make [Cold Brew Coffee](/making-cold-brew-coffee-french-press/).

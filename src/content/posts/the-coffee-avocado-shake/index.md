@@ -56,10 +56,10 @@ This drink is super easy and quick to make. I preferred brewed coffee over espre
 
 ### Resources
 
-[The Alkani Cold Brew Coffee Maker](http://ineedcoffee.com/alkani-cold-brew-coffee-maker-review-tutorial/)—Review and Tutorial—INeedCoffee tutorial on how to make cold brew coffee, which would work great for the avocado coffee shake recipe.
+[The Alkani Cold Brew Coffee Maker](/alkani-cold-brew-coffee-maker-review-tutorial/)—Review and Tutorial—INeedCoffee tutorial on how to make cold brew coffee, which would work great for the avocado coffee shake recipe.
 
-[How to Brew Vietnamese Iced Coffee](http://ineedcoffee.com/brew-vietnamese-coffee/) – The non-avocado version of this recipe.
+[How to Brew Vietnamese Iced Coffee](/brew-vietnamese-coffee/) – The non-avocado version of this recipe.
 
-[Homemade Coffee Ice Cream Recipe](http://ineedcoffee.com/homemade-coffee-ice-cream-recipe/) – Here is our tutorial if you decide to use ice cream.
+[Homemade Coffee Ice Cream Recipe](/homemade-coffee-ice-cream-recipe/) – Here is our tutorial if you decide to use ice cream.
 
 *Title photo by Nur Afni Setiyaningrum.*

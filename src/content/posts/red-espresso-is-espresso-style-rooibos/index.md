@@ -53,7 +53,7 @@ I am a fan of rooibos and espresso. Now, I am a fan of Red Espresso. It brings t
 
 ### Resources
 
-[A Coffee Lover’s Guide to Tea](http://ineedcoffee.com/a-coffee-lovers-guide-to-tea/) – INeedCoffee article on tea written for coffee fans.
+[A Coffee Lover’s Guide to Tea](/a-coffee-lovers-guide-to-tea/) – INeedCoffee article on tea written for coffee fans.
 
 [Coffee a top source of healthy antioxidants](https://web.archive.org/web/20150706011614/http://www.nbcnews.com/id/9105892/) – MSNBC article.
 

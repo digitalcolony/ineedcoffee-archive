@@ -20,8 +20,8 @@ wordpressId: 54121
 
 ![No Sleep](coffee-comics-No-Sleep.jpg)
 
-Previous: [Inanimate Objects Comics #69](http://ineedcoffee.com/inanimate-objects-comics-69/)
+Previous: [Inanimate Objects Comics #69](/inanimate-objects-comics-69/)
 
-Next: [Inanimate Objects Comics #71](http://ineedcoffee.com/inanimate-objects-comics-71/)
+Next: [Inanimate Objects Comics #71](/inanimate-objects-comics-71/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

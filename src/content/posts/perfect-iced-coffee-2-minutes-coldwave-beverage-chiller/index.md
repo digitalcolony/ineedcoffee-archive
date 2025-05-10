@@ -48,7 +48,7 @@ You can store the pitcher in the freezer, but the makers of Coldwave state this 
 
 ### #2 Brew Coffee However You Like
 
-This is the best part of this brewer. You can make coffee however you like and then make it iced. I got excellent results with both the [AeroPress](http://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/) and the [Chemex](http://ineedcoffee.com/chemex-coffee-brewing-history-and-tutorial/). When the coffee has finished brewing, remove the Coldwave from the freezer.
+This is the best part of this brewer. You can make coffee however you like and then make it iced. I got excellent results with both the [AeroPress](/upside-aeropress-coffee-brewing-tutorial/) and the [Chemex](/chemex-coffee-brewing-history-and-tutorial/). When the coffee has finished brewing, remove the Coldwave from the freezer.
 
 ![open coldwave ](coldwave-open.jpg)
 
@@ -86,6 +86,6 @@ If you have enough space in your freezer and love iced coffee, the Coldwave is a
 
 ### Resources
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – A collection of coffee brewing tutorials here on INeedCoffee.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – A collection of coffee brewing tutorials here on INeedCoffee.
 
 *Disclosure: INeedCoffee received a Coldwave at no cost, which did not affect its review.*

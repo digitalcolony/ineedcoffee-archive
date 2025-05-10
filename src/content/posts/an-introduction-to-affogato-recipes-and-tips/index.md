@@ -47,6 +47,6 @@ Affogato al caffe is a dessert very common in Italy, but outside of the country,
 
 ### Resources
 
-[Making Lattes Without an Espresso Machine](http://ineedcoffee.com/making-lattes-without-espresso-machine/) – If you don’t have an espresso machine, you can still make affogatos. See this article for ideas.
+[Making Lattes Without an Espresso Machine](/making-lattes-without-espresso-machine/) – If you don’t have an espresso machine, you can still make affogatos. See this article for ideas.
 
-[Homemade Coffee Ice Cream Recipe](http://ineedcoffee.com/homemade-coffee-ice-cream-recipe/) – How to make coffee ice cream at home.
+[Homemade Coffee Ice Cream Recipe](/homemade-coffee-ice-cream-recipe/) – How to make coffee ice cream at home.

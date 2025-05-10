@@ -62,6 +62,6 @@ Hario pour-overs don’t deserve to be labeled difficult. The right equipment ma
 
 ### Resources
 
-[How Make V60 Coffee](http://ineedcoffee.com/how-to-make-v60-coffee/) – INeedCoffee tutorial.
+[How Make V60 Coffee](/how-to-make-v60-coffee/) – INeedCoffee tutorial.
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – INeedCoffee’s collection of coffee brewing tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – INeedCoffee’s collection of coffee brewing tutorials.

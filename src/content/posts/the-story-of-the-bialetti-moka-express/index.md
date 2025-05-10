@@ -132,7 +132,7 @@ Bialetti has also added new lines of Moka Pots using stainless steel and designs
 
 ### Resources
 
-[Stovetop Espresso Brewing Tutorial](http://ineedcoffee.com/stovetop-espresso-brewing-tutorial/) – INeedCoffee coffee brewing tutorial.
+[Stovetop Espresso Brewing Tutorial](/stovetop-espresso-brewing-tutorial/) – INeedCoffee coffee brewing tutorial.
 
 [Leonetto Cappiello](https://en.wikipedia.org/wiki/Leonetto_Cappiello) – Wikipedia page on the creator of the 1922 poster *La Victoria Aduino*.
 

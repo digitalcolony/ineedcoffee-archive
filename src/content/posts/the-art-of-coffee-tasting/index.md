@@ -41,8 +41,8 @@ Now, do you know what your coffee tastes like? I am still not sure. However, it 
 
 ### Resources
 
-[Coffee Cupping: A Basic Introduction](http://ineedcoffee.com/coffee-cupping-a-basic-introduction/) – Article by Steve Leighton
+[Coffee Cupping: A Basic Introduction](/coffee-cupping-a-basic-introduction/) – Article by Steve Leighton
 
-[Cupping: The Elements of Quality Coffee](http://ineedcoffee.com/cupping-the-elements-of-quality-coffee/) – by Christopher Schaefer
+[Cupping: The Elements of Quality Coffee](/cupping-the-elements-of-quality-coffee/) – by Christopher Schaefer
 
-[Coffee and Tea Tasting Notes For Beginners](http://ineedcoffee.com/coffee-and-tea-tasting-notes-for-beginners/) – An alternate approach to coffee tasting.
+[Coffee and Tea Tasting Notes For Beginners](/coffee-and-tea-tasting-notes-for-beginners/) – An alternate approach to coffee tasting.

@@ -40,7 +40,7 @@ Good for you.
 
 ### Can you make your own pods?
 
-In the article, I did a quick hack using scissors and my own home-roasted coffee. It was just a quick hack. For a more detailed step-by-step tutorial, read [Make Your Own Coffee Pods](http://ineedcoffee.com/make-your-own-coffee-pods/) by John Wolf.
+In the article, I did a quick hack using scissors and my own home-roasted coffee. It was just a quick hack. For a more detailed step-by-step tutorial, read [Make Your Own Coffee Pods](/make-your-own-coffee-pods/) by John Wolf.
 
 ### Did the Senseo produce foam as it shows in the commercial?
 

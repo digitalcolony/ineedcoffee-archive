@@ -41,6 +41,6 @@ There are other, even easier ways including a 12-inch box fan blowing downward w
 
 ### Resources
 
-[Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) – Tutorial on using a Westbend popcorn popper to home roast coffee.
+[Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/) – Tutorial on using a Westbend popcorn popper to home roast coffee.
 
-[Building a Chaff Collector For Popper Roasting](http://ineedcoffee.com/building-a-chaff-collector-for-popper-roasting/) – For those roasting indoors that need a way to collect the chaff that blows off during roasting.
+[Building a Chaff Collector For Popper Roasting](/building-a-chaff-collector-for-popper-roasting/) – For those roasting indoors that need a way to collect the chaff that blows off during roasting.

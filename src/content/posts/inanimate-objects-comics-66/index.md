@@ -20,8 +20,8 @@ wordpressId: 8523
 
 ![Coffee comic - you make crappy coffee](you-make-crappy-coffee.jpg)
 
-Previous: [Inanimate Objects Comics #65](http://ineedcoffee.com/inanimate-objects-comics-65/)
+Previous: [Inanimate Objects Comics #65](/inanimate-objects-comics-65/)
 
-Next: [Inanimate Objects Comics #67](http://ineedcoffee.com/inanimate-objects-comics-67/)
+Next: [Inanimate Objects Comics #67](/inanimate-objects-comics-67/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

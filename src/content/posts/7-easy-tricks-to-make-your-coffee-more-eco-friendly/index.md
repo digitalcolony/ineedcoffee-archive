@@ -23,7 +23,7 @@ So yes, coffee does do a number on the environment, but that doesn’t mean you 
 
 ### #1 Just Drink Less
 
-This isn’t the easiest thing for most people, but cutting at least some coffee out of your diet is bound to help the environment (not to mention keep your [teeth whiter](http://ineedcoffee.com/no-coffee-or-tea-for-at-least-2-weeks/)). If this isn’t possible, don’t fret, there are plenty of good tips below.
+This isn’t the easiest thing for most people, but cutting at least some coffee out of your diet is bound to help the environment (not to mention keep your [teeth whiter](/no-coffee-or-tea-for-at-least-2-weeks/)). If this isn’t possible, don’t fret, there are plenty of good tips below.
 
 ### #2 Buy Local Coffee
 
@@ -57,10 +57,10 @@ So here are seven easy ways to make your coffee habit less harmful to the enviro
 
 ### Resources
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – Our collection of coffee brewing tutorials has many ideas for brewing coffee at home.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – Our collection of coffee brewing tutorials has many ideas for brewing coffee at home.
 
-[5 Ways to Make Your Coffee Habit More Sustainable](http://ineedcoffee.com/5-ways-to-make-your-coffee-habit-more-sustainable/) – INeedCoffee article.
+[5 Ways to Make Your Coffee Habit More Sustainable](/5-ways-to-make-your-coffee-habit-more-sustainable/) – INeedCoffee article.
 
-[Top 3 Ways to Reuse Your Coffee Grounds](http://ineedcoffee.com/top-3-ways-to-re-use-your-coffee-grounds/) – INeedCoffee article.
+[Top 3 Ways to Reuse Your Coffee Grounds](/top-3-ways-to-re-use-your-coffee-grounds/) – INeedCoffee article.
 
 *Title image by [Matthew Henry](https://unsplash.com/@matthewhenry)*

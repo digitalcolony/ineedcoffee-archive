@@ -84,7 +84,7 @@ The brew time of both the Bonavita and Technivorm is right around 6 minutes for 
 
 ### Taste
 
-Because I no longer own the Technivorm, I could not do a side-by-side taste test, but you don’t forget years of drinking coffee from a single machine too easily. Both produced excellently and dare I say, comparable cups. The only thing you need to do is [dial in the grind](http://ineedcoffee.com/coffee-grind-chart/ "Coffee Grind Chart"); everything else is common sense: good water, freshly roasted beans, and a pre-heated carafe.
+Because I no longer own the Technivorm, I could not do a side-by-side taste test, but you don’t forget years of drinking coffee from a single machine too easily. Both produced excellently and dare I say, comparable cups. The only thing you need to do is [dial in the grind](/coffee-grind-chart/ "Coffee Grind Chart"); everything else is common sense: good water, freshly roasted beans, and a pre-heated carafe.
 
 ### Misc
 

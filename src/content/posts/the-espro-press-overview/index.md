@@ -27,7 +27,7 @@ Although I like the flavor of French Press coffee, I generally avoid it because 
 
 ![Espro Press](espro-press.jpg)
 
-I followed the recommendations of Espro to [grind coarse](http://ineedcoffee.com/coffee-grind-chart/), and I chose 205F degree water. I went with stirring halfway through and about 4-minute extraction.
+I followed the recommendations of Espro to [grind coarse](/coffee-grind-chart/), and I chose 205F degree water. I went with stirring halfway through and about 4-minute extraction.
 
 The resulting cup was on par with the Bodum in terms of taste and oil content. And sure enough, the amount of “fines” or mud at the bottom was about half that of the Bodum; but there was still a fair bit of mud. And though I tried a couple more times using their troubleshooting tips, it didn’t really change this aspect much. Still, half the mud is a good thing.
 
@@ -61,6 +61,6 @@ The Espro is an ample performer and comes in an 18-ounce size and a 32-ounce siz
 
 ### Resources
 
-[French Press Tutorial](http://ineedcoffee.com/press-pot-tutorial/) – INeedCoffee tutorial on French press coffee.
+[French Press Tutorial](/press-pot-tutorial/) – INeedCoffee tutorial on French press coffee.
 
 *Disclosure: INeedCoffee was sent this product at no cost, which did not affect its review.*

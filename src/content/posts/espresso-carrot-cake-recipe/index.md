@@ -84,4 +84,4 @@ Let the cake cool down for at least ten minutes after baking. Once the cake has 
 
 ### Resources
 
-[Making Lattes Without an Espresso Machine](http://ineedcoffee.com/making-lattes-without-espresso-machine/) – Use your AeroPress to make an “espresso-like” shot.
+[Making Lattes Without an Espresso Machine](/making-lattes-without-espresso-machine/) – Use your AeroPress to make an “espresso-like” shot.

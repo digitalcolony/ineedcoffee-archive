@@ -84,7 +84,7 @@ After enjoying that cup of coffee, Jesse took me over to the bag that the coffee
 
 Roasting is an art. Just as there are so many different types of coffee, there are many different styles of coffee roasting – and I believe the personality of the roaster can come out in their coffee. Jesse takes a very artistically crafted approach to his coffee – with great intent and care – and that shows in the end.
 
-*This article first appeared in [Extracted Magazine](http://ineedcoffee.com/go/coffeeloversmagazine/).*
+*This article first appeared in [Extracted Magazine](/go/coffeeloversmagazine/).*
 
 ### Resources
 

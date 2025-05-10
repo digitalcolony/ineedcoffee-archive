@@ -14,7 +14,7 @@ wordpressId: 530
 
 Every activity – especially those concerning your health – has risks and coffee enemas are not free from risks. However, many of us are willing to assume risks in our lives because of the benefits. For example, when skiing, we run the risk of severe injuries but are willing to ski anyway because, throughout the entire process, we do everything possible to minimize risk. Then, when we are as safe as we can possibly be, we are able to reap the benefits of an activity in a relatively safe manner. Coffee enemas are no different.
 
-Let’s examine a list of potential risks as stated by Tom Mossey in the article [Top 10 Dangers of the Coffee Enema](http://ineedcoffee.com/coffee-enema-benefits-vs-dangers/). These are all valid concerns and throughout the process of using coffee enemas, we must continually try to avoid danger and maximize benefits. Let me speak to each concern in detail.
+Let’s examine a list of potential risks as stated by Tom Mossey in the article [Top 10 Dangers of the Coffee Enema](/coffee-enema-benefits-vs-dangers/). These are all valid concerns and throughout the process of using coffee enemas, we must continually try to avoid danger and maximize benefits. Let me speak to each concern in detail.
 
 > *1 – Adding ingredients to the enema recipe (such as coffee, green tea, vinegar, baking soda, bath/Epsom salt, or minerals) is not proven to do anything superior to the effects of plain saline.*
 
@@ -66,8 +66,8 @@ I appreciate Mr. Mossey for raising these concerns. Coffee enemas are not someth
 
 ### Resources
 
-[Top 10 Dangers of the Coffee Enema](http://ineedcoffee.com/top-10-dangers-of-the-coffee-enema/) – Article by Tom Mossey outlining potential risks of the coffee enema.
+[Top 10 Dangers of the Coffee Enema](/top-10-dangers-of-the-coffee-enema/) – Article by Tom Mossey outlining potential risks of the coffee enema.
 
-[How to Perform a Coffee Enema](http://ineedcoffee.com/coffee-enema/) – An overview of the coffee enema topic along with instructions.
+[How to Perform a Coffee Enema](/coffee-enema/) – An overview of the coffee enema topic along with instructions.
 
 *Photo by [Anastasia Zhenina](https://unsplash.com/@disguise_truth)*

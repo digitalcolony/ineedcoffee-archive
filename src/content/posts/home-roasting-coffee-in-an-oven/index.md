@@ -105,8 +105,8 @@ Once the beans are in the metal colander, shake them gently. I use two metal col
 
 How much you enjoy oven-roasting coffee will depend on your environment and how picky you are about your coffee flavors. Kenneth Davids, the author of *Home Coffee Roasting: Romance & Revival*, states that oven roasting isn’t best for very light or dark roasts.
 
-Ovens tend not to roast the beans as evenly as other methods. When I roasted coffee from a small apartment using an electric oven, my coffee tasted flat, and my apartment was filled with smoke for 30 minutes. [My cat](http://ineedcoffee.com/my-cat-kato-vs-the-kona-coffee-plant/) was not amused. Then, when I tried using a new gas oven in a larger kitchen, my results were much better. Will it work for you? Give it a try and find out.
+Ovens tend not to roast the beans as evenly as other methods. When I roasted coffee from a small apartment using an electric oven, my coffee tasted flat, and my apartment was filled with smoke for 30 minutes. [My cat](/my-cat-kato-vs-the-kona-coffee-plant/) was not amused. Then, when I tried using a new gas oven in a larger kitchen, my results were much better. Will it work for you? Give it a try and find out.
 
 ### Resources
 
-[Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) – A better way to roast coffee at home is with an old popcorn popper.
+[Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/) – A better way to roast coffee at home is with an old popcorn popper.

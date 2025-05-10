@@ -14,8 +14,8 @@ wordpressId: 601
 
 ![merry christmas](inanimate-objects-merry-christmas1.jpg)
 
-Previous: [Inanimate Objects Comics #40](http://ineedcoffee.com/inanimate-objects-comics-40/)
+Previous: [Inanimate Objects Comics #40](/inanimate-objects-comics-40/)
 
-Next: [Inanimate Objects Comics #42](http://ineedcoffee.com/inanimate-objects-comics-42/)
+Next: [Inanimate Objects Comics #42](/inanimate-objects-comics-42/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

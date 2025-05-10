@@ -14,8 +14,8 @@ wordpressId: 541
 
 ![](hot-juice-comic1.jpg) ![](party-time-comic.jpg) ![](really-really-good-comic.jpg) ![](wake-aid-comic.jpg)
 
-Previous: [Inanimate Objects Comics #32](http://ineedcoffee.com/inanimate-objects-comics-32/)
+Previous: [Inanimate Objects Comics #32](/inanimate-objects-comics-32/)
 
-Next: [Inanimate Objects Comics #34](http://ineedcoffee.com/inanimate-objects-comics-34/)
+Next: [Inanimate Objects Comics #34](/inanimate-objects-comics-34/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

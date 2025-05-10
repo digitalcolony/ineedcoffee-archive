@@ -148,7 +148,7 @@ For those who love cold brew coffee but don’t like to wait a day, this might b
 
 *Gourmia GCM6800 Automatic Cold Brew Coffee Maker*
 
-[Cold Brew Coffee is Not Rocket Science](http://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/) – An overview of the basics of cold brew coffee.
+[Cold Brew Coffee is Not Rocket Science](/cold-brew-coffee-is-not-rocket-science/) – An overview of the basics of cold brew coffee.
 
 *Disclosure: This post was sponsored. INeedCoffee received equipment and compensation for this article.  
 *

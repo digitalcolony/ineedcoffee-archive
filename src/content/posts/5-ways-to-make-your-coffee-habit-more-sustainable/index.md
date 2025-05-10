@@ -22,11 +22,11 @@ Brew with a thermal coffee maker instead. Thermal carafes keep coffee warm for h
 
 ### #2 Try cold brew
 
-Cold brewing coffee could significantly cut down your energy usage. Devices such as the [Toddy](http://ineedcoffee.com/cold-brew-coffee-with-the-toddy-coffee-maker/) or even [coffee grounds mixed with water in a bottle](http://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/), you can substitute energy with time. Traditional coffee makers use heat energy to quickly brew coffee. With cold brew, you must wait 12-24 hours, depending on the method, to enjoy your coffee. You can brew at room temperature or in a refrigerator. Heating up the coffee in a microwave uses very little energy, and since cold brew requires a relatively coarse grind, electric grinder owners will use less energy (hand grinding is the way to go)
+Cold brewing coffee could significantly cut down your energy usage. Devices such as the [Toddy](/cold-brew-coffee-with-the-toddy-coffee-maker/) or even [coffee grounds mixed with water in a bottle](/cold-brew-coffee-is-not-rocket-science/), you can substitute energy with time. Traditional coffee makers use heat energy to quickly brew coffee. With cold brew, you must wait 12-24 hours, depending on the method, to enjoy your coffee. You can brew at room temperature or in a refrigerator. Heating up the coffee in a microwave uses very little energy, and since cold brew requires a relatively coarse grind, electric grinder owners will use less energy (hand grinding is the way to go)
 
 ![cold brew coffee - coffee sock - close lid](close-lid-jar.jpg)
 
-*From the INeedCoffee tutorial, [Cold Brew Coffee is Not Rocket Science](http://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/).*
+*From the INeedCoffee tutorial, [Cold Brew Coffee is Not Rocket Science](/cold-brew-coffee-is-not-rocket-science/).*
 
 ### #3 Don’t forget about the birds!
 
@@ -63,7 +63,7 @@ When this article was first published, Keurig K-Cup brewers did not have fully c
 
 ### Resources
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – INeedCoffee guide to coffee brewing methods that are more environmentally friendly.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – INeedCoffee guide to coffee brewing methods that are more environmentally friendly.
 
 [Don’t breathe. And unplug that coffee pot please.](https://www.computerworld.com/article/1499538/don-t-breathe-and-unplug-that-coffee-pot-please.html) – Computer World
 

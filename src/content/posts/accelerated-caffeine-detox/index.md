@@ -53,6 +53,6 @@ Using the ACCELERATED DETOX, one can bring coffee consumption back to a level wh
 
 ### Resources
 
-[Pre-Surgery Caffeine Detox](http://ineedcoffee.com/pre-surgery-caffeine-detox/) – INeedCoffee article.
+[Pre-Surgery Caffeine Detox](/pre-surgery-caffeine-detox/) – INeedCoffee article.
 
-[The Decaf Diaries](http://ineedcoffee.com/the-decaf-diaries/) – An essay on moving to decaf coffee.
+[The Decaf Diaries](/the-decaf-diaries/) – An essay on moving to decaf coffee.

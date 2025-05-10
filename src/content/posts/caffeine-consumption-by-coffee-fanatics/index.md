@@ -44,7 +44,7 @@ Paul runs the [CaffiNation](https://www.caffination.com/) website. He drinks cof
 
 **Myron Joshua, Israel**
 
-Myron has [written a few articles](http://ineedcoffee.com/by/myron-joshua/) on coffee history and he prefers drinking French Press coffee. He drinks it all day long and often makes coffee for his co-workers.
+Myron has [written a few articles](/by/myron-joshua/) on coffee history and he prefers drinking French Press coffee. He drinks it all day long and often makes coffee for his co-workers.
 
 -   **7:00 AM** – French Press (7-10 grams)
 -   **9:30 AM** – French Press
@@ -55,7 +55,7 @@ Myron has [written a few articles](http://ineedcoffee.com/by/myron-joshua/) on c
 
 **Chris Arnold, San Diego**
 
-Home roaster [Chris Arnold](http://ineedcoffee.com/by/chris-arnold/) has recently started writing country guides for the coffee-growing regions. He actually drinks more coffee on weekend. Below is Chris’s typical weekday caffeine journal.
+Home roaster [Chris Arnold](/by/chris-arnold/) has recently started writing country guides for the coffee-growing regions. He actually drinks more coffee on weekend. Below is Chris’s typical weekday caffeine journal.
 
 -   **9:00 AM** – Double shot of espresso at home
 -   **10:00 AM** – Cup of Drip Coffee at work
@@ -67,7 +67,7 @@ Home roaster [Chris Arnold](http://ineedcoffee.com/by/chris-arnold/) has recentl
 
 **Ryan Jacobs, Columbus**
 
-Longtime contributor [Ryan Jacobs](http://ineedcoffee.com/by/ryan-jacobs/) consumes most of his coffee in the morning.
+Longtime contributor [Ryan Jacobs](/by/ryan-jacobs/) consumes most of his coffee in the morning.
 
 -   **6:30 AM** – 2 mugs of drip coffee or two double espressos
 -   **8:00 AM** – 1 mug of drip coffee
@@ -75,7 +75,7 @@ Longtime contributor [Ryan Jacobs](http://ineedcoffee.com/by/ryan-jacobs/) consu
 
 **Alex Scofield, Cape Cod**
 
-Frequent contributor [Alex Scofield](http://ineedcoffee.com/by/alex-scofield/) is a fan of the giant mug.
+Frequent contributor [Alex Scofield](/by/alex-scofield/) is a fan of the giant mug.
 
 -   **7:00 AM** – 2 giant mugs of drip-pot coffee (each mug approx. 4 “cups” as listed on the drip pot)
 -   **11:00 AM** – 2 large mugs of French Press coffee at the office (each mug approx. 3 “cups”)

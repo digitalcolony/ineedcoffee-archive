@@ -16,7 +16,7 @@ wordpressId: 6725
 
 A manual coffee grinder (aka coffee mill or hand grinder) has a few advantages over its electric-powered brethren: lower cost, portability, and, in some cases, even consistency. They can be great for those on a budget, travelers, campers, or even those looking to lower their electricity bill a few watts at a time.
 
-We will be taking a look at three manual ceramic burr coffee grinders from Thirst Friend, Ritual, and Bold Bean Architects. We will compare the ability to [grind different levels](http://ineedcoffee.com/coffee-grind-chart/): fine for espresso, medium for drip, and coarse for French press, as well as things like ease of use, ease of adjustment, size, and build quality.
+We will be taking a look at three manual ceramic burr coffee grinders from Thirst Friend, Ritual, and Bold Bean Architects. We will compare the ability to [grind different levels](/coffee-grind-chart/): fine for espresso, medium for drip, and coarse for French press, as well as things like ease of use, ease of adjustment, size, and build quality.
 
 ### Thirst Friend
 

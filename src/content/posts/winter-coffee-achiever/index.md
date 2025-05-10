@@ -62,6 +62,6 @@ Winter’s somewhat Warholian hobby has brought him a measure of fame in recent 
 
 Capable of downing dozens of cups of coffee a day, in near-perpetual motion, and devoted to accomplishing an unprecedented feat, Winter is highly deserving of INeedCoffee’s recognition as a true Coffee Achiever.
 
-**UPDATE:** [Winter: Coffee Achiever 2.0](http://ineedcoffee.com/winter-coffee-achiever-2-0/)
+**UPDATE:** [Winter: Coffee Achiever 2.0](/winter-coffee-achiever-2-0/)
 
 **UPDATE March 2021:** The Starbucks Everywhere FAQ is no longer online.

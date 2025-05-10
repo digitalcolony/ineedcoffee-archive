@@ -12,9 +12,9 @@ updatedAt: "2022-05-25T10:59:32"
 wordpressId: 285
 ---
 
-**Background: [Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/)**
+**Background: [Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/)**
 
-I picked up a 1500 Watt West Bend Poppery on eBay a year ago to roast my own coffee in the backyard (roasting generates tons of chaff and smoke, so if you go ghetto with a popcorn popper, a backyard is a must.) I’m largely pleased with it. The cooler months require a [little extra insulation](http://ineedcoffee.com/cold-weather-coffee-roasting/), by way of a giant box enclosing the whole assembly, in order to reach proper temperature.
+I picked up a 1500 Watt West Bend Poppery on eBay a year ago to roast my own coffee in the backyard (roasting generates tons of chaff and smoke, so if you go ghetto with a popcorn popper, a backyard is a must.) I’m largely pleased with it. The cooler months require a [little extra insulation](/cold-weather-coffee-roasting/), by way of a giant box enclosing the whole assembly, in order to reach proper temperature.
 
 The hopper/chamber was designed to eject the popcorn into a bowl once it became light enough, which is sort of problematic with coffee. An unmodified Poppery will lose maybe 5-10% of the beans over the course of the roast when roasting 4 ounces at a time. Sitting next to the roaster and quickly tossing ejectees back into the chamber became tiresome, so I cut the top and bottom off a soup can and crammed it in to act as a chimney. Bean-overboard problem fixed, but the friction fit can be ugly and always shifting around.
 

@@ -92,6 +92,6 @@ For me, the blend is the most important part of good espresso. I can get around 
 
 ### Resources
 
-[Coffee Blending For the Home Roaster](http://ineedcoffee.com/coffee-blending-for-the-home-roaster/) – INeedCoffee article
+[Coffee Blending For the Home Roaster](/coffee-blending-for-the-home-roaster/) – INeedCoffee article
 
 *This article originally appeared on [Too Much Coffee](http://www.toomuchcoffee.com "A meeting place for European coffee enthusiasts"). This article and its photos are Copyright 2004 Too Much Coffee and are reproduced with permission.*

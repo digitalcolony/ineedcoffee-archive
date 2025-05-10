@@ -16,6 +16,6 @@ wordpressId: 6051
 
 ### Resources
 
-[How to Brew Vietnamese Iced Coffee](http://ineedcoffee.com/brew-vietnamese-coffee/) – INeedCoffee tutorial.
+[How to Brew Vietnamese Iced Coffee](/brew-vietnamese-coffee/) – INeedCoffee tutorial.
 
-[More Inanimate Objects](http://ineedcoffee.com/by/todd-zapoli/) – By Todd Zapoli
+[More Inanimate Objects](/by/todd-zapoli/) – By Todd Zapoli

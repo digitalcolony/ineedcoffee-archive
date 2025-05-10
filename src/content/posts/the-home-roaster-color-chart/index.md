@@ -16,7 +16,7 @@ wordpressId: 60
 
 Professional coffee roasters often use a color chart by the *Speciality Coffee Association of America (S.C.A.A.)* to define their roast color levels. The “SCAA/Agtron Roast Color Classification System” chart includes high-resolution color tiles. The kit runs for $290 and can be purchased on their website. Most home roasters have better things to spend their money on, namely more coffee beans. But, like professional roasters, they also need to be able to articulate roast color levels to other roasters or for their roasting logs.
 
-In the article [Coffee Roasts: Notes from a Non-Roaster](http://ineedcoffee.com/coffee-roasts-notes-from-a-non-roaster/), we learned using common terms can be problematic. What is dark to one person may be medium to another. What we need is a common color language that we can speak. And that is the motivation for this page. It is to help home coffee roasters and coffee drinkers communicate roast-level preferences based on photos.
+In the article [Coffee Roasts: Notes from a Non-Roaster](/coffee-roasts-notes-from-a-non-roaster/), we learned using common terms can be problematic. What is dark to one person may be medium to another. What we need is a common color language that we can speak. And that is the motivation for this page. It is to help home coffee roasters and coffee drinkers communicate roast-level preferences based on photos.
 
 ### Shortcomings
 
@@ -68,6 +68,6 @@ When I first began home roasting in 1998, I pretty much roasted everything to Le
 
 ### References
 
-[Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) – Tutorial on home roasting coffee using a popcorn popper.
+[Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/) – Tutorial on home roasting coffee using a popcorn popper.
 
-[Coffee Roasts: Notes from a Non-Roaster](http://ineedcoffee.com/coffee-roasts-notes-from-a-non-roaster/) – A follow-up article on the language of discussing coffee roast colors.
+[Coffee Roasts: Notes from a Non-Roaster](/coffee-roasts-notes-from-a-non-roaster/) – A follow-up article on the language of discussing coffee roast colors.

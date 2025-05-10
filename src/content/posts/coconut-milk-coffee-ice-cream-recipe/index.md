@@ -42,6 +42,6 @@ Here is a recipe for coconut milk coffee ice cream. I find that espresso’s int
 
 ### Resources
 
-[Homemade Coffee Ice Cream Recipe](http://ineedcoffee.com/homemade-coffee-ice-cream-recipe/) – Our milk-based coffee ice cream recipe.
+[Homemade Coffee Ice Cream Recipe](/homemade-coffee-ice-cream-recipe/) – Our milk-based coffee ice cream recipe.
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – The INeedCoffee guide is a collection of coffee brewing tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – The INeedCoffee guide is a collection of coffee brewing tutorials.

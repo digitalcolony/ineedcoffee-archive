@@ -28,11 +28,11 @@ wordpressId: 399
 
 7\. You contend that Elvis’ favorite snack was actually a fried peanut butter and banana sandwich, 3 Quaaludes, and a non-fat, 2 pump, extra shot, caramel macchiato chaser.
 
-8\. Your favorite [BBQ rub includes ground coffee](http://ineedcoffee.com/coffee-and-barbecue/), and you insist on using it on that $52 hunk of Filet Mignon, despite your guests telling you that it tastes like crap.
+8\. Your favorite [BBQ rub includes ground coffee](/coffee-and-barbecue/), and you insist on using it on that $52 hunk of Filet Mignon, despite your guests telling you that it tastes like crap.
 
-9\. You spent $6300 on a new DSLR Digital Camera setup simply to take close-up photos of coffee beans and [naked portafilter](http://ineedcoffee.com/the-naked-portafilter/) shots. Your current girlfriend is considering a palimony suit.
+9\. You spent $6300 on a new DSLR Digital Camera setup simply to take close-up photos of coffee beans and [naked portafilter](/the-naked-portafilter/) shots. Your current girlfriend is considering a palimony suit.
 
 ![naked portafilter](naked-portafilter1.jpg)  
-*[Naked Portafilter](http://ineedcoffee.com/the-naked-portafilter/) by Chris Arnold*
+*[Naked Portafilter](/the-naked-portafilter/) by Chris Arnold*
 
 10\. You roast your own coffee, but you insist on roasting each bean individually for ultimate quality.

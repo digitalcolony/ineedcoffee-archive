@@ -87,4 +87,4 @@ The Behmor 1600 Coffee Roaster is most closely compared to a Gene Cafe ($499), a
 
 ### Resources
 
-[Behmor 1600 Coffee Roaster Tutorial](http://ineedcoffee.com/behmor-1600-coffee-roaster-tutorial/) – Our follow-up tutorial on the Behmor 1600.
+[Behmor 1600 Coffee Roaster Tutorial](/behmor-1600-coffee-roaster-tutorial/) – Our follow-up tutorial on the Behmor 1600.

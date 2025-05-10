@@ -24,7 +24,7 @@ Some coffee drinkers aren’t picky and will enjoy anything with a caffeine mole
 2.  Flavored coffee or the real stuff?
 3.  What styles of roasts? What types of beans?
 4.  Do they grind their beans?
-5.  If not, how do they want their [beans ground](http://ineedcoffee.com/coffee-grind-chart/)? (drip, espresso, Turkish)
+5.  If not, how do they want their [beans ground](/coffee-grind-chart/)? (drip, espresso, Turkish)
 
 And countless other things. All this nonsense leads you to one conclusion: Buy gift certificates!
 
@@ -34,7 +34,7 @@ The problem with gift certificates is that no matter how hard you try, you won�
 
 ### Coffee Gear
 
-Now, we are getting somewhere. True coffee fans will usually aspire to some new coffee gadget. It could be a better grinder or a new brewing system. The article [Coffee Gear That Won’t Break The Bank](http://ineedcoffee.com/coffee-gear-that-wont-break-the-bank/) gives several ideas. At the $25 price range, an [Aeropress](http://ineedcoffee.com/aeropress-coffee-maker-tutorial/) makes for an excellent coffee gift. It serves as a great brewer and can also be taken into the office or even camping.
+Now, we are getting somewhere. True coffee fans will usually aspire to some new coffee gadget. It could be a better grinder or a new brewing system. The article [Coffee Gear That Won’t Break The Bank](/coffee-gear-that-wont-break-the-bank/) gives several ideas. At the $25 price range, an [Aeropress](/aeropress-coffee-maker-tutorial/) makes for an excellent coffee gift. It serves as a great brewer and can also be taken into the office or even camping.
 
 ### Summary
 

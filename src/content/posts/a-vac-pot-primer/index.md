@@ -68,7 +68,7 @@ Then, when heat is removed, the “trip south” occurs but occurs with enough f
 
 ### Vacuum Brewers Today and Beyond
 
-During the 1990s and beyond, vacuum brewers are enjoying a bit of a renaissance. Not enough to make them even faddish yet, but enough to make them relatively easy to find and add to your household. Companies like Bodum, Cona, Hario, Tayli, and [Yama](http://ineedcoffee.com/vac-pot-brewing-with-the-yama-syphon/) all make vacuum brewers today, and some are pretty economical (Yama models can be had for $35 new, [Bodum Santos](http://ineedcoffee.com/vac-pot-brewing-with-the-bodum-santos/) models for $35-40). They come either ready for your stovetop or self-contained with alcohol or gas burners. They come in a variety of sizes, from 1-cup models from Hario (that makes 8 ounces) to 8-cup models from Cona. And you can pick up some of the mid-century Cory, Silex, Sunbeam, and GE models on eBay for reasonable prices, as long as you don’t expect absolute mint quality (the rare mint ones can cost quite a bit).
+During the 1990s and beyond, vacuum brewers are enjoying a bit of a renaissance. Not enough to make them even faddish yet, but enough to make them relatively easy to find and add to your household. Companies like Bodum, Cona, Hario, Tayli, and [Yama](/vac-pot-brewing-with-the-yama-syphon/) all make vacuum brewers today, and some are pretty economical (Yama models can be had for $35 new, [Bodum Santos](/vac-pot-brewing-with-the-bodum-santos/) models for $35-40). They come either ready for your stovetop or self-contained with alcohol or gas burners. They come in a variety of sizes, from 1-cup models from Hario (that makes 8 ounces) to 8-cup models from Cona. And you can pick up some of the mid-century Cory, Silex, Sunbeam, and GE models on eBay for reasonable prices, as long as you don’t expect absolute mint quality (the rare mint ones can cost quite a bit).
 
 During the first decade of the 21st Century, I believe this renaissance will continue with either the revival of some long-defunct vacuum brewer makers or new companies forming to manufacture and sell these unique brewing devices. You can thank (or blame) this primarily on Starbucks, which has played a huge part in waking middle America up to coffee that is at least better than the coin-op machine at the gas station. Quality coffee is seeing a full-blown revival, and I believe that in some small way, vacuum brewing, which is arguably the best possible way to make brewed coffee, will ride the crest.
 
@@ -76,6 +76,6 @@ Images and words copyright 2000 Mark Prince
 
 ### Resources
 
-[Vac Pot Brewing with the Yama Syphon](http://ineedcoffee.com/vac-pot-brewing-with-the-yama-syphon/) – Brewing tutorial.
+[Vac Pot Brewing with the Yama Syphon](/vac-pot-brewing-with-the-yama-syphon/) – Brewing tutorial.
 
 coffeekid.com/coffee/vacpots (OFFLINE)

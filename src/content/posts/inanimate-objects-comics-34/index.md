@@ -17,8 +17,8 @@ wordpressId: 543
 ![let-us-cuddle](let-us-cuddle.jpg)  
 ![peeing-in-your-head](peeing-in-your-head.jpg)
 
-Previous: [Inanimate Objects Comics #33](http://ineedcoffee.com/inanimate-objects-comics-33/)
+Previous: [Inanimate Objects Comics #33](/inanimate-objects-comics-33/)
 
-Next: [Inanimate Objects Comics #35](http://ineedcoffee.com/inanimate-objects-comics-35/)
+Next: [Inanimate Objects Comics #35](/inanimate-objects-comics-35/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

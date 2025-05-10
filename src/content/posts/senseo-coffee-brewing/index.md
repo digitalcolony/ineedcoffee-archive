@@ -68,4 +68,4 @@ As of this writing, the Senseo people are doing a full-court advertising blitz f
 
 I hoped this machine would be the fast brew solution for those who never brew more than one mug at a time. Sadly, the brewing system yields a very weak beverage that lacks the richness one should expect from a good cup of coffee. Regardless of my opinion, they will sell quite a few of these machines. If they unload a lot of these machines, the word will eventually get out that the coffee sucks. Hopefully, quality coffee roasters will offer Senseo-compatible pods of their own. How do we get around the weakness? Simple. Use two pods in the 2-pod holder and then press the 1-cup button.
 
-Part 2 of this article is [Senseo Revisited](http://ineedcoffee.com/senseo-coffee-brewing-revisited/).
+Part 2 of this article is [Senseo Revisited](/senseo-coffee-brewing-revisited/).

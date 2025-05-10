@@ -12,7 +12,7 @@ updatedAt: "2025-03-17T19:07:02"
 wordpressId: 246
 ---
 
-Many of you roast with the [Westbend Poppery](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/), Proctor-Silex Popcorn Pumper, or some other style that may use a *soup can* style chimney. Although these units work well, there is always the menacing problem of how to contain the chaff during the roast. This article details how to adapt the Melitta coffee roaster chaff collector to any of these style roasters.
+Many of you roast with the [Westbend Poppery](/roasting-coffee-in-a-popcorn-popper/), Proctor-Silex Popcorn Pumper, or some other style that may use a *soup can* style chimney. Although these units work well, there is always the menacing problem of how to contain the chaff during the roast. This article details how to adapt the Melitta coffee roaster chaff collector to any of these style roasters.
 
 ![Melitta AromaRoast](START1.jpg)  
 *Melitta AromaRoast*
@@ -82,6 +82,6 @@ Once all the RTV has cured/dried/set, the unit can be assembled onto your Popper
 
 ### Resources
 
-[Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) – Tutorial on using the Westbend Popcorn Popper to home roast coffee.
+[Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/) – Tutorial on using the Westbend Popcorn Popper to home roast coffee.
 
-[Melitta Mishap](http://ineedcoffee.com/melitta-mishap/) – A cautionary tale on leaving a home coffee roast unattended.
+[Melitta Mishap](/melitta-mishap/) – A cautionary tale on leaving a home coffee roast unattended.

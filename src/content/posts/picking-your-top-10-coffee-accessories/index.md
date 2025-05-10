@@ -27,9 +27,9 @@ I would never include a few on Eyal’s list in the Top 10 Coffee Accessories.
 
 What would I add to my Top 10 Coffee Accessories List that didn’t make Eyal’s list?
 
--   **Electric Kettle**—It is essential to quickly heat water for coffee. Don’t waste your precious moments on Earth waiting for water to boil. Get a good [electric kettle](http://ineedcoffee.com/avoiding-plastic-3-stainless-steel-electric-kettle-options/).
+-   **Electric Kettle**—It is essential to quickly heat water for coffee. Don’t waste your precious moments on Earth waiting for water to boil. Get a good [electric kettle](/avoiding-plastic-3-stainless-steel-electric-kettle-options/).
 -   **Espresso Knock Box**—I have to confess that I went a long time without a knock box. I was a fool. If you have an espresso machine, get a decent knock box.
--   **Eva Solo**—Very few people seem to know about the Eva Solo, my favorite non-Espresso coffee brewer. Check out the [Eva Solo Coffee Brewing Tutorial](http://ineedcoffee.com/eva-solo-coffee-brewing-tutorial/) to learn more about this brewer.
+-   **Eva Solo**—Very few people seem to know about the Eva Solo, my favorite non-Espresso coffee brewer. Check out the [Eva Solo Coffee Brewing Tutorial](/eva-solo-coffee-brewing-tutorial/) to learn more about this brewer.
 
 ![Pino Digital Tea kettle](pino-digital-tea-kettle1.jpg)  
 *PINO Digital Kettle Pro  
@@ -39,6 +39,6 @@ What would I add to my Top 10 Coffee Accessories List that didn’t make Eyal’
 
 Top 10 Coffee Accessories List – Eyal’s original list.
 
-[Eyal Rosen](http://ineedcoffee.com/by/eyal-rosen/) – Contributor page on INeedCoffee.com.
+[Eyal Rosen](/by/eyal-rosen/) – Contributor page on INeedCoffee.com.
 
-[Troubleshooting French Press Coffee](http://ineedcoffee.com/troubleshooting-french-press-coffee/) – My guide to improving your French Press coffee.
+[Troubleshooting French Press Coffee](/troubleshooting-french-press-coffee/) – My guide to improving your French Press coffee.

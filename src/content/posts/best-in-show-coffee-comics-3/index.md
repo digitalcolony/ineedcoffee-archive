@@ -14,6 +14,6 @@ wordpressId: 536
 
 ![coffee-from-the-black-lagoon](coffee-from-the-black-lagoon1.jpg) ![comic-jc-coffee](comic-jc-coffee.jpg) ![comic-Poster-Boy-part-1](comic-Poster-Boy-part-1.jpg) ![comic-Poster-Boy-part-2](comic-Poster-Boy-part-2.jpg) ![comic-too-cold-for-coffee](comic-too-cold-for-coffee.jpg) ![comic-turkish-coffee](comic-turkish-coffee.jpg)
 
-Previous: [Best In Show – Coffee Comics #2](http://ineedcoffee.com/best-in-show-coffee-comics-2/)
+Previous: [Best In Show – Coffee Comics #2](/best-in-show-coffee-comics-2/)
 
 For more Best in Show comics visit [Phil Juliano](http://philjulianoillustration.com/).

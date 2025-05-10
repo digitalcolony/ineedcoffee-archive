@@ -14,7 +14,7 @@ wordpressId: 36
 
 To anyone who owns a Precision Hearthware Coffee Roaster, the thought of writing a tutorial on using it will seem ridiculous. Using the Hearthware is so simple that even a caveman could figure out the basics. This tutorial is written for coffee fans who haven’t started home roasting yet or those already roasting and who know little about Hearthware.
 
-In another INeedCoffee tutorial, we showed you [how to roast coffee using a popcorn popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/). If using a popper is as easy as making spaghetti, then using the Hearthware Precision is as simple as using a toaster. Are you ready to see how simple it is to make the best coffee in your home?
+In another INeedCoffee tutorial, we showed you [how to roast coffee using a popcorn popper](/roasting-coffee-in-a-popcorn-popper/). If using a popper is as easy as making spaghetti, then using the Hearthware Precision is as simple as using a toaster. Are you ready to see how simple it is to make the best coffee in your home?
 
 ![hearthware](hearthware1.jpg)
 
@@ -58,4 +58,4 @@ The last step is to clean out the chaff collector (the lid). Precision provides 
 
 The Hearthware Precision Coffee Roaster is the greatest purchase I’ve ever made. The coffee I’m producing at home is on par with or superior to that of the best commercial roasters. If the $130 price tag scares some consumers, note that this machine will pay for itself.
 
-Personally, I drink one pound of coffee a week. If green beans average $5 a pound and commercially roasted coffee averages $10 a pound, then it will take 26 weeks for the machine to pay for itself. The popcorn popper solution is still the cheapest, but if you are like me and live [in a cold winter environment,](http://ineedcoffee.com/cold-weather-coffee-roasting/) then having an indoor roaster like the Precision is a real treat.
+Personally, I drink one pound of coffee a week. If green beans average $5 a pound and commercially roasted coffee averages $10 a pound, then it will take 26 weeks for the machine to pay for itself. The popcorn popper solution is still the cheapest, but if you are like me and live [in a cold winter environment,](/cold-weather-coffee-roasting/) then having an indoor roaster like the Precision is a real treat.

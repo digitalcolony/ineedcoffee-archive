@@ -29,4 +29,4 @@ Surprisingly, I have found 100% Arabica coffee in Kroger decaffeinated and Eight
 
 Once when I was a salesperson, a customer asked if we had leather handbags. After our discussion, I stated, “So, you really like leather purses, huh?” She asked, “Have you ever had a leather purse?” I tentatively said that I wasn’t sure and she replied, “Well, once you’ve had one, you will never want anything else.” I purchased a leather purse because of her conviction, and she was right.
 
-So, I state with conviction that once you try well-brewed Arabica coffee, you may never want robusta again. It invades the tongue and palate with a delightful taste and divine aroma. You will be encouraged to close your eyes and savor the flavor, just as I describe in my poem [Heavenly](http://ineedcoffee.com/heavenly-coffee-poem/ "coffee poem").
+So, I state with conviction that once you try well-brewed Arabica coffee, you may never want robusta again. It invades the tongue and palate with a delightful taste and divine aroma. You will be encouraged to close your eyes and savor the flavor, just as I describe in my poem [Heavenly](/heavenly-coffee-poem/ "coffee poem").

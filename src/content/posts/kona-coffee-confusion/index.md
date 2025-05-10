@@ -45,11 +45,11 @@ The article explains that 100% Kona coffees will have different quality and flav
 
 [Kona Blends](https://web.archive.org/web/20161005210039/http://www.konaearth.com/Life/2009/090216/) – By Gary Strawn of Kona Earth Coffee.
 
-[Gary Strawn](http://ineedcoffee.com/by/gary-strawn/) – INeedCoffee contributor page.
+[Gary Strawn](/by/gary-strawn/) – INeedCoffee contributor page.
 
 [Kona Coffee Needs a Quality Grading System](https://web.archive.org/web/20230606231944/https://www.coffeestrategies.com/2009/01/31/kona-coffee-needs-a-quality-grading-system/) – Article by Andrew Hetzel.
 
-[Hawaiian Coffee](http://ineedcoffee.com/hawaiian-coffee/) – Island by island Hawaiian coffee overview by Chris Arnold.
+[Hawaiian Coffee](/hawaiian-coffee/) – Island by island Hawaiian coffee overview by Chris Arnold.
 
 [Kona coffee](https://en.wikipedia.org/wiki/Kona_coffee#Kona_blends) – Blending information on the Kona coffee Wikipedia page.
 

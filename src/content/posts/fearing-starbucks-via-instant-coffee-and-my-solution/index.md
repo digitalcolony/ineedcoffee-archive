@@ -12,7 +12,7 @@ updatedAt: "2025-03-16T19:05:49"
 wordpressId: 505
 ---
 
-In February 2009, Starbucks launched its instant coffee called VIA. At that time, you could sign up to have a free sample mailed to you. Even though I [home roast coffee](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/), I have always suspected making a decent instant coffee might be possible. However, I feared Starbucks would fumble the project. But I had to know, so I completed the form to receive my sample VIA.
+In February 2009, Starbucks launched its instant coffee called VIA. At that time, you could sign up to have a free sample mailed to you. Even though I [home roast coffee](/roasting-coffee-in-a-popcorn-popper/), I have always suspected making a decent instant coffee might be possible. However, I feared Starbucks would fumble the project. But I had to know, so I completed the form to receive my sample VIA.
 
 My free samples sat around my kitchen for months. Whenever I thought about trying them, I looked over at my outstanding coffee and couldn’t go through with it. *One day I would run out of the good stuff and then I would try the Starbucks VIA Instant Coffee.* That day never seemed to come because as soon as I’d run out of the good stuff, I’d head out and acquire more outstanding coffee.
 
@@ -44,8 +44,8 @@ My solution is to keep quality coffee at home at all times. On those occasions w
 
 ### Resources
 
-[The History of Instant Coffee](http://ineedcoffee.com/the-history-of-instant-coffee/) – INeedCoffee article covering the origins of instant coffee.
+[The History of Instant Coffee](/the-history-of-instant-coffee/) – INeedCoffee article covering the origins of instant coffee.
 
-[Next Generation Instant Coffee Reviews](http://ineedcoffee.com/next-generation-instant-coffee-reviews/) – A review of two modern, higher-quality instant coffees.
+[Next Generation Instant Coffee Reviews](/next-generation-instant-coffee-reviews/) – A review of two modern, higher-quality instant coffees.
 
-[Starbucks Coffee College](http://ineedcoffee.com/starbucks-coffee-college/) – That time I was invited by Starbucks to attend their college.
+[Starbucks Coffee College](/starbucks-coffee-college/) – That time I was invited by Starbucks to attend their college.

@@ -26,7 +26,7 @@ In recent years, Kyoto-style coffee has become more popular. Many high-end coffe
 
 ### How does the taste differ?
 
-Kyoto-style iced coffee differs from traditional cold brew coffee. Cold brew coffee, often made using a [Toddy](http://ineedcoffee.com/cold-brew-coffee-with-the-toddy-coffee-maker/), involves allowing the entire collection of coffee grounds to soak in water for some time (12-24 hours). This is a full immersion brewing method because the water and beans are in full contact with each other throughout the entire brew.
+Kyoto-style iced coffee differs from traditional cold brew coffee. Cold brew coffee, often made using a [Toddy](/cold-brew-coffee-with-the-toddy-coffee-maker/), involves allowing the entire collection of coffee grounds to soak in water for some time (12-24 hours). This is a full immersion brewing method because the water and beans are in full contact with each other throughout the entire brew.
 
 The Japanese iced coffee method is not full immersion because the water is slowly dripped into the coffee grounds and then exits. The differences in the two brewing methods result in two different taste profiles. Cold brew has less acidity than Kyoto-style, which captures more of the high notes that one would taste if the coffee were brewed at a normal temperature.
 
@@ -62,10 +62,10 @@ You’re missing out if you’re a coffee aficionado and haven’t tried Kyoto-S
 
 ### Resources
 
-[The Osaka Cold Brew Dripper Tutorial](http://ineedcoffee.com/cold-brew-dripper-tutorial/) – INeedCoffee brewing tutorial.
+[The Osaka Cold Brew Dripper Tutorial](/cold-brew-dripper-tutorial/) – INeedCoffee brewing tutorial.
 
-[Cold Brew Coffee is Not Rocket Science](http://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/) – An overview of the cold brew coffee method.
+[Cold Brew Coffee is Not Rocket Science](/cold-brew-coffee-is-not-rocket-science/) – An overview of the cold brew coffee method.
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – Our collection of coffee brewing tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – Our collection of coffee brewing tutorials.
 
 *Title photo by Photo by [Sidney Chiang](https://unsplash.com/photos/selective-focus-photography-of-pink-cherry-blossom-vycxgXgRuHI).*

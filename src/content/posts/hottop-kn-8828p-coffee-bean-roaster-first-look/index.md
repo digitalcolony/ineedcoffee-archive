@@ -133,4 +133,4 @@ Segment 6 – FAN 2 – TEMP 380 – TIME 3:00
 Segment 7 – FAN 3 – TEMP 400 – TIME 3:00  
 Segment 8 – FAN 3 – TEMP 420 – TIME 3:00
 
-[Hottop Coffee Roaster](http://ineedcoffee.com/hottop-coffee-roaster/) – INeedCoffee article by Phil Jordan
+[Hottop Coffee Roaster](/hottop-coffee-roaster/) – INeedCoffee article by Phil Jordan

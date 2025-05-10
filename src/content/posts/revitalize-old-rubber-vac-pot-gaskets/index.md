@@ -17,7 +17,7 @@ I love vac pot coffee. What’s not to love? It’s fun to brew and the coffee i
 I also love to buy old vac pots, but as pretty as they are, if the rubber gasket is old and hard, they are just dust-catchers on the shelf because they don’t create a seal. Without the seal, air escapes around the gasket and you don’t get the vacuum necessary to pull the coffee back into the lower decanter. I broke an upper bowl on one that was difficult to remove after brewing. What a mess that was!
 
 ![vac-pot ](vac-pot4001.jpg)  
-*Vac Pot Coffee by [Ryan Jacobs](http://ineedcoffee.com/by/ryan-jacobs/)*
+*Vac Pot Coffee by [Ryan Jacobs](/by/ryan-jacobs/)*
 
 I recently ran across a solution for the gasket problem. Go to the auto parts store and get a can of transmission stop leak. This stuff works on the seals and gaskets in the transmission just as it works on your vac pot gasket. Take the gasket off the upper bowl of the vac pot and soak it in the stop leak for 2 or 3 days. I have had good results on one of my gaskets, and I am now soaking the others. I don’t know if it will work on cracked gaskets.
 

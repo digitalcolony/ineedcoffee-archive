@@ -18,7 +18,7 @@ We all know someone who can drink massive amounts of coffee all day long and sle
 
 ### Good Sleep for Good Health
 
-Good sleep is essential for good health. As coffee drinkers, our goal is to consume coffee only until sleep quality is impaired. About 10 years ago, I drank an insane amount of coffee daily. From when I woke up until night, I’d slam mugs of [French press coffee](http://ineedcoffee.com/troubleshooting-french-press-coffee/). My adrenals were so exhausted by the end of the day that I would fall asleep immediately. But over time, I noticed that I was waking earlier and earlier. Despite still being tired, I’d be up making more coffee.
+Good sleep is essential for good health. As coffee drinkers, our goal is to consume coffee only until sleep quality is impaired. About 10 years ago, I drank an insane amount of coffee daily. From when I woke up until night, I’d slam mugs of [French press coffee](/troubleshooting-french-press-coffee/). My adrenals were so exhausted by the end of the day that I would fall asleep immediately. But over time, I noticed that I was waking earlier and earlier. Despite still being tired, I’d be up making more coffee.
 
 I came up with an experiment. I pushed my last coffee back to 6 p.m. My sleep improved. Then I moved my last coffee to 4 p.m., and it improved again. Then I moved it to 2 p.m. and saw no additional improvement. So, for a few years, I had my last cup of coffee between 2 p.m. and 4 p.m. It yielded me the best quality of sleep.
 

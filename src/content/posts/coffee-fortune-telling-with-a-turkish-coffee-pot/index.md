@@ -31,4 +31,4 @@ There are so many contradicting ideas of what the various symbols mean, so each 
 
 ### Resources
 
-[Coffee Tasseography – Fortune Telling with Coffee](http://ineedcoffee.com/coffee-tasseography-fortune-telling-with-coffee/) – Article by Margaret Wallauer.
+[Coffee Tasseography – Fortune Telling with Coffee](/coffee-tasseography-fortune-telling-with-coffee/) – Article by Margaret Wallauer.

@@ -16,7 +16,7 @@ No matter what the occasion, it is sometimes hard to come up with coffee-related
 
 ### Under $25
 
-A drip cone. Melitta cones are the most well-known. There are other options like the [Clever Coffee Dripper](http://ineedcoffee.com/clever-coffee-dripper-review/) that allow you more control over the brewing time before you release it into your cup. Bonavita makes a ceramic version. With the correct temp water, you will have an easy and delicious cup of coffee.
+A drip cone. Melitta cones are the most well-known. There are other options like the [Clever Coffee Dripper](/clever-coffee-dripper-review/) that allow you more control over the brewing time before you release it into your cup. Bonavita makes a ceramic version. With the correct temp water, you will have an easy and delicious cup of coffee.
 
 Coffee Storage with a proper one-way valve is key to keeping your beans fresh. The Friis Coffee Vault is the one I own, and it works great. About $20 for the Stainless Steel model.
 
@@ -54,7 +54,7 @@ A real blender for those summer cold coffee drinks or that hot morning brain foo
 
 A consumer-grade drum coffee roaster. The Gene Cafe is a very nice roaster that will not break the bank. Some nice programming features and a compact design make it a nice choice for someone who needs larger batches than something like FreshRoast offers. About $600.
 
-A consumer-grade espresso machine. The [Rancilio Silvia](http://ineedcoffee.com/rancilio-silvia-espresso-machine-tips/) is a great machine in this price range. If you really want to be a hero, include a grinder. The Rancilio Rocky is a great match. About $1000 total ($650 for the machine, and $350 for the grinder).
+A consumer-grade espresso machine. The [Rancilio Silvia](/rancilio-silvia-espresso-machine-tips/) is a great machine in this price range. If you really want to be a hero, include a grinder. The Rancilio Rocky is a great match. About $1000 total ($650 for the machine, and $350 for the grinder).
 
 ### Under $2500
 

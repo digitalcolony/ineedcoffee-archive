@@ -14,12 +14,12 @@ wordpressId: 516
 
 A royal screw-up led to my first major home-roasting success.
 
-Well, I should be more specific “the right kind” of screw-up led to success. My first few home-roasting endeavors (particularly [the first](http://ineedcoffee.com/rookie-roast-confessions-of-a-first-time-home-roaster/ "Rookie Roast")) were chock-full of screw-ups, and none of them yielded great results. On my fourth or fifth attempt, however, despite thinking I had under-roasted the beans, I experienced my first *ahhh that’s good!* batch.
+Well, I should be more specific “the right kind” of screw-up led to success. My first few home-roasting endeavors (particularly [the first](/rookie-roast-confessions-of-a-first-time-home-roaster/ "Rookie Roast")) were chock-full of screw-ups, and none of them yielded great results. On my fourth or fifth attempt, however, despite thinking I had under-roasted the beans, I experienced my first *ahhh that’s good!* batch.
 
 ![light-vs-dark-home-roasted-coffee](light-vs-dark-home-roasted-coffee1.jpg)  
 *The light-roasted beans on the left were the result of a botched roasting operation — which proved to be a very happy accident.*
 
-A roasting emergency forced me to prematurely halt an Ethiopian Yirgacheffe/Sidamo roast. Using the Westbend Poppery, I had placed a soup can atop the popper as a chimney (a suggestion from MAS’s [Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/ "Roasting Coffee in a Popcorn Popper") tutorial). The problem was that the can I used was coated inside. I noticed a couple of beans sticking to the can, apparently because the heat was softening this coating and making it adhesive. I switched the power off, to end the roast and save the rest of the beans.
+A roasting emergency forced me to prematurely halt an Ethiopian Yirgacheffe/Sidamo roast. Using the Westbend Poppery, I had placed a soup can atop the popper as a chimney (a suggestion from MAS’s [Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/ "Roasting Coffee in a Popcorn Popper") tutorial). The problem was that the can I used was coated inside. I noticed a couple of beans sticking to the can, apparently because the heat was softening this coating and making it adhesive. I switched the power off, to end the roast and save the rest of the beans.
 
 ![Westbend Poppery Roaster](westbend-poppery-roaster1.jpg)  
 *The Poppery for Roasting Coffee*
@@ -35,8 +35,8 @@ The morals of this story are twofold:
 
 ### Resources
 
-[The Home Roaster Color Chart](http://ineedcoffee.com/the-home-roaster-color-chart/) – A visual guide to coffee roasting by color.
+[The Home Roaster Color Chart](/the-home-roaster-color-chart/) – A visual guide to coffee roasting by color.
 
-[Rookie Roast](http://ineedcoffee.com/rookie-roast-confessions-of-a-first-time-home-roaster/) – Alex’s first adventure with home coffee roasting.
+[Rookie Roast](/rookie-roast-confessions-of-a-first-time-home-roaster/) – Alex’s first adventure with home coffee roasting.
 
-[Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) – Tutorial on how to roast coffee using a Westbend popcorn popper.
+[Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/) – Tutorial on how to roast coffee using a Westbend popcorn popper.

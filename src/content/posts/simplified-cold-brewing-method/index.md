@@ -12,7 +12,7 @@ updatedAt: "2025-03-15T18:56:33"
 wordpressId: 305
 ---
 
-If you don’t have a [Toddy](http://ineedcoffee.com/cold-brew-coffee-with-the-toddy-coffee-maker/), but would like an inexpensive way to make your own cold-brewed coffee, this simplified method may be perfect for you.
+If you don’t have a [Toddy](/cold-brew-coffee-with-the-toddy-coffee-maker/), but would like an inexpensive way to make your own cold-brewed coffee, this simplified method may be perfect for you.
 
 -   The coffee is measured into the glass.
 -   A woman’s trouser sock is placed over the top, and the glass is inverted to fill the sock.
@@ -26,6 +26,6 @@ If you don’t have a [Toddy](http://ineedcoffee.com/cold-brew-coffee-with-the-t
 
 ### Resources
 
-[Cold Brew Coffee with the Toddy Coffee Maker](http://ineedcoffee.com/cold-brew-coffee-with-the-toddy-coffee-maker/) – Tutorial on brewing with the Toddy brewer.
+[Cold Brew Coffee with the Toddy Coffee Maker](/cold-brew-coffee-with-the-toddy-coffee-maker/) – Tutorial on brewing with the Toddy brewer.
 
-[Cold Brewed Coffee on the Cheap](http://ineedcoffee.com/cold-brewed-coffee-on-the-cheap/) – Another low-budget method for cold brewing coffee.
+[Cold Brewed Coffee on the Cheap](/cold-brewed-coffee-on-the-cheap/) – Another low-budget method for cold brewing coffee.

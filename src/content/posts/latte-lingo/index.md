@@ -28,7 +28,7 @@ Then you add the espresso or *caffe.* One shot is equal to one ounce. If you ord
 -   A *dry cappuccino* is made with espresso and foam only.
 -   *Caffe au lait* is drip-brewed coffee with steamed milk.
 -   An *Americano* is an espresso with hot water; similar to drip coffee, but with a little different flavor.
--   Most coffee shops also have a [Toddy](http://ineedcoffee.com/cold-brew-coffee-with-the-toddy-coffee-maker/) or the cold-brewed coffee I spoke of last month. These drinks are all assumed to be hot unless you ask for iced. Although in Arizona on a hot afternoon you will have to watch them closely because they might assume that you want iced.
+-   Most coffee shops also have a [Toddy](/cold-brew-coffee-with-the-toddy-coffee-maker/) or the cold-brewed coffee I spoke of last month. These drinks are all assumed to be hot unless you ask for iced. Although in Arizona on a hot afternoon you will have to watch them closely because they might assume that you want iced.
 
 Some common additions and subtractions are *con panna,* with whip cream. *No foam* is just as it sounds because a normal latte will have a 1/4 to 1/2 inch of foam at the top, which some people do not enjoy. *Half-caf,* one-shot regular, and one-shot decaf. *Decaf,* all shots are decaf. *With room* is to leave room at the top for cream. *Add a shot of \_\_\_\_\_* can be for any flavored syrup such as vanilla, caramel, or hazelnut.
 

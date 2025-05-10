@@ -52,4 +52,4 @@ Chocolate-covered coffee beans are a quick way to melt your valentine’s heart.
 
 ### Resources
 
-[How to Make Chocolate Covered Coffee Beans](http://ineedcoffee.com/how-to-make-chocolate-covered-coffee-beans/) – This recipe uses 3 different types of chocolate.
+[How to Make Chocolate Covered Coffee Beans](/how-to-make-chocolate-covered-coffee-beans/) – This recipe uses 3 different types of chocolate.

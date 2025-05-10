@@ -20,7 +20,7 @@ Below are a few of the favorite mugs used by several listeners to the *Caffinati
 
 > Since my drink of choice is espresso, my favorite *mug* is a little demitasse. On it is a Edgar Degas painting of ballet dancers. This is so not my style. I received the set as a gift, which I fully expected to throw into storage. Then I noticed that I could pull my espresso shots directly into the cup. It’s been my favorite ever since.
 
-My favorite traditional coffee mug died on January 26th, 2000. That story is told in [Coffee Eulogy](https://ineedcoffee.com/a-coffee-eulogy/).
+My favorite traditional coffee mug died on January 26th, 2000. That story is told in [Coffee Eulogy](/a-coffee-eulogy/).
 
 ![MAS espresso mug](mas-mug1.jpg)
 
@@ -52,4 +52,4 @@ My favorite traditional coffee mug died on January 26th, 2000. That story is tol
 
 [CaffiNation 195: The Grind](http://web.archive.org/web/20140407142816/http://www.caffination.com/podcast/caffination-195-the-grind-463/) – January 3, 2008, podcast.
 
-[Coffee Mugs of Coffee Fanatics Part 2](http://ineedcoffee.com/coffee-mugs-of-coffee-fanatics-part-2/) – The sequel to this article.
+[Coffee Mugs of Coffee Fanatics Part 2](/coffee-mugs-of-coffee-fanatics-part-2/) – The sequel to this article.

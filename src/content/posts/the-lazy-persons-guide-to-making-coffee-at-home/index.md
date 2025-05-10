@@ -12,7 +12,7 @@ updatedAt: "2025-03-27T15:00:38"
 wordpressId: 52830
 ---
 
-I have a friend who loves coffee but doesn’t make it at home. Well, I have several friends who fit that description. They spend a lot of money in coffee shops. For them, making coffee is too much work. Trying to convince them that using an [AeroPress](http://ineedcoffee.com/aeropress-coffee-maker-tutorial/) or the [Bonavita Dripper](http://ineedcoffee.com/step-step-bonavita-immersion-coffee-dripper-tutorial/) is easy is a lost cause. They want to be easy and self-identify as lazy.
+I have a friend who loves coffee but doesn’t make it at home. Well, I have several friends who fit that description. They spend a lot of money in coffee shops. For them, making coffee is too much work. Trying to convince them that using an [AeroPress](/aeropress-coffee-maker-tutorial/) or the [Bonavita Dripper](/step-step-bonavita-immersion-coffee-dripper-tutorial/) is easy is a lost cause. They want to be easy and self-identify as lazy.
 
 This got me thinking about what coffee brewing methods are the easiest. They are not going to buy a grinder or anything that takes up counter space, reminding them they are lazy. It needs to be as easy as possible while tasting good enough to compete viably with the coffee shop.
 
@@ -22,7 +22,7 @@ I dug through the INeedCoffee archives to uncover the best coffee brewing method
 
 Instant coffee has changed a lot in recent years. It has gotten a lot better. This market is no longer just for legacy bland-tasting blends. Sudden Coffee and Joe Coffee Company make flavorful coffees, including high-quality single-origin offerings such as instant coffee.
 
-The new generation of instant coffee is not cheap, but you’ll save time and money compared to going to the coffee shop. Our article [Next Generation Instant Coffee Reviews](http://ineedcoffee.com/camping-showdown-steeped-coffee-vs-bripe-coffee-pipe/) highlights two companies that make outstanding instant coffees.
+The new generation of instant coffee is not cheap, but you’ll save time and money compared to going to the coffee shop. Our article [Next Generation Instant Coffee Reviews](/camping-showdown-steeped-coffee-vs-bripe-coffee-pipe/) highlights two companies that make outstanding instant coffees.
 
 ### #2 Steeped Coffee
 
@@ -47,7 +47,7 @@ Even though cold-brew coffee might not initially seem like something a lazy coff
 
 Typically, I advise buying a decent grinder and grinding coffee just before you brew. However, cold brew is super forgiving. You could have it ground at the cafe or grocery store, take it home, and make excellent coffee with no real loss in flavor.
 
-The lazy coffee drinker will want the simplest, easiest-to-clean cold brewer. I’m a fan of the one made by Alkani. In the summer, I might brew once a week. It is easy to clean, too. See The Alkani Cold Brew Coffee Maker—[Review and Tutorial](http://ineedcoffee.com/alkani-cold-brew-coffee-maker-review-tutorial/) for guidance.
+The lazy coffee drinker will want the simplest, easiest-to-clean cold brewer. I’m a fan of the one made by Alkani. In the summer, I might brew once a week. It is easy to clean, too. See The Alkani Cold Brew Coffee Maker—[Review and Tutorial](/alkani-cold-brew-coffee-maker-review-tutorial/) for guidance.
 
 ### Summary
 

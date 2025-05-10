@@ -24,7 +24,7 @@ The Frappuccino drink is based on an iced cappuccino and is sometimes topped wit
 
 ### The Coffee Component
 
-Each of the drink recipes below will have a coffee component. Starbucks uses a mix of both coffee and espresso. If you have an espresso machine, by all means, use espresso. The intense flavor of espresso will hold up well against the other ingredients. If you do not have an espresso machine, you can make strong “espresso-like” shots using an AeroPress or Stovetop espresso maker. See the article [Making Lattes Without an Espresso Machine](http://ineedcoffee.com/making-lattes-without-espresso-machine/) for more details.
+Each of the drink recipes below will have a coffee component. Starbucks uses a mix of both coffee and espresso. If you have an espresso machine, by all means, use espresso. The intense flavor of espresso will hold up well against the other ingredients. If you do not have an espresso machine, you can make strong “espresso-like” shots using an AeroPress or Stovetop espresso maker. See the article [Making Lattes Without an Espresso Machine](/making-lattes-without-espresso-machine/) for more details.
 
 Another option is to use instant coffee. Starbucks makes a line of instant coffees called VIA Instant. Their Italian Roast is the best option for your homemade Frappuccino, but other varietals should be fine as well. Trader Joe’s also makes a decent instant coffee. Although using instant coffee is super convenient and cheap, the downside is that it has less caffeine than espresso or brewed coffee, so your drink may be missing the kick you require.
 

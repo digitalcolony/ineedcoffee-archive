@@ -88,8 +88,8 @@ Don’t be afraid to use the above recipes to experiment or even combine some el
 
 ### Resources
 
-[The Best Irish Coffee in the World](http://ineedcoffee.com/the-best-irish-coffee-in-the-world/) – If you prefer your coffee with Irish Whiskey.
+[The Best Irish Coffee in the World](/the-best-irish-coffee-in-the-world/) – If you prefer your coffee with Irish Whiskey.
 
-[Espresso Tamping Visual Tutorial](http://ineedcoffee.com/espresso-tamping/) – Some tips for pulling espresso shots.
+[Espresso Tamping Visual Tutorial](/espresso-tamping/) – Some tips for pulling espresso shots.
 
 [619 Spirits](https://619spirits.com/) – Thank you to 619 Spirits for donating the vodka used to create these Coffee Martini recipes.

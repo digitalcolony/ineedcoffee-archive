@@ -14,7 +14,7 @@ wordpressId: 425
 
 Being a person who appreciates a good cup of coffee, I have always been interested in doing everything possible to ensure that my cup is a good one. I have also been a person of sub-average means, so although a full-on espresso maker is something I would love to have, I can’t bring myself to buy one of those really cheap machines that will never really do a good job. As well, I love to spend time camping and canoeing, so having something low-tech fits the bill quite well.
 
-It was here at INEEDCOFFEE that I learned how to use a [Moka pot](http://ineedcoffee.com/brewing-espresso-in-a-moka/), which is something I have really enjoyed. It also is something that would be easy to bring along when I’m out in the woods to help me make a good cup of coffee. But making coffee at home without a gas stove makes things a little more interesting. As you notice, the Moka pot is much smaller than the smallest electric stove element. Most of the heat is wasted, and the handle does get quite warm. Yes, I realize that turning the pot will place the handle off to the other side, but still, there is a lot of wasted energy.
+It was here at INEEDCOFFEE that I learned how to use a [Moka pot](/brewing-espresso-in-a-moka/), which is something I have really enjoyed. It also is something that would be easy to bring along when I’m out in the woods to help me make a good cup of coffee. But making coffee at home without a gas stove makes things a little more interesting. As you notice, the Moka pot is much smaller than the smallest electric stove element. Most of the heat is wasted, and the handle does get quite warm. Yes, I realize that turning the pot will place the handle off to the other side, but still, there is a lot of wasted energy.
 
 ![moka pot](md6478721.jpg)  
 *Moka Pot*
@@ -45,6 +45,6 @@ I made a stand out of an empty coffee can and some coat-hanger wire. Light the s
 
 [Zen Backpacking Stoves](https://zenstoves.net/) – Provider of alcohol stoves.
 
-[Brewing Espresso in a Moka](http://ineedcoffee.com/brewing-espresso-in-a-moka/) – Tutorial on making espresso using a Moka coffee pot.
+[Brewing Espresso in a Moka](/brewing-espresso-in-a-moka/) – Tutorial on making espresso using a Moka coffee pot.
 
-[Stovetop Espresso Brewing Tutorial](http://ineedcoffee.com/stovetop-espresso-brewing-tutorial/) – Step-by-step instructions on using the Bialetti.
+[Stovetop Espresso Brewing Tutorial](/stovetop-espresso-brewing-tutorial/) – Step-by-step instructions on using the Bialetti.

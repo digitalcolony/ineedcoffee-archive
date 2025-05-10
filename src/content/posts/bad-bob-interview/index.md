@@ -58,6 +58,6 @@ INeedCoffee is proud to once again have Bad Bob’s work adorning its site. It i
 
 ### Resources
 
-[The Caffeine](http://ineedcoffee.com/the-caffeine/) – 2 poems by Bad Bob.
+[The Caffeine](/the-caffeine/) – 2 poems by Bad Bob.
 
 [Robert Therrien Jr.](https://sites.google.com/site/bobjtherrien/home) – Official site.

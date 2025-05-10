@@ -51,4 +51,4 @@ Having a roaster that is too clean or too dirty is not ideal. The best results c
 
 ### Resources
 
-[I-Roast 2 Coffee Roasting Guide](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) – INeedCoffee article by Chris Arnold.
+[I-Roast 2 Coffee Roasting Guide](/roasting-coffee-in-a-popcorn-popper/) – INeedCoffee article by Chris Arnold.

@@ -12,7 +12,7 @@ updatedAt: "2022-06-24T16:59:29"
 wordpressId: 6361
 ---
 
-Thoughts of the old west often conjure up images of cowboys sitting around the campfire drinking [Cowboy Coffee](http://ineedcoffee.com/cowboy-coffee-backpacker-style/) and chewing tobacco. Those tough old cowboys would probably laugh at us today with our latte art and the fact that spittoons have all but disappeared.
+Thoughts of the old west often conjure up images of cowboys sitting around the campfire drinking [Cowboy Coffee](/cowboy-coffee-backpacker-style/) and chewing tobacco. Those tough old cowboys would probably laugh at us today with our latte art and the fact that spittoons have all but disappeared.
 
 Cue the laughter and enter Coffee Chew/Dip, a Tobacco-free & Nicotine-free alternative to chewing or dipping smokeless tobacco from Chew Coffee Dip.
 
@@ -38,4 +38,4 @@ At about $6 per tin\*, this stuff ain’t cheap but could be an important step i
 
 ### Resources
 
-[Cowboy Coffee, Backpacker Style](http://ineedcoffee.com/cowboy-coffee-backpacker-style/) – INeedCoffee article.
+[Cowboy Coffee, Backpacker Style](/cowboy-coffee-backpacker-style/) – INeedCoffee article.

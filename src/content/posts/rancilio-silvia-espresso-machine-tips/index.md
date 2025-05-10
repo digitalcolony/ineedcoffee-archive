@@ -28,7 +28,7 @@ There are two general ways to improve this that I am aware of:
 
 ### Grinding the Espresso
 
-The Silvia is a fairly advanced home espresso machine and as such is very unforgiving to poor grind and tamping. You’ll have to step your game up a notch. I found that my Starbucks Barista burr grinder just wasn’t adequate anymore, but I did find out it could be [recalibrated with a little work](http://ineedcoffee.com/hacking-the-starbucks-barista-grinder/). Certainly, you will want a capable burr grinder — there are many to choose from with varying degrees of settings. What is important is to make sure you have fine enough settings for espresso. Another consideration here is if you can grind directly into the portafilter. That feature will help on the tamping side a bit.
+The Silvia is a fairly advanced home espresso machine and as such is very unforgiving to poor grind and tamping. You’ll have to step your game up a notch. I found that my Starbucks Barista burr grinder just wasn’t adequate anymore, but I did find out it could be [recalibrated with a little work](/hacking-the-starbucks-barista-grinder/). Certainly, you will want a capable burr grinder — there are many to choose from with varying degrees of settings. What is important is to make sure you have fine enough settings for espresso. Another consideration here is if you can grind directly into the portafilter. That feature will help on the tamping side a bit.
 
 ### Tamping the Espresso
 
@@ -76,6 +76,6 @@ Between shots, I like to use a group cleaning brush to loosen any stray grinds i
 
 ### Resources
 
-[A Rancilio Silvia Espresso Machine Tutorial For the Caffeine-Inclined](http://ineedcoffee.com/a-rancilio-silvia-espresso-machine-tutorial-for-the-caffeine-inclined/) – Step-by-step tutorial on using the Rancilio Silvia Espresso Machine.
+[A Rancilio Silvia Espresso Machine Tutorial For the Caffeine-Inclined](/a-rancilio-silvia-espresso-machine-tutorial-for-the-caffeine-inclined/) – Step-by-step tutorial on using the Rancilio Silvia Espresso Machine.
 
-[Hacking the Starbucks Barista Grinder](http://ineedcoffee.com/hacking-the-starbucks-barista-grinder/) – How to get an espresso grind from a popular coffee grinder.
+[Hacking the Starbucks Barista Grinder](/hacking-the-starbucks-barista-grinder/) – How to get an espresso grind from a popular coffee grinder.

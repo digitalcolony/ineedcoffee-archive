@@ -100,6 +100,6 @@ Prep: 25 min. Bake: 20 min. (plus cooling). Yield: 1 dozen.
 
 ### Resources
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – Our collection of coffee brewing tutorials includes a few ways to make cold drip and cold brew coffee.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – Our collection of coffee brewing tutorials includes a few ways to make cold drip and cold brew coffee.
 
 [How to melt chocolate over a bain marie](https://www.youtube.com/watch?v=mNIXOm_-U-8) – 50-second video tutorial.

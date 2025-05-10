@@ -16,7 +16,7 @@ wordpressId: 5523
 
 There are several single-serve pod-style coffeemakers on the market: the ubiquitous Keurig that takes K-Cups, the Tassimo, and the Coffee Bean and Tea Leaf (CBTL) Kaldi, just to name a few.  The most common use for these is for brewed-style coffee, typically at 6-8 ounces of coffee per serving. But when it comes to the espresso pod machine market, there really has only been one name: Nespresso. Until now.
 
-Bialetti, known the world over for its iconic [Stovetop Moka Pot](http://ineedcoffee.com/stovetop-espresso-brewing-tutorial/ "Stovetop Moka Pot"), is looking to compete in the single-serve espresso machine market.  The Bialetti I Caffe d’Italia Diva is a diminutive device that promises authentic tasting espresso, in a small attractive package that is also easy to use.
+Bialetti, known the world over for its iconic [Stovetop Moka Pot](/stovetop-espresso-brewing-tutorial/ "Stovetop Moka Pot"), is looking to compete in the single-serve espresso machine market.  The Bialetti I Caffe d’Italia Diva is a diminutive device that promises authentic tasting espresso, in a small attractive package that is also easy to use.
 
 So what makes the Bialetti special?  How does it compare to the Nespresso and other espresso machines?  How does the espresso taste?  Read on to find out.
 
@@ -81,7 +81,7 @@ We won’t cover a detailed how-to, as the Bialetti website or manual covers th
 I am comparing the taste of the Bialetti Diva espresso to the following:
 
 -   My current espresso machine, an Izzo Alex Duetto III
--   Super-Autos, like the [Philips Saeco Syntia](http://ineedcoffee.com/can-the-philips-saeco-syntia-deliver-espresso-perfection/ "Philips Saeco Syntia")
+-   Super-Autos, like the [Philips Saeco Syntia](/can-the-philips-saeco-syntia-deliver-espresso-perfection/ "Philips Saeco Syntia")
 -   ESE Pods (Easy Serving Espresso), in a Pasquini Livia 90
 -   Nespresso Espresso machines, both a little guy and the big boy industrial size
 -   My trip to Italy (Rome, Florence, Orvieto, Volterra)

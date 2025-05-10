@@ -33,7 +33,7 @@ Holley describes it as a “large” coffee, Benjamin says it’s “tall.” At
 
 In any event, I love this image of Francona stopping at a Starbucks each day and adhering to a cherished daily coffee routine. (Major League Baseball managers — they’re just like us!) Part of the appeal is that Francona is the near-opposite of a Starbucks-addict stereotype. He’s laid-back and self-effacing, and when Boston fans panic (which is often), Francona is an even-keel foil to all the regional anxiety. Coffee shouldn’t only be a means of keeping wired — drinking coffee that you really enjoy is a perfect and inspiring backdrop to the beginning of a workday. From late February until October (hopefully until *late* October), that’s the way Francona is gearing up for game day.
 
-Like [MAS](http://ineedcoffee.com/by/michael-allen-smith/), my INeedCoffee colleague, Francona is big on drinking tea as well as coffee. He is a spokesman for Bigelow Tea and starts each game by drinking green tea with pomegranate.
+Like [MAS](/by/michael-allen-smith/), my INeedCoffee colleague, Francona is big on drinking tea as well as coffee. He is a spokesman for Bigelow Tea and starts each game by drinking green tea with pomegranate.
 
 ### Sources
 

@@ -65,4 +65,4 @@ You can only master latte art with the right beans and the right milk. If you’
 
 ### Resources
 
-[Latte Art Gallery](http://ineedcoffee.com/latte-art-gallery/) – Photos of killer latte art designs.
+[Latte Art Gallery](/latte-art-gallery/) – Photos of killer latte art designs.

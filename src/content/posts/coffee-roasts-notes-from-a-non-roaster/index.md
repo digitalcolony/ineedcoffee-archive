@@ -62,4 +62,4 @@ Coffee is a science and an art. Science is logical, art is subjective.
 
 ### Resources
 
-[The Home Roaster Color Chart](http://ineedcoffee.com/the-home-roaster-color-chart/) – An 8-color chart of different coffee roast levels.
+[The Home Roaster Color Chart](/the-home-roaster-color-chart/) – An 8-color chart of different coffee roast levels.

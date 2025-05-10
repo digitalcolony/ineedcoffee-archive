@@ -34,7 +34,7 @@ Look at the photo below. On the left is the Cosori and on the right is a Chemex.
 
 This is usually the part of the article where we here at INeedCoffee put together a step-by-step guide on how to brew coffee with the brewer being discussed. But we don’t need to this time because the steps to brew pour-over coffee with the Cosori are basically the same as those for the Chemex, with the exception that you don’t have to fuss with a paper filter.
 
-For guidance, see [Chemex Coffee Brewing—History and Tutorial](https://ineedcoffee.com/chemex-coffee-brewing-history-and-tutorial/) or follow the instructions clearly written on the side of the Cosori box.
+For guidance, see [Chemex Coffee Brewing—History and Tutorial](/chemex-coffee-brewing-history-and-tutorial/) or follow the instructions clearly written on the side of the Cosori box.
 
 ![pour over cosori](cosori-pour-water.jpg)
 
@@ -52,10 +52,10 @@ On a side note, the metal filter included in the Cosori also fits the Chemex. I 
 
 ### Resources
 
-[Chemex Coffee Brewing – History and Tutorial](http://ineedcoffee.com/chemex-coffee-brewing-history-and-tutorial/) – INeedCoffee article for Chemex.
+[Chemex Coffee Brewing – History and Tutorial](/chemex-coffee-brewing-history-and-tutorial/) – INeedCoffee article for Chemex.
 
-[How to Make Iced Coffee in a Chemex](http://ineedcoffee.com/make-iced-coffee-chemex/) – You can also make iced coffee with your Cosori. Just follow this guide and use the metal filter instead.
+[How to Make Iced Coffee in a Chemex](/make-iced-coffee-chemex/) – You can also make iced coffee with your Cosori. Just follow this guide and use the metal filter instead.
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – Our collection of coffee brewing tutorials.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – Our collection of coffee brewing tutorials.
 
 *Disclosure: INeedCoffee received a Cosori for this article, which did not influence its content.*

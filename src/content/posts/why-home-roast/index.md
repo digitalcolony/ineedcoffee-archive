@@ -45,4 +45,4 @@ If nothing else, roasting coffee will impress your friends. Bringing homemade br
 
 ### Resources
 
-[Roasting Coffee in a Popcorn Popper](http://ineedcoffee.com/roasting-coffee-in-a-popcorn-popper/) – INeedCoffee tutorial.
+[Roasting Coffee in a Popcorn Popper](/roasting-coffee-in-a-popcorn-popper/) – INeedCoffee tutorial.

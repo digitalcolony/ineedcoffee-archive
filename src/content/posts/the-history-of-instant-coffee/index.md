@@ -33,7 +33,7 @@ Today, instant coffee still has a force in the market. It is great in recipes li
 
 ### Resources
 
-[Next Generation Instant Coffee Reviews](http://ineedcoffee.com/next-generation-instant-coffee-reviews/) – A review of two modern, higher-quality instant coffees.
+[Next Generation Instant Coffee Reviews](/next-generation-instant-coffee-reviews/) – A review of two modern, higher-quality instant coffees.
 
 1: [Instant Coffee](https://en.wikipedia.org/wiki/Instant_coffee) on Wikipedia.
 

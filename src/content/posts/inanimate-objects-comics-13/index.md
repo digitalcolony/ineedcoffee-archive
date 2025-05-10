@@ -16,10 +16,10 @@ wordpressId: 173
 
 ![comic papa preach](comic-papa-preach.jpg)
 
-[![comic water is better](comic-water-sunday-650x307.jpg)](http://ineedcoffee.com/wp-content/uploads/2003/12/comic-water-sunday.jpg)
+[![comic water is better](comic-water-sunday-650x307.jpg)](/wp-content/uploads/2003/12/comic-water-sunday.jpg)
 
-Previous: [Inanimate Objects Comics #12](http://ineedcoffee.com/inanimate-objects-comics-12/)
+Previous: [Inanimate Objects Comics #12](/inanimate-objects-comics-12/)
 
-Next: [Inanimate Objects Comics #14](http://ineedcoffee.com/inanimate-objects-comics-14/)
+Next: [Inanimate Objects Comics #14](/inanimate-objects-comics-14/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

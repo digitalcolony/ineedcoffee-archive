@@ -20,8 +20,8 @@ wordpressId: 53820
 
 ![Drain the Life](201901-Drain-the-Life.jpg)
 
-Previous: [Inanimate Objects Comics #68](http://ineedcoffee.com/inanimate-objects-comics-68/)
+Previous: [Inanimate Objects Comics #68](/inanimate-objects-comics-68/)
 
-Next: [Inanimate Objects Comics #70](http://ineedcoffee.com/inanimate-objects-comics-70/)
+Next: [Inanimate Objects Comics #70](/inanimate-objects-comics-70/)
 
-*Inanimate Objects by [Todd Zapoli](http://ineedcoffee.com/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*

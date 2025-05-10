@@ -12,17 +12,17 @@ updatedAt: "2025-03-30T09:01:07"
 wordpressId: 7118
 ---
 
-Here on INeedCoffee, we have several coffee brewing tutorials for making cold brew coffee. You can buy a [Primula](http://ineedcoffee.com/making-cold-brew-coffee-with-the-primula-coffee-maker/), a [Toddy](http://ineedcoffee.com/cold-brew-coffee-with-the-toddy-coffee-maker/), or a [cold brew filter pouch](http://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/). Or maybe you don’t need a dedicated coffee brewer at all. That is what we decided to find out. We wanted to repurpose one of our existing brewers to make cold brew coffee. The perfect choice was the French Press.
+Here on INeedCoffee, we have several coffee brewing tutorials for making cold brew coffee. You can buy a [Primula](/making-cold-brew-coffee-with-the-primula-coffee-maker/), a [Toddy](/cold-brew-coffee-with-the-toddy-coffee-maker/), or a [cold brew filter pouch](/cold-brew-coffee-is-not-rocket-science/). Or maybe you don’t need a dedicated coffee brewer at all. That is what we decided to find out. We wanted to repurpose one of our existing brewers to make cold brew coffee. The perfect choice was the French Press.
 
 For this article, we are using a 34-ounce French Press. The model we used is no longer available for sale, but other models should work the same.
 
-The basics of cold-brew coffee are explained in the article [Cold Brew Coffee is Not Rocket Science](http://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/). Let water steep over coffee grounds at room temperature for 12+ hours then filter and serve. Let’s get brewing.
+The basics of cold-brew coffee are explained in the article [Cold Brew Coffee is Not Rocket Science](/cold-brew-coffee-is-not-rocket-science/). Let water steep over coffee grounds at room temperature for 12+ hours then filter and serve. Let’s get brewing.
 
 ### #1 Measure Coffee
 
 How much coffee should you use? The answer to this question will vary depending on whom you ask. The short answer is more than you would for regular brewed coffee. If you do not want to deal with math or scales, just double the amount of the coffee you normally use when making hot French Press coffee. If you want to jump into the math, read on; otherwise, skip to Step #2.
 
-In our [French Press tutorial](http://ineedcoffee.com/press-pot-tutorial/), we use a 17 to 1 ratio, which means 17 parts water to 1 part coffee. The advice for cold brew is to use between 3 to 1 and 7 to 1. Due to volume limitations, we found a 7 to 1 ratio ideal for the French Press. If you find 7 to 1 is not strong enough, I would extend the brew time by a few hours instead of adding more coffee.
+In our [French Press tutorial](/press-pot-tutorial/), we use a 17 to 1 ratio, which means 17 parts water to 1 part coffee. The advice for cold brew is to use between 3 to 1 and 7 to 1. Due to volume limitations, we found a 7 to 1 ratio ideal for the French Press. If you find 7 to 1 is not strong enough, I would extend the brew time by a few hours instead of adding more coffee.
 
 The sizes of French Press brewers are an interesting topic. The size listed on the box, how much liquid it holds, filled to the very top, and then the estimated coffee yield when you brew it. Seattle Coffee Gear comprehensively tested these numbers in the post [Coffee Presses: Overall Volume vs. Actual Yield](https://web.archive.org/web/20131215050955/http://www.seattlecoffeegear.com:80/learn/coffee-101/articles/coffee-press-yields). When you scan this chart, you notice that the actual yield of brewed coffee is always a few ounces less than the volume listed on the box. The difference is the coffee grounds and the amount of water lost.
 
@@ -40,7 +40,7 @@ As you can see, as we increase the strength of the brewing ratio, coffee yield d
 
 You can use a medium to coarse grind when brewing cold brew coffee in a French Press. We used a coarser grind, but either will work. If you find the coarse ground cold brew too weak, tighten up your grind. If the medium grind is too strong, add more water or loosen up the grind.
 
-See our [Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) for the range between Medium Coarse and Extra Coarse.
+See our [Coffee Grind Chart](/coffee-grind-chart/) for the range between Medium Coarse and Extra Coarse.
 
 ### #3 Add Ground Coffee and Water to French Press
 
@@ -84,17 +84,17 @@ Not every grinder is awesome, so you might have some fine coffee particles that 
 
 ### #7 Clean Up
 
-The clean-up for cold-brew French Press is the same as for regular-brew French Press. You can put the grounds in compost or save them for [your garden](http://ineedcoffee.com/top-3-ways-to-re-use-your-coffee-grounds/).
+The clean-up for cold-brew French Press is the same as for regular-brew French Press. You can put the grounds in compost or save them for [your garden](/top-3-ways-to-re-use-your-coffee-grounds/).
 
 ### Last Words
 
-If you have limited space for your coffee gear, it is good to know that the French Press can do double duty as both a hot and a cold coffee brewer. But honestly, I found the yield not to be worth the effort, and the cleanup was more work than that of a dedicated cold brewer. If you have space and the budget for a cold brewer, check out the [Penguin](http://ineedcoffee.com/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/).
+If you have limited space for your coffee gear, it is good to know that the French Press can do double duty as both a hot and a cold coffee brewer. But honestly, I found the yield not to be worth the effort, and the cleanup was more work than that of a dedicated cold brewer. If you have space and the budget for a cold brewer, check out the [Penguin](/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/).
 
 ### Resources
 
-[Make Concentrated Cold Brew Coffee With the Penguin Coffee](http://ineedcoffee.com/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/) – INeedCoffee tutorial on a dedicated cold brewer.
+[Make Concentrated Cold Brew Coffee With the Penguin Coffee](/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/) – INeedCoffee tutorial on a dedicated cold brewer.
 
-[Coffee Brewing Guide](http://ineedcoffee.com/coffee-brewing-guide/) – A collection of coffee brewing tutorials on INeedCoffee.
+[Coffee Brewing Guide](/coffee-brewing-guide/) – A collection of coffee brewing tutorials on INeedCoffee.
 
 [French Press Photos](https://www.flickr.com/photos/122258503@N04/albums/72157667724991381/with/26525308030/) – Original photos used in this article.
 

@@ -18,4 +18,4 @@ wordpressId: 554
 
 ![comic-the-all-nighter](comic-the-all-nighter.jpg)
 
-Next: [WYSIWYG Coffee Comics #2](http://ineedcoffee.com/wysiwyg-coffee-comics-2/)
+Next: [WYSIWYG Coffee Comics #2](/wysiwyg-coffee-comics-2/)

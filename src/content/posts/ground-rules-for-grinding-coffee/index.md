@@ -39,6 +39,6 @@ Of course, in matters of taste, there is no one recipe for success. Experiment w
 
 ### Resources
 
-[Best Coffee Grinders Under $100](http://ineedcoffee.com/best-coffee-grinders-100/) – Reviews of 4 different affordable coffee grinders.
+[Best Coffee Grinders Under $100](/best-coffee-grinders-100/) – Reviews of 4 different affordable coffee grinders.
 
-[Coffee Grind Chart](http://ineedcoffee.com/coffee-grind-chart/) – Once you have your grinder, use this article to help you find the right grind size.
+[Coffee Grind Chart](/coffee-grind-chart/) – Once you have your grinder, use this article to help you find the right grind size.
