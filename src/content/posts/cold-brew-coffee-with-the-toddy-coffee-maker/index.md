@@ -28,28 +28,28 @@ The Toddy Brewer’s design makes it easy enough to get started. It’s an inexp
 
 Is this the right brewing system for you? Below is a short list of the situations that would be best suited for cold-brewed coffee.
 
--   Coffee drinkers that find coffee too acidic. Toddy says their cold brew system produces “67% less acid than coffee made by conventional hot brew methods.” This is a big plus for coffee drinkers with acid reflux.
--   Less Caffeine? An MSNBC article stated Toddy claims their coffee has “up to two-thirds less caffeine than regular coffee.” I’m a bit skeptical of this claim. UPDATE: Toddy has informed me that MSNBC made a mistake in its reporting. From Toddy: “Our claim is cold-brewed coffee has approximately 33 percent less caffeine than coffee brewed (using regular caffeinated beans) by conventional hot water methods.”
--   There are households where everyone drinks coffee at different times. It’s hard to know when to make a full pot if everyone drinks coffee at different times. Moving to a single-cup solution solves that problem.
--   Camping. Use a campfire to heat your water to add to the concentrate.
--   Iced coffee drinkers. Add ice and water, and you’re done—no more need to chill hot brewed coffee.
--   Power Outage. The grinding may require electricity, but not the brewing method.
--   Coffee that is getting old. I’ve learned it is common practice for coffee shops to use their oldest beans for cold-brewed coffee. When it comes to flavor, slow-brewed concentrates don’t require as fresh coffee as other brewing methods.
+- Coffee drinkers that find coffee too acidic. Toddy says their cold brew system produces “67% less acid than coffee made by conventional hot brew methods.” This is a big plus for coffee drinkers with acid reflux.
+- Less Caffeine? An MSNBC article stated Toddy claims their coffee has “up to two-thirds less caffeine than regular coffee.” I’m a bit skeptical of this claim. UPDATE: Toddy has informed me that MSNBC made a mistake in its reporting. From Toddy: “Our claim is cold-brewed coffee has approximately 33 percent less caffeine than coffee brewed (using regular caffeinated beans) by conventional hot water methods.”
+- There are households where everyone drinks coffee at different times. It’s hard to know when to make a full pot if everyone drinks coffee at different times. Moving to a single-cup solution solves that problem.
+- Camping. Use a campfire to heat your water to add to the concentrate.
+- Iced coffee drinkers. Add ice and water, and you’re done—no more need to chill hot brewed coffee.
+- Power Outage. The grinding may require electricity, but not the brewing method.
+- Coffee that is getting old. I’ve learned it is common practice for coffee shops to use their oldest beans for cold-brewed coffee. When it comes to flavor, slow-brewed concentrates don’t require as fresh coffee as other brewing methods.
 
 ### Reasons to NOT Cold Brew
 
--   French Press and espresso fans. Fans of the coffee oils may find the flavor weaker and less interesting.
--   Small-batch Home Roasters. The Toddy works best with a full pound of coffee, which can be a lot of roasting (and grinding) to do at one time for home roasters.
+- French Press and espresso fans. Fans of the coffee oils may find the flavor weaker and less interesting.
+- Small-batch Home Roasters. The Toddy works best with a full pound of coffee, which can be a lot of roasting (and grinding) to do at one time for home roasters.
 
 ### Equipment Checklist
 
--   Brewing Container – This is the big white plastic thing.
--   Reusable Filter – A white circular sponge that fits inside the brewing container.
--   Stopper – A little rubber wedge that fits snugly outside the Brewing Container.
--   Glass Decanter – What we will use to store the coffee.
--   Decanter Top – The lid to seal the Glass Decanter.
--   Ring with Handle – An Optional piece can be used as a handle.
--   1 pound of Coffee Ground Regular (aka Drip or Vac-Pot).
+- Brewing Container – This is the big white plastic thing.
+- Reusable Filter – A white circular sponge that fits inside the brewing container.
+- Stopper – A little rubber wedge that fits snugly outside the Brewing Container.
+- Glass Decanter – What we will use to store the coffee.
+- Decanter Top – The lid to seal the Glass Decanter.
+- Ring with Handle – An Optional piece can be used as a handle.
+- 1 pound of Coffee Ground Regular (aka Drip or Vac-Pot).
 
 ### #1 Secure Stopper into Brewing Container
 
@@ -105,7 +105,7 @@ When complete, remove the Brewing Container. Then seal the Glass Decanter with t
 
 ### #10 Clean the Brewing Container and put it away for future use.
 
-According to Toddy, the filter will be stored in a *Ziploc-type bag* inside the refrigerator. Why a filter needs to be cold-stored is not clear. A filter can be used for 10 brews.
+According to Toddy, the filter will be stored in a _Ziploc-type bag_ inside the refrigerator. Why a filter needs to be cold-stored is not clear. A filter can be used for 10 brews.
 
 ### Preparing a Hot Cup of Coffee
 
@@ -153,4 +153,4 @@ I now know it’s possible to make an excellent cup of coffee using this brewing
 
 [Low Acid Coffee](https://web.archive.org/web/20191102144508/https://toddycafe.com/cold-brew/low-acid-coffee) – Toddy’s page on coffee acidity
 
-[ICB.Toddy](http://ineedcoffee.com/wp-content/uploads/2009/02/ICB.Toddy_1.pdf) (PDF) – Acidity analysis by Intertek Caleb Brett
+<a href="/files/poplite-3-amps.pdf" download>ICB.Toddy</a> (PDF) – Acidity analysis by Intertek Caleb Brett

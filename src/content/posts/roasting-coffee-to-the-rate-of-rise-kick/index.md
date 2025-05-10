@@ -30,11 +30,11 @@ The charts below show clearly the “kick”.
 
 ![Chart 1 - Rate of Return](chart1-rate-of-return.jpg)
 
-*Chart 1*
+_Chart 1_
 
 ![Chart 2 - Rate of Return](chart-2-rate-of-return.jpg)
 
-*Chart 2*
+_Chart 2_
 
 This same “kick” can be seen on many of the roasting charts online, even with an overabundance of data and manipulation of heat and other roasting factors. I can monitor my roasts by manually recording temperature by the minute and calculating ROR in my head.
 
@@ -42,30 +42,28 @@ I roast only Kenyan AA and Ethiopian dry-process beans. I use a heat gun to prov
 
 ![Chart 3 - Rate of Return](chart-3-rate-of-return.jpg)
 
-*Chart 3*
+_Chart 3_
 
-The data above is the entry section of the *New Minute Green Bean Logger* template chart for the Excel spreadsheet program. Temperature data is recorded manually during roasting and entered into the spreadsheet for archive and analysis. Temperature is entered into columns 1 to 4, and the ROR data is automatically calculated from the temperature data. In this roast, batch 2 was pulled before the kick occurred. Batch 3 was pulled when the temperature reached 217 °C, when the kick was observed. An unchanging reduced heat gun setting was maintained from 2 minutes to the end of the roast.
+The data above is the entry section of the _New Minute Green Bean Logger_ template chart for the Excel spreadsheet program. Temperature data is recorded manually during roasting and entered into the spreadsheet for archive and analysis. Temperature is entered into columns 1 to 4, and the ROR data is automatically calculated from the temperature data. In this roast, batch 2 was pulled before the kick occurred. Batch 3 was pulled when the temperature reached 217 °C, when the kick was observed. An unchanging reduced heat gun setting was maintained from 2 minutes to the end of the roast.
 
-*The Green Bean Logger* is a free spreadsheet template I created for Microsoft Excel. It is not free-standing; it is only a template, and a copy of Excel is needed to use it.
+_The Green Bean Logger_ is a free spreadsheet template I created for Microsoft Excel. It is not free-standing; it is only a template, and a copy of Excel is needed to use it.
 
-For your reference, below is a screenshot of the *New Minute Green Bean Coffee Logger* template.
+For your reference, below is a screenshot of the _New Minute Green Bean Coffee Logger_ template.
 
 [![Green Bean Coffee Logger](green-bean-coffee-logger-screen-shot-650.jpg)](http://ineedcoffee.com/wp-content/uploads/2019/10/green-bean-coffee-logger-screen-shot-full.jpg)
 
-*Click on the image for a screenshot of the full-size Green Bean Coffee Logger.*
+_Click on the image for a screenshot of the full-size Green Bean Coffee Logger._
 
 Line charts for each roast temperature data are automatically generated. Line charts for the ROR data must be highlighted and generated manually.
 
 I roast using centigrade temperatures and measure batches in grams. The charts have helped me understand the roasting process so that I can obtain more consistent results with my roasting.
 
-*The Green Bean Coffee Logger* and the *New Minute Green Bean Coffee Logger* are available as an XLSM download below.
+_The Green Bean Coffee Logger_ and the _New Minute Green Bean Coffee Logger_ are available as an XLSM download below.
 
 May you enjoy many great roasts. SH
 
 ### Resources
 
-[*The Green Bean Coffee Logger* and the *New Minute Green Bean Coffee Logger*](http://ineedcoffee.com/wp-content/uploads/2019/10/Green-Bean-Loggers-both-versions.zip) – Excel (XLSM) file in Zipped format.
+<a href="/files/Green-Bean-Loggers-both-versions.zip" download>_The Green Bean Coffee Logger_ and the _New Minute Green Bean Coffee Logger_</a> – Excel (XLSM) file in Zipped format.
 
 [Home Roasting Coffee with a Heat Gun and Bread Machine](http://ineedcoffee.com/corretto-home-roasting/) – A guide to home roasting coffee with a heat gun and a bread machine.
-
-*Title photo by* [*Stéphane Mingot*](https://unsplash.com/@smingot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

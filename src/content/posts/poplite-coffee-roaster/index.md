@@ -14,7 +14,7 @@ wordpressId: 3849
 
 Looking for information on coffee roasting machines, I felt exhausted trying to find the “perfect” popper on eBay, which was out of my price range, or in the local thrift stores, which had not seen a West Bend popper in years. WB Poppery and Poppery II are, by everyone’s estimation, two great modifiable machines that will roast coffee beans. I looked at the post dates on the articles, and most were printed from 2005 to 2011. Here I am in August of 2014, trying to find a roaster. After searching for months, I came across the Presto PopLite, which looked like it could roast coffee. But it was listed as a probable no show by Sweet Maria’s and, if possible, one model to avoid.
 
-I came across the INeedCoffee article [The Poplite Air Popper: a Cheap Home Coffee Roaster](http://ineedcoffee.com/the-poplite-air-popper-a-cheap-home-coffee-roaster/) by Eugene Hanks that said with modification, the PopLite was a good coffee roaster. I read the article several times and within a week had located one in a thrift store for $3.99, my price to try and modify. The model was 4821 (the Orville Redenbacher gourmet).
+I came across the INeedCoffee article <a href="http://ineedcoffee.com/the-poplite-air-popper-a-cheap-home-coffee-roaster/" target="_blank">The Poplite Air Popper: a Cheap Home Coffee Roaster</a> by Eugene Hanks that said with modification, the PopLite was a good coffee roaster. I read the article several times and within a week had located one in a thrift store for $3.99, my price to try and modify. The model was 4821 (the Orville Redenbacher gourmet).
 
 ### Slowing Down the Roast
 
@@ -102,12 +102,12 @@ The completed roaster is ready for duty, and many good roasts are to come.
 
 Here are 3 PDFs with supporting time, temperature, and amp data. Once you learn where 1st crack ends and 2nd crack starts, you will know these places by heart (or at least by sight and smell).
 
-PDF 1: [Roast Times and Temperature](http://ineedcoffee.com/wp-content/uploads/2014/08/poplite-1-roast-times-temps.pdf)  
-PDF 2: [Sweet Maria’s – Wikipedia – Sammy](http://ineedcoffee.com/wp-content/uploads/2014/08/poplite-2-rosetta-stone.pdf)  
-PDF 3: [Amps](http://ineedcoffee.com/wp-content/uploads/2014/08/poplite-3-amps.pdf)
+PDF 1: <a href="/files/poplite-1-roast-times-temps.pdf" download>Roast Times and Temperature</a>  
+PDF 2: <a href="/files/poplite-2-rosetta-stone.pdf" download>Sweet Maria's – Wikipedia – Sammy</a>  
+PDF 3: <a href="/files/poplite-3-amps.pdf" download>Amps</a>
 
 ### Resources
 
-[The Poplite Air Popper: a Cheap Home Coffee Roaster](http://ineedcoffee.com/the-poplite-air-popper-a-cheap-home-coffee-roaster/) – The original PopLite tutorial by Eugene Hanks.
+[The Poplite Air Popper: a Cheap Home Coffee Roaster](http://ineedcoffee.com/the-poplite-air-popper-a-cheap-home-coffee-roaster/) – The original PopLite tutorial by Eugene Hanks.
 
 Router Speed Control from Harbor Freight

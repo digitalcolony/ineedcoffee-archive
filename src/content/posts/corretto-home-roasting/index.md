@@ -38,7 +38,7 @@ The final elimination of water and maturing of the roast occurs after the Mailla
 
 ![Corretto Home Coffee Roasting](coffee-rasting-bread-machine.jpg)
 
-*The Corretto roaster in action, with average roast times of 10 to 12 minutes.*
+_The Corretto roaster in action, with average roast times of 10 to 12 minutes._
 
 ### The Crocodile Dundee Connection
 
@@ -50,7 +50,7 @@ The process used a bread machine and a heat gun, which I already had and cost $1
 
 ![Bread Machine Home Roasting](chris-bounds-bread-machine.jpg)
 
-*Chris Bound of Texas has an elegant setup to roast his beans.*
+_Chris Bound of Texas has an elegant setup to roast his beans._
 
 ### Corretto Roasting Overview
 
@@ -62,7 +62,7 @@ Over the past two years, I refined my Corretto roasting by writing an Excel spre
 
 ![temp control](temp-control.jpg)
 
-*A K type temperature probe records a very accurate bean temperature, and the router control allows an adjustment of the airflow and heat from the heat gun.*
+_A K type temperature probe records a very accurate bean temperature, and the router control allows an adjustment of the airflow and heat from the heat gun._
 
 ### With Corretto Roasting, I am Getting Great Results
 
@@ -74,7 +74,7 @@ Even I used to refer to this style of roasting as BMHG (Bread Maker Heat Gun), b
 
 ![Home roasted coffee](cooling-roasted-coffee-beans.jpg)
 
-*A completed roast of Kenya AA.*
+_A completed roast of Kenya AA._
 
 Best of Luck and Good Roasting ….SH
 
@@ -82,4 +82,4 @@ Best of Luck and Good Roasting ….SH
 
 [A Fireside Chat](https://www.youtube.com/watch?v=ofFAdnhEu7c) – Trout Doc YouTube channel that includes photos of both Corretto and popper roasting.
 
-[*The Green Bean Coffee Logger* and the *New Minute Green Bean Coffee Logger*](http://ineedcoffee.com/wp-content/uploads/2019/10/Green-Bean-Loggers-both-versions.zip) – Excel (XLSM) file in Zipped format. Excel file includes Logger, instructions, and a sample roast. Also includes the New Minute Green Coffee Logger
+<a href="/files/Green-Bean-Loggers-both-versions.zip" download>_The Green Bean Coffee Logger_ and the _New Minute Green Bean Coffee Logger_</a> – Excel (XLSM) file in Zipped format.
