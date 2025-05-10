@@ -20,10 +20,10 @@ wordpressId: 160
 
 ![Ode to Summer](02Summer.jpg)
 
-[![make me](make_me-650x308.jpg)](/wp-content/uploads/2003/06/make_me.jpg)
+![make me](make_me-650x308.jpg)
 
 Previous: [Inanimate Objects Comics #8](/inanimate-objects-comics-8/)
 
 Next: [Inanimate Objects Comics #10](/inanimate-objects-comics-10/)
 
-*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+_Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com)._

@@ -15,30 +15,31 @@ wordpressId: 53102
 Over ten years ago, I tried to make homemade ice cream. I forgot the name of the ice cream maker, but it was terrible. It took way too long, required adding lots of ice, and the result had an awful texture. Since then, I’ve been buying all my ice cream, but recently I had a chance to play with the Cuisinart ICE-21 Ice Cream Maker. It is awesome. I expected a little learning curve, but there wasn’t one. Immediately, I was making amazing ice cream.
 
 ![ice cream maker](ice-cream-maker.jpg)  
-*Cuisinart Ice Cream Maker  
-*
+\*Cuisinart Ice Cream Maker
+
+-
 
 After a few batches of vanilla ice cream, I started working on coffee ice cream. Not surprisingly, coffee ice cream is my favorite flavor. But I don’t like all coffee ice creams. I like the coffee ice creams where coffee plays a supporting role and is not the dominant flavor. I also don’t like dark-roasted coffee ice creams. The reason is that it can impart an ashy, bitter flavor that distracts from the creaminess and sweetness of the ice cream.
 
 Coffee ice cream recipes use instant coffee or concentrated brewed coffee. As someone who has been home roasting coffee since 1998 and is a huge quality coffee enthusiast, I thought I would not like instant coffee, but I did. Instant coffee is something I would never drink, but for coffee ice cream, it just works. The basic flavor of the instant coffee was ideal, and the texture of the ice cream remained perfect.
 
-Let us make some coffee ice cream. We will be using the *Cuisinart ICE-21 Frozen Yogurt-Ice Cream & Sorbet Maker*. You can use this recipe for other ice cream makers, but you might need to adjust the recipe portions. Check your manual.
+Let us make some coffee ice cream. We will be using the _Cuisinart ICE-21 Frozen Yogurt-Ice Cream & Sorbet Maker_. You can use this recipe for other ice cream makers, but you might need to adjust the recipe portions. Check your manual.
 
 ### Ingredients
 
--   1 cup whole milk
--   3/4 cup of granulated white sugar
--   1.5 tablespoons of instant coffee
--   2 cups heavy cream
--   2 teaspoons of vanilla extract
+- 1 cup whole milk
+- 3/4 cup of granulated white sugar
+- 1.5 tablespoons of instant coffee
+- 2 cups heavy cream
+- 2 teaspoons of vanilla extract
 
 I used the 100% Colombian Instant Coffee sold by Trader Joe’s. I can vouch for this instant coffee. If you use Starbucks VIA, pick their Colombian instead of the French Roast. If you prefer a stronger coffee taste, double the amount of instant coffee added to 3 tablespoons.
 
-I used regular granulated white sugar for my coffee ice cream, but there are other options. Some recipes call for splitting the amount of sugar equally between white sugar and brown sugar. And our [Coconut Milk Coffee Ice Cream](/coconut-milk-coffee-ice-cream/) recipe gives the tip to use rice syrup if you find the ice cream too hard after a day in the freezer.
+I used regular granulated white sugar for my coffee ice cream, but there are other options. Some recipes call for splitting the amount of sugar equally between white sugar and brown sugar. And our [Coconut Milk Coffee Ice Cream](/coconut-milk-coffee-ice-cream-recipe/) recipe gives the tip to use rice syrup if you find the ice cream too hard after a day in the freezer.
 
 ![ice cream supplies](ice-cream-supplies.jpg)
 
-*Coffee ice cream ingredients*
+_Coffee ice cream ingredients_
 
 This tutorial will use three bowls.
 
@@ -58,11 +59,11 @@ If you make a lot of ice cream, you can purchase an additional freezer bowl with
 
 ### #2 Mix Up Ingredients and Chill
 
-In a mixing bowl, combine 1 cup of milk and 3/4 cup of sugar. You can use a hand blender, a whisk, or even a spoon. Once the sugar is dissolved, add the instant coffee, vanilla extract, and heavy cream. Mix everything together. Cover and refrigerate for at least 30 minutes. 
+In a mixing bowl, combine 1 cup of milk and 3/4 cup of sugar. You can use a hand blender, a whisk, or even a spoon. Once the sugar is dissolved, add the instant coffee, vanilla extract, and heavy cream. Mix everything together. Cover and refrigerate for at least 30 minutes.
 
 ![mix ice cream](mix-ice-cream.jpg)
 
-*Mix the ingredients* 
+_Mix the ingredients_
 
 ### #3 Make the Ice Cream
 
@@ -72,11 +73,11 @@ Let the machine run for about 20-30 minutes. Once the texture looks good, stop t
 
 ![ice cream maker cusinart](ice-cream-maker-cusinart.jpg)
 
-*Making coffee ice cream*
+_Making coffee ice cream_
 
 ![mixing the ice cream](mixing-the-ice-cream.jpg)
 
-*Once the texture looks good, stop the ice cream maker.*
+_Once the texture looks good, stop the ice cream maker._
 
 ### #4 Place the Ice Cream in the Freezer (optional)
 
@@ -84,7 +85,7 @@ At the end of the 20-30 minute cycle, the ice cream will be soft. If you like th
 
 ![ice cream done](ice-cream-done.jpg)
 
-*Finished coffee ice cream*
+_Finished coffee ice cream_
 
 ### #5 Enjoy
 

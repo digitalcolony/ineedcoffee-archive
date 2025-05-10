@@ -14,10 +14,10 @@ wordpressId: 7662
 
 #### Travel Mug
 
-[![](Life-Is-Coffee-Week-Vacation1024-970x1024.jpg)](/wp-content/uploads/2017/02/Life-Is-Coffee-Week-Vacation1024.jpg)
+![](Life-Is-Coffee-Week-Vacation1024-970x1024.jpg)
 
 #### Bird Friendly Coffee
 
-[![](Life-Is-Coffee-Bird-Friendly-Coffee1024-970x1024.jpg)](/wp-content/uploads/2017/02/Life-Is-Coffee-Bird-Friendly-Coffee1024.jpg)
+![](Life-Is-Coffee-Bird-Friendly-Coffee1024-970x1024.jpg)
 
 © 2017 Life is Coffee

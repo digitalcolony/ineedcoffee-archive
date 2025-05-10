@@ -20,10 +20,10 @@ wordpressId: 165
 
 ![Ode to Coffee Pot](20Coffee-Pot.jpg)
 
-[![not my fault](comic-not-my-fault-650x308.jpg)](/wp-content/uploads/2003/07/comic-not-my-fault.jpg)
+![not my fault](comic-not-my-fault-650x308.jpg)
 
 Previous: [Inanimate Objects Comics #9](/inanimate-objects-comics-9/)
 
 Next: [Inanimate Objects Comics #11](/inanimate-objects-comics-11/)
 
-*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+_Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com)._

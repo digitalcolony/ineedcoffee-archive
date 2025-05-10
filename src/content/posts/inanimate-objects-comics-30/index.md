@@ -12,16 +12,16 @@ updatedAt: "2017-06-07T20:26:15"
 wordpressId: 418
 ---
 
-[![comic-stay-at-home-mug](comic-stay-at-home-mug.jpg)](/wp-content/uploads/2009/01/comic-stay-at-home-mug.jpg)
+![comic-stay-at-home-mug](comic-stay-at-home-mug.jpg)
 
-[![comic-coffee-drops](comic-coffee-drops.jpg)](/wp-content/uploads/2009/01/comic-coffee-drops.jpg)
+![comic-coffee-drops](comic-coffee-drops.jpg)
 
-[![comic-alarm-clock](comic-alarm-clock1.jpg)](/wp-content/uploads/2009/01/comic-alarm-clock1.jpg)
+![comic-alarm-clock](comic-alarm-clock1.jpg)
 
-[![comic-giving-credit](comic-giving-credit-650x308.jpg)](/wp-content/uploads/2009/01/comic-giving-credit.jpg)
+![comic-giving-credit](comic-giving-credit-650x308.jpg)
 
 Previous: [Inanimate Objects Comics #29](/inanimate-objects-comics-29/)
 
 Next: [Inanimate Objects Comics #31](/inanimate-objects-comics-31/)
 
-*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+_Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com)._

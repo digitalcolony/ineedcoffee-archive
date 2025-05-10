@@ -16,15 +16,15 @@ There is no doubt that countless new fathers have tasted at least a few drops of
 
 ### The Taste
 
-According to a post on a discussion board on the non-defunct *Answerbag* site:
+According to a post on a discussion board on the non-defunct _Answerbag_ site:
 
-> *breast milk will almost always taste like food that the mother eats, kind of watered down and, well, milky. I was expressing in the shower one day and accidently got myself in the face, after I got over the shock, I was amazed at how much it tasted like the chicken dinner I had the night before.*
+> _breast milk will almost always taste like food that the mother eats, kind of watered down and, well, milky. I was expressing in the shower one day and accidently got myself in the face, after I got over the shock, I was amazed at how much it tasted like the chicken dinner I had the night before._
 
-Mr. Nice Guy gives a more [detailed description](http://bonnehomme.blogspot.com/2005/06/things-i-do-while-wife-and-kid-are.html):
+Mr. Nice Guy gives a more [detailed description](https://bonnehomme.blogspot.com/2005/06/things-i-do-while-wife-and-kid-are.html):
 
-> *sweet. light body … obviously some residual sugar. a mild complexity. a little buttery, just barely effervescent. the finish is a little tannic, actually.*
+> _sweet. light body … obviously some residual sugar. a mild complexity. a little buttery, just barely effervescent. the finish is a little tannic, actually._
 
-Alex James, the bass player for the English alternative rock band Blur, referred to breast milk as sweet. In his recipe challenge video, he prepares and offers Gordon Ramsay a taste of a breast milk cappuccino. (September 2018: The video *has been removed from YouTube.)*
+Alex James, the bass player for the English alternative rock band Blur, referred to breast milk as sweet. In his recipe challenge video, he prepares and offers Gordon Ramsay a taste of a breast milk cappuccino. (September 2018: The video _has been removed from YouTube.)_
 
 Alex’s story in the video is that his wife had recently given birth to twins. Three months after delivery, she took the opportunity to drink a few beers at a Foo Fighters concert, and the alcohol temporarily condemned her breast milk. Rather than waste it, Alex saved it to share with friends like Gordon. In the video, Gordon sips it but immediately spits it out. Breast milk tastes better to the fathers than to their friends.
 
@@ -34,11 +34,11 @@ What type of fad was Alex James trying to start by releasing such a video? Is he
 
 The Human Milk Banking Association of North America is set up to promote donor milk banking. In 2005, they dispensed 745,329 ounces of donor breast milk to hospitals in over 80 cities across North America. All of that milk was used for legitimate medical purposes only and is not available to latte-seeking espresso snobs.
 
-Outside of the medical use restrictions, the donated milk is very expensive, selling for $3.50 an ounce, according to the article *Mama’s Milk For Sale* on *MedIndia*. Even if you could purchase it directly, it would put the price of a 12-ounce breast milk latte at **over $42 per cup!**
+Outside of the medical use restrictions, the donated milk is very expensive, selling for $3.50 an ounce, according to the article _Mama’s Milk For Sale_ on *MedIndia*. Even if you could purchase it directly, it would put the price of a 12-ounce breast milk latte at **over $42 per cup!**
 
 ![stewie-latte-art](stewie-latte-art.jpg)
 
-*Stewie Latte Art*
+_Stewie Latte Art_
 
 Breast milk may also be available directly from recent mothers. USA Today reported in November 2007 that an Iowa woman was offering 100 ounces of breast milk for $200. At $2 per ounce, that would bring the price of a 12-ounce Latte to $24, but still prohibitively more expensive than the $3 cow milk latte from Starbucks. Buying from unregulated individual donors could be risky.
 
@@ -58,4 +58,4 @@ Although there is occasional hype and even documented video reports of breast mi
 
 [Iowa woman takes out ad to sell her breast milk](http://web.archive.org/web/20161112015337/http://usatoday30.usatoday.com/news/offbeat/2007-11-04-breastmilk-sale_N.htm) – November 2007 story in USA Today.
 
-*Latte art photo by Joseph Robertson of [Extracted Magazine](/go/coffeeloversmagazine/).*
+_Latte art photo by Joseph Robertson of Extracted Magazine._

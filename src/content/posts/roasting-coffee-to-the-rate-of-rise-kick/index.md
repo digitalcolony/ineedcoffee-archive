@@ -50,7 +50,7 @@ _The Green Bean Logger_ is a free spreadsheet template I created for Microsoft E
 
 For your reference, below is a screenshot of the _New Minute Green Bean Coffee Logger_ template.
 
-[![Green Bean Coffee Logger](green-bean-coffee-logger-screen-shot-650.jpg)](/wp-content/uploads/2019/10/green-bean-coffee-logger-screen-shot-full.jpg)
+[![Green Bean Coffee Logger](green-bean-coffee-logger-screen-shot-650.jpg)](/images/green-bean-coffee-logger-screen-shot-full.jpg)
 
 _Click on the image for a screenshot of the full-size Green Bean Coffee Logger._
 
@@ -67,4 +67,3 @@ May you enjoy many great roasts. SH
 <a href="/files/Green-Bean-Loggers-both-versions.zip" download>_The Green Bean Coffee Logger_ and the _New Minute Green Bean Coffee Logger_</a> – Excel (XLSM) file in Zipped format.
 
 [Home Roasting Coffee with a Heat Gun and Bread Machine](/corretto-home-roasting/) – A guide to home roasting coffee with a heat gun and a bread machine.
-

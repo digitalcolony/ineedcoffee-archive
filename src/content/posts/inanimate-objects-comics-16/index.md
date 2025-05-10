@@ -20,10 +20,10 @@ wordpressId: 186
 
 ![ode to coffee can](113_ode_to_coffeecan.jpg)
 
-[![unplugged comic](114_not_plugged_in-650x308.jpg)](/wp-content/uploads/2004/02/114_not_plugged_in.jpg)
+![unplugged comic](114_not_plugged_in-650x308.jpg)
 
 Previous: [Inanimate Objects Comics #15](/inanimate-objects-comics-15/)
 
 Next: [Inanimate Objects Comics #17](/inanimate-objects-comics-17/)
 
-*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+_Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com)._

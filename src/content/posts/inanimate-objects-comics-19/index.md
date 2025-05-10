@@ -18,10 +18,10 @@ wordpressId: 239
 
 ![comic hi sweetie](comic-hi-sweetie.jpg)
 
-[![watch me](comic-watch-this-650x308.jpg)](/wp-content/uploads/2013/11/comic-watch-this.jpg)
+![watch me](comic-watch-this-650x308.jpg)
 
 Previous: [Inanimate Objects Comics #18](/inanimate-objects-comics-18/)
 
 Next: [Inanimate Objects Comics #20](/inanimate-objects-comics-20/)
 
-*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+_Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com)._

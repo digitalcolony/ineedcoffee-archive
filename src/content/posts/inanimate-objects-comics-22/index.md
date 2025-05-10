@@ -20,10 +20,10 @@ wordpressId: 278
 
 ![Ode to Travel Mugs](24Travel-Mugs.jpg)
 
-[![worst coffee ever](comic-worst-coffee-ever-650x308.jpg)](/wp-content/uploads/2006/02/comic-worst-coffee-ever.jpg)
+![worst coffee ever](comic-worst-coffee-ever-650x308.jpg)
 
 Previous: [Inanimate Objects Comics #21](/inanimate-objects-comics-21/)
 
 Next: [Inanimate Objects Comics #23](/inanimate-objects-comics-23/)
 
-*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+_Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com)._

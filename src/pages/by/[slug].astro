@@ -52,7 +52,11 @@ const authorContent = author.body; // This contains the Markdown content
 						<SocialIcon href={authorData.facebook} title="Facebook" network="facebook" />
 					)}
 					{authorData.instagram && (
-						<SocialIcon href={authorData.instagram} title="Instagram" network="instagram" />
+						<SocialIcon
+							href={`https://instagram.com/${authorData.x}`}
+							title="Instagram"
+							network="instagram"
+						/>
 					)}
 					{authorData.linkedin && (
 						<SocialIcon href={authorData.linkedin} title="LinkedIn" network="linkedin" />

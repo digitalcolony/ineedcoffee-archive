@@ -1,7 +1,7 @@
 ---
 author: "Michael Rohde"
 authorSlug: "michael-rohde"
-x: "rohdesign"
+x: ""
 facebook: ""
 instagram: ""
 linkedin: ""

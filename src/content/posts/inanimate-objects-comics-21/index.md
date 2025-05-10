@@ -20,10 +20,10 @@ wordpressId: 257
 
 ![Ode to Sugar Spoon](21Spoon.jpg)
 
-[![what a waste](comic-what-a-waste-650x308.jpg)](/wp-content/uploads/2006/01/comic-what-a-waste.jpg)
+![what a waste](comic-what-a-waste-650x308.jpg)
 
 Previous: [Inanimate Objects Comics #20](/inanimate-objects-comics-20/)
 
 Next: [Inanimate Objects Comics #22](/inanimate-objects-comics-22/)
 
-*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+_Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com)._

@@ -20,7 +20,7 @@ The Frieling is also double-walled – this means that it is designed to hold in
 
 ![Frieling French Press](frieling-french-press-coffee1.jpg)
 
-*Frieling French Press*
+_Frieling French Press_
 
 I enjoyed the Frieling over Thanksgiving, where we all sat down to a nice family gathering. After the meal, I prepared coffee for the 4 of us. The beautiful construction of the press was perfect alongside the fine place settings at the table – this is a plus for anyone looking to have a nice high-quality brewer for big gatherings.
 
@@ -40,7 +40,7 @@ One more note about the filter—I believe, though I haven’t been able to conf
 
 All in all, it’s a beautiful press pot that makes a fantastic cup of coffee that will stay hot. It is extremely well made and durable – the only part I could see having to replace ever would be the filtering mechanism (which is easily removable). The only real potential downside to this press pot is that it costs considerably more than a standard glass French press. However, if it fits in your price range, I honestly believe it’s worth it. This is a French press that will last for many, many years.
 
-*This article first appeared in issue 13 of [Extracted Magazine](/go/coffeeloversmagazine/), which is available on iTunes.*
+_This article first appeared in issue 13 of Extracted Magazine, which is available on iTunes._
 
 ### Resources
 

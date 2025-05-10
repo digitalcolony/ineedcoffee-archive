@@ -13,7 +13,7 @@ wordpressId: 266
 ---
 
 ![Coffee Shop](coffeeshop4751.jpg)  
-*Coffee Shop by Greg Matusic*
+_Coffee Shop by Greg Matusic_
 
-[![Coffee Beans](beans-650x384.gif)](/wp-content/uploads/2005/03/beans.gif)  
-*Coffee Beans by Greg Matusic*
+![Coffee Beans](beans-650x384.gif)  
+_Coffee Beans by Greg Matusic_

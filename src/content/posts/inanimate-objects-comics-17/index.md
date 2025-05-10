@@ -18,7 +18,7 @@ wordpressId: 232
 
 ![strong coffee](0122Strong-Coffee.jpg)
 
-[![i love you](i-love-you-650x308.jpg)](/wp-content/uploads/2005/03/i-love-you.jpg)
+![i love you](i-love-you-650x308.jpg)
 
 ![Ode to spring](01Spring.jpg)
 
@@ -26,4 +26,4 @@ Previous: [Inanimate Objects Comics #16](/inanimate-objects-comics-16/)
 
 Next: [Inanimate Objects Comics #18](/inanimate-objects-comics-18/)
 
-*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+_Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com)._

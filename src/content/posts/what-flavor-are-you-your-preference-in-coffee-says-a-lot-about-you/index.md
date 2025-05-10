@@ -27,21 +27,21 @@ You like your coffee frothy, and milky and in real life too, you enjoy the littl
 Your no-nonsense, purist, and sensible personality sets you apart. Just like your coffee, you are straightforward, patient, and efficient, and like to always keep things simple. However, you can also be resistant to change and even act moody and abrupt at times.
 
 ![](espresso-street-bean.jpg)  
-*Street Bean Espresso by INeedCoffee*
+_Street Bean Espresso by INeedCoffee_
 
 ### Latte
 
 One of the most-loved forms of coffee, the Latte is highly preferred, and latte-lovers are great friends and fun to be with. They are also known to be generous with their time.
 
 ![](latte-etching.jpg)  
-*[Latte Art Etching](/latte-art-etching-photo-gallery/) by INeedCoffee*
+_[Latte Art Etching](/latte-art-etching-photo-gallery/) by INeedCoffee_
 
 ### Mocha
 
 Mocha is a close cousin of both coffee and hot chocolate. Mocha drinkers are perfectionists, trendsetters, and spontaneous. Mocha has a sweet and bitter chocolate flavor and people who regard mocha as their favorite flavor of coffee also like the blend of sweet and bitter in their lives.
 
 ![](mocha.jpg)  
-*Cafe Cuzco Mocha by INeedCoffee*
+_Cafe Cuzco Mocha by INeedCoffee_
 
 ### Latte Macchiato
 
@@ -52,7 +52,7 @@ Strong, distinct, and intense, the Latte Macchiato is an experimental blend of c
 You love to aim high and have high aspirations in life. Your choice of pure and honest flavors is evident in your personality as well.
 
 ![McCafe in Thailand](mccafe-americano-thailand.jpg)  
-*[Americano in Thailand](/sleepy-starbucks-and-caffeinated-sins-in-phuket-thailand/) by MAS*
+_[Americano in Thailand](https://criticalmas.org/2010/05/sleepy-starbucks-and-caffeinated-sins-in-phuket-thailand/) by MAS_
 
 Interesting results, don’t you agree? So next time you are in the mood for coffee, just stop and think for a minute – do you order your coffee or does your coffee order you? Try out the diverse flavors of the world’s most loved beverage at your home today.
 

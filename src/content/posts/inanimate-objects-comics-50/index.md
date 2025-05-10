@@ -12,16 +12,16 @@ updatedAt: "2017-06-07T20:57:54"
 wordpressId: 5563
 ---
 
-[![panic](201439-cause-a-paniccc-650x325.jpg)](/wp-content/uploads/2014/11/201439-cause-a-paniccc.jpg)
+![panic](201439-cause-a-paniccc-650x325.jpg)
 
-[![show him](201438show-him-some-respect-650x325.jpg)](/wp-content/uploads/2014/11/201438show-him-some-respect.jpg)
+![show him](201438show-him-some-respect-650x325.jpg)
 
-[![horrible](201436horrible-series-of-events-650x325.jpg)](/wp-content/uploads/2014/11/201436horrible-series-of-events.jpg)
+![horrible](201436horrible-series-of-events-650x325.jpg)
 
-[![love it when they spill](201435-love-it-when-they-spill-youu-650x325.jpg)](/wp-content/uploads/2014/11/201435-love-it-when-they-spill-youu.jpg)
+![love it when they spill](201435-love-it-when-they-spill-youu-650x325.jpg)
 
 Previous: [Inanimate Objects Comics #49](/inanimate-objects-comics-49/)
 
 Next: [Inanimate Objects Comics #51](/inanimate-objects-comics-51/)
 
-*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+_Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com)._

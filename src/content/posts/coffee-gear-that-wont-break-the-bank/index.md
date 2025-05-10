@@ -12,7 +12,7 @@ updatedAt: "2025-03-29T14:05:26"
 wordpressId: 527
 ---
 
-Making great coffee at home is something that should be easy and inexpensive. With the right equipment and our [Coffee Brewing Guide](/coffee-brewing-guide/), it is. Here on INeedCoffee, we have a comprehensive list of the best equipment called [Essential Coffee Gear](/essential-coffee-gear/). In this article, I’d like to introduce the items on the list and match them with brewing tutorials here on INeedCoffee.
+Making great coffee at home is something that should be easy and inexpensive. With the right equipment and our [Coffee Brewing Guide](/coffee-brewing-guide/), it is. In this article, I’d like to introduce the items on the list and match them with brewing tutorials here on INeedCoffee.
 
 ### French Press
 
@@ -27,7 +27,7 @@ Which French Press you pick is up to you. The important thing is to have one. Fr
 At less than $30, the Aeropress makes an amazing cup of coffee.
 
 ![aeropress](aeropress.jpg)  
-*Aeropress Coffee and Espresso Maker*
+_Aeropress Coffee and Espresso Maker_
 
 [The Upside Down AeroPress Coffee Brewing Tutorial](/upside-aeropress-coffee-brewing-tutorial/)—This detailed tutorial explains the inverted brewing method and provides tips on grind size, brewing times, and temperature.
 
@@ -41,8 +41,9 @@ This classic pour-over coffee brewer just requires a custom-sized filter and som
 
 ![](chemex-coffee-maker350.jpg)
 
-*Chemex Coffeemaker  
-*
+\*Chemex Coffeemaker
+
+-
 
 [Chemex Brewing](/chemex-coffee-brewing-history-and-tutorial/) – This brewing tutorial has been updated with new text and photos three times now.
 
@@ -56,21 +57,24 @@ Drip coffee makers have advanced greatly in recent years. They now brew at highe
 
 ![](bonavita-coffee-brewer400.jpg)
 
-*Bonavita Carafe Coffee Brewer  
-*
+\*Bonavita Carafe Coffee Brewer
+
+-
 
 ### Bean Grinders
 
-The importance of grinding your coffee cannot be understated. It is the single most important thing you can do to improve your coffee quality. Below are two grinders. The Cuisinart is my *ghetto* pick. It is cheap and extremely loud, but it works if you are on a very low budget. People in the industry have told me that The Virtuoso is the best non-espresso coffee grinder on the market. You’ll need something better for espresso, like the Rancilio Rocky Grinder. With grinders, you get what you pay for.
+The importance of grinding your coffee cannot be understated. It is the single most important thing you can do to improve your coffee quality. Below are two grinders. The Cuisinart is my _ghetto_ pick. It is cheap and extremely loud, but it works if you are on a very low budget. People in the industry have told me that The Virtuoso is the best non-espresso coffee grinder on the market. You’ll need something better for espresso, like the Rancilio Rocky Grinder. With grinders, you get what you pay for.
 
 ![cuisinart](cuisinart.jpg)  
-*Cuisinart DBM-8 Supreme Grind Automatic Burr Mill  
-*
+\*Cuisinart DBM-8 Supreme Grind Automatic Burr Mill
+
+-
 
 ![](baratza-virtuoso-coffee-grinder.jpg)
 
-*Baratza Virtuoso Coffee Grinder  
-*
+\*Baratza Virtuoso Coffee Grinder
+
+-
 
 ### Specialized Coffee Brewers
 
@@ -80,7 +84,7 @@ The Clever is as rich as the French Press but without any sediment.
 
 ![](clever-coffee-dripper400.jpg)
 
-*Clever Coffee Dripper*
+_Clever Coffee Dripper_
 
 For more information, read [Clever Coffee Dripper Review](/clever-coffee-dripper-review/).
 
@@ -89,16 +93,18 @@ For more information, read [Clever Coffee Dripper Review](/clever-coffee-dripper
 The Bialetti Stovetop Espresso Maker is used to make Cuban coffee. The Ibrik is used for Turkish Coffee, and for Vietnamese Coffee, you will need a coffee filter set.
 
 ![bialetti](bialetti1.jpg)  
-*Bialetti Moka Express Espresso Maker, 6 Cup  
-*
+\*Bialetti Moka Express Espresso Maker, 6 Cup
+
+-
 
 ![](turkish-ibrik.jpg)
 
-*Turkish Ibrik  
-*
+\*Turkish Ibrik
+
+-
 
 ![vietnamese-coffee](vietnamese-coffee.jpg)  
-*Vietnamese Coffee Filter*
+_Vietnamese Coffee Filter_
 
 [Cafe Cubano (Cuban Coffee)](/cafe-cubano-cuban-coffee/) – Cuban coffee brewing tutorial.
 

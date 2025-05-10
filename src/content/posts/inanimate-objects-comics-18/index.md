@@ -18,10 +18,10 @@ wordpressId: 237
 
 ![ode to coffee candy](zap_coffee_candy.jpg)
 
-[![help me](zap_help_me-650x315.jpg)](/wp-content/uploads/2005/04/zap_help_me.jpg)
+![help me](zap_help_me-650x315.jpg)
 
 Previous: [Inanimate Objects Comics #17](/inanimate-objects-comics-17/)
 
 Next: [Inanimate Objects Comics #19](/inanimate-objects-comics-19/)
 
-*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+_Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com)._

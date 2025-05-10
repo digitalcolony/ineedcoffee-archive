@@ -12,16 +12,16 @@ updatedAt: "2017-06-07T20:36:53"
 wordpressId: 582
 ---
 
-[![dont blame me](09-dont-blame-me-650x195.jpg)](/wp-content/uploads/2012/10/09-dont-blame-me.jpg)
+![dont blame me](09-dont-blame-me-650x195.jpg)
 
-[![drip hooray](10-drip-hooray-650x195.jpg)](/wp-content/uploads/2012/10/10-drip-hooray.jpg)
+![drip hooray](10-drip-hooray-650x195.jpg)
 
-[![melt away and die](11-melt-away-and-die-650x195.jpg)](/wp-content/uploads/2012/10/11-melt-away-and-die.jpg)
+![melt away and die](11-melt-away-and-die-650x195.jpg)
 
-[![negative effects](12-negative-effects-650x195.jpg)](/wp-content/uploads/2012/10/12-negative-effects.jpg)
+![negative effects](12-negative-effects-650x195.jpg)
 
 Previous: [Inanimate Objects Comics #38](/inanimate-objects-comics-38/)
 
 Next: [Inanimate Objects Comics #40](/inanimate-objects-comics-40/)
 
-*Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com).*
+_Inanimate Objects by [Todd Zapoli](/) is licensed under an [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Feel free to add this comic to your website, provided you attribute by linking back to INeedCoffee.com (http://ineedcoffee.com)._
