@@ -184,6 +184,14 @@ const imagePath = titleImage ? `/src/content/posts/${postId}/${titleImage}` : ""
 					<div class="date">
 						Published on <FormattedDate date={publishedDate} />
 					</div>
+
+					{
+						updatedDate && (
+							<div class="date">
+								Updated on <FormattedDate date={updatedDate} />
+							</div>
+						)
+					}
 					<hr />
 					<div class="author">
 						<Author author={author} authorSlug={authorSlug} />
