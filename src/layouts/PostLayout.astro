@@ -84,6 +84,23 @@ const {
 				margin-top: 1em;
 			}
 
+			.prose p a {
+				color: rgb(var(--accent-dark, 0, 50, 150));
+				text-decoration: underline;
+			}
+
+			/* Dark mode styling for author link */
+			:global(.dark-mode) .prose p a {
+				color: #b4bbff; /* Lighter blue for better visibility in dark mode */
+			}
+
+			/* System preference dark mode */
+			@media (prefers-color-scheme: dark) {
+				:global(:not(.light-mode):not(.dark-mode)) .prose p a {
+					color: #b4bbff; /* Lighter blue for dark mode */
+				}
+			}
+
 			.category {
 				display: inline-block;
 				margin-bottom: 1em;
