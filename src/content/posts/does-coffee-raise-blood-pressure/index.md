@@ -4,7 +4,7 @@ title: "Does Coffee Raise Blood Pressure?"
 status: "published"
 author: "Matt Pitcher"
 authorSlug: "matt-pitcher"
-titleImage: undefined
+titleImage: ""
 categorySlug: "coffee-health"
 category: "Coffee and Health"
 publishedDate: "2009-02-01T08:00:00"
@@ -12,7 +12,7 @@ updatedAt: "2025-03-16T10:21:46"
 wordpressId: 164
 ---
 
-*Matt Pitcher is a Certified Fitness Trainer (CFT)*
+_Matt Pitcher is a Certified Fitness Trainer (CFT)_
 
 If you suffer from Cardiovascular Disease (CVD or coronary heart disease) and/or fear you might someday due to high blood pressure, is your coffee consumption compounding the problem? Or, are there other things you can do to alleviate your high blood pressure and CVD concerns that do NOT include ending, or severely lessening, your coffee intake? This article explores reliable answers to those questions.
 
@@ -60,4 +60,4 @@ Coffee consumption does not contribute to high blood pressure and CVD. Retiring 
 
 [Blood Pressure and Coffee](/blood-pressure-and-coffee/) – A contrary view on coffee’s role on blood pressure.
 
-*Photo by [RawPixel](https://unsplash.com/@rawpixel)*
+_Photo by [RawPixel](https://unsplash.com/@rawpixel)_

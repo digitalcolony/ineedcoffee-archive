@@ -4,7 +4,7 @@ title: "The Hamilton Beach Cool Touch Tea Kettle Review"
 status: "published"
 author: "Michael Allen Smith"
 authorSlug: "michael-allen-smith"
-titleImage: undefined
+titleImage: ""
 categorySlug: "brewing-coffee"
 category: "Brewing Coffee"
 publishedDate: "2009-06-30T07:00:00"
@@ -19,19 +19,19 @@ The lid is not attached when the Hamilton Beach Cool Touch Tea Kettle is shipped
 To connect the lid, it must be vertical and set down so the right edge of the lid evenly dissects the center of the open space. Push it down until it snaps. Don’t be tempted to discard the lid. I attempted to boil water without a lid and discovered that the heating element did not turn off. **In order for the kettle to stop boiling water, the lid must be fastened and closed, or you will need to shut it off manually.**
 
 ![Cool Touch Kettle](cool-touch-kettle1.jpg)  
-*Hamilton Beach Cool Touch with open lid. This is how you want to pour. The lid needs to be completely vertical to fasten.*
+_Hamilton Beach Cool Touch with open lid. This is how you want to pour. The lid needs to be completely vertical to fasten._
 
-The *Hamilton Beach Cool Touch Tea Kettle* does have a plastic lip where water can be poured. I use the word “could” because you can bypass the plastic by pushing the button and opening the lid fully while pouring. This prevents the water from making contact with the plastic. Just be careful not to have any exposed fingers over the lid area, or hot steam could burn you.
+The _Hamilton Beach Cool Touch Tea Kettle_ does have a plastic lip where water can be poured. I use the word “could” because you can bypass the plastic by pushing the button and opening the lid fully while pouring. This prevents the water from making contact with the plastic. Just be careful not to have any exposed fingers over the lid area, or hot steam could burn you.
 
-The *Cool Touch* has a nice feature that allows you to hide the excess power cord underneath the base. This will keep the cord from taking over your kitchen counter. See the photo below.
+The _Cool Touch_ has a nice feature that allows you to hide the excess power cord underneath the base. This will keep the cord from taking over your kitchen counter. See the photo below.
 
 ![underneath kettle](hamilton-beach-kettle-underneath.jpg)  
-*Hiding excess cord underneath the heating element.*
+_Hiding excess cord underneath the heating element._
 
-The *Hamilton Beach Cool Touch Kettle* has a green light that indicates when it is powered on. Green makes more sense than [Bodum’s use of red](/extending-the-life-of-your-bodum-cordless-electric-kettle/).
+The _Hamilton Beach Cool Touch Kettle_ has a green light that indicates when it is powered on. Green makes more sense than [Bodum’s use of red](/extending-the-life-of-your-bodum-cordless-electric-kettle/).
 
 ![tea kettle light](tea-kettle-light.jpg)  
-*Green means Go or ON.*
+_Green means Go or ON._
 
 How fast does this kettle heat water? **The Hamilton Beach Cool Touch Kettle brought 16 ounces of water to a rolling boil and powered off in just 2 minutes and 30 seconds.** This is the exact time I got from the Bodum plastic kettle. That is smoking fast. I usually stop it before it hits 2 minutes. It is louder than the Bodum plastic kettle, but I like that, as I am starting to use sound to indicate water temperature. I want hotter water for French press coffee and cooler water for green tea. The louder the kettle, the hotter the water.
 
@@ -39,7 +39,7 @@ How fast does this kettle heat water? **The Hamilton Beach Cool Touch Kettle bro
 
 I don’t want the water to boil when I brew tea. I keep the lid open and drop in a long thermometer. This allows me to easily monitor the temperature and shut off the heating element exactly where I want. Over time, I have learned to watch the water closely to gauge temperature. Tiny bubbles are good for green tea, mid-sized bubbles for oolong tea, and above that, ideal for coffee, black tea, and puer tea.
 
-Besides Hamilton Beach’s terrible phone support and the clumsy lid assembly, I love the *Hamilton Beach Cool Touch Tea Kettle*. Hopefully, you won’t have trouble installing the lid and never need to dial up the support line. I highly endorse this product.
+Besides Hamilton Beach’s terrible phone support and the clumsy lid assembly, I love the _Hamilton Beach Cool Touch Tea Kettle_. Hopefully, you won’t have trouble installing the lid and never need to dial up the support line. I highly endorse this product.
 
 The Hamilton Beach 40898 Cool-Touch Cordless 8 Cup Electric Kettle can heat up to 64 ounces.
 

@@ -4,7 +4,7 @@ title: "Coffee Can Help You Land a Job, Get a Date, and Win a Race"
 status: "published"
 author: "Joel Sussman"
 authorSlug: "joel-sussman"
-titleImage: undefined
+titleImage: ""
 categorySlug: "coffee-health"
 category: "Coffee and Health"
 publishedDate: "2012-11-30T08:00:00"
@@ -21,7 +21,7 @@ Everyone reacts differently to caffeine, and some people should just plain stay 
 In a job interview, it’s especially important to have that extra edge because the interviewer will be noticing (to quote Sting) “every breath you take…every move you make”. Interviewers are as ready to disqualify you as they are to invite you back for the next round. Even though the interviewer may not be consciously aware of it, they’re noticing every little nuance of your demeanor-from your posture to the length of time you pause before responding to a question. When you have the advantage of a couple of cups of joe in your system, your ability to pay attention, think more clearly, and respond intelligently can be enhanced. You still need to be qualified for the job, of course, but in most hiring situations, there’s more than one qualified applicant. Very often, it’s the candidate who’s perceived as sharper, enthusiastic, and more energetic who makes the final cut.
 
 ![espresso red saucer](espresso-red-saucer.jpg)  
-*Competitive Advantage?*
+_Competitive Advantage?_
 
 An article on the topic of “interview demeanor” posted on the Web site of a Salt Lake City TV station (ABC 4) seems to bear this out. According to employer surveys, demeanor is the most influential factor in the hiring decision. The article also offers some specifics on effective demeanor: “During the interview, it’s vital to show enthusiasm. Be responsive, attentive, and remember to smile.” The news feature does caution the reader against being fidgety, which, incidentally, can be a side effect of drinking too much coffee. Caffeine can make you appear jittery, nervous, and overbearing, so, as in all things, moderation and knowing your own personal limits are the keys. Since perception is everything, though, a moderate amount of coffee consumption can make us appear smarter, responsive, and more “on the ball”.
 
@@ -33,6 +33,6 @@ On the other hand, caffeine can potentially cause a racing heart, jitters, and e
 
 ### Resources
 
-Interview demeanor – Interview tips from ABC 4 in Salt Lake City. *The story has been removed from the website.*
+Interview demeanor – Interview tips from ABC 4 in Salt Lake City. _The story has been removed from the website._
 
 [It’s Time to Make a Coffee Run](https://www.nytimes.com/2009/03/26/health/nutrition/26best.html?_r=1) – NY Times article By Gina Kolata.

@@ -4,7 +4,7 @@ title: "Decaffeinated Coffee Comics 2"
 status: "published"
 author: "Chuck Harrison"
 authorSlug: "chuck-harrison"
-titleImage: undefined
+titleImage: ""
 categorySlug: "coffee-comics"
 category: "Coffee Comics"
 publishedDate: "2009-12-15T08:00:00"

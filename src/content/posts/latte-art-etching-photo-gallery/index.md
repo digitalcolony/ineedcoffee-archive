@@ -4,7 +4,7 @@ title: "Latte Art Etching Photo Gallery"
 status: "published"
 author: "Michael Allen Smith"
 authorSlug: "michael-allen-smith"
-titleImage: undefined
+titleImage: ""
 categorySlug: "brewing-coffee"
 category: "Brewing Coffee"
 publishedDate: "2011-11-02T07:00:00"

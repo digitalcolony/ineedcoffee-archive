@@ -4,7 +4,7 @@ title: "It’s All About Taste"
 status: "published"
 author: "Alex Fisenko"
 authorSlug: "alex-fisenko"
-titleImage: undefined
+titleImage: ""
 categorySlug: "coffee-business"
 category: "Coffee Business"
 publishedDate: "1999-06-13T07:00:00"
@@ -25,7 +25,7 @@ A short time ago I was called by a supermarket chain that implemented a dual bag
 To make a fair comparison, it would be like serving a stale, hard, half-baked bagel or muffin to a customer, charging for it $5.00, expecting them to like it, and coming back for more. The espresso beans were excellent, supplied by one of the biggest coffee roasters, and the barista followed the preparation guidelines provided by the supplier. I proceeded to make several lattes, using the same coffee and milk. Everybody, including the customers, agreed that this was the best latte that they ever had! The main comment was: “What did you do, change the coffee?”
 
 ![caffe latte art](caffe-latte-art1.jpg)  
-*Caffe Latte Art*
+_Caffe Latte Art_
 
 Many so-called baristas working in those establishments are espresso challenged and really don’t know what a good latte should taste like, or how to prepare it properly. The astonishing fact is, that in many cases, neither the barista, nor his/her supervisor or even the owner or the president of the business has ever tasted a well-prepared espresso-based drink, and therefore they have no standard of comparison. And because they do not like what they taste, they are not sold on its potential to build traffic into the store and generate new customers. This also hurts the coffee supplier, as the customer tends to blame the coffee if he or she does not like the taste of the drink.
 

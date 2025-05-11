@@ -4,7 +4,7 @@ title: "Avoid Hydroxycut, Drink Coffee Instead"
 status: "published"
 author: "Michael Allen Smith"
 authorSlug: "michael-allen-smith"
-titleImage: undefined
+titleImage: ""
 categorySlug: "coffee-health"
 category: "Coffee and Health"
 publishedDate: "2009-05-01T07:00:00"
@@ -20,10 +20,10 @@ I thought this supplement would disappear since ephedra was removed as an ingred
 
 I was amazed to see why people still bought an ephedra-free Hydroxycut. I guess dieters will always want a quick fix to their weight problems. After ephedra was removed from Hydroxycut, The Healthy Skeptic went through each ingredient in the supplement to see if it still had any benefit and came to this conclusion.
 
-> Hydroxycut is a supplement that combines ingredients with dubious pedigrees with ingredients that *may* prove to be beneficial in some regard *other* than weight loss, topped off with stimulants.
+> Hydroxycut is a supplement that combines ingredients with dubious pedigrees with ingredients that _may_ prove to be beneficial in some regard _other_ than weight loss, topped off with stimulants.
 
 ![Espresso at Neptune Coffee](neptune-coffee-espresso1.jpg)  
-*Espresso at Neptune Coffee*
+_Espresso at Neptune Coffee_
 
 As a coffee drinker, I always shake my head in disgust at these so-called fat-burning stimulants. Coffee is a tasty, zero-calorie beverage that gives one the energy to go for a run or lift weights. Why is this? According to Dr. Jonny Bowden:
 
@@ -33,7 +33,7 @@ For years, I’ve slightly increased my morning coffee intake before I go to the
 
 ### Resources
 
-The Healthy Skeptic: Hydroxycut – Weight Loss Supplement or Myth? – by Sal Marinello *(2017: article no longer online)*
+The Healthy Skeptic: Hydroxycut – Weight Loss Supplement or Myth? – by Sal Marinello _(2017: article no longer online)_
 
 [Warning on Hydroxycut](https://web.archive.org/web/20161024065813/http://www.fda.gov/NewsEvents/PublicHealthFocus/ucm155600.htm) – FDA website
 

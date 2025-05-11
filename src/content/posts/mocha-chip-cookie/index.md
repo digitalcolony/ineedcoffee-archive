@@ -4,7 +4,7 @@ title: "Mocha Chip Cookie"
 status: "published"
 author: "Stefanie Spencer"
 authorSlug: "stefanie-spencer"
-titleImage: undefined
+titleImage: ""
 categorySlug: "coffee-recipes"
 category: "Recipes"
 publishedDate: "2008-02-01T08:00:00"
@@ -16,11 +16,11 @@ The only thing better than coffee is chocolate, or is it the other way around? E
 
 Preheat Oven to 350 F
 
--   1 box Chocolate Cake Mix
--   2 Eggs
--   1/2 cup butter
--   2 oz. Espresso (or substitute)
--   1 cup Chocolate Covered Coffee Beans and/or Chocolate Chips
+- 1 box Chocolate Cake Mix
+- 2 Eggs
+- 1/2 cup butter
+- 2 oz. Espresso (or substitute)
+- 1 cup Chocolate Covered Coffee Beans and/or Chocolate Chips
 
 If you do not have the espresso, that’s fine. Use two slightly heaping teaspoonfuls of instant coffee and add enough warm water to make 2 oz. Put this in the refrigerator to cool to at least room temperature.
 

@@ -4,7 +4,7 @@ title: "A Kona Coffee Farmer Considers Global Warming"
 status: "published"
 author: "Gary Strawn"
 authorSlug: "gary-strawn"
-titleImage: undefined
+titleImage: ""
 categorySlug: "coffee-business"
 category: "Coffee Business"
 publishedDate: "2009-06-01T07:00:00"
@@ -19,7 +19,7 @@ I spent years working in a tall, climate-controlled building with windows that d
 Growing Kona coffee for a living is a whole different story. Farming requires me to watch the weather closely and it can have a big impact on my daily life as well as my annual income. This year’s rainy season started a bit late and I can definitely tell because the coffee trees haven’t bloomed correctly yet. Without a good bloom, there won’t be a good coffee harvest. Last year’s weather was slightly cloudier than usual, so we never had a good bloom. It was nothing severe, just slightly cloudier than usual, but it was enough to cut our production in half. The lasting effect will be felt this year, too. Unusual weather one year can have a dramatic effect even years later. It doesn’t take a huge heat wave, prolonged drought, or 100-year flood to get my attention now. I notice even the slightest drop of rain.
 
 ![waiting for rain](Rain1.jpg)  
-*Waiting for rain in Kona*
+_Waiting for rain in Kona_
 
 Some farm jobs, such as spreading fertilizer, are best done when it is going to rain soon. Spread the fertilizer in dry weather, and most of the nitrogen will disappear (volatilize) and fall straight into the atmosphere. On the other hand, too much rain will wash the fertilizer away. Light rain is ideal, maybe 1/4 inch immediately after fertilizing. Fertilizing in the rain is not fun, so I try to guess when the rain is going to arrive and start fertilizing a few hours ahead of time. Sometimes I guess right, sometimes I don’t.
 
@@ -30,7 +30,7 @@ I’m not a trained meteorologist, but I can often guess better than the local w
 I have a good friend who majored in meteorology. I remember him taking a class on forecasting. They had data for several different cities across the country and the students competed with each other to see who could make the most accurate weather forecasts. They also competed against a thing called persistence. Basically, persistence is nothing but forecasting the same weather as yesterday. If the weather stays the same, persistence is correct; if the weather changes, persistence is wrong. Forecasting more accurately than persistence is not as easy as it sounds.
 
 ![weather forecast](forecast.gif)  
-*Weather Forecast*
+_Weather Forecast_
 
 I once needed a stretch of sunny weather so I could do some painting. Every morning, I’d wake up and look out my window to see bright sunshine. Then I checked the weather report, and it showed heavy rain for the next several days. Taking the weatherman’s word for it, I’d put off the job until the forecast looked better. Of course, it stayed bright and sunny all week until the forecast showed sunshine. As soon as they predicted the sun and I started painting, then it would rain.
 
@@ -41,7 +41,7 @@ I don’t put much trust in the daily weather forecast and I never trust the ext
 With weather radar and satellites that can see the storms coming for miles across an empty ocean, it seems like predicting the weather in Hawaii wouldn’t be all that difficult. There are some very bright people at the national weather service but even with all their fancy technology, sophisticated modeling, and years of experience, they still can’t reliably predict today’s weather. Apparently, this weather forecasting stuff is much more complicated than it seems.
 
 ![Downpour in Kona](Downpour.jpg)  
-*Downpour in Kona*
+_Downpour in Kona_
 
 And that is why I am unconvinced by weather predictions for 100 years from now. Reading news articles and watching the Discover channel, it seems that global warming is a foregone conclusion. I’ve seen Al Gore’s “An Inconvenient Truth” and he seems to present a lot of convincing evidence.
 
@@ -61,7 +61,7 @@ In New York in 1900 they had a big problem with horse manure because nobody drov
 
 Here, from Michael Crichton is a short list of words that Teddy Roosevelt did not know the meaning of:
 
-> *airport, antibiotic, antibody, antenna, computer, continental drift, tectonic plates, zipper, nylon, radio, television, robot, video, virus, gene, proton, neutron, atomic structure, quark, atomic bomb, nuclear energy, ecosystem, jumpsuits, fingerprints, step aerobics, 12-step, jet stream, shell shock, shock wave, radio wave, microwave, tidal wave, tsunami, IUD, DVD, MP3, MRI, HIV, SUV, VHS, VAT, whiplash, wind tunnel, carpal tunnel, fiber optics, direct dialing, dish antennas, gorilla, corneal transplant, liver transplant, heart transplant, liposuction, transduction, maser, taser, laser, acrylic, penicillin, Internet, interferon, nylon, rayon, leisure suit, leotard, lap dancing, laparoscopy, arthroscopy, gene therapy, bipolar, moonwalk, spot welding, heat-seeking, Prozac, sunscreen, urban legends, rollover minutes*
+> _airport, antibiotic, antibody, antenna, computer, continental drift, tectonic plates, zipper, nylon, radio, television, robot, video, virus, gene, proton, neutron, atomic structure, quark, atomic bomb, nuclear energy, ecosystem, jumpsuits, fingerprints, step aerobics, 12-step, jet stream, shell shock, shock wave, radio wave, microwave, tidal wave, tsunami, IUD, DVD, MP3, MRI, HIV, SUV, VHS, VAT, whiplash, wind tunnel, carpal tunnel, fiber optics, direct dialing, dish antennas, gorilla, corneal transplant, liver transplant, heart transplant, liposuction, transduction, maser, taser, laser, acrylic, penicillin, Internet, interferon, nylon, rayon, leisure suit, leotard, lap dancing, laparoscopy, arthroscopy, gene therapy, bipolar, moonwalk, spot welding, heat-seeking, Prozac, sunscreen, urban legends, rollover minutes_
 
 The list may be a bit specious but the point is to not assume that we know everything. I’m not willing to bet that citizens of 2100 will drill for oil or drive gasoline-powered cars, are you? Imagine if, during the 70s, we had decided to prevent the coming ice age by trying to warm the Earth.
 
@@ -72,10 +72,10 @@ As a Kona coffee farmer, I am very dependent on stable weather patterns so globa
 The universe is a highly complex place. I can’t predict the future, and neither can anybody else. Making rash decisions usually backfires, and personally, I’m not yet convinced one way or the other what tomorrow’s weather will be.
 
 ![Horses](Horses.jpg)  
-*1900: Horses*
+_1900: Horses_
 
 ![Astronaut](Astronaut.jpg)  
-*2000: Astronaut*
+_2000: Astronaut_
 
 ![star trek](Transporter.jpg)  
-*2100: ???*
+_2100: ???_

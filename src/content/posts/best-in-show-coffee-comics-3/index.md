@@ -4,7 +4,7 @@ title: "Best In Show – Coffee Comics #3"
 status: "published"
 author: "Phil Juliano"
 authorSlug: "phil-juliano"
-titleImage: undefined
+titleImage: ""
 categorySlug: "coffee-comics"
 category: "Coffee Comics"
 publishedDate: "2011-06-06T07:00:00"

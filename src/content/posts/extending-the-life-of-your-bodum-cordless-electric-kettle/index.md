@@ -4,7 +4,7 @@ title: "Extending the Life of Your Bodum Cordless Electric Kettle"
 status: "published"
 author: "Michael Allen Smith"
 authorSlug: "michael-allen-smith"
-titleImage: undefined
+titleImage: ""
 categorySlug: "brewing-coffee"
 category: "Brewing Coffee"
 publishedDate: "2010-04-15T07:00:00"
@@ -17,12 +17,12 @@ While researching a new electric kettle online, I stumbled upon the reviews of m
 First, let me describe the problem. After you finish using the kettle, place it back onto its holder. Only now do youn’t want to heat water, so you don’t want it to switch on. The switch should stay down. It doesn’t always stay down, and as some reviewers indicate, it goes into a flickering mode. Eventually, the switch gets worn out, and the kettle stops working.
 
 ![bodum-electric-kettle](bodum-electric-kettle1.jpg)  
-*Don’t store your Ibis Electric Water Kettle like this when not used.*
+_Don’t store your Ibis Electric Water Kettle like this when not used._
 
 If you want a long life out of your Bodum Cordless Electric Kettle, I advise keeping the kettle on the stand only when it is heating water. **Set it sideways when you aren’t using it.** Mine has lasted years. The one I donated to my office died quickly because people returned it fully on the stand when not using it. The switch eventually gave out, and it had to be thrown away.
 
 ![store-bodum-kettle-sideways](store-bodum-kettle-sideways.jpg)  
-*Store Ibis Kettle Sideways to extend its life.*
+_Store Ibis Kettle Sideways to extend its life._
 
 ### Resources
 

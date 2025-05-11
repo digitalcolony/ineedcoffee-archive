@@ -32,5 +32,4 @@ Backers in the Campaign will receive Early Bird Discounts as well as free shippi
 
 ![powerroaster home coffee roaster](powerroaster-coffee-roaster.jpg)
 
-*Disclosure: This post was sponsored. INeedCoffee received equipment and compensation for this article.  
-*
+_Disclosure: This post was sponsored. INeedCoffee received equipment and compensation for this article._

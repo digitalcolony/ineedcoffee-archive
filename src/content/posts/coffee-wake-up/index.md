@@ -4,7 +4,7 @@ title: "Coffee Wake-Up!"
 status: "published"
 author: "Ian Balchin"
 authorSlug: "ian-balchin"
-titleImage: undefined
+titleImage: ""
 categorySlug: "cafe-culture"
 category: "Cafe Culture"
 publishedDate: "2009-12-16T08:00:00"
@@ -19,7 +19,7 @@ On our first day, we stopped for a morning coffee in the Ferry Road Market in So
 From one end of Queensland to the other we had coffee, coffee, and more coffee. With the odd exception, it was great stuff. From ‘Aroma’ in Noosa to Xcoffee in Labrador we found such delights of taste and aroma, such tantalising and dedicated coffee outlets. Such artistic patterns on the top of the coffee too!
 
 ![Latte Etching by Ian Balchin](latte-art-flower-ian1.jpg)  
-*Latte Etching by Ian Balchin*
+_Latte Etching by Ian Balchin_
 
 Back home, I wanted to know how I could recreate that delicious coffee I had had on holiday.
 
@@ -34,7 +34,7 @@ I found that a good whizz of the standard ground coffee in the grinder reduced t
 So I discovered the need to not over grind and not tamp down with all my might (the bottom of a small round olive oil bottle fitted the basket just right and with a little effort I could compress the coffee completely solid).
 
 ![Latte Art by Ian Balchin](latte-etching-sweetner.jpg)  
-*Latte Art by Ian Balchin*
+_Latte Art by Ian Balchin_
 
 Once I could get the coffee through without disaster I concentrated on 2-cup brews only. I need a proper ‘tamper’, I need a source of beans which I am told is available 80 miles down the road at our local ‘city’. I would love to find a popcorn popper at the next fete but I had to persevere with what I had to hand.
 

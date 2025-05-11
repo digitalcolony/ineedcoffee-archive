@@ -4,7 +4,7 @@ title: "The Brazen Brewer by Behmor"
 status: "published"
 author: "Chris Arnold"
 authorSlug: "chris-arnold"
-titleImage: undefined
+titleImage: ""
 categorySlug: "brewing-coffee"
 category: "Brewing Coffee"
 publishedDate: "2013-12-19T08:00:00"
@@ -24,17 +24,17 @@ With the Brazen Brewer by Behmor (makers of the venerable Behmor 1600 Coffee Roa
 
 Here is an overview of some of the Brazen’s features, some of which are specialized to appeal to the coffee geek:
 
--   Meets 2011 SCAA Standards
--   40-ounce (1.2 Liter) Capacity Unified Stainless Steel Water Reservoir/Boiler
--   Variable Temperature Controls between 190F and 210F in 1F increments (88C to 99C in .5C increments)
--   On-board system Temperature Calibration with Altitude Correction
--   Full Saturation Water Dispersion Spray head
--   Pre-Soak function (15 seconds-4 minutes in 1-second increments)
--   Insulated Stainless Steel Carafe
--   Auto-Timer
--   BPA Free
--   Direct Brewing Feature: after removing the basket, you can brew directly into other brewers, such as the Chemex.
--   Manual Water Release Feature, which means you get a carafe of water with a precise temp for use in tea or other pour-over systems such as the Melitta Cone, Clever Coffee Dripper, or even French Press.
+- Meets 2011 SCAA Standards
+- 40-ounce (1.2 Liter) Capacity Unified Stainless Steel Water Reservoir/Boiler
+- Variable Temperature Controls between 190F and 210F in 1F increments (88C to 99C in .5C increments)
+- On-board system Temperature Calibration with Altitude Correction
+- Full Saturation Water Dispersion Spray head
+- Pre-Soak function (15 seconds-4 minutes in 1-second increments)
+- Insulated Stainless Steel Carafe
+- Auto-Timer
+- BPA Free
+- Direct Brewing Feature: after removing the basket, you can brew directly into other brewers, such as the Chemex.
+- Manual Water Release Feature, which means you get a carafe of water with a precise temp for use in tea or other pour-over systems such as the Melitta Cone, Clever Coffee Dripper, or even French Press.
 
 ![Brazen temperature](brazen-temperature.jpg)
 
@@ -46,10 +46,10 @@ Instead of walking you through how to use the Brazen Brewer, I am going to touch
 
 This is probably the best feature, and it works very well. I tried a couple of temperatures with freshly roasted Congo and Malawi coffees. Here are the results:
 
--   Malawi at 198F – Good caramel flavor, but mostly rounded and mellow.
--   Malawi at 202F – Really came alive! Oreo cookie, honey, tobacco prominent finish.
--   Congo at 198F – Earthy, Fruity, and a nice sweet finish.
--   Congo at 202F – Somewhat indistinct, finish a little bitter.
+- Malawi at 198F – Good caramel flavor, but mostly rounded and mellow.
+- Malawi at 202F – Really came alive! Oreo cookie, honey, tobacco prominent finish.
+- Congo at 198F – Earthy, Fruity, and a nice sweet finish.
+- Congo at 202F – Somewhat indistinct, finish a little bitter.
 
 I think it is clear that this is a feature that you need (even if you did not know it).
 
@@ -81,21 +81,21 @@ Do yourself a favor and go buy one right now. Unless you need a plumbed-in coffe
 
 ### Pros
 
--   Reasonably Priced at $199 USD
--   Precise Temp Control works very well (and is addicting!)
--   Temp Calibration with Altitude Correction is a very nice touch
--   The pre-Soak feature can help with coffee bloom/overflow, as well as better extraction and flavor
--   It can be used with other pour-over systems like Chemex (direct brew) or Melitta/Clever Coffee Dripper (as a precise kettle)
--   Includes a gold filter but can also take standard paper cupcake-style filters
--   2 Year (24-month) Warranty
+- Reasonably Priced at $199 USD
+- Precise Temp Control works very well (and is addicting!)
+- Temp Calibration with Altitude Correction is a very nice touch
+- The pre-Soak feature can help with coffee bloom/overflow, as well as better extraction and flavor
+- It can be used with other pour-over systems like Chemex (direct brew) or Melitta/Clever Coffee Dripper (as a precise kettle)
+- Includes a gold filter but can also take standard paper cupcake-style filters
+- 2 Year (24-month) Warranty
 
 ![Brazen pot](brazen-pot.jpg)
 
 ### Cons
 
--   No plumb-in option
--   No glass-lined carafe option
+- No plumb-in option
+- No glass-lined carafe option
 
 ### Resources
 
-*Disclosure: INeedCoffee was sent this product at no cost, which did not affect its review.*
+_Disclosure: INeedCoffee was sent this product at no cost, which did not affect its review._

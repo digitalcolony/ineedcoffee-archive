@@ -4,7 +4,7 @@ title: "IT WORKS!"
 status: "published"
 author: "Christopher Allen Samson"
 authorSlug: "christopher-allen-samson"
-titleImage: undefined
+titleImage: ""
 categorySlug: "coffee-comics"
 category: "Coffee Comics"
 publishedDate: "2013-05-08T07:00:00"

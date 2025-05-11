@@ -4,7 +4,7 @@ title: "Roasting and Brewing Toddy Cat Coffee"
 status: "published"
 author: "Allen J Pais"
 authorSlug: "allen-j-pais"
-titleImage: undefined
+titleImage: ""
 categorySlug: "roasting-coffee"
 category: "Roasting Coffee"
 publishedDate: "2011-04-06T23:32:47"
@@ -12,7 +12,7 @@ updatedAt: "2025-03-17T18:54:19"
 wordpressId: 1493
 ---
 
-*For background information on Toddy Cat Coffee, please read [Toddy Cat Coffee Beans](https://ecofriendlycoffee.org/toddy-cat-coffee-beans/) and [Toddy Cat Coffee Bean Process](https://ecofriendlycoffee.org/toddy-cat-coffee-bean-process/).*
+_For background information on Toddy Cat Coffee, please read [Toddy Cat Coffee Beans](https://ecofriendlycoffee.org/toddy-cat-coffee-beans/) and [Toddy Cat Coffee Bean Process](https://ecofriendlycoffee.org/toddy-cat-coffee-bean-process/)._
 
 One of the most critical steps in normal coffee and Toddy-Civet Cat coffee production is the roasting process. It has implications on coffee taste, aroma, and colour, and therefore has an overall effect on the quality of the coffee.
 
@@ -22,27 +22,27 @@ Below, find the Steps to Prepare the Roasted Toddy-Civet Cat ROBUSTA Coffee Bean
 
 ![roast-civit](roast-civit1.jpg)
 
-*Roast the dried coffee beans in a Hot Pan*
+_Roast the dried coffee beans in a Hot Pan_
 
 ![roast-civit2](roast-civit2.jpg)
 
-*Roast the coffee beans until dark brown*
+_Roast the coffee beans until dark brown_
 
 ![roast-civit3](roast-civit3.jpg)
 
-*Verify the coffee beans are emitting the coffee fragrance.*
+_Verify the coffee beans are emitting the coffee fragrance._
 
 ![civit-grinder](civit-grinder.jpg)
 
-*Grind the coffee beans to a fine powder.*
+_Grind the coffee beans to a fine powder._
 
 ![civit powder](grinder600.jpg)
 
-*The Toddy-Civet Cat Robusta Coffee Bean Powder Is Ready To Be Used*
+_The Toddy-Civet Cat Robusta Coffee Bean Powder Is Ready To Be Used_
 
 ![civit-roast-to-grind](civit-roast-to-grind.jpg)
 
-*The Three Roasting Stages*
+_The Three Roasting Stages_
 
 The powdered Robusta Coffee powder (Toddy-Civet Cat Coffee Powder) is now ready.
 

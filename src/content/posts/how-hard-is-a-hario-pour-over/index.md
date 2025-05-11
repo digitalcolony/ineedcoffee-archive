@@ -4,7 +4,7 @@ title: "How Hard is a Hario Pour Over?"
 status: "published"
 author: "Samantha Joyce"
 authorSlug: "samantha-joyce"
-titleImage: undefined
+titleImage: ""
 categorySlug: "brewing-coffee"
 category: "Brewing Coffee"
 publishedDate: "2013-07-17T07:00:00"
@@ -12,21 +12,21 @@ updatedAt: "2025-03-22T14:07:18"
 wordpressId: 594
 ---
 
-We’ve all heard the rumors that the Hario V60 has a reputation for being a difficult brew method. On a recent visit, Jeff Babcock, the owner of Zoka Coffee in Seattle, told me that a Hario pour-over was his preferred brew method. He is a judge in the *Cup of Excellence*, so I trust him as an authority on taste.
+We’ve all heard the rumors that the Hario V60 has a reputation for being a difficult brew method. On a recent visit, Jeff Babcock, the owner of Zoka Coffee in Seattle, told me that a Hario pour-over was his preferred brew method. He is a judge in the _Cup of Excellence_, so I trust him as an authority on taste.
 
 I decided to break out of my daily Chemex coffee routine and try Hario. Compared to a French press, the Hario brews a clear cup of coffee with no sediment. Compared to Chemex, the thinner paper filter of a Hario allows more of the natural coffee oil and flavor to be present in the finished cup. Is it worth the fuss, though?
 
 Equipment list:
 
--   Hario V60 Ceramic Dripper 02-Medium (comes with plastic coffee measuring scoop)
--   Hario V60 Coffee Paper Filters 02-Medium
--   Hario V60 Glass Server
--   Hario V60 Drip Station
--   Hario V60 Drip Scale
--   Hario Buono Coffee Drip Kettle
--   Baratza Encore burr grinder
--   Mavea Water Filtration Pitcher
--   Equator Coffee Mocha Java Organic Fair Trade Blend
+- Hario V60 Ceramic Dripper 02-Medium (comes with plastic coffee measuring scoop)
+- Hario V60 Coffee Paper Filters 02-Medium
+- Hario V60 Glass Server
+- Hario V60 Drip Station
+- Hario V60 Drip Scale
+- Hario Buono Coffee Drip Kettle
+- Baratza Encore burr grinder
+- Mavea Water Filtration Pitcher
+- Equator Coffee Mocha Java Organic Fair Trade Blend
 
 ![Hario setup](hario-setup1.jpeg)
 

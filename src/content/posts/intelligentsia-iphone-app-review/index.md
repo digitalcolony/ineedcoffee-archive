@@ -4,7 +4,7 @@ title: "Intelligentsia iPhone App Review"
 status: "published"
 author: "Chris Arnold"
 authorSlug: "chris-arnold"
-titleImage: undefined
+titleImage: ""
 categorySlug: "coffee-business"
 category: "Coffee Business"
 publishedDate: "2010-12-22T08:00:00"
@@ -20,10 +20,10 @@ And now they have thrown their hat into the iPhone app ring. But it is more than
 
 There are four main pages accessed from icons along the bottom:
 
--   Coffee – Their Current Offerings
--   Brewing – Detailed, Illustrated, Step-by-Step Brewing
--   Brew Timer – A Brew Timer
--   About – About the Company, Projects, and Philosophy
+- Coffee – Their Current Offerings
+- Brewing – Detailed, Illustrated, Step-by-Step Brewing
+- Brew Timer – A Brew Timer
+- About – About the Company, Projects, and Philosophy
 
 ### Quirks
 
@@ -39,17 +39,17 @@ Lastly, there doesn’t seem to be any way to purchase coffee within the app. Lo
 
 On the bright side, the app is beautiful, with wood-grain backgrounds, nice fonts, an intuitive UI, and a wealth of actual information that matters to us Coffee Lovers. You can find out if a coffee is “In Season”, “Direct Trade”, or part of a “Black Cat Project”. You probably won’t see terms like Fair Trade, Organic, Shade Grown, or Bird Friendly. Here is why: They actually try to follow something they call “Direct Trade”. What does that mean? Here is how they explain it:
 
-> *“Coffee quality must be exceptional.”*
+> _“Coffee quality must be exceptional.”_
 
-> *“The grower must be committed to healthy environmental practices.”*
+> _“The grower must be committed to healthy environmental practices.”_
 
-> *“The verifiable price to the grower or the local coop, not simply the exporter, must be at least 25% above the Fair Trade price.”*
+> _“The verifiable price to the grower or the local coop, not simply the exporter, must be at least 25% above the Fair Trade price.”_
 
-> *“The grower must be committed to sustainable social practices.”*
+> _“The grower must be committed to sustainable social practices.”_
 
-> *“All the trade participants must be open to transparent disclosure of financial deliveries back to the individual farmers.”*
+> _“All the trade participants must be open to transparent disclosure of financial deliveries back to the individual farmers.”_
 
-> *“Intelligentsia representatives must visit the farm or cooperative village at least once per harvest season, understanding that we will most often visit three times per year: pre-harvest to craft strategy, during the harvest to monitor quality, and post-harvest to review and celebrate the successes.”*
+> _“Intelligentsia representatives must visit the farm or cooperative village at least once per harvest season, understanding that we will most often visit three times per year: pre-harvest to craft strategy, during the harvest to monitor quality, and post-harvest to review and celebrate the successes.”_
 
 So it’s actually better than Fair Trade coffee. Pretty high standards. The more I read, the more I love these guys’ attitudes.
 
@@ -84,15 +84,15 @@ Once a brewing method is selected, you are presented with the first page, which 
 
 Swiping to the left presents page two, which tells you what you are going to need to make said coffee. For example, this is what it lists for French Press:
 
--   34g of whole bean coffee
--   Cold Filtered Water
--   4 Cup French Press
--   Electric Kettle
--   Burr Grinder set to coarse
--   Digital Scale
--   Vessel to decant into
--   Soup Spoon
--   Your favorite mug
+- 34g of whole bean coffee
+- Cold Filtered Water
+- 4 Cup French Press
+- Electric Kettle
+- Burr Grinder set to coarse
+- Digital Scale
+- Vessel to decant into
+- Soup Spoon
+- Your favorite mug
 
 Swiping to all the additional pages, which can exceed a dozen depending on the method, show individual detailed steps with illustrations, and even illustrated cleanup instructions. Very nice touch.
 

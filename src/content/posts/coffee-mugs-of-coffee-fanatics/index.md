@@ -4,7 +4,7 @@ title: "Coffee Mugs of Coffee Fanatics"
 status: "published"
 author: "Michael Allen Smith"
 authorSlug: "michael-allen-smith"
-titleImage: undefined
+titleImage: ""
 categorySlug: "cafe-culture"
 category: "Cafe Culture"
 publishedDate: "2008-03-01T08:00:00"
@@ -14,11 +14,11 @@ wordpressId: 392
 
 In a recent CaffiNation podcast, INeedCoffee contributor Paul Rj Muller developed an idea based on the article “Caffeine Consumption By Coffee Fanatics.” In that article, several contributors shared their caffeine consumption levels. Paul’s idea is to share a photo of the mug we use to assist us in reaching our caffeine goals.
 
-Below are a few of the favorite mugs used by several listeners to the *Caffination Podcast*.
+Below are a few of the favorite mugs used by several listeners to the _Caffination Podcast_.
 
 **Michael Allen Smith, Seattle**
 
-> Since my drink of choice is espresso, my favorite *mug* is a little demitasse. On it is a Edgar Degas painting of ballet dancers. This is so not my style. I received the set as a gift, which I fully expected to throw into storage. Then I noticed that I could pull my espresso shots directly into the cup. It’s been my favorite ever since.
+> Since my drink of choice is espresso, my favorite _mug_ is a little demitasse. On it is a Edgar Degas painting of ballet dancers. This is so not my style. I received the set as a gift, which I fully expected to throw into storage. Then I noticed that I could pull my espresso shots directly into the cup. It’s been my favorite ever since.
 
 My favorite traditional coffee mug died on January 26th, 2000. That story is told in [Coffee Eulogy](/a-coffee-eulogy/).
 

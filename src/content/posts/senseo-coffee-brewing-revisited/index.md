@@ -4,7 +4,7 @@ title: "Senseo Coffee Brewing Revisited"
 status: "published"
 author: "Michael Allen Smith"
 authorSlug: "michael-allen-smith"
-titleImage: undefined
+titleImage: ""
 categorySlug: "brewing-coffee"
 category: "Brewing Coffee"
 publishedDate: "2004-09-01T07:00:00"
@@ -44,7 +44,7 @@ In the article, I did a quick hack using scissors and my own home-roasted coffee
 
 ### Did the Senseo produce foam as it shows in the commercial?
 
-The *foamy effect* is something that looks good, but I’m not sure if it’s good. Crema in espresso is good, crema in brewed coffee means the beans didn’t make contact with the water at that point, usually due to extreme freshness. The Senseo is neither brewing method and the coffee was beyond stale, but it did produce a foamy effect.
+The _foamy effect_ is something that looks good, but I’m not sure if it’s good. Crema in espresso is good, crema in brewed coffee means the beans didn’t make contact with the water at that point, usually due to extreme freshness. The Senseo is neither brewing method and the coffee was beyond stale, but it did produce a foamy effect.
 
 ### Thank you. I almost bought one of these machines at Costco.
 

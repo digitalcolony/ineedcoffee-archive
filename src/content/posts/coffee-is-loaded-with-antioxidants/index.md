@@ -4,7 +4,7 @@ title: "Coffee is Loaded With Antioxidants"
 status: "published"
 author: "Michael Allen Smith"
 authorSlug: "michael-allen-smith"
-titleImage: undefined
+titleImage: ""
 categorySlug: "coffee-health"
 category: "Coffee and Health"
 publishedDate: "2010-05-12T07:00:00"
@@ -14,7 +14,7 @@ wordpressId: 507
 
 I always knew coffee had some antioxidants but was unaware it had more than tea. Antioxidants protect the body from free radicals. Dr. Jonny Bowden, in his book The 150 Healthiest Foods on Earth, lists Coffee as one of the top 150 foods. He even states that it has antioxidant power greater than tea or cocoa.
 
-> …a study in the *Journal of Agriculture and Food Chemistry* in 2001 found that coffee has significantly more total antioxidant activity than either cocoa, green tea, black tea, or herbal tea.
+> …a study in the _Journal of Agriculture and Food Chemistry_ in 2001 found that coffee has significantly more total antioxidant activity than either cocoa, green tea, black tea, or herbal tea.
 
 What makes coffee such a rich source of antioxidants? According to Dr. Bowden, coffee has chlorogenic acid and caffeic acid. Both are strong antioxidants. The Coffee Science Information Center states 200 ml of arabica coffee (~6.7 ounces) can contain between 70 and 200 mg chlorogenic acid.
 
@@ -24,7 +24,7 @@ Wikipedia has this to say about chlorogenic acid and caffeic acid:
 
 The Coffee Science Information Center also reports that the roasting time of coffee will impact the antioxidant levels.
 
-> The roasting of coffee beans dramatically increases their total antioxidant activity. A roasting time of **10 minutes (medium-dark roast)** was found to produce coffee with optimal oxygen scavenging and chain breaking activities *in vitro* (6).
+> The roasting of coffee beans dramatically increases their total antioxidant activity. A roasting time of **10 minutes (medium-dark roast)** was found to produce coffee with optimal oxygen scavenging and chain breaking activities _in vitro_ (6).
 
 ![150-healthiest-foods-on-earth](150-healthiest-foods-on-earth1.jpg)
 

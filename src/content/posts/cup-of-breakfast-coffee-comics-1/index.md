@@ -4,7 +4,7 @@ title: "Cup of Breakfast – Coffee Comics #1"
 status: "published"
 author: "David Martin"
 authorSlug: "david-martin"
-titleImage: undefined
+titleImage: ""
 categorySlug: "coffee-comics"
 category: "Coffee Comics"
 publishedDate: "2011-06-03T07:00:00"
