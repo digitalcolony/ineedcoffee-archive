@@ -13,6 +13,11 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
 // TODO: Replace this default image with a 1200x630 pixel image
 const { title, description, image = "/ineedcoffee-logo.jpg" } = Astro.props;
+
+const isHomepage = Astro.url.pathname === "/";
+const fullTitle = isHomepage
+	? "I Need Coffee - By Coffee Fans, For Coffee Fans!"
+	: `${title} - I Need Coffee`;
 ---
 
 <!-- Global Metadata -->
@@ -59,14 +64,14 @@ const { title, description, image = "/ineedcoffee-logo.jpg" } = Astro.props;
 <link rel="canonical" href={canonicalURL} />
 
 <!-- Primary Meta Tags -->
-<title>{title}</title>
-<meta name="title" content={title} />
+<title>{fullTitle}</title>
+<meta name="title" content={fullTitle} />
 <meta name="description" content={description} />
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
 <meta property="og:url" content={Astro.url} />
-<meta property="og:title" content={title} />
+<meta property="og:title" content={fullTitle} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={image ? new URL(image, Astro.url) : undefined} />
 <meta property="og:image:alt" content={description} />
@@ -75,13 +80,12 @@ const { title, description, image = "/ineedcoffee-logo.jpg" } = Astro.props;
 <!-- Twitter/X Card - Both naming conventions maintained for compatibility -->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:url" content={Astro.url} />
-<meta name="twitter:title" content={title} />
+<meta name="twitter:title" content={fullTitle} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={image ? new URL(image, Astro.url) : undefined} />
 <meta name="twitter:image:alt" content={description} />
 <meta name="twitter:creator" content="@INeedCoffee" />
 
-<!-- Modern SEO tags -->
 <meta name="robots" content="index, follow" />
 <meta name="theme-color" content="#2b5797" />
 <meta name="author" content="INeedCoffee" />
