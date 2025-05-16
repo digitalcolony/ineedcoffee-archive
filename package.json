@@ -1,7 +1,11 @@
 {
-  "name": "inc-starlight",
+  "name": "ineedcoffee-archive",
   "type": "module",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ineedcoffee-archive.git"
+  },
   "scripts": {
     "dev": "astro dev",
     "copy-images": "node scripts/copy-images.js",
