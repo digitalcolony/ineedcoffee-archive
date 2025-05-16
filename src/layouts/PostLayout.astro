@@ -1,10 +1,13 @@
 ---
 import type { CollectionEntry } from "astro:content";
+import { Image } from "astro:assets";
 import Author from "../components/Author.astro";
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import FormattedDate from "../components/FormattedDate.astro";
+import fs from "node:fs";
+import path from "node:path";
 
 type Props = CollectionEntry<"posts">["data"];
 
@@ -21,9 +24,25 @@ const {
 } = Astro.props;
 
 // Get the post ID from the URL to construct the image path
-const postId = Astro.url.pathname.replace(/\/$/, "").split("/").pop();
-// Construct the image path for content collection images
-const imagePath = titleImage ? `/src/content/posts/${postId}/${titleImage}` : "";
+const postId = Astro.url.pathname.replace(/\/$/, "").split("/").pop() ?? "";
+// For fallback if optimized image loading fails
+const fallbackImagePath = titleImage ? `/images/posts/${postId}/${titleImage}` : "";
+
+// Dynamic image import for optimization
+let imageModule = null;
+
+if (titleImage) {
+	try {
+		// Try to load the image dynamically for optimization
+		const imgPath = path.join(process.cwd(), "src", "content", "posts", postId, titleImage);
+		if (fs.existsSync(imgPath)) {
+			// This will be processed by Astro's image optimization
+			imageModule = await import(`../content/posts/${postId}/${titleImage}`);
+		}
+	} catch (error) {
+		console.error(`Error loading image for post ${postId}:`, error);
+	}
+}
 ---
 
 <html lang="en">
@@ -176,7 +195,18 @@ const imagePath = titleImage ? `/src/content/posts/${postId}/${titleImage}` : ""
 					{
 						titleImage && (
 							<div class="hero-image">
-								<img src={imagePath} alt={title} />
+								{imageModule ? (
+									<Image
+										src={imageModule.default}
+										alt={title}
+										width={720}
+										height={420}
+										format="webp"
+										quality={80}
+									/>
+								) : (
+									<img src={fallbackImagePath} alt={title} />
+								)}
 							</div>
 						)
 					}

@@ -11,6 +11,13 @@ export default defineConfig({
 	build: {
 		assets: "assets", // Put all assets in a single directory
 	},
+	image: {
+		// Image optimization settings
+		service: {
+			entrypoint: "astro/assets/services/sharp",
+		},
+		remotePatterns: [{ protocol: "https" }],
+	},
 	vite: {
 		build: {
 			// Improve CSS performance
@@ -23,5 +30,9 @@ export default defineConfig({
 				},
 			},
 		},
+	},
+	// Add image handling configuration
+	experimental: {
+		// No unsupported properties here
 	},
 });
