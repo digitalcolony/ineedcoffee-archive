@@ -105,27 +105,27 @@ if (titleImage) {
 					color: #b0b6c6;
 				}
 			}
-
 			.author {
 				margin-top: 1em;
 			}
 
-			.prose p a {
+			/* Remove these specific link styles to use global link styling instead */
+			/* .prose p a {
 				color: rgb(var(--accent-dark, 0, 50, 150));
 				text-decoration: underline;
-			}
+			} */
 
-			/* Dark mode styling for author link */
-			:global(.dark-mode) .prose p a {
-				color: #b4bbff; /* Lighter blue for better visibility in dark mode */
-			}
+			/* Dark mode styling for article links is now handled in global.css */
+			/* :global(.dark-mode) .prose p a {
+				color: #b4bbff;
+			} */
 
-			/* System preference dark mode */
-			@media (prefers-color-scheme: dark) {
+			/* System preference dark mode also handled in global.css */
+			/* @media (prefers-color-scheme: dark) {
 				:global(:not(.light-mode):not(.dark-mode)) .prose p a {
-					color: #b4bbff; /* Lighter blue for dark mode */
+					color: #b4bbff;
 				}
-			}
+			} */
 
 			.category {
 				display: inline-block;

@@ -133,12 +133,36 @@ a {
 a:hover {
 	color: var(--accent-dark);
 }
+
+/* Dark mode link colors */
+.dark-mode a {
+	color: #94a0ff; /* Brighter blue for better visibility in dark mode */
+}
+.dark-mode a:hover {
+	color: #b4bbff; /* Even brighter blue on hover */
+}
+
+/* System preference dark mode for links */
+@media (prefers-color-scheme: dark) {
+	:root:not(.light-mode):not(.dark-mode) a {
+		color: #94a0ff; /* Brighter blue for better visibility */
+	}
+	:root:not(.light-mode):not(.dark-mode) a:hover {
+		color: #b4bbff; /* Even brighter blue on hover */
+	}
+}
 p {
 	margin-bottom: 1em;
 }
 .prose p {
 	margin-bottom: 2em;
 }
+
+/* Ensure links in article content have underlines */
+.prose a {
+	text-decoration: underline;
+}
+
 textarea {
 	width: 100%;
 	font-size: 16px;
@@ -182,6 +206,29 @@ hr {
 	}
 	main {
 		padding: 1em;
+	}
+	/* Smaller fonts for mobile */
+	h1 {
+		font-size: 2.2em;
+	}
+	h2 {
+		font-size: 1.8em;
+	}
+	h3 {
+		font-size: 1.5em;
+	}
+	h4 {
+		font-size: 1.3em;
+	}
+	h5 {
+		font-size: 1.1em;
+	}
+
+	/* Specific adjustments for article, section, and author titles */
+	article .title h1,
+	.section-header h1,
+	.author-header h1 {
+		font-size: 1.8em;
 	}
 }
 

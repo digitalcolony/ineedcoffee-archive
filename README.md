@@ -1,10 +1,10 @@
 # INeedCoffee Archive
 
-A ## 🚀 Project Structure
+## 🚀 Project Structure
 
 Inside of this Astro project, you'll see the following folders and files:
 
-````text
+```text
 ├── public/            # Static assets like images and fonts
 ├── src/
 │   ├── components/    # Reusable UI components
@@ -16,9 +16,9 @@ Inside of this Astro project, you'll see the following folders and files:
 ├── astro.config.mjs   # Astro configuration
 ├── package.json       # Project dependencies
 └── tsconfig.json      # TypeScript configuration
-```archive of coffee knowledge for enthusiasts, by enthusiasts. This site is built with Astro and houses years of coffee articles, guides, and community wisdom.
+```
 
-![INeedCoffee Logo](public/ineedcoffee-logo.jpg)
+_archive of coffee knowledge for enthusiasts, by enthusiasts. This site is built with Astro and houses years of coffee articles, guides, and community wisdom._
 
 ## About The Site
 
@@ -53,7 +53,7 @@ Inside of your Astro project, you'll see the following folders and files:
 ├── README.md
 ├── package.json
 └── tsconfig.json
-````
+```
 
 The site organizes content in two main ways:
 

@@ -1,16 +1,29 @@
 ---
 import HeaderLink from "./HeaderLink.astro";
-import { SITE_TITLE } from "../consts";
+import { SITE_TITLE, SITE_TITLE_MOBILE } from "../consts";
 ---
 
 <header>
 	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
-		<div class="internal-links">
+		<h2>
+			<a href="/" class="desktop-title">{SITE_TITLE}</a>
+			<a href="/" class="mobile-title">{SITE_TITLE_MOBILE}</a>
+		</h2>
+
+		<div class="menu-toggle">
+			<button id="hamburger-menu" aria-label="Toggle menu">
+				<span class="bar"></span>
+				<span class="bar"></span>
+				<span class="bar"></span>
+			</button>
+		</div>
+
+		<div class="internal-links" id="nav-links">
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/section">Sections</HeaderLink>
 			<HeaderLink href="/by">Authors</HeaderLink>
 		</div>
+
 		<div class="theme-toggle">
 			<button id="theme-toggle" aria-label="Toggle dark mode">
 				<svg
@@ -71,13 +84,14 @@ import { SITE_TITLE } from "../consts";
 	nav {
 		display: flex;
 		align-items: center;
+		justify-content: space-between;
+		position: relative;
 	}
 
 	.internal-links {
-		flex: 1;
 		display: flex;
-		justify-content: flex-start;
-		margin-left: 35%; /* Adds space from the left, adjust as needed */
+		justify-content: center;
+		margin-left: 2em;
 	}
 
 	nav a {
@@ -90,6 +104,56 @@ import { SITE_TITLE } from "../consts";
 	nav a.active {
 		text-decoration: none;
 		border-bottom-color: rgb(var(--accent));
+	}
+
+	.mobile-title {
+		display: none;
+	}
+
+	.desktop-title {
+		display: block;
+	}
+
+	/* Hamburger menu styles */
+	.menu-toggle {
+		display: none;
+		cursor: pointer;
+		padding: 10px;
+		z-index: 100;
+	}
+
+	.bar {
+		display: block;
+		width: 25px;
+		height: 3px;
+		margin: 5px auto;
+		background-color: var(--text-color);
+		transition:
+			transform 0.3s ease-in-out,
+			opacity 0.3s ease-in-out,
+			background-color 0.3s ease;
+	}
+
+	/* Dark mode styles for hamburger menu */
+	:global(.dark-mode) .bar {
+		background-color: #6d7bff; /* Use accent color for better visibility */
+	}
+
+	:global(.dark-mode) #hamburger-menu {
+		background-color: rgba(0, 0, 0, 0.3); /* Subtle background in dark mode */
+		border-radius: 5px;
+	}
+
+	/* System preference dark mode for hamburger */
+	@media (prefers-color-scheme: dark) {
+		:global(:not(.light-mode):not(.dark-mode)) .bar {
+			background-color: #6d7bff; /* Use accent color for better visibility */
+		}
+
+		:global(:not(.light-mode):not(.dark-mode)) #hamburger-menu {
+			background-color: rgba(0, 0, 0, 0.3); /* Subtle background in dark mode */
+			border-radius: 5px;
+		}
 	}
 
 	/* Theme toggle styles */
@@ -163,12 +227,93 @@ import { SITE_TITLE } from "../consts";
 
 	@media (max-width: 720px) {
 		.theme-toggle {
-			position: fixed;
+			position: absolute;
 			top: 0.7em;
 			right: 1em;
 			z-index: 10;
 		}
+
+		.menu-toggle {
+			display: block;
+			position: absolute;
+			top: 0.7em;
+			right: 4em;
+		}
+
+		#hamburger-menu {
+			border: none;
+			background: none;
+			cursor: pointer;
+			padding: 8px;
+			border-radius: 5px;
+		}
+
+		.internal-links {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 0;
+			background-color: var(--header-bg);
+			flex-direction: column;
+			align-items: center;
+			justify-content: flex-start;
+			overflow: hidden;
+			transition: height 0.3s ease-in-out;
+			margin-left: 0;
+			z-index: 99;
+			padding-top: 60px;
+			opacity: 0;
+			visibility: hidden;
+		}
+
+		.internal-links.show {
+			height: 100vh;
+			opacity: 1;
+			visibility: visible;
+		}
+
+		.internal-links a {
+			margin: 1em 0;
+			font-size: 1.2em;
+		}
+
+		.mobile-title {
+			display: block;
+		}
+
+		.desktop-title {
+			display: none;
+		}
+
+		/* Animate hamburger menu */
+		.menu-toggle.active .bar:nth-child(1) {
+			transform: translateY(8px) rotate(45deg);
+		}
+
+		.menu-toggle.active .bar:nth-child(2) {
+			opacity: 0;
+		}
+
+		.menu-toggle.active .bar:nth-child(3) {
+			transform: translateY(-8px) rotate(-45deg);
+		}
+
+		/* Enhanced active state in dark mode */
+		:global(.dark-mode) .menu-toggle.active #hamburger-menu {
+			background-color: rgba(0, 0, 0, 0.5);
+		}
+
+		@media (prefers-color-scheme: dark) {
+			:global(:not(.light-mode):not(.dark-mode)) .menu-toggle.active #hamburger-menu {
+				background-color: rgba(0, 0, 0, 0.5);
+			}
+		}
 	}
 </style>
 
-<script src="../scripts/theme.js"></script>
+<script>
+	// Add the existing theme script
+	import "../scripts/theme.js";
+	import "../scripts/mobile-menu.js";
+</script>
