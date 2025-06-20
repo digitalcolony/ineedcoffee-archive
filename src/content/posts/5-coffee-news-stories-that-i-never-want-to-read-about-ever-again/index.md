@@ -12,7 +12,7 @@ updatedAt: "2025-03-22T09:41:06"
 wordpressId: 573
 ---
 
-Time for a little rant. People have been sending me links to coffee news stories for as long as I can remember. They know me as the publisher of *INeedCoffee*, and they believe they’ve stumbled upon some coffee news item that has escaped my radar. Most of the time, I’m not only aware of the news item, but it is something I could care less about.
+Time for a little rant. People have been sending me links to coffee news stories for as long as I can remember. They know me as the publisher of _INeedCoffee_, and they believe they’ve stumbled upon some coffee news item that has escaped my radar. Most of the time, I’m not only aware of the news item, but it is something I couldn't care less about.
 
 For this article, I’ve decided to list the five coffee news stories that I will NEVER read about again. Here they are.
 
@@ -35,11 +35,11 @@ At the time of this writing, the Starbucks Corporation is worth $40 Billion (USD
 Several people have sent me the latest Starbucks “news” story about some $7 cup of coffee. Boring. In 2008, independent coffee shops charged between [$9 and $15 for a cup of Panama Esmeralda](/the-2-best-cups-of-coffee-ive-ever-had/). Yeah, that is where independent coffee was four years ago. They sought the highest quality micro-lots and paid top dollar for those beans. Only for them, it wasn’t a marketing gimmick. Their mission was to push the envelope in terms of coffee quality, which they continue to do.
 
 ![Trabant Clover board](clover-coffee-board1.jpg)  
-*My first Clover Coffee was at Seattle’s Trabant Coffee in May 2007. This was a full year before Starbucks purchased the company and even longer before they began deploying them into stores.*
+_My first Clover Coffee was at Seattle’s Trabant Coffee in May 2007. This was a full year before Starbucks purchased the company and even longer before they began deploying them into stores._
 
 Please don’t send me any news items related to Starbucks\*. When I look back at my coffee education, I consider them to be middle school at best. INeedCoffee exists to empower coffee drinkers to make better coffee at home. Tutorials on this site will teach you how to [brew](/section/brewing-coffee/) and [roast](/section/roasting-coffee/) coffee, which is superior to anything Starbucks can do.
 
-*\* This also extends to Tully’s, Dunkin Donuts, Mcdonald’s, or any other publicly traded corporation that sells coffee.*
+_\* This also extends to Tully’s, Dunkin Donuts, Mcdonald’s, or any other publicly traded corporation that sells coffee._
 
 ### #4 Automated Single Coffee Brewers
 
