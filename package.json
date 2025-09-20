@@ -10,7 +10,7 @@
     "dev": "astro dev",
     "copy-images": "node scripts/copy-images.js",
     "fix-llms-links": "node scripts/fix-llms-links.js",
-    "build": "npm run copy-images && npm run fix-llms-links && astro build",
+    "build": "npm run copy-images && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
