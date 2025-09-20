@@ -1,0 +1,1 @@
+## About I Need Coffee --- INeedCoffee was a project started by coffee fanatic Michael Allen Smith. The website launched on April 4th, 1999, and is based in Seattle, Washington. It was archived in May 2025. This site hosts many tutorials related to coffee brewing and home coffee roasting.

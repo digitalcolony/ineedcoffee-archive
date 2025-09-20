@@ -1,0 +1,1 @@
+# Christopher Schaefer Chris Schaefer is a product development engineer for the West Bend Company. - [<h2>A New Tradition : Chocolate Coffee Cake</h2>August 22, 1999](https://ineedcoffee.com/a-new-tradition-chocolate-coffee-cake/) - [<h2>Cupping: The Elements of Quality Coffee</h2>July 14, 1999](https://ineedcoffee.com/cupping-the-elements-of-quality-coffee/)

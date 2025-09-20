@@ -1,0 +1,1 @@
+# Bad Bob To learn more about Bob Therrien, please read INeedCoffee's [Bad Bob Interview](http://ineedcoffee.com/bad-bob-interview/). [Website](https://sites.google.com/site/bobjtherrien/home)- [<h2>The Caffeine</h2>August 11, 2011](https://ineedcoffee.com/the-caffeine/)

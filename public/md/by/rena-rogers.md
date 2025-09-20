@@ -1,0 +1,1 @@
+# Rena Rogers Rena Rogers is a writer and former coffee house owner. - [<h2>Java’s First Time Alone</h2>July 8, 1999](https://ineedcoffee.com/javas-first-time-alone/) - [<h2>My Name Is Java</h2>July 8, 1999](https://ineedcoffee.com/my-name-is-java/)

@@ -1,0 +1,1 @@
+# Margaret Wallauer Margaret Wallauer passed away in November 2017. She was a watercolor artist who enjoyed the warmth of her morning cup of coffee. - [<h2>Coffee Tasseography – Fortune Telling with Coffee</h2>February 14, 2001](https://ineedcoffee.com/coffee-tasseography-fortune-telling-with-coffee/)

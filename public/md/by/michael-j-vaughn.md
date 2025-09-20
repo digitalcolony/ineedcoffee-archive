@@ -1,0 +1,1 @@
+# Michael J Vaughn Michael is the author of "Painting Tacoma," a novel from Dead End Street, LLC (deadendstreet.com). His poetry has appeared in more than forty literary journals, and he is the fiction editor of The Montserrat Review. He lives in Tacoma, Washington. - [<h2>The Perfect Latte</h2>December 16, 2003](https://ineedcoffee.com/the-perfect-latte/)

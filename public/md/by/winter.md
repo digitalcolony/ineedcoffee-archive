@@ -1,0 +1,1 @@
+# Winter Winter is the person behind Starbucks Everywhere, a web site dedicated to chronicle his lifelong quest to drink coffee from every Starbucks in the world. [X/Twitter](https://x.com/winterene)- [<h2>Seeing the World One Starbucks at a Time</h2>May 1, 2007](https://ineedcoffee.com/seeing-the-world-one-starbucks-at-a-time/)

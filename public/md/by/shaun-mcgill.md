@@ -1,0 +1,1 @@
+# Shaun McGill Shaun McGill lives in the UK and is the proud father of 2 wonderful children. He works for BT Wholesale as a specialist team manager in Gatwick, West Sussex. - [<h2>INeedCappuccinoWhereverIAm</h2>November 1, 2005](https://ineedcoffee.com/ineedcappuccinowhereveriam/)

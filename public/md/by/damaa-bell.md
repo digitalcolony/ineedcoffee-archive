@@ -1,0 +1,1 @@
+# Damaa Bell Damaa Bell is an emerging writer who resides in Harlem, New York. She is an educator by day and and an aficionado of all things related to the arts at night. [Facebook](https://www.facebook.com/uptownflavor)- [<h2>I Love Coffee</h2>April 1, 2006](https://ineedcoffee.com/i-love-coffee/)
