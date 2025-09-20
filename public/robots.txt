@@ -1,12 +1,16 @@
 # robots.txt for https://ineedcoffee.com/
 
-User-Agent: *
-Disallow: 
-
-User-agent: Mozilla/5.0 (compatible;contxbot/1.0)
-Disallow:
+User-agent: *
+Allow: /
+Allow: /md/
 
 Disallow: /wp-admin/
 Disallow: /wp-includes/
 
+# LLM-friendly content discovery
 Sitemap: https://ineedcoffee.com/sitemap_index.xml
+LLMs: https://ineedcoffee.com/llms.txt
+LLMs-full: https://ineedcoffee.com/llms-full.txt
+
+# Individual articles available at:
+# https://ineedcoffee.com/md/[article-name].md

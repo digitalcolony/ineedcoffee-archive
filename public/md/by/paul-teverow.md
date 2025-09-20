@@ -1,0 +1,1 @@
+# Paul Teverow Paul is a Professor of History at Missouri Southern State University Joplin. - [<h2>Before There Was Tea, There Was Coffee</h2>January 28, 2014](https://ineedcoffee.com/before-there-was-tea-there-was-coffee/)

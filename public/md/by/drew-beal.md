@@ -1,0 +1,1 @@
+# Drew Beal Drew Beal is the Chief Environmental Optimist for Kill The Cup. [X/Twitter](https://x.com/killthecup) [Facebook](https://www.facebook.com/killthecup)- [<h2>Daily Coffee Drinker? 3 Ways to “Green” Your Routine</h2>April 17, 2015](https://ineedcoffee.com/daily-coffee-drinker-3-ways-to-green-your-routine/)

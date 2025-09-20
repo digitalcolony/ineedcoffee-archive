@@ -1,0 +1,1 @@
+# Steve Gaythorpe Steve Gaythorpe is the senior copywriter of advertising agency based in Glasgow, Scotland. As well as Single Malt Scotch Whisky and coffee his favourite drink is nettle tea, which is good for hayfever sufferers. [X/Twitter](https://x.com/stevengaythorpe)- [<h2>Scotch Coffee</h2>July 9, 2000](https://ineedcoffee.com/scotch-coffee/)

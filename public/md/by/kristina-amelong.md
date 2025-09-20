@@ -1,0 +1,1 @@
+# Kristina Amelong Kristina Amelong is an Internationally Certified Colon Hydrotherapist with Optimal Health Network. She is the author of Ten Days to Optimal Health. [Facebook](https://www.facebook.com/optimalhealthnetwork/)- [<h2>Coffee Enema Benefits vs Dangers</h2>January 5, 2011](https://ineedcoffee.com/coffee-enema-benefits-vs-dangers/)

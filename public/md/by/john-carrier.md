@@ -1,0 +1,1 @@
+# John Carrier - [<h2>Coffee Price Economics</h2>February 19, 2013](https://ineedcoffee.com/coffee-price-economics/) - [<h2>Coffee Cupping – A Sensory Experience</h2>July 27, 2012](https://ineedcoffee.com/coffee-cupping-a-sensory-experience/) - [<h2>Economic Benefits of Home Roasting</h2>March 1, 2007](https://ineedcoffee.com/economic-benefits-of-home-roasting/)

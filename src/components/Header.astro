@@ -92,6 +92,8 @@ import { SITE_TITLE, SITE_TITLE_MOBILE } from "../consts";
 		display: flex;
 		justify-content: center;
 		margin-left: 2em;
+		/* Responsive spacing between links */
+		gap: clamp(0.5rem, 2vw, 1.25rem);
 	}
 
 	nav a {
@@ -265,6 +267,8 @@ import { SITE_TITLE, SITE_TITLE_MOBILE } from "../consts";
 			padding-top: 60px;
 			opacity: 0;
 			visibility: hidden;
+			/* Vertical spacing between stacked links */
+			gap: 0.75rem;
 		}
 
 		.internal-links.show {
@@ -274,7 +278,9 @@ import { SITE_TITLE, SITE_TITLE_MOBILE } from "../consts";
 		}
 
 		.internal-links a {
-			margin: 1em 0;
+			/* Use gap for spacing; keep generous tap targets */
+			margin: 0;
+			padding: 0.75em 0;
 			font-size: 1.2em;
 		}
 
@@ -308,6 +314,13 @@ import { SITE_TITLE, SITE_TITLE_MOBILE } from "../consts";
 			:global(:not(.light-mode):not(.dark-mode)) .menu-toggle.active #hamburger-menu {
 				background-color: rgba(0, 0, 0, 0.5);
 			}
+		}
+	}
+
+	/* Wider screens: open up spacing slightly */
+	@media (min-width: 1024px) {
+		.internal-links {
+			gap: clamp(0.75rem, 1.5vw, 1.5rem);
 		}
 	}
 </style>

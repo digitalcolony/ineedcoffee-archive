@@ -1,0 +1,1 @@
+# Bill Giduz Bill Giduz is the staff newswriter and photographer at Davidson College, and takes his morning coffee sweetened and creamed with Half-and-Half. [Facebook](https://www.facebook.com/bigiduz)- [<h2>Mike Griffin Knows His Beans</h2>January 8, 2000](https://ineedcoffee.com/mike-griffin-knows-his-beans/)

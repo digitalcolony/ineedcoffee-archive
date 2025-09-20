@@ -1,0 +1,1 @@
+# Maxwell Miller Maxwell Miller is the founder of Gourmet Coffee Supplier. A computer engineering student at University of Michigan, Max can usually be found at his computer, a cup of coffee in hand. - [<h2>General Guide to Buying Coffee</h2>June 1, 2005](https://ineedcoffee.com/general-guide-to-buying-coffee/)

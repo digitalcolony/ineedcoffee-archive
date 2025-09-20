@@ -1,0 +1,1 @@
+# Barbara Stec - [<h2>The Mighty Bean Gets Ground Down</h2>February 13, 2010](https://ineedcoffee.com/the-mighty-bean-gets-ground-down/)

@@ -1,0 +1,1 @@
+# Rama R A software engineer by trade, and a homebrewer of beer and wine, as well as espresso. I find the challenge of making the perfect cup very rewarding. - [<h2>Poppery Hopper Modification</h2>May 1, 2006](https://ineedcoffee.com/poppery-hopper-modification/)

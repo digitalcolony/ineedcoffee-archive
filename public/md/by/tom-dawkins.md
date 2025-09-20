@@ -1,0 +1,1 @@
+# Tom Dawkins - [<h2>Simplified Cold Brewing Method</h2>December 1, 2006](https://ineedcoffee.com/simplified-cold-brewing-method/)

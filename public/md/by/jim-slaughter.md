@@ -1,0 +1,1 @@
+# Jim Slaughter Jim Slaughter is a home roaster as well as an aficionado of Irish Coffee. - [<h2>The Best Irish Coffee in the World</h2>March 17, 2015](https://ineedcoffee.com/the-best-irish-coffee-in-the-world/)
